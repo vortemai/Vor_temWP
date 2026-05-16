@@ -260,6 +260,7 @@ per their privacy policy.
 
   - Online Documentation: https://vortem.ai/en/docs
   - Support Portal: https://vortem.ai/en/support
+  - Source Code (Open Source): https://github.com/vortemai/Vor_temWP
 
 == External services ==
 
@@ -917,6 +918,10 @@ Libraries Used" above.
 == Developer Information ==
 
 Support: https://vortem.ai/en/support Documentation: https://vortem.ai/en/docs
+Source Code: https://github.com/vortemai/Vor_temWP (GPLv2 or later)
+
+This plugin is open source. Contributions, bug reports, and pull requests are
+welcome on GitHub.
 
 Filters Available:
 

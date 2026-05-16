@@ -21,3 +21,4 @@ bin/
 .superpowers/
 
 build-mo.sh
+build-zip.sh

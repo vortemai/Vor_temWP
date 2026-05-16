@@ -12,3 +12,8 @@ composer.lock       export-ignore
 *.eml               export-ignore
 CLAUDE.md           export-ignore
 .claude/            export-ignore
+build-zip.sh        export-ignore
+docs/               export-ignore
+.env.deploy         export-ignore
+.superpowers/       export-ignore
+build-mo.sh         export-ignore
