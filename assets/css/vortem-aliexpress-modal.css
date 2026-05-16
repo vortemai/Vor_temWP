@@ -1,0 +1,109 @@
+/**
+ * AliExpress Modal Styles
+ *
+ * Inline styles moved to external CSS file for WordPress best practices.
+ *
+ * @package VortemAI
+ * @since 1.0.5
+ */
+
+.vortem-aliexpress-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 100000;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+.vortem-aliexpress-modal-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.vortem-aliexpress-modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    min-width: 400px;
+    max-width: 500px;
+    max-height: 90vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.vortem-aliexpress-modal-header {
+    padding: 20px 24px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.vortem-aliexpress-modal-header h3 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+    color: #1d2327;
+}
+
+.vortem-aliexpress-modal-close {
+    background: none;
+    border: none;
+    font-size: 28px;
+    line-height: 1;
+    color: #787c82;
+    cursor: pointer;
+    padding: 0;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vortem-aliexpress-modal-close:hover {
+    color: #1d2327;
+}
+
+.vortem-aliexpress-modal-body {
+    padding: 24px;
+    flex: 1;
+    overflow-y: auto;
+}
+
+.vortem-aliexpress-modal-body p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #1d2327;
+}
+
+.vortem-aliexpress-modal-footer {
+    padding: 16px 24px;
+    border-top: 1px solid #ddd;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+}
+
+.vortem-aliexpress-modal-footer .button {
+    margin: 0;
+}
+
+.vortem-aliexpress-modal-footer > div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

@@ -1,0 +1,1312 @@
+/**
+ * Vortem Navigation Sidebar Styles
+ * Collapsible sidebar that slides in from the right (or left for RTL)
+ * Toggle button fixed in corner with arrow icon
+ */
+
+/* Wrapper */
+.vortem-nav-sidebar-wrapper {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 100000;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+/* RTL Support - Position on left for RTL */
+.vortem-nav-sidebar-wrapper[dir="rtl"] {
+  right: auto;
+  left: 0;
+}
+
+/* Toggle Button - Fixed in corner */
+.vortem-nav-sidebar-toggle {
+  position: fixed;
+  bottom: 32px;
+  right: 20px;
+  left: auto;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  background-color: #044466;
+  color: #ffffff;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  z-index: 100001;
+  line-height: 1;
+}
+
+/* Core LTR + plugin RTL: offset from left admin menu */
+body:not(.rtl) .vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-toggle {
+  right: auto;
+  left: 180px; /* Approximate width of left admin menu + padding */
+}
+
+/* Core RTL + plugin RTL: move toggle to bottom-left, away from right admin menu */
+body.rtl .vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-toggle {
+  right: auto;
+  left: 20px;
+}
+
+/* Core RTL + plugin LTR: offset from right admin menu into plugin content */
+body.rtl .vortem-nav-sidebar-wrapper[dir="ltr"] .vortem-nav-sidebar-toggle {
+  right: 180px; /* Approximate width of right admin menu + padding */
+  left: auto;
+}
+
+.vortem-nav-sidebar-toggle:hover {
+  background: #135e96;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+  transform: scale(1.05);
+}
+
+.vortem-nav-sidebar-toggle:focus {
+  outline: 2px solid #2271b1;
+  outline-offset: 2px;
+}
+
+.vortem-nav-sidebar-toggle[aria-expanded="true"] {
+  background: #135e96;
+}
+
+.vortem-nav-sidebar-toggle .dashicons {
+  font-size: 24px;
+  width: 24px;
+  height: 24px;
+  line-height: 1;
+  transition: transform 0.3s ease;
+}
+
+/* Rotate arrow when sidebar is open */
+.vortem-nav-sidebar-toggle[aria-expanded="true"] .dashicons {
+  transform: rotate(180deg);
+}
+
+/* ========== Global Voice Assistant Button - 3D Living Design ========== */
+.vortem-global-voice-btn {
+  position: fixed;
+  bottom: 90px;
+  right: 20px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  background: linear-gradient(135deg, #00d4ff 0%, #044466 25%, #4FD1C5 50%, #38B2AC 75%, #044466 100%);
+  background-size: 300% 300%;
+  animation: globalVoiceGradient 8s ease infinite, globalVoiceBreathe 3s ease-in-out infinite;
+  color: #ffffff;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 
+    0 8px 25px rgba(0, 174, 239, 0.5),
+    0 4px 10px rgba(0, 174, 239, 0.3),
+    inset 0 2px 4px rgba(255, 255, 255, 0.4),
+    inset 0 -2px 4px rgba(0, 0, 0, 0.1),
+    inset 0 0 0 2px rgba(255, 255, 255, 0.15);
+  transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  z-index: 100001;
+  overflow: visible;
+  transform-style: preserve-3d;
+  perspective: 500px;
+}
+
+/* Outer glow ring */
+.vortem-global-voice-btn::before {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #00d4ff, #4FD1C5, #044466, #38B2AC);
+  background-size: 300% 300%;
+  animation: globalVoiceGradient 8s ease infinite;
+  opacity: 0.4;
+  z-index: -1;
+  filter: blur(8px);
+  transition: opacity 0.3s ease, filter 0.3s ease;
+}
+
+/* Inner shine effect */
+.vortem-global-voice-btn::after {
+  content: '';
+  position: absolute;
+  top: 4px;
+  left: 10%;
+  width: 80%;
+  height: 35%;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 50% 50% 40% 40%;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.vortem-global-voice-btn:hover {
+  transform: translateY(-4px) scale(1.08) rotateX(5deg);
+  box-shadow: 
+    0 15px 40px rgba(0, 174, 239, 0.6),
+    0 8px 20px rgba(79, 209, 197, 0.4),
+    inset 0 2px 4px rgba(255, 255, 255, 0.5),
+    inset 0 -2px 4px rgba(0, 0, 0, 0.1),
+    inset 0 0 0 2px rgba(255, 255, 255, 0.2);
+}
+
+.vortem-global-voice-btn:hover::before {
+  opacity: 0.6;
+  filter: blur(12px);
+}
+
+.vortem-global-voice-btn:active {
+  transform: translateY(0) scale(0.98);
+  box-shadow: 
+    0 4px 15px rgba(0, 174, 239, 0.4),
+    inset 0 2px 4px rgba(255, 255, 255, 0.3),
+    inset 0 -2px 4px rgba(0, 0, 0, 0.15);
+}
+
+.vortem-global-voice-btn:focus {
+  outline: none;
+  box-shadow: 
+    0 0 0 4px rgba(0, 174, 239, 0.3),
+    0 8px 25px rgba(0, 174, 239, 0.5),
+    inset 0 2px 4px rgba(255, 255, 255, 0.4);
+}
+
+.vortem-global-voice-btn .vortem-global-voice-icon {
+  width: 26px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3;
+  animation: globalVoiceIconFloat 4s ease-in-out infinite;
+}
+
+.vortem-global-voice-btn .vortem-global-voice-icon svg {
+  width: 100%;
+  height: 100%;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+  transition: transform 0.3s ease;
+}
+
+.vortem-global-voice-btn:hover .vortem-global-voice-icon svg {
+  transform: scale(1.1);
+}
+
+/* ===== Recording State - Red Spectrum ===== */
+.vortem-global-voice-btn.recording {
+  background: linear-gradient(135deg, #ff6b6b 0%, #ee5a5a 25%, #dc3232 50%, #c02c2c 75%, #ff6b6b 100%);
+  background-size: 300% 300%;
+  animation: globalVoiceGradient 3s ease infinite, globalVoiceRecordingPulse 1s ease-in-out infinite;
+  box-shadow: 
+    0 8px 30px rgba(220, 50, 50, 0.6),
+    0 4px 15px rgba(220, 50, 50, 0.4),
+    inset 0 2px 4px rgba(255, 255, 255, 0.3),
+    inset 0 0 0 2px rgba(255, 255, 255, 0.15);
+}
+
+.vortem-global-voice-btn.recording::before {
+  background: linear-gradient(135deg, #ff6b6b, #dc3232, #ee5a5a, #c02c2c);
+  background-size: 300% 300%;
+  animation: globalVoiceGradient 3s ease infinite;
+  opacity: 0.5;
+}
+
+.vortem-global-voice-btn.recording .vortem-global-voice-icon {
+  animation: globalVoiceRecordingBounce 0.6s ease-in-out infinite;
+}
+
+/* ===== Processing State - Purple/Blue Spectrum ===== */
+.vortem-global-voice-btn.processing {
+  background: linear-gradient(135deg, #a855f7 0%, #8b5cf6 25%, #7c3aed 50%, #6366f1 75%, #a855f7 100%);
+  background-size: 300% 300%;
+  animation: globalVoiceGradient 2s ease infinite, globalVoiceBreathe 2s ease-in-out infinite;
+  box-shadow: 
+    0 8px 30px rgba(139, 92, 246, 0.6),
+    0 4px 15px rgba(139, 92, 246, 0.4),
+    inset 0 2px 4px rgba(255, 255, 255, 0.3),
+    inset 0 0 0 2px rgba(255, 255, 255, 0.15);
+}
+
+.vortem-global-voice-btn.processing::before {
+  background: linear-gradient(135deg, #a855f7, #8b5cf6, #7c3aed, #6366f1);
+  background-size: 300% 300%;
+  animation: globalVoiceGradient 2s ease infinite;
+  opacity: 0.5;
+}
+
+.vortem-global-voice-btn.processing .vortem-global-voice-icon {
+  animation: globalVoiceProcessingWave 1.5s ease-in-out infinite;
+}
+
+/* ===== Ready/Success State - Green Spectrum ===== */
+.vortem-global-voice-btn.ready {
+  background: linear-gradient(135deg, #34d399 0%, #10b981 25%, #059669 50%, #047857 75%, #34d399 100%);
+  background-size: 300% 300%;
+  animation: globalVoiceGradient 4s ease infinite, globalVoiceSuccessPop 0.5s ease-out;
+  box-shadow: 
+    0 8px 30px rgba(16, 185, 129, 0.6),
+    0 4px 15px rgba(16, 185, 129, 0.4),
+    inset 0 2px 4px rgba(255, 255, 255, 0.3),
+    inset 0 0 0 2px rgba(255, 255, 255, 0.15);
+}
+
+.vortem-global-voice-btn.ready::before {
+  background: linear-gradient(135deg, #34d399, #10b981, #059669, #047857);
+  background-size: 300% 300%;
+  animation: globalVoiceGradient 4s ease infinite;
+  opacity: 0.5;
+}
+
+/* ===== Disabled State ===== */
+.vortem-global-voice-btn.disabled {
+  background: linear-gradient(135deg, #94a3b8 0%, #64748b 50%, #94a3b8 100%);
+  background-size: 200% 200%;
+  animation: none;
+  box-shadow: 
+    0 4px 10px rgba(0, 0, 0, 0.15),
+    inset 0 1px 2px rgba(255, 255, 255, 0.2);
+  cursor: not-allowed;
+  opacity: 0.8;
+}
+
+.vortem-global-voice-btn.disabled::before {
+  display: none;
+}
+
+.vortem-global-voice-btn.disabled:hover {
+  transform: none;
+  box-shadow: 
+    0 4px 10px rgba(0, 0, 0, 0.15),
+    inset 0 1px 2px rgba(255, 255, 255, 0.2);
+}
+
+.vortem-global-voice-btn.disabled .vortem-global-voice-icon {
+  animation: none;
+  opacity: 0.6;
+}
+
+/* RTL Support */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-global-voice-btn {
+  right: auto;
+  left: 180px;
+}
+
+body.folded .vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-global-voice-btn {
+  left: 56px;
+}
+
+/* ===== Animations ===== */
+
+/* Gradient flow animation */
+@keyframes globalVoiceGradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Breathing/pulsing animation */
+@keyframes globalVoiceBreathe {
+  0%, 100% { 
+    transform: scale(1);
+  }
+  50% { 
+    transform: scale(1.03);
+  }
+}
+
+/* Icon floating animation */
+@keyframes globalVoiceIconFloat {
+  0%, 100% { 
+    transform: translateY(0);
+  }
+  50% { 
+    transform: translateY(-2px);
+  }
+}
+
+/* Recording pulse animation */
+@keyframes globalVoiceRecordingPulse {
+  0%, 100% { 
+    transform: scale(1);
+    box-shadow: 
+      0 8px 30px rgba(220, 50, 50, 0.6),
+      0 4px 15px rgba(220, 50, 50, 0.4),
+      inset 0 2px 4px rgba(255, 255, 255, 0.3),
+      inset 0 0 0 2px rgba(255, 255, 255, 0.15);
+  }
+  50% { 
+    transform: scale(1.08);
+    box-shadow: 
+      0 12px 40px rgba(220, 50, 50, 0.7),
+      0 6px 20px rgba(220, 50, 50, 0.5),
+      inset 0 2px 4px rgba(255, 255, 255, 0.4),
+      inset 0 0 0 2px rgba(255, 255, 255, 0.2);
+  }
+}
+
+/* Recording bounce animation */
+@keyframes globalVoiceRecordingBounce {
+  0%, 100% { 
+    transform: translateY(0) scale(1);
+  }
+  25% { 
+    transform: translateY(-3px) scale(1.05);
+  }
+  50% { 
+    transform: translateY(0) scale(1);
+  }
+  75% { 
+    transform: translateY(-2px) scale(1.03);
+  }
+}
+
+/* Processing wave animation */
+@keyframes globalVoiceProcessingWave {
+  0%, 100% { 
+    transform: scale(1) rotate(0deg);
+  }
+  25% { 
+    transform: scale(1.1) rotate(3deg);
+  }
+  50% { 
+    transform: scale(1) rotate(0deg);
+  }
+  75% { 
+    transform: scale(1.1) rotate(-3deg);
+  }
+}
+
+/* Success pop animation */
+@keyframes globalVoiceSuccessPop {
+  0% { 
+    transform: scale(0.8);
+    opacity: 0.5;
+  }
+  50% { 
+    transform: scale(1.15);
+  }
+  100% { 
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* Sidebar Overlay */
+.vortem-nav-sidebar-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  z-index: 100002;
+  backdrop-filter: blur(2px);
+}
+
+.vortem-nav-sidebar-overlay.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Sidebar */
+.vortem-nav-sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 320px;
+  max-width: 85vw;
+  height: 100vh;
+  background: #ffffff;
+  box-shadow: -2px 0 12px rgba(0, 0, 0, 0.15);
+  transform: translateX(100%);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 100003;
+  display: flex;
+  flex-direction: column;
+  overflow: visible;
+}
+
+/* RTL Support - Sidebar slides from left */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar {
+  right: auto;
+  left: 0;
+  box-shadow: 2px 0 12px rgba(0, 0, 0, 0.15);
+  transform: translateX(-100%);
+}
+
+/* Sidebar - Open state */
+.vortem-nav-sidebar.active {
+  transform: translateX(0);
+}
+
+/* RTL Support - Open state */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar.active {
+  transform: translateX(0);
+}
+
+/* Sidebar Header */
+.vortem-nav-sidebar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  border-bottom: 1px solid #e8e8e8;
+  background: linear-gradient(135deg, #044466 0%, #0099d6 100%);
+  color: #ffffff;
+}
+
+/* Header Actions Container */
+.vortem-nav-sidebar-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 5px;
+}
+
+.vortem-nav-sidebar-title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+/* Close Button */
+.vortem-nav-sidebar-close {
+  position: absolute;
+  bottom: 16px;
+  left: 16px;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  background: #044466;
+  color: #ffffff;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  line-height: 1;
+  z-index: 10;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.vortem-nav-sidebar-close:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.vortem-nav-sidebar-close:focus {
+  outline: 2px solid rgba(4, 68, 102, 0.5);
+  outline-offset: 2px;
+}
+
+.vortem-nav-sidebar-close .dashicons {
+  font-size: 18px;
+  width: 18px;
+  height: 18px;
+  line-height: 1;
+  margin: 0;
+}
+
+/* RTL Support - Close Button */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-close {
+  left: auto;
+  right: 16px;
+}
+
+/* Currency Switcher */
+.vortem-nav-currency-switcher {
+  position: relative;
+}
+
+/* Currency Button */
+.vortem-nav-currency-button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  background: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  line-height: 1;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.vortem-nav-currency-button:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.vortem-nav-currency-button:focus {
+  outline: 2px solid rgba(255, 255, 255, 0.5);
+  outline-offset: 2px;
+}
+
+.vortem-nav-currency-button.loading {
+  opacity: 0.7;
+  cursor: wait;
+}
+
+.vortem-nav-currency-button .dashicons {
+  font-size: 16px;
+  width: 16px;
+  height: 16px;
+  line-height: 1;
+}
+
+.vortem-nav-currency-code {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+/* Currency Dropdown */
+.vortem-nav-currency-dropdown {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  min-width: 220px;
+  max-height: 400px;
+  background: #ffffff;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: opacity 0.2s ease, visibility 0.2s ease, transform 0.2s ease;
+  z-index: 100004;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* RTL Support - Dropdown on left for RTL */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-currency-dropdown {
+  right: auto;
+  left: 0;
+}
+
+.vortem-nav-currency-dropdown.active {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.vortem-nav-currency-loading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 20px;
+  color: #646970;
+  font-size: 14px;
+}
+
+.vortem-nav-currency-loading.hidden {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+}
+
+.vortem-nav-currency-loading .spinner {
+  float: none;
+  margin: 0;
+}
+
+/* Currency Search Box */
+.vortem-nav-currency-search-wrapper {
+  position: relative;
+  padding: 12px;
+  border-bottom: 1px solid #f0f0f1;
+  background: #ffffff;
+}
+
+.vortem-nav-currency-search-wrapper .dashicons-search {
+  position: absolute;
+  left: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #646970;
+  font-size: 18px;
+  width: 18px;
+  height: 18px;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* RTL Support for search icon */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-currency-search-wrapper .dashicons-search {
+  left: auto;
+  right: 20px;
+}
+
+.vortem-nav-currency-search-input {
+  width: 100%;
+  padding: 8px 12px 8px 40px !important;
+  border: 1px solid #8c8f94;
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #2c3338;
+  background: #ffffff;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+/* RTL Support for search input */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-currency-search-input {
+  padding: 8px 30px 8px 12px !important;
+}
+
+.vortem-nav-currency-search-input:focus {
+  outline: none;
+  border-color: #0073aa;
+  box-shadow: 0 0 0 1px #0073aa;
+}
+
+.vortem-nav-currency-search-input::placeholder {
+  color: #8c8f94;
+}
+
+.vortem-nav-currency-list {
+  display: block;
+  max-height: 300px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.vortem-nav-currency-list:empty {
+  display: none;
+}
+
+.vortem-nav-currency-list:not(:empty) {
+  display: block !important;
+  visibility: visible !important;
+}
+
+/* Hidden currency option when searching */
+.vortem-nav-currency-option.hidden {
+  display: none !important;
+}
+
+/* Currency Option */
+.vortem-nav-currency-option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 12px 16px;
+  background: transparent;
+  color: #2c3338;
+  border: none;
+  border-bottom: 1px solid #f0f0f1;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+  text-align: left;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* RTL Support - Text alignment for RTL */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-currency-option {
+  text-align: right;
+}
+
+.vortem-nav-currency-option:last-child {
+  border-bottom: none;
+}
+
+.vortem-nav-currency-option:hover {
+  background-color: #f0f6fc;
+}
+
+.vortem-nav-currency-option.active {
+  background-color: #e6f2fa;
+  color: #007acc;
+  font-weight: 500;
+}
+
+.vortem-nav-currency-option.loading {
+  opacity: 0.7;
+  cursor: wait;
+}
+
+.vortem-nav-currency-option .vortem-nav-currency-name {
+  flex: 1;
+  margin-right: 8px;
+}
+
+/* RTL Support - Margin adjustment for RTL */
+.vortem-nav-sidebar-wrapper[dir="rtl"]
+  .vortem-nav-currency-option
+  .vortem-nav-currency-name {
+  margin-right: 0;
+  margin-left: 8px;
+}
+
+.vortem-nav-currency-option .vortem-nav-currency-code-small {
+  font-size: 14px;
+  color: #000000;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  margin-right: 8px;
+}
+
+/* RTL Support - Margin adjustment for RTL */
+.vortem-nav-sidebar-wrapper[dir="rtl"]
+  .vortem-nav-currency-option
+  .vortem-nav-currency-code-small {
+  margin-right: 0;
+  margin-left: 8px;
+}
+
+.vortem-nav-currency-option.active .vortem-nav-currency-code-small {
+  color: #007acc;
+}
+
+.vortem-nav-currency-option .dashicons-yes {
+  font-size: 18px;
+  width: 18px;
+  height: 18px;
+  line-height: 1;
+  color: #007acc;
+}
+
+/* Currency Flag Styles */
+.vortem-nav-currency-flag {
+  display: inline-block;
+  line-height: 1;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
+/* RTL Support - Margin adjustment for RTL */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-currency-flag {
+  margin-right: 0;
+  margin-left: 6px;
+}
+
+/* SVG Flag Styles */
+.vortem-nav-currency-flag-svg {
+  width: 20px;
+  height: 15px;
+  min-width: 20px;
+  min-height: 15px;
+  max-width: 20px;
+  max-height: 15px;
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 2px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.vortem-nav-currency-flag-svg svg {
+  width: 100%;
+  height: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+/* Sidebar List */
+.vortem-nav-sidebar-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  flex: 1;
+}
+
+/* Sidebar Item */
+.vortem-nav-sidebar-item {
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #f0f0f1;
+}
+
+/* Sidebar Item with Children */
+.vortem-nav-sidebar-item-has-children {
+  position: relative;
+}
+
+.vortem-nav-sidebar-item-has-children.expanded .vortem-nav-sidebar-submenu {
+  display: block;
+}
+
+.vortem-nav-sidebar-item-has-children.expanded .vortem-nav-sidebar-toggle-icon {
+  transform: rotate(180deg);
+}
+
+/* Sidebar Link */
+.vortem-nav-sidebar-link {
+  display: block;
+  padding: 16px 20px;
+  color: #2c3338;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 1.5;
+  transition: background-color 0.15s ease, color 0.15s ease,
+    padding-left 0.15s ease;
+  border-left: 4px solid transparent;
+}
+
+/* Parent Link with Toggle */
+.vortem-nav-sidebar-link-parent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.vortem-nav-sidebar-link-text {
+  flex: 1;
+}
+
+.vortem-nav-sidebar-toggle-icon {
+  font-size: 18px;
+  width: 18px;
+  height: 18px;
+  line-height: 1;
+  transition: transform 0.3s ease;
+  color: #646970;
+  margin-left: 8px;
+}
+
+/* RTL Support - Margin adjustment for RTL */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-toggle-icon {
+  margin-left: 0;
+  margin-right: 8px;
+}
+
+/* Submenu */
+.vortem-nav-sidebar-submenu {
+  display: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  border-top: 1px solid #e8e8e8;
+}
+
+.vortem-nav-sidebar-submenu-item {
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.vortem-nav-sidebar-submenu-item:last-child {
+  border-bottom: none;
+}
+
+/* Child Link */
+.vortem-nav-sidebar-link-child {
+  padding-left: 40px;
+  font-size: 14px;
+  color: #646970;
+}
+
+/* RTL Support - Padding adjustment for RTL */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-link-child {
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.vortem-nav-sidebar-link-child:hover {
+  background-color: #f0f6fc;
+  color: #2271b1;
+  padding-left: 44px;
+}
+
+/* RTL Support - Padding adjustment for RTL on hover */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-link-child:hover {
+  padding-left: 20px;
+  padding-right: 44px;
+}
+
+.vortem-nav-sidebar-submenu-item.current .vortem-nav-sidebar-link-child {
+  background-color: #e6f2fa;
+  color: #2271b1;
+  font-weight: 500;
+  padding-left: 44px;
+}
+
+/* RTL Support - Padding adjustment for RTL on current */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-submenu-item.current .vortem-nav-sidebar-link-child {
+  padding-left: 20px;
+  padding-right: 44px;
+}
+
+/* RTL Support - Border on right for RTL */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-link {
+  border-left: none;
+  border-right: 4px solid transparent;
+}
+
+.vortem-nav-sidebar-link:hover {
+  background-color: #f0f6fc;
+  color: #2271b1;
+  padding-left: 24px;
+}
+
+/* RTL Support - Padding adjustment for RTL */
+.vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-link:hover {
+  padding-left: 20px;
+  padding-right: 24px;
+}
+
+/* Current Page Item */
+.vortem-nav-sidebar-item.current .vortem-nav-sidebar-link {
+  background-color: #f0f6fc;
+  color: #2271b1;
+  font-weight: 500;
+  border-left-color: #2271b1;
+  padding-left: 24px;
+}
+
+/* RTL Support - Current item border and padding on right for RTL */
+.vortem-nav-sidebar-wrapper[dir="rtl"]
+  .vortem-nav-sidebar-item.current
+  .vortem-nav-sidebar-link {
+  border-left-color: transparent;
+  border-right-color: #2271b1;
+  padding-left: 20px;
+  padding-right: 24px;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 782px) {
+  .vortem-nav-sidebar-toggle {
+    bottom: 32px;
+    right: 10px;
+    width: 44px;
+    height: 44px;
+  }
+
+  /* On mobile, WP admin menu is hidden, so no offset needed */
+  .vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-toggle {
+    left: 10px;
+    right: auto;
+  }
+  
+  body.folded .vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-toggle {
+    left: 10px;
+    right: auto;
+  }
+
+  /* Core RTL + plugin LTR on mobile: align with right edge, menu is hidden */
+  body.rtl .vortem-nav-sidebar-wrapper[dir="ltr"] .vortem-nav-sidebar-toggle {
+    right: 10px;
+    left: auto;
+  }
+
+  .vortem-nav-sidebar-toggle .dashicons {
+    font-size: 22px;
+    width: 22px;
+    height: 22px;
+  }
+
+  .vortem-nav-sidebar {
+    width: 280px;
+  }
+
+  .vortem-nav-sidebar-header {
+    padding: 16px;
+  }
+
+  .vortem-nav-sidebar-title {
+    font-size: 18px;
+  }
+
+  .vortem-nav-currency-button {
+    padding: 5px 8px;
+    font-size: 12px;
+  }
+
+  .vortem-nav-currency-button .dashicons {
+    font-size: 14px;
+    width: 14px;
+    height: 14px;
+  }
+
+  .vortem-nav-currency-dropdown {
+    min-width: 160px;
+  }
+
+  .vortem-nav-currency-option {
+    padding: 10px 12px;
+    font-size: 13px;
+  }
+
+  .vortem-nav-sidebar-link {
+    padding: 14px 16px;
+    font-size: 14px;
+  }
+
+  .vortem-nav-sidebar-link:hover,
+  .vortem-nav-sidebar-item.current .vortem-nav-sidebar-link {
+    padding-left: 20px;
+  }
+
+  .vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-link:hover,
+  .vortem-nav-sidebar-wrapper[dir="rtl"]
+    .vortem-nav-sidebar-item.current
+    .vortem-nav-sidebar-link {
+    padding-right: 20px;
+  }
+
+  .vortem-nav-sidebar-link-child {
+    padding-left: 32px;
+    font-size: 13px;
+  }
+
+  .vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-link-child {
+    padding-left: 16px;
+    padding-right: 32px;
+  }
+
+  .vortem-nav-sidebar-link-child:hover {
+    padding-left: 36px;
+  }
+
+  .vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-link-child:hover {
+    padding-left: 16px;
+    padding-right: 36px;
+  }
+
+  .vortem-nav-sidebar-submenu-item.current .vortem-nav-sidebar-link-child {
+    padding-left: 36px;
+  }
+
+  .vortem-nav-sidebar-wrapper[dir="rtl"] .vortem-nav-sidebar-submenu-item.current .vortem-nav-sidebar-link-child {
+    padding-left: 16px;
+    padding-right: 36px;
+  }
+}
+
+/* Ensure sidebar is above other elements */
+.vortem-nav-sidebar-wrapper {
+  position: fixed !important;
+}
+
+.vortem-nav-sidebar {
+  position: fixed !important;
+}
+
+.vortem-nav-sidebar-overlay {
+  position: fixed !important;
+}
+
+/* ===== Admin Settings Currency Styles ===== */
+
+/* Custom Currency Select Container */
+.vortem-custom-currency-select {
+  position: relative;
+  min-width: 320px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Currency Select Display */
+.vortem-currency-select-display {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border: 1px solid #8c8f94;
+  border-radius: 4px;
+  background: #ffffff;
+  cursor: pointer;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  min-height: 36px;
+}
+
+.vortem-currency-select-display:hover {
+  border-color: #2271b1;
+}
+
+.vortem-currency-select-display.active {
+  border-color: #2271b1;
+  box-shadow: 0 0 0 1px #2271b1;
+}
+
+.vortem-currency-select-display .dashicons {
+  font-size: 16px;
+  width: 16px;
+  height: 16px;
+  color: #646970;
+  transition: transform 0.2s ease;
+  margin-left: auto;
+}
+
+.vortem-currency-select-display.active .dashicons {
+  transform: rotate(180deg);
+}
+
+/* Currency Flag Placeholder */
+.vortem-currency-flag-placeholder {
+  flex-shrink: 0;
+}
+
+/* Currency Text */
+.vortem-currency-text {
+  flex: 1;
+  font-size: 14px;
+  color: #2c3338;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Currency Select Dropdown */
+.vortem-currency-select-dropdown {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  min-width: 320px;
+  background: #ffffff;
+  border: 1px solid #8c8f94;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+/* Currency Loading */
+.vortem-currency-loading {
+  padding: 16px;
+  text-align: center;
+  color: #646970;
+  font-size: 14px;
+}
+
+/* Currency Dropdown List */
+.vortem-currency-dropdown-list {
+  max-height: 280px;
+  overflow-y: auto;
+}
+
+/* Currency Group */
+.vortem-currency-group {
+  border-bottom: 1px solid #f0f0f1;
+}
+
+.vortem-currency-group:last-child {
+  border-bottom: none;
+}
+
+/* Currency Group Header */
+.vortem-currency-group-header {
+  padding: 8px 16px;
+  background: #f8f9fa;
+  font-size: 12px;
+  font-weight: 600;
+  color: #646970;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+/* Currency Option */
+.vortem-currency-option {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+  border-bottom: 1px solid #f0f0f1;
+}
+
+.vortem-currency-option:last-child {
+  border-bottom: none;
+}
+
+.vortem-currency-option:hover {
+  background-color: #f0f6fc;
+}
+
+/* Currency Flag Container for Admin */
+.vortem-currency-flag-container {
+  display: inline-block;
+  vertical-align: middle;
+  width: 20px;
+  height: 15px;
+  min-width: 20px;
+  min-height: 15px;
+  max-width: 20px;
+  max-height: 15px;
+  border-radius: 2px;
+  overflow: hidden;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  flex-shrink: 0;
+  position: relative;
+}
+
+/* Currency Flag */
+.vortem-currency-flag {
+  display: inline-block;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+/* Currency Flag SVG for Admin */
+.vortem-currency-flag-svg {
+  width: 100%;
+  height: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.vortem-currency-flag-svg svg {
+  width: 100%;
+  height: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+/* Currency Name */
+.vortem-currency-name {
+  font-size: 14px;
+  color: #2c3338;
+  flex: 1;
+}

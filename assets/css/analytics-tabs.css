@@ -1,0 +1,71 @@
+/**
+ * Analytics Tabs - Container & tab navigation styles
+ * Wizard-matched design system
+ *
+ * @package VortemAI
+ */
+
+/* ============================================================
+   Admin body background for analytics page
+   ============================================================ */
+
+body.toplevel_page_vortem-analytics #wpcontent,
+body[class*="vortem-analytics"] #wpcontent {
+	padding-left: 0 !important;
+	background: linear-gradient(135deg, rgba(82, 178, 187, 0.08), rgba(77, 158, 123, 0.04), rgba(14, 98, 107, 0.08)) !important;
+}
+
+body.toplevel_page_vortem-analytics .wrap,
+body[class*="vortem-analytics"] .wrap {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+/*
+ * Outer wrap matches products page: .wrap has no padding; first inset is on main.tab-panels (padding: 10px).
+ * React mounts into #vortem-analytics-tabs-root — same role as tab-panels for horizontal + top spacing.
+ */
+#vortem-analytics-tabs-app {
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body.toplevel_page_vortem-analytics #vortem-analytics-tabs-root,
+body[class*="vortem-analytics"] #vortem-analytics-tabs-root {
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+	body.toplevel_page_vortem-analytics #vortem-analytics-tabs-root,
+	body[class*="vortem-analytics"] #vortem-analytics-tabs-root {
+		padding: 8px;
+	}
+}
+
+/* ============================================================
+   Tab content area
+   ============================================================ */
+
+.vortem-analytics-tabs-container {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.vortem-tab-content {
+	min-height: 400px;
+	box-sizing: border-box;
+}
+
+.vortem-tab-loading {
+	padding: 48px 20px;
+	text-align: center;
+	color: #6B7280;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.vortem-analytics-tab {
+	width: 100%;
+	box-sizing: border-box;
+}

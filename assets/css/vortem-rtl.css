@@ -1,0 +1,799 @@
+/**
+ * RTL (Right-to-Left) Support for RTL Languages
+ * 
+ * This file contains RTL-specific styles for the Vortem plugin
+ * when RTL languages (Arabic, Persian/Farsi, Urdu) are selected.
+ *
+ * @package VortemAI
+ */
+
+/* RTL Body Class - Force RTL on plugin pages ONLY, NOT WordPress menu */
+/* Exclude WordPress admin menu from RTL changes - CRITICAL: Keep WordPress menu LTR */
+/* IMPORTANT: Never remove or manipulate WordPress core admin elements via JavaScript */
+/* Use CSS only to override styles without touching DOM structure */
+body.vortem-rtl #adminmenu,
+body.vortem-rtl #adminmenuback,
+body.vortem-rtl #adminmenuwrap,
+body.vortem-rtl #wpadminbar,
+body.vortem-rtl #wpadminbar *,
+body.vortem-rtl #adminmenu *,
+body.vortem-rtl #adminmenuback *,
+body.vortem-rtl #adminmenuwrap *,
+body.vortem-rtl #adminmenu li,
+body.vortem-rtl #adminmenu ul,
+body.vortem-rtl #adminmenu a,
+body.vortem-rtl #adminmenu .wp-submenu,
+body.vortem-rtl #adminmenu .wp-submenu *,
+body.vortem-rtl #adminmenu .wp-submenu li,
+body.vortem-rtl #adminmenu .wp-submenu a,
+body.vortem-rtl #adminmenu .wp-menu-name,
+body.vortem-rtl #adminmenu .dashicons,
+body.vortem-rtl #adminmenu .wp-menu-image {
+  direction: ltr !important;
+  text-align: left !important;
+  unicode-bidi: embed !important;
+}
+
+/* Force WordPress admin menu to stay LTR - padding reset */
+body.vortem-rtl #adminmenu ul,
+body.vortem-rtl #adminmenu ol,
+body.vortem-rtl #adminmenu li {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+
+body.vortem-rtl #adminmenu .dashicons {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* Apply RTL only to plugin content area, not WordPress menu */
+/* IMPORTANT: Do NOT use generic selectors that affect WordPress admin menu */
+
+/* Force RTL on all main plugin wrappers - ONLY in content area */
+body.vortem-rtl #wpcontent .wrap,
+body.vortem-rtl #wpcontent .vortem-page-wrapper,
+body.vortem-rtl #wpcontent .vortem-page-content,
+body.vortem-rtl #wpcontent .vortem-products-wrap,
+body.vortem-rtl #wpcontent .overview-dashboard-container,
+body.vortem-rtl #wpcontent #vortem-products-app,
+body.vortem-rtl #wpcontent #vortem-analytics-tabs-app,
+body.vortem-rtl #wpcontent #mega-dash-app,
+body.vortem-rtl #wpcontent .vortem-orders-wrap,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap,
+body.vortem-rtl #wpcontent .vortem-insights-wrap,
+body.vortem-rtl #wpcontent .vortem-security-wrap,
+body.vortem-rtl #wpcontent .security-workspace-wrap,
+body.vortem-rtl #wpcontent .insights-workspace-wrap,
+body.vortem-rtl #wpcontent .settings-workspace-wrap,
+body.vortem-rtl #wpcontent .bi-analytics-hub-dashboard {
+  direction: rtl !important;
+  text-align: right !important;
+}
+
+/* Align plugin pages to the right for RTL - ONLY in content area */
+body.vortem-rtl #wpcontent .wrap {
+  margin-left: auto !important;
+  margin-right: 0 !important;
+  text-align: right !important;
+}
+
+/* Settings Page - Keep wrap centered (not aligned to right) */
+body.vortem-rtl #wpcontent .wrap[dir="rtl"]:not(.vortem-email-marketing-wrap):not(.vortem-orders-wrap):not(.vortem-products-wrap):not(.vortem-security-wrap):not(.security-workspace-wrap):not(.vortem-insights-wrap):not(.insights-workspace-wrap):not(.settings-workspace-wrap),
+[dir="rtl"] .wrap:not(.vortem-email-marketing-wrap):not(.vortem-orders-wrap):not(.vortem-products-wrap):not(.vortem-security-wrap):not(.security-workspace-wrap):not(.vortem-insights-wrap):not(.insights-workspace-wrap):not(.settings-workspace-wrap) {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* General RTL wrapper - align to right for most pages */
+body.vortem-rtl #wpcontent .vortem-page-wrapper:not(.vortem-settings-page) {
+  margin-left: auto !important;
+  margin-right: 0 !important;
+  text-align: right !important;
+}
+
+/* Settings Page - Keep centered layout with proper margins */
+/* Override the above rule specifically for settings page */
+/* Use more specific selectors to ensure settings page always stays centered */
+body.vortem-rtl #wpcontent .wrap[dir="rtl"] .vortem-page-wrapper,
+[dir="rtl"] .wrap .vortem-page-wrapper,
+body.vortem-rtl #wpcontent .wrap .vortem-page-wrapper[dir="rtl"],
+body.vortem-rtl #wpcontent .wrap .vortem-page-wrapper[dir="ltr"],
+body.vortem-rtl #wpcontent .vortem-page-wrapper:has(#vortem-settings-form),
+body.vortem-rtl #wpcontent .vortem-page-wrapper.vortem-settings-page {
+  margin: 40px auto !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: right !important;
+}
+
+body.vortem-rtl #wpcontent .vortem-products-wrap {
+  margin-left: auto !important;
+  margin-right: 0 !important;
+  text-align: right !important;
+}
+
+body.vortem-rtl #wpcontent .overview-dashboard-container {
+  margin-left: auto !important;
+  margin-right: 0 !important;
+  text-align: right !important;
+}
+
+body.vortem-rtl #wpcontent .vortem-orders-wrap,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap,
+body.vortem-rtl #wpcontent .vortem-insights-wrap,
+body.vortem-rtl #wpcontent .vortem-security-wrap,
+body.vortem-rtl #wpcontent .security-workspace-wrap,
+body.vortem-rtl #wpcontent .insights-workspace-wrap,
+body.vortem-rtl #wpcontent .settings-workspace-wrap,
+body.vortem-rtl #wpcontent .bi-analytics-hub-dashboard {
+  margin-left: auto !important;
+  margin-right: 0 !important;
+  text-align: right !important;
+}
+
+body.vortem-rtl #wpcontent #vortem-products-app,
+body.vortem-rtl #wpcontent #vortem-analytics-tabs-app,
+body.vortem-rtl #wpcontent #mega-dash-app {
+  margin-left: auto !important;
+  margin-right: 0 !important;
+  text-align: right !important;
+}
+
+/* Flip layout direction */
+.vortem-rtl .vortem-page-wrapper,
+.vortem-rtl .vortem-page-content,
+.vortem-rtl .vortem-page-header {
+  direction: rtl;
+}
+
+/* Header adjustments */
+.vortem-rtl .vortem-header {
+  flex-direction: row-reverse;
+}
+
+.vortem-rtl .vortem-header h1 {
+  margin-right: 15px;
+  margin-left: 0;
+}
+
+/* Navigation adjustments - Let vortem-nav-dropdown.css handle RTL */
+/* The navigation sidebar has its own RTL support via [dir="rtl"] attribute */
+/* DO NOT override navigation styles here to prevent conflicts */
+
+/* Stats grid */
+.vortem-rtl .vortem-stats,
+.vortem-rtl .stats-grid {
+  direction: rtl;
+}
+
+/* Buttons - ONLY within plugin content */
+body.vortem-rtl #wpcontent .vortem-page-wrapper .button,
+body.vortem-rtl #wpcontent .vortem-page-wrapper .btn,
+body.vortem-rtl #wpcontent .vortem-page-wrapper button,
+body.vortem-rtl #wpcontent .vortem-page-content .button,
+body.vortem-rtl #wpcontent .vortem-page-content .btn,
+body.vortem-rtl #wpcontent .vortem-page-content button,
+body.vortem-rtl #wpcontent .vortem-orders-wrap .button,
+body.vortem-rtl #wpcontent .vortem-orders-wrap .btn,
+body.vortem-rtl #wpcontent .vortem-orders-wrap button,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap .button,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap .btn,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap button,
+body.vortem-rtl #wpcontent .vortem-products-wrap .button,
+body.vortem-rtl #wpcontent .vortem-products-wrap .btn,
+body.vortem-rtl #wpcontent .vortem-products-wrap button,
+body.vortem-rtl #wpcontent .overview-dashboard-container .button,
+body.vortem-rtl #wpcontent .overview-dashboard-container .btn,
+body.vortem-rtl #wpcontent .overview-dashboard-container button {
+  direction: rtl;
+}
+
+body.vortem-rtl #wpcontent .vortem-page-wrapper .button-primary,
+body.vortem-rtl #wpcontent .vortem-page-wrapper .btn-primary,
+body.vortem-rtl #wpcontent .vortem-page-content .button-primary,
+body.vortem-rtl #wpcontent .vortem-page-content .btn-primary {
+  text-align: center;
+}
+
+/* Forms - ONLY within plugin content */
+body.vortem-rtl #wpcontent .vortem-page-wrapper .form-group label,
+body.vortem-rtl #wpcontent .vortem-page-content .form-group label,
+body.vortem-rtl #wpcontent .vortem-orders-wrap .form-group label,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap .form-group label,
+body.vortem-rtl #wpcontent .vortem-products-wrap .form-group label {
+  text-align: right;
+}
+
+body.vortem-rtl #wpcontent .vortem-page-wrapper input[type="text"],
+body.vortem-rtl #wpcontent .vortem-page-wrapper input[type="email"],
+body.vortem-rtl #wpcontent .vortem-page-wrapper input[type="password"],
+body.vortem-rtl #wpcontent .vortem-page-wrapper input[type="search"],
+body.vortem-rtl #wpcontent .vortem-page-wrapper textarea,
+body.vortem-rtl #wpcontent .vortem-page-wrapper select,
+body.vortem-rtl #wpcontent .vortem-page-content input[type="text"],
+body.vortem-rtl #wpcontent .vortem-page-content input[type="email"],
+body.vortem-rtl #wpcontent .vortem-page-content input[type="password"],
+body.vortem-rtl #wpcontent .vortem-page-content input[type="search"],
+body.vortem-rtl #wpcontent .vortem-page-content textarea,
+body.vortem-rtl #wpcontent .vortem-page-content select,
+body.vortem-rtl #wpcontent .vortem-orders-wrap input[type="text"],
+body.vortem-rtl #wpcontent .vortem-orders-wrap input[type="email"],
+body.vortem-rtl #wpcontent .vortem-orders-wrap input[type="password"],
+body.vortem-rtl #wpcontent .vortem-orders-wrap input[type="search"],
+body.vortem-rtl #wpcontent .vortem-orders-wrap textarea,
+body.vortem-rtl #wpcontent .vortem-orders-wrap select,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap input[type="text"],
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap input[type="email"],
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap input[type="password"],
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap input[type="search"],
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap textarea,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap select,
+body.vortem-rtl #wpcontent .vortem-products-wrap input[type="text"],
+body.vortem-rtl #wpcontent .vortem-products-wrap input[type="email"],
+body.vortem-rtl #wpcontent .vortem-products-wrap input[type="password"],
+body.vortem-rtl #wpcontent .vortem-products-wrap input[type="search"],
+body.vortem-rtl #wpcontent .vortem-products-wrap textarea,
+body.vortem-rtl #wpcontent .vortem-products-wrap select {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Tables - ONLY within plugin content */
+body.vortem-rtl #wpcontent .vortem-page-wrapper table,
+body.vortem-rtl #wpcontent .vortem-page-content table,
+body.vortem-rtl #wpcontent .vortem-orders-wrap table,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap table,
+body.vortem-rtl #wpcontent .vortem-products-wrap table,
+body.vortem-rtl #wpcontent .overview-dashboard-container table {
+  direction: rtl;
+}
+
+body.vortem-rtl #wpcontent .vortem-page-wrapper table th,
+body.vortem-rtl #wpcontent .vortem-page-wrapper table td,
+body.vortem-rtl #wpcontent .vortem-page-content table th,
+body.vortem-rtl #wpcontent .vortem-page-content table td,
+body.vortem-rtl #wpcontent .vortem-orders-wrap table th,
+body.vortem-rtl #wpcontent .vortem-orders-wrap table td,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap table th,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap table td,
+body.vortem-rtl #wpcontent .vortem-products-wrap table th,
+body.vortem-rtl #wpcontent .vortem-products-wrap table td,
+body.vortem-rtl #wpcontent .overview-dashboard-container table th,
+body.vortem-rtl #wpcontent .overview-dashboard-container table td {
+  text-align: right;
+}
+
+body.vortem-rtl #wpcontent .vortem-page-wrapper table th.text-right,
+body.vortem-rtl #wpcontent .vortem-page-wrapper table td.text-right {
+  text-align: left;
+}
+
+/* Cards */
+.vortem-rtl .card,
+.vortem-rtl .stat-box {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Modals */
+.vortem-rtl .modal-dialog {
+  direction: rtl;
+}
+
+.vortem-rtl .modal-header {
+  flex-direction: row-reverse;
+}
+
+.vortem-rtl .modal-body {
+  text-align: right;
+}
+
+/* Lists - ONLY within plugin content, NOT WordPress admin menu */
+body.vortem-rtl #wpcontent .vortem-page-wrapper ul,
+body.vortem-rtl #wpcontent .vortem-page-wrapper ol,
+body.vortem-rtl #wpcontent .vortem-page-content ul,
+body.vortem-rtl #wpcontent .vortem-page-content ol,
+body.vortem-rtl #wpcontent .vortem-orders-wrap ul,
+body.vortem-rtl #wpcontent .vortem-orders-wrap ol,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap ul,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap ol,
+body.vortem-rtl #wpcontent .vortem-products-wrap ul,
+body.vortem-rtl #wpcontent .vortem-products-wrap ol,
+body.vortem-rtl #wpcontent .overview-dashboard-container ul,
+body.vortem-rtl #wpcontent .overview-dashboard-container ol {
+  padding-right: 20px;
+  padding-left: 0;
+}
+
+body.vortem-rtl #wpcontent .vortem-page-wrapper li,
+body.vortem-rtl #wpcontent .vortem-page-content li,
+body.vortem-rtl #wpcontent .vortem-orders-wrap li,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap li,
+body.vortem-rtl #wpcontent .vortem-products-wrap li,
+body.vortem-rtl #wpcontent .overview-dashboard-container li {
+  text-align: right;
+}
+
+/* Icons - ONLY within plugin content, NOT WordPress admin menu */
+body.vortem-rtl #wpcontent .vortem-page-wrapper .dashicons,
+body.vortem-rtl #wpcontent .vortem-page-wrapper .icon,
+body.vortem-rtl #wpcontent .vortem-page-content .dashicons,
+body.vortem-rtl #wpcontent .vortem-page-content .icon,
+body.vortem-rtl #wpcontent .vortem-orders-wrap .dashicons,
+body.vortem-rtl #wpcontent .vortem-orders-wrap .icon,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap .dashicons,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap .icon,
+body.vortem-rtl #wpcontent .vortem-products-wrap .dashicons,
+body.vortem-rtl #wpcontent .vortem-products-wrap .icon,
+body.vortem-rtl #wpcontent .overview-dashboard-container .dashicons,
+body.vortem-rtl #wpcontent .overview-dashboard-container .icon {
+  margin-left: 8px;
+  margin-right: 0;
+}
+
+/* Search inputs */
+.vortem-rtl .search-wrap {
+  direction: rtl;
+}
+
+.vortem-rtl .search-icon {
+  right: 16px;
+  left: auto;
+}
+
+/* Email Marketing - Search Input RTL Fix */
+.vortem-rtl .vortem-email-marketing-wrap .search-icon {
+  right: 16px;
+  left: auto;
+}
+
+.vortem-rtl .search-input {
+  padding-right: 44px !important;
+  padding-left: 16px !important;
+}
+
+.vortem-rtl #search-emails.search-input,
+.vortem-rtl #search-lists.search-input {
+  padding-right: 44px !important;
+  padding-left: 5px !important;
+}
+
+.vortem-rtl .search-container .search-icon {
+  right: 16px;
+  left: auto;
+}
+
+/* Orders - Search Input RTL Fix */
+.vortem-rtl .vortem-orders-wrap .search-icon {
+  right: 12px;
+  left: auto;
+}
+
+.vortem-rtl .search-input-orders {
+  padding-right: 35px !important;
+  padding-left: 12px !important;
+}
+
+/* Pagination */
+.vortem-rtl .pagination {
+  direction: rtl;
+}
+
+.vortem-rtl .pagination a,
+.vortem-rtl .pagination span {
+  margin-right: 0;
+  margin-left: 5px;
+}
+
+/* Notices */
+.vortem-rtl .notice {
+  text-align: right;
+}
+
+/* Wizard */
+.vortem-rtl .vortem-wizard-wrap {
+  direction: rtl;
+}
+
+.vortem-rtl .wizard-steps {
+  flex-direction: row-reverse;
+}
+
+.vortem-rtl .wizard-navigation {
+  flex-direction: row-reverse;
+}
+
+.vortem-rtl .nav-left {
+  text-align: left;
+}
+
+.vortem-rtl .nav-right {
+  text-align: right;
+}
+
+/* Email Marketing */
+.vortem-rtl .email-tags-container {
+  direction: rtl;
+}
+
+.vortem-rtl .email-tags-input-wrapper {
+  flex-direction: row-reverse;
+}
+
+/* Orders page */
+.vortem-rtl .top-controls {
+  flex-direction: row-reverse;
+}
+
+.vortem-rtl .right-controls {
+  flex-direction: row-reverse;
+}
+
+.vortem-rtl .controls-section {
+  direction: rtl;
+}
+
+.vortem-rtl .controls-right {
+  flex-direction: row-reverse;
+}
+
+/* Security page */
+.vortem-rtl .filters-section {
+  direction: rtl;
+}
+
+.vortem-rtl .filters-wrapper {
+  flex-direction: row-reverse;
+}
+
+/* Dashboard */
+.vortem-rtl .vortem-site-buttons {
+  flex-direction: rtl;
+}
+
+/* Products page */
+.vortem-rtl .product-dashboard {
+  direction: rtl;
+}
+
+/* Products page - Reverse buttons and category filter position in RTL */
+/* Target the div containing buttons (#refresh-products-grid) and category filter (.category-filter-container) */
+[dir="rtl"] .vortem-page-wrapper.products .product-dashboard > div:has(#refresh-products-grid):has(.category-filter-container),
+body.vortem-rtl .vortem-page-wrapper.products .product-dashboard > div:has(#refresh-products-grid):has(.category-filter-container),
+.vortem-rtl .vortem-page-wrapper.products .product-dashboard > div:has(#refresh-products-grid):has(.category-filter-container) {
+  flex-direction: row-reverse !important;
+}
+
+/* Fix button spacing in RTL - convert margin-left to margin-right */
+[dir="rtl"] .vortem-page-wrapper.products #fetch-new-products,
+body.vortem-rtl .vortem-page-wrapper.products #fetch-new-products,
+.vortem-rtl .vortem-page-wrapper.products #fetch-new-products {
+  margin-left: 0 !important;
+  margin-right: 10px !important;
+}
+
+/* Fix loading spinner position in RTL */
+[dir="rtl"] .vortem-page-wrapper.products #refresh-products-grid.loading,
+body.vortem-rtl .vortem-page-wrapper.products #refresh-products-grid.loading,
+.vortem-rtl .vortem-page-wrapper.products #refresh-products-grid.loading {
+  padding-left: 12px !important;
+  padding-right: 42px !important;
+}
+
+[dir="rtl"] .vortem-page-wrapper.products #refresh-products-grid.loading::after,
+body.vortem-rtl .vortem-page-wrapper.products #refresh-products-grid.loading::after,
+.vortem-rtl .vortem-page-wrapper.products #refresh-products-grid.loading::after {
+  left: auto !important;
+  right: 12px !important;
+}
+
+/* Analytics */
+.vortem-rtl .chart-container {
+  direction: ltr; /* Keep charts LTR for proper display */
+}
+
+/* Insights */
+.vortem-rtl .header-actions {
+  flex-direction: row-reverse;
+}
+
+/* General text alignment - Force right alignment on plugin content ONLY */
+/* Exclude WordPress admin menu from text alignment changes */
+/* Target only specific plugin elements, not entire #wpcontent */
+body.vortem-rtl #wpcontent .vortem-page-wrapper p,
+body.vortem-rtl #wpcontent .vortem-page-wrapper h1,
+body.vortem-rtl #wpcontent .vortem-page-wrapper h2,
+body.vortem-rtl #wpcontent .vortem-page-wrapper h3,
+body.vortem-rtl #wpcontent .vortem-page-wrapper h4,
+body.vortem-rtl #wpcontent .vortem-page-wrapper h5,
+body.vortem-rtl #wpcontent .vortem-page-wrapper h6,
+body.vortem-rtl #wpcontent .overview-dashboard-container p,
+body.vortem-rtl #wpcontent .overview-dashboard-container h1,
+body.vortem-rtl #wpcontent .overview-dashboard-container h2,
+body.vortem-rtl #wpcontent .overview-dashboard-container h3,
+body.vortem-rtl #wpcontent .overview-dashboard-container h4,
+body.vortem-rtl #wpcontent .overview-dashboard-container h5,
+body.vortem-rtl #wpcontent .overview-dashboard-container h6,
+body.vortem-rtl #wpcontent .vortem-products-wrap p,
+body.vortem-rtl #wpcontent .vortem-products-wrap h1,
+body.vortem-rtl #wpcontent .vortem-products-wrap h2,
+body.vortem-rtl #wpcontent .vortem-products-wrap h3,
+body.vortem-rtl #wpcontent .vortem-products-wrap h4,
+body.vortem-rtl #wpcontent .vortem-products-wrap h5,
+body.vortem-rtl #wpcontent .vortem-products-wrap h6,
+body.vortem-rtl #wpcontent .vortem-page-wrapper div:not(#adminmenu):not(#adminmenuback):not(#adminmenuwrap),
+body.vortem-rtl #wpcontent .vortem-page-wrapper span:not(#adminmenu span):not(#adminmenuback span):not(#adminmenuwrap span),
+body.vortem-rtl #wpcontent .vortem-page-wrapper label,
+body.vortem-rtl #wpcontent .vortem-page-wrapper td,
+body.vortem-rtl #wpcontent .vortem-page-wrapper th,
+body.vortem-rtl #wpcontent .vortem-page-wrapper li:not(#adminmenu li):not(#adminmenuback li):not(#adminmenuwrap li),
+body.vortem-rtl #wpcontent .overview-dashboard-container .title,
+body.vortem-rtl #wpcontent .overview-dashboard-container .subtitle,
+body.vortem-rtl #wpcontent .overview-dashboard-container .header-title,
+body.vortem-rtl #wpcontent .overview-dashboard-container .header-subtitle {
+  text-align: right !important;
+  direction: rtl !important;
+}
+
+/* Text elements RTL - ONLY within specific plugin containers */
+body.vortem-rtl #wpcontent .vortem-page-wrapper p,
+body.vortem-rtl #wpcontent .vortem-page-content p,
+body.vortem-rtl #wpcontent .vortem-orders-wrap p,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap p,
+body.vortem-rtl #wpcontent .vortem-products-wrap p,
+body.vortem-rtl #wpcontent .overview-dashboard-container p,
+body.vortem-rtl #wpcontent .vortem-page-wrapper h1,
+body.vortem-rtl #wpcontent .vortem-page-content h1,
+body.vortem-rtl #wpcontent .vortem-orders-wrap h1,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap h1,
+body.vortem-rtl #wpcontent .vortem-products-wrap h1,
+body.vortem-rtl #wpcontent .overview-dashboard-container h1,
+body.vortem-rtl #wpcontent .vortem-page-wrapper h2,
+body.vortem-rtl #wpcontent .vortem-page-content h2,
+body.vortem-rtl #wpcontent .vortem-orders-wrap h2,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap h2,
+body.vortem-rtl #wpcontent .vortem-products-wrap h2,
+body.vortem-rtl #wpcontent .overview-dashboard-container h2,
+body.vortem-rtl #wpcontent .vortem-page-wrapper h3,
+body.vortem-rtl #wpcontent .vortem-page-content h3,
+body.vortem-rtl #wpcontent .vortem-orders-wrap h3,
+body.vortem-rtl #wpcontent .vortem-email-marketing-wrap h3,
+body.vortem-rtl #wpcontent .vortem-products-wrap h3,
+body.vortem-rtl #wpcontent .overview-dashboard-container h3 {
+  text-align: right !important;
+  direction: rtl !important;
+}
+
+/* Float adjustments */
+.vortem-rtl .float-left {
+  float: right !important;
+}
+
+.vortem-rtl .float-right {
+  float: left !important;
+}
+
+/* Margin adjustments */
+.vortem-rtl .ml-auto {
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+.vortem-rtl .mr-auto {
+  margin-right: 0 !important;
+  margin-left: auto !important;
+}
+
+/* Padding adjustments */
+.vortem-rtl .pl-0 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.vortem-rtl .pr-0 {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+
+/* Text alignment utilities */
+.vortem-rtl .text-left {
+  text-align: right !important;
+}
+
+.vortem-rtl .text-right {
+  text-align: left !important;
+}
+
+/* Flex direction adjustments */
+.vortem-rtl .flex-row {
+  flex-direction: row-reverse;
+}
+
+.vortem-rtl .flex-row-reverse {
+  flex-direction: row;
+}
+
+/* Ensure numbers and dates remain LTR in RTL context */
+.vortem-rtl .number,
+.vortem-rtl .date,
+.vortem-rtl .time {
+  direction: ltr;
+  display: inline-block;
+  unicode-bidi: embed;
+}
+
+/* Code and technical content should remain LTR */
+.vortem-rtl code,
+.vortem-rtl pre,
+.vortem-rtl .code {
+  direction: ltr;
+  text-align: left;
+  unicode-bidi: embed;
+}
+
+/* ============================================
+   Settings Page RTL Support
+   ============================================ */
+
+/* Settings Page - Wrapper Layout Fix */
+body.vortem-rtl #wpcontent .wrap[dir="rtl"],
+[dir="rtl"] .wrap {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Settings Page - Modern Header RTL */
+.vortem-rtl .vortem-page-content .modern-header,
+[dir="rtl"] .vortem-page-content .modern-header {
+  flex-direction: row-reverse;
+}
+
+.vortem-rtl .vortem-page-content .modern-header-main,
+[dir="rtl"] .vortem-page-content .modern-header-main {
+  flex-direction: row-reverse;
+}
+
+/* Settings Page - Form Table RTL */
+.vortem-rtl .vortem-page-content .form-table th,
+[dir="rtl"] .vortem-page-content .form-table th {
+  text-align: right;
+}
+
+.vortem-rtl .vortem-page-content .form-table td,
+[dir="rtl"] .vortem-page-content .form-table td {
+  text-align: right;
+}
+
+/* Settings Page - Session Token Input RTL (Legacy ID for backward compatibility) */
+.vortem-rtl #vortem_license_key,
+[dir="rtl"] #vortem_license_key {
+  padding-right: 16px !important;
+  padding-left: 48px !important;
+  text-align: right;
+  direction: rtl;
+}
+
+.vortem-rtl #toggle-license-visibility,
+[dir="rtl"] #toggle-license-visibility {
+  right: auto !important;
+  left: 12px !important;
+}
+
+/* Settings Page - License Container RTL */
+/* Keep same order: input first, button second */
+.vortem-rtl .vortem-license-container,
+[dir="rtl"] .vortem-license-container {
+  flex-direction: row !important;
+}
+
+.vortem-rtl .vortem-license-button-wrapper,
+[dir="rtl"] .vortem-license-button-wrapper {
+  flex-direction: row !important;
+}
+
+/* Settings Page - Select Dropdown RTL */
+.vortem-rtl select[name="vortem_language"],
+.vortem-rtl select[name="vortem_currency"],
+[dir="rtl"] select[name="vortem_language"],
+[dir="rtl"] select[name="vortem_currency"] {
+  padding-right: 16px !important;
+  padding-left: 40px !important;
+  background-position: left 16px center !important;
+  text-align: right;
+  direction: rtl;
+}
+
+/* Settings Page - Toggle Switch RTL */
+/* Keep toggle switch layout the same, just mirror the slider direction */
+.vortem-rtl .vortem-toggle-switch,
+[dir="rtl"] .vortem-toggle-switch {
+  /* Don't reverse - keep slider first, label second */
+  flex-direction: row !important;
+}
+
+/* RTL: Slider ball starts on right side */
+.vortem-rtl .vortem-toggle-slider::before,
+[dir="rtl"] .vortem-toggle-slider::before {
+  left: auto !important;
+  right: 3px !important;
+}
+
+/* RTL: When checked, ball moves to left */
+.vortem-rtl .vortem-toggle-switch input[type="checkbox"]:checked + .vortem-toggle-slider::before,
+[dir="rtl"] .vortem-toggle-switch input[type="checkbox"]:checked + .vortem-toggle-slider::before {
+  transform: translateX(-24px) !important;
+}
+
+/* Settings Page - Custom Notice RTL */
+.vortem-rtl .vortem-page-content .vortem-custom-notice,
+[dir="rtl"] .vortem-page-content .vortem-custom-notice {
+  border-left: none !important;
+  border-right: 4px solid !important;
+}
+
+.vortem-rtl .vortem-page-content .vortem-notice-info,
+[dir="rtl"] .vortem-page-content .vortem-notice-info {
+  background: linear-gradient(270deg, rgba(0, 174, 239, 0.05) 0%, #ffffff 100%) !important;
+}
+
+.vortem-rtl .vortem-page-content .vortem-notice-success,
+[dir="rtl"] .vortem-page-content .vortem-notice-success {
+  background: linear-gradient(270deg, rgba(16, 185, 129, 0.05) 0%, #ffffff 100%) !important;
+}
+
+.vortem-rtl .vortem-page-content .vortem-notice-error,
+[dir="rtl"] .vortem-page-content .vortem-notice-error {
+  background: linear-gradient(270deg, rgba(239, 68, 68, 0.05) 0%, #ffffff 100%) !important;
+}
+
+/* Settings Page - Description Text RTL */
+.vortem-rtl .vortem-page-content .description,
+[dir="rtl"] .vortem-page-content .description {
+  text-align: right;
+}
+
+/* Settings Page - Input Fields RTL */
+.vortem-rtl input[name="vortem_products_per_page"],
+[dir="rtl"] input[name="vortem_products_per_page"] {
+  text-align: right;
+  direction: ltr; /* Numbers should remain LTR */
+}
+
+/* Settings Page - Currency Wrapper RTL */
+/* Keep same order: select first, button second - just adjust margins */
+.vortem-rtl #vortem-currency-wrapper > div,
+[dir="rtl"] #vortem-currency-wrapper > div {
+  flex-direction: row !important;
+}
+
+/* Category Menu RTL Support - Fix position to prevent overflow */
+[dir="rtl"] .vortem-page-wrapper.products .vortem-category-menu,
+body.vortem-rtl .vortem-page-wrapper.products .vortem-category-menu,
+.vortem-rtl .vortem-page-wrapper.products .vortem-category-menu {
+  left: auto !important;
+  right: 0 !important;
+}
+
+/* Category Submenu RTL Support — flip the accordion indent to the right side */
+[dir="rtl"] .vortem-page-wrapper.products .category-submenu,
+body.vortem-rtl .vortem-page-wrapper.products .category-submenu,
+.vortem-rtl .vortem-page-wrapper.products .category-submenu {
+  padding: 4px 12px 4px 0 !important;
+  border-left: 0 !important;
+  border-right: 2px solid rgba(96, 165, 250, 0.2) !important;
+}
+
+/* Open-state chevron rotation in RTL mirrors the LTR direction */
+[dir="rtl"] .vortem-page-wrapper.products .category-main-item.open .category-arrow,
+body.vortem-rtl .vortem-page-wrapper.products .category-main-item.open .category-arrow {
+  transform: rotate(-90deg) !important;
+}
+
+/* Price Filter Container RTL Support */
+[dir="rtl"] .vortem-page-wrapper.products .price-filter-container,
+body.vortem-rtl .vortem-page-wrapper.products .price-filter-container,
+.vortem-rtl .vortem-page-wrapper.products .price-filter-container {
+  margin-left: 0 !important;
+  margin-right: 12px !important;
+}

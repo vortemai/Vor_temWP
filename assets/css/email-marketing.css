@@ -1,0 +1,1894 @@
+/**
+ * Email Marketing - Wizard-matched design system
+ *
+ * Mirrors the Setup Wizard's teal palette, rounded cards, soft shadows,
+ * system font stack, and consistent spacing / motion.
+ *
+ * @package VortemAI
+ */
+
+/* ============================================================
+   1. Design tokens (scoped to app root)
+   ============================================================ */
+
+#vortem-email-marketing-app {
+	--em-primary: #0E626B;
+	--em-primary-hover: #0B4F55;
+	--em-secondary: #4D9E7B;
+	--em-accent: #52B2BB;
+	--em-accent-light: rgba(82, 178, 187, .12);
+
+	--em-rail-grad: linear-gradient(160deg, #0E626B 0%, #1B7A7F 55%, #4D9E7B 100%);
+
+	--em-bg: #ffffff;
+	--em-bg-card: #ffffff;
+	--em-bg-soft: #F9FAFB;
+	--em-text: #111827;
+	--em-text-secondary: #4B5563;
+	--em-text-muted: #6B7280;
+	--em-text-light: #9CA3AF;
+	--em-border: #E5E7EB;
+	--em-border-light: #F1F5F9;
+
+	--em-success: #08B83B;
+	--em-warning: #D97706;
+	--em-danger: #DC2266;
+	--em-info: #0E626B;
+
+	--em-shadow-sm: 0 1px 2px rgba(17, 24, 39, .04);
+	--em-shadow-md: 0 6px 16px -6px rgba(17, 24, 39, .12);
+	--em-shadow-card: 0 4px 24px -8px rgba(14, 98, 107, .12);
+
+	--em-radius-xl: 20px;
+	--em-radius-lg: 12px;
+	--em-radius-md: 8px;
+	--em-radius-sm: 6px;
+
+	--em-focus-ring: 0 0 0 2px #fff, 0 0 0 4px rgba(14, 98, 107, .45);
+}
+
+/* ============================================================
+   2. Host overrides
+   ============================================================ */
+
+* {
+	box-sizing: border-box;
+}
+
+#footer-thankyou {
+	display: none;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+	background: linear-gradient(135deg, rgba(82, 178, 187, 0.08), rgba(77, 158, 123, 0.04), rgba(14, 98, 107, 0.08));
+	color: var(--em-text);
+	line-height: 1.6;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.wrap {
+	margin: 0 auto;
+	padding: 0;
+}
+
+#wpcontent {
+	padding-left: 0;
+}
+
+/* ============================================================
+   3. Main container
+   ============================================================ */
+
+.vortem-email-marketing-wrap,
+.vortem-products-wrap {
+	margin: 0 auto;
+	padding: 0;
+}
+
+.vortem-email-marketing-wrap #vortem-email-marketing-app,
+.vortem-products-wrap #vortem-products-app {
+	background: transparent;
+	min-height: calc(100vh - 32px);
+}
+
+/* ============================================================
+   4. Legacy app-header (kept for compatibility)
+   ============================================================ */
+
+.app-header {
+	position: sticky;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	top: 35px;
+	z-index: 100;
+	background: var(--em-bg-card);
+	border-bottom: 1px solid var(--em-border);
+	padding: 20px 32px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 20px;
+	flex-wrap: wrap;
+	box-shadow: var(--em-shadow-sm);
+	border-radius: var(--em-radius-xl);
+}
+
+.brand {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+}
+
+.logo {
+	width: 40px;
+	height: 40px;
+	border-radius: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: var(--em-primary);
+	color: white;
+	box-shadow: 0 2px 8px rgba(14, 98, 107, .2);
+	transition: all 160ms ease;
+}
+
+.logo:hover {
+	transform: translateY(-1px);
+	box-shadow: 0 4px 12px rgba(14, 98, 107, .3);
+}
+
+.logo svg {
+	width: 20px;
+	height: 20px;
+}
+
+.brand h1 {
+	margin: 0;
+	font-size: 22px;
+	font-weight: 700;
+	color: var(--em-text);
+	letter-spacing: -0.01em;
+}
+
+/* ============================================================
+   5. Tabs - Frosted glass in gradient header
+   ============================================================ */
+
+.tabs {
+	display: flex;
+	gap: 4px;
+	flex: 0 0 auto;
+	justify-content: flex-end;
+	background: rgba(255, 255, 255, .12);
+	border-radius: var(--em-radius-md);
+	padding: 3px;
+}
+
+.tab {
+	background: transparent;
+	color: rgba(255, 255, 255, .75);
+	border: none;
+	border-radius: var(--em-radius-sm);
+	padding: 8px 16px;
+	cursor: pointer;
+	font-size: 13px;
+	font-weight: 600;
+	transition: all 160ms ease;
+	position: relative;
+}
+
+.tab:hover:not(.active) {
+	background: rgba(255, 255, 255, .10);
+	color: #fff;
+}
+
+.tab.active,
+button.tab.active {
+	color: var(--em-primary) !important;
+	background: #fff !important;
+	font-weight: 600;
+	position: relative;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, .10);
+}
+
+.tab.active:hover,
+button.tab.active:hover {
+	color: var(--em-primary) !important;
+	background: #fff !important;
+}
+
+.tab.active::after {
+	display: none;
+}
+
+/* ============================================================
+   6. Main content area
+   ============================================================ */
+
+.tab-panels {
+	margin: 0 auto;
+	position: relative;
+	padding: 10px;
+	animation: em-fadeIn 0.3s ease-out;
+}
+
+@keyframes em-fadeIn {
+	from { opacity: 0; transform: translateY(8px); }
+	to   { opacity: 1; transform: translateY(0); }
+}
+
+.panel {
+	display: none !important;
+	animation: em-fadeIn 0.3s ease-out;
+	visibility: hidden;
+	opacity: 0;
+	position: relative;
+}
+
+.panel.active {
+	display: block !important;
+	visibility: visible;
+	opacity: 1;
+}
+
+/* Products app panel isolation */
+#vortem-products-app .panel {
+	display: none !important;
+}
+
+#vortem-products-app .panel.active {
+	display: block !important;
+}
+
+#panel-products,
+#panel-orders {
+	width: 100%;
+	overflow: hidden;
+}
+
+/* ============================================================
+   7. Modern header - Wizard-style gradient hero
+   ============================================================ */
+
+.modern-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 28px;
+	flex-wrap: wrap;
+	gap: 20px;
+	padding: 24px 32px;
+	background: var(--em-rail-grad);
+	border-radius: var(--em-radius-xl);
+	border: none;
+	box-shadow: var(--em-shadow-card);
+	position: relative;
+	overflow: hidden;
+}
+
+/* Decorative orb */
+.modern-header::after {
+	content: "";
+	position: absolute;
+	right: -42px;
+	bottom: -42px;
+	width: 160px;
+	height: 160px;
+	border-radius: 50%;
+	background: rgba(255, 255, 255, .08);
+	pointer-events: none;
+	filter: blur(2px);
+}
+
+.modern-header-main {
+	display: flex;
+	align-items: center;
+	gap: 14px;
+	position: relative;
+	z-index: 1;
+}
+
+.icon-pill {
+	width: 42px;
+	height: 42px;
+	border-radius: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: rgba(255, 255, 255, .18);
+	color: white;
+	box-shadow: none;
+	transition: background-color 180ms ease;
+	flex-shrink: 0;
+}
+
+.icon-pill:hover {
+	background: rgba(255, 255, 255, .25);
+	transform: none;
+	box-shadow: none;
+}
+
+.icon-pill svg {
+	width: 22px;
+	height: 22px;
+}
+
+.title {
+	margin: 0;
+	font-size: 22px;
+	font-weight: 700;
+	color: #fff;
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+}
+
+.subtitle {
+	margin: 3px 0 0;
+	padding-left: 0 !important;
+	color: rgba(255, 255, 255, .70);
+	font-size: 13px;
+	font-weight: 500;
+}
+
+.modern-header-actions {
+	display: flex;
+	gap: 8px;
+	align-items: center;
+	position: relative;
+	z-index: 1;
+}
+
+/* ============================================================
+   8. Buttons
+   ============================================================ */
+
+.btn {
+	background: var(--em-bg-card);
+	color: var(--em-text);
+	border: 1px solid var(--em-border);
+	border-radius: var(--em-radius-md);
+	padding: 9px 16px;
+	cursor: pointer;
+	font-size: 13px;
+	font-weight: 600;
+	transition: all 160ms ease;
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	white-space: nowrap;
+	text-decoration: none;
+	box-shadow: var(--em-shadow-sm);
+}
+
+.btn:hover {
+	background: var(--em-bg-soft);
+	border-color: var(--em-border);
+	transform: translateY(-1px);
+	box-shadow: var(--em-shadow-md);
+}
+
+.btn:active {
+	transform: translateY(0);
+	box-shadow: var(--em-shadow-sm);
+}
+
+.btn:focus-visible {
+	outline: none;
+	box-shadow: var(--em-focus-ring);
+}
+
+.btn-primary {
+	background: rgba(255, 255, 255, .18);
+	border-color: rgba(255, 255, 255, .25);
+	color: #ffffff;
+	box-shadow: none;
+	backdrop-filter: blur(4px);
+}
+
+.btn-primary:hover {
+	background: rgba(255, 255, 255, .28);
+	box-shadow: none;
+	transform: translateY(-1px);
+	color: #ffffff;
+}
+
+/* When btn-primary is outside the gradient header (e.g. in modals/forms) */
+.modal .btn-primary,
+.form-actions .btn-primary,
+.alert-actions .btn-primary {
+	background: var(--em-primary);
+	border-color: var(--em-primary);
+	color: #ffffff;
+	backdrop-filter: none;
+}
+
+.modal .btn-primary:hover,
+.form-actions .btn-primary:hover,
+.alert-actions .btn-primary:hover {
+	background: var(--em-primary-hover);
+	border-color: var(--em-primary-hover);
+	box-shadow: var(--em-shadow-sm);
+}
+
+.btn-ghost {
+	background: transparent;
+	border-color: transparent;
+	color: var(--em-text-muted);
+	box-shadow: none;
+}
+
+.btn-ghost:hover {
+	background: var(--em-bg-soft);
+	color: var(--em-text);
+	border-color: var(--em-border);
+}
+
+.btn-icon {
+	padding: 8px;
+	border-radius: var(--em-radius-md);
+	width: 36px;
+	height: 36px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.btn-danger {
+	border-color: rgba(220, 34, 102, .20);
+	color: var(--em-danger);
+	background: rgba(220, 34, 102, .08);
+}
+
+.btn-danger:hover {
+	background: rgba(220, 34, 102, .12);
+	border-color: var(--em-danger);
+}
+
+.btn[disabled] {
+	opacity: 0.45;
+	cursor: not-allowed;
+	pointer-events: none;
+}
+
+.btn-small {
+	padding: 7px 12px;
+	font-size: 12px;
+	justify-content: center;
+}
+
+.btn-small.btn-icon-only {
+	padding: 7px;
+	width: 34px;
+	height: 34px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.btn svg {
+	width: 16px;
+	height: 16px;
+	flex-shrink: 0;
+	stroke-width: 2;
+}
+
+.btn-small svg {
+	width: 14px;
+	height: 14px;
+}
+
+/* ============================================================
+   9. Top controls / search
+   ============================================================ */
+
+.top-controls {
+	display: flex;
+	gap: 12px;
+	align-items: center;
+	margin-bottom: 20px;
+	flex-wrap: wrap;
+}
+
+.search-wrap {
+	position: relative;
+	flex: 1;
+	min-width: 280px;
+}
+
+.search-icon {
+	position: absolute;
+	left: 14px;
+	top: 50%;
+	transform: translateY(-50%);
+	color: var(--em-text-light);
+	pointer-events: none;
+	width: 18px;
+	height: 18px;
+}
+
+.search-input {
+	padding-left: 42px;
+}
+
+#search-emails.search-input,
+#search-lists.search-input {
+	-webkit-appearance: textfield;
+	appearance: textfield;
+	padding: 2px 5px 2px 42px;
+}
+
+/* ============================================================
+   10. Inputs
+   ============================================================ */
+
+.input {
+	width: 100%;
+	background: var(--em-bg-card);
+	border: 1px solid var(--em-border);
+	border-radius: var(--em-radius-md);
+	padding: 10px 14px;
+	color: var(--em-text);
+	font-size: 14px;
+	transition: border-color 160ms ease, box-shadow 160ms ease;
+	font-family: inherit;
+}
+
+.input::placeholder {
+	color: var(--em-text-light);
+}
+
+.input:focus {
+	outline: none;
+	border-color: var(--em-primary);
+	box-shadow: 0 0 0 3px rgba(14, 98, 107, .12);
+}
+
+textarea.input {
+	resize: vertical;
+	min-height: 100px;
+}
+
+/* ============================================================
+   11. Email tags
+   ============================================================ */
+
+.email-tags-container {
+	width: 100%;
+}
+
+.email-tags-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+	padding: 12px;
+	min-height: 50px;
+	background: var(--em-bg-card);
+	border: 1px solid var(--em-border);
+	border-radius: var(--em-radius-md);
+	margin-bottom: 8px;
+	transition: border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.email-tags-wrapper:focus-within {
+	border-color: var(--em-primary);
+	box-shadow: 0 0 0 3px rgba(14, 98, 107, .12);
+}
+
+.email-tag {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	background: var(--em-accent-light);
+	color: var(--em-primary);
+	padding: 5px 10px;
+	border-radius: var(--em-radius-sm);
+	font-size: 13px;
+	font-weight: 600;
+	border: 1px solid rgba(14, 98, 107, .18);
+	transition: all 160ms ease;
+	animation: em-tagSlideIn 0.2s ease-out;
+}
+
+@keyframes em-tagSlideIn {
+	from { opacity: 0; transform: translateY(-4px); }
+	to   { opacity: 1; transform: translateY(0); }
+}
+
+.email-tag:hover {
+	background: rgba(82, 178, 187, .18);
+	border-color: var(--em-primary);
+}
+
+.email-tag-text {
+	color: var(--em-primary);
+	line-height: 1.4;
+}
+
+.email-tag-remove {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 16px;
+	height: 16px;
+	padding: 0;
+	margin: 0;
+	border: none;
+	background: transparent;
+	color: var(--em-primary);
+	cursor: pointer;
+	border-radius: 50%;
+	transition: all 150ms ease;
+	flex-shrink: 0;
+}
+
+.email-tag-remove:hover {
+	background: rgba(14, 98, 107, .18);
+	color: var(--em-primary-hover);
+	transform: scale(1.1);
+}
+
+.email-tag-remove:active {
+	transform: scale(0.95);
+}
+
+.email-tag-remove svg {
+	width: 12px;
+	height: 12px;
+	stroke-width: 2.5;
+}
+
+.email-tags-input-wrapper {
+	display: flex;
+	gap: 8px;
+	align-items: stretch;
+}
+
+.email-tags-input {
+	flex: 1;
+	margin-bottom: 0;
+}
+
+.email-tags-input:focus {
+	outline: none;
+	border-color: var(--em-primary);
+	box-shadow: 0 0 0 3px rgba(14, 98, 107, .12);
+}
+
+.email-tags-add-btn {
+	white-space: nowrap;
+	flex-shrink: 0;
+	min-width: 80px;
+}
+
+/* ============================================================
+   12. WordPress editor (TinyMCE)
+   ============================================================ */
+
+.wp-editor-container {
+	border: 1px solid var(--em-border);
+	border-radius: var(--em-radius-md);
+	overflow: hidden;
+	background: var(--em-bg-card);
+}
+
+.wp-editor-container textarea.wp-editor-area {
+	border: none;
+	border-radius: 0;
+	padding: 12px;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.6;
+	color: var(--em-text);
+	background: var(--em-bg-card);
+	resize: vertical;
+	min-height: 300px;
+}
+
+.wp-editor-container .mce-toolbar {
+	background: var(--em-bg-soft);
+	border-bottom: 1px solid var(--em-border);
+	padding: 4px;
+}
+
+.wp-editor-container .mce-statusbar {
+	background: var(--em-bg-soft);
+	border-top: 1px solid var(--em-border);
+}
+
+.wp-switch-editor {
+	border: 1px solid var(--em-border);
+	border-bottom: none;
+	border-radius: var(--em-radius-md) var(--em-radius-md) 0 0;
+	background: var(--em-bg-soft);
+	padding: 6px 12px;
+	font-size: 13px;
+	color: var(--em-text-muted);
+	cursor: pointer;
+	display: inline-block;
+	margin-right: 2px;
+}
+
+.wp-switch-editor:hover {
+	background: var(--em-bg-card);
+	color: var(--em-text);
+}
+
+.wp-switch-editor.switch-tmce {
+	border-right: none;
+}
+
+.wp-switch-editor.switch-html {
+	border-left: none;
+}
+
+.wp-editor-tabs {
+	margin-right: 15px !important;
+}
+
+#email_content_ifr {
+	max-height: 282px !important;
+}
+
+/* ============================================================
+   13. View toggle
+   ============================================================ */
+
+.view-toggle {
+	display: inline-flex;
+	border: 1px solid var(--em-border);
+	border-radius: var(--em-radius-md);
+	overflow: hidden;
+	background: var(--em-bg-card);
+	box-shadow: var(--em-shadow-sm);
+	margin: 0 5px;
+}
+
+.view-toggle .btn-small {
+	border: 0;
+	border-radius: 0;
+	background: transparent;
+	margin: 0;
+	transition: all 160ms ease;
+}
+
+.view-toggle .btn-small:hover {
+	background: var(--em-bg-soft);
+}
+
+.view-toggle .btn-small[aria-pressed="true"] {
+	background: var(--em-accent-light);
+	color: var(--em-primary);
+	font-weight: 600;
+}
+
+.view-toggle .btn-small:not(:last-child) {
+	border-right: 1px solid var(--em-border);
+}
+
+/* ============================================================
+   14. Stat cards
+   ============================================================ */
+
+.stats {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	gap: 14px;
+	margin-bottom: 20px;
+}
+
+.stat-card {
+	background: var(--em-bg-card);
+	border: 1px solid var(--em-border);
+	border-radius: var(--em-radius-lg);
+	padding: 20px 22px;
+	box-shadow: var(--em-shadow-sm);
+	transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+	position: relative;
+	overflow: hidden;
+}
+
+.stat-card::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 3px;
+	background: var(--em-rail-grad);
+	opacity: 0;
+	transition: opacity 180ms ease;
+}
+
+.stat-card:hover {
+	transform: translateY(-2px);
+	box-shadow: var(--em-shadow-md);
+	border-color: rgba(14, 98, 107, .30);
+}
+
+.stat-card:hover::before {
+	opacity: 1;
+}
+
+.stat-title {
+	color: var(--em-text-muted);
+	font-size: 10px;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	margin-bottom: 8px;
+}
+
+.stat-value {
+	font-size: 28px;
+	font-weight: 700;
+	color: var(--em-text);
+	line-height: 1.2;
+	letter-spacing: -0.02em;
+}
+
+/* ============================================================
+   15. Email cards grid
+   ============================================================ */
+
+.cards-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+	gap: 20px;
+	margin-top: 20px;
+}
+
+.email-card {
+	position: relative;
+	background: var(--em-bg-card);
+	border: 1px solid var(--em-border);
+	border-radius: var(--em-radius-lg);
+	padding: 20px 22px;
+	box-shadow: var(--em-shadow-sm);
+	transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+	overflow: hidden;
+}
+
+.email-card::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 3px;
+	background: var(--em-rail-grad);
+	opacity: 0;
+	transition: opacity 180ms ease;
+}
+
+.email-card:hover {
+	box-shadow: var(--em-shadow-md);
+	transform: translateY(-2px);
+	border-color: rgba(14, 98, 107, .30);
+}
+
+.email-card:hover::before {
+	opacity: 1;
+}
+
+.email-card-header {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+	gap: 12px;
+	margin-bottom: 12px;
+}
+
+.email-card-subject {
+	font-weight: 600;
+	color: var(--em-text);
+	font-size: 15px;
+	line-height: 1.4;
+	flex: 1;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+
+.status {
+	padding: 3px 10px;
+	border-radius: 999px;
+	font-size: 10px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.06em;
+	white-space: nowrap;
+	flex-shrink: 0;
+}
+
+.status.sent {
+	background: rgba(8, 184, 59, .10);
+	color: var(--em-success);
+}
+
+.status.pending {
+	background: rgba(217, 119, 6, .10);
+	color: var(--em-warning);
+}
+
+.status.failed {
+	background: rgba(220, 34, 102, .10);
+	color: var(--em-danger);
+}
+
+.email-card-body {
+	color: var(--em-text-muted);
+	font-size: 13px;
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	margin-bottom: 14px;
+}
+
+.email-card-body strong {
+	color: var(--em-text);
+	font-weight: 600;
+}
+
+.email-card-created-row {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 12px;
+}
+
+.email-card-actions {
+	display: flex;
+	gap: 8px;
+	justify-content: flex-end;
+	padding-top: 12px;
+	border-top: 1px solid var(--em-border);
+}
+
+.select-overlay {
+	position: absolute;
+	top: 16px;
+	right: 12px;
+	z-index: 10;
+}
+
+/* ============================================================
+   16. Table
+   ============================================================ */
+
+.table-wrap {
+	overflow: auto;
+	border: 1px solid var(--em-border);
+	border-radius: var(--em-radius-lg);
+	background: var(--em-bg-card);
+	box-shadow: var(--em-shadow-sm);
+}
+
+.table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.table th,
+.table td {
+	padding: 14px 16px;
+	text-align: left;
+	border-bottom: 1px solid var(--em-border);
+}
+
+.table th {
+	position: sticky;
+	top: 0;
+	background: var(--em-bg-soft);
+	font-weight: 600;
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	color: var(--em-text-muted);
+	z-index: 10;
+}
+
+.table tbody tr {
+	transition: background-color 120ms ease;
+}
+
+.table tbody tr:hover {
+	background: var(--em-bg-soft);
+}
+
+.table tbody tr:last-child td {
+	border-bottom: none;
+}
+
+.table.select-disabled .row-check,
+.table.select-disabled #select-all {
+	display: none;
+}
+
+/* ============================================================
+   17. Forms
+   ============================================================ */
+
+.form {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.form-row {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	margin-bottom: 18px;
+}
+
+.form-row label {
+	font-size: 13px;
+	font-weight: 600;
+	color: var(--em-text);
+}
+
+.form-actions {
+	display: flex;
+	gap: 10px;
+	justify-content: flex-end;
+	margin-top: 20px;
+	padding-top: 20px;
+	border-top: 1px solid var(--em-border);
+}
+
+.hint {
+	color: var(--em-text-light);
+	font-size: 12px;
+	margin-top: 4px;
+}
+
+.error {
+	color: var(--em-danger);
+	font-size: 12px;
+	margin-top: 4px;
+}
+
+.vortem-em-field-error {
+	color: var(--em-danger);
+	font-size: 12px;
+	margin-top: 6px;
+	line-height: 1.4;
+}
+
+.form-row.has-error > .input,
+.form-row.has-error input.input,
+.form-row.has-error .email-tags-container {
+	border-color: var(--em-danger);
+	box-shadow: 0 0 0 1px var(--em-danger);
+}
+
+/* ============================================================
+   18. Usage card
+   ============================================================ */
+
+.usage-card {
+	background: var(--em-bg-card);
+	border: 1px solid var(--em-border);
+	border-radius: var(--em-radius-lg);
+	padding: 22px;
+	box-shadow: var(--em-shadow-sm);
+	margin-bottom: 20px;
+}
+
+.usage-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 14px;
+}
+
+.usage-title {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.usage-title .dot {
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background: var(--em-primary);
+	box-shadow: 0 0 0 4px rgba(14, 98, 107, .15);
+	animation: em-pulse 2s ease-in-out infinite;
+}
+
+@keyframes em-pulse {
+	0%, 100% { opacity: 1; }
+	50% { opacity: 0.6; }
+}
+
+.usage-title h3 {
+	margin: 0;
+	font-size: 15px;
+	font-weight: 600;
+	color: var(--em-text);
+}
+
+.progress {
+	width: 100%;
+	height: 8px;
+	background: var(--em-bg-soft);
+	border-radius: 999px;
+	overflow: hidden;
+	margin-bottom: 12px;
+}
+
+.bar {
+	height: 100%;
+	background: var(--em-rail-grad);
+	width: 0%;
+	transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+	border-radius: 999px;
+}
+
+.usage-stats {
+	display: flex;
+	gap: 16px;
+	align-items: center;
+	color: var(--em-text-muted);
+	font-size: 13px;
+	flex-wrap: wrap;
+}
+
+.usage-stats strong {
+	color: var(--em-text);
+	font-weight: 600;
+}
+
+/* ============================================================
+   19. Bulk bar
+   ============================================================ */
+
+.bulk-bar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 14px;
+	margin-bottom: 16px;
+	border: 1px solid var(--em-border);
+	border-radius: var(--em-radius-lg);
+	padding: 14px 18px;
+	background: var(--em-bg-card);
+	box-shadow: var(--em-shadow-sm);
+}
+
+.bulk-left {
+	display: flex;
+	gap: 10px;
+	align-items: center;
+}
+
+.badge {
+	padding: 5px 12px;
+	border-radius: 999px;
+	background: var(--em-accent-light);
+	color: var(--em-primary);
+	font-weight: 600;
+	font-size: 12px;
+}
+
+.bulk-actions {
+	display: flex;
+	gap: 8px;
+}
+
+/* ============================================================
+   20. Toast
+   ============================================================ */
+
+.toast {
+	position: fixed;
+	bottom: 24px;
+	right: 24px;
+	padding: 14px 20px;
+	border-radius: var(--em-radius-md);
+	background: var(--em-bg-card);
+	border: 1px solid var(--em-border);
+	opacity: 0;
+	transform: translateY(20px);
+	transition: all 200ms ease;
+	pointer-events: none;
+	color: var(--em-text);
+	box-shadow: var(--em-shadow-md);
+	z-index: 100002;
+	max-width: 400px;
+}
+
+.toast.show {
+	opacity: 1;
+	transform: translateY(0);
+	pointer-events: auto;
+}
+
+/* Toast alert */
+.toast-alert {
+	position: fixed;
+	bottom: 24px;
+	right: 24px;
+	padding: 16px 20px;
+	border-radius: var(--em-radius-md);
+	background: var(--em-bg-card);
+	border: 1px solid var(--em-warning);
+	opacity: 0;
+	transform: translateY(20px) scale(0.95);
+	transition: all 200ms ease;
+	pointer-events: none;
+	color: var(--em-text);
+	box-shadow: var(--em-shadow-md);
+	z-index: 10001;
+	max-width: 420px;
+	min-width: 320px;
+}
+
+.toast-alert.show {
+	opacity: 1;
+	transform: translateY(0) scale(1);
+	pointer-events: auto;
+}
+
+.toast-alert-content {
+	display: flex;
+	align-items: flex-start;
+	gap: 12px;
+}
+
+.toast-alert-icon {
+	flex-shrink: 0;
+	width: 24px;
+	height: 24px;
+	color: var(--em-warning);
+	margin-top: 2px;
+}
+
+.toast-alert-message {
+	flex: 1;
+	font-size: 13px;
+	line-height: 1.5;
+	color: var(--em-text);
+	font-weight: 500;
+}
+
+/* ============================================================
+   21. Modal - Wizard-matched
+   ============================================================ */
+
+.modal {
+	position: fixed;
+	inset: 0;
+	display: none;
+	align-items: center;
+	justify-content: center;
+	z-index: 1000;
+	animation: em-fadeIn 0.2s ease-out;
+}
+
+.modal.show {
+	display: flex;
+}
+
+.modal-backdrop {
+	position: absolute;
+	inset: 0;
+	background: rgba(17, 24, 39, .35);
+	backdrop-filter: blur(4px);
+	-webkit-backdrop-filter: blur(4px);
+	animation: em-fadeIn 0.2s ease-out;
+}
+
+.modal-dialog {
+	position: relative;
+	width: min(640px, 90vw);
+	max-height: 90vh;
+	overflow-y: auto;
+	background: var(--em-bg-card);
+	border: 1px solid var(--em-border);
+	border-radius: var(--em-radius-xl);
+	box-shadow: 0 24px 48px -16px rgba(14, 98, 107, .22);
+	padding: 32px;
+	z-index: 10;
+	animation: em-slideUp 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes em-slideUp {
+	from { opacity: 0; transform: translateY(16px); }
+	to   { opacity: 1; transform: translateY(0); }
+}
+
+.modal-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 20px;
+	padding-bottom: 16px;
+	border-bottom: 1px solid var(--em-border);
+}
+
+.modal-header h3 {
+	margin: 0;
+	font-size: 20px;
+	font-weight: 700;
+	color: var(--em-text);
+	letter-spacing: -0.01em;
+}
+
+/* Alert dialog */
+.alert-dialog {
+	width: min(480px, 90vw);
+	padding: 0;
+	overflow: hidden;
+}
+
+.alert-header {
+	display: flex;
+	align-items: center;
+	gap: 14px;
+	padding: 24px 28px;
+	background: var(--em-bg-soft);
+	border-bottom: 1px solid var(--em-border);
+	position: relative;
+}
+
+.alert-icon {
+	width: 48px;
+	height: 48px;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-shrink: 0;
+	animation: em-scaleIn 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes em-scaleIn {
+	from { opacity: 0; transform: scale(0.8); }
+	to   { opacity: 1; transform: scale(1); }
+}
+
+.alert-icon svg {
+	width: 24px;
+	height: 24px;
+}
+
+.alert-icon.warning {
+	background: rgba(217, 119, 6, .10);
+	color: var(--em-warning);
+}
+
+.alert-icon.danger {
+	background: rgba(220, 34, 102, .10);
+	color: var(--em-danger);
+}
+
+.alert-icon.success {
+	background: rgba(8, 184, 59, .10);
+	color: var(--em-success);
+}
+
+.alert-icon.info {
+	background: var(--em-accent-light);
+	color: var(--em-primary);
+}
+
+.alert-header h3 {
+	flex: 1;
+	margin: 0;
+	font-size: 18px;
+	font-weight: 700;
+	color: var(--em-text);
+}
+
+.alert-header .btn-icon {
+	position: absolute;
+	top: 16px;
+	right: 16px;
+}
+
+.alert-body {
+	padding: 20px 28px;
+}
+
+.alert-body p {
+	margin: 0;
+	font-size: 14px;
+	color: var(--em-text-muted);
+	line-height: 1.6;
+}
+
+.alert-actions {
+	display: flex;
+	gap: 10px;
+	justify-content: flex-end;
+	padding: 16px 28px;
+	background: var(--em-bg-soft);
+	border-top: 1px solid var(--em-border);
+}
+
+/* ============================================================
+   22. Login panel
+   ============================================================ */
+
+#panel-login {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 60vh;
+}
+
+#login-form {
+	width: 100%;
+	max-width: 400px;
+}
+
+/* ============================================================
+   23. Pagination
+   ============================================================ */
+
+.pagination {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 6px;
+	margin: 20px 0;
+	flex-wrap: wrap;
+}
+
+.pagination .btn-small {
+	min-width: 34px;
+	padding: 7px 10px;
+}
+
+.pagination .btn-small.disabled {
+	opacity: 0.45;
+	cursor: not-allowed;
+	pointer-events: none;
+}
+
+.pagination-page {
+	min-width: 34px;
+}
+
+.pagination-page.active {
+	background: var(--em-accent-light);
+	color: var(--em-primary);
+	font-weight: 600;
+}
+
+.pagination-ellipsis {
+	padding: 7px 4px;
+	color: var(--em-text-light);
+	user-select: none;
+}
+
+.pagination-info {
+	margin-left: auto;
+	color: var(--em-text-muted);
+	font-size: 12px;
+	padding: 7px 10px;
+}
+
+/* ============================================================
+   24. Utility classes
+   ============================================================ */
+
+.muted {
+	color: var(--em-text-muted);
+}
+
+.list-status {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	flex-wrap: wrap;
+}
+
+.list-info-row {
+	background: var(--em-bg-card);
+	opacity: 0;
+	max-height: 0;
+	overflow: hidden;
+	transition: opacity 200ms ease, max-height 200ms ease;
+}
+
+.list-info-row.show {
+	opacity: 1;
+	max-height: 1000px;
+}
+
+.list-info-row td {
+	padding: 0;
+}
+
+.list-info-content {
+	padding: 14px;
+	opacity: 0;
+	transform: translateY(-8px);
+	transition: opacity 200ms ease, transform 200ms ease;
+}
+
+.list-info-row.show .list-info-content {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+.list-info-details {
+	padding: 14px;
+	background: var(--em-bg-soft);
+	border-radius: var(--em-radius-md);
+}
+
+.email-card-info {
+	opacity: 0;
+	max-height: 0;
+	overflow: hidden;
+	transition: opacity 200ms ease, max-height 200ms ease;
+}
+
+.email-card-info.show {
+	opacity: 1;
+	max-height: 1000px;
+}
+
+.grid {
+	display: grid;
+}
+
+.two-cols {
+	grid-template-columns: repeat(2, 1fr);
+}
+
+.gap {
+	gap: 14px;
+}
+
+/* ============================================================
+   25. Responsive
+   ============================================================ */
+
+@media screen and (max-width: 768px) {
+	.vortem-email-marketing-wrap #vortem-email-marketing-app {
+		padding: 0;
+	}
+
+	.app-header {
+		padding: 16px 18px;
+		flex-wrap: wrap;
+	}
+
+	.tabs {
+		order: 3;
+		width: 100%;
+		overflow-x: auto;
+		padding: 6px 0;
+	}
+
+	.modern-header {
+		padding: 20px;
+		flex-direction: column;
+		align-items: flex-start;
+		border-radius: var(--em-radius-lg);
+	}
+
+	.modern-header-actions {
+		width: 100%;
+		flex-wrap: wrap;
+	}
+
+	.top-controls {
+		flex-direction: column;
+	}
+
+	.search-wrap {
+		width: 100%;
+	}
+
+	.cards-grid {
+		grid-template-columns: 1fr;
+	}
+
+	.stats {
+		grid-template-columns: 1fr;
+	}
+
+	.modal-dialog {
+		padding: 20px;
+		margin: 16px;
+		border-radius: var(--em-radius-lg);
+	}
+
+	.pagination {
+		flex-direction: column;
+		gap: 10px;
+	}
+
+	.pagination-info {
+		margin-left: 0;
+		text-align: center;
+	}
+
+	.two-cols {
+		grid-template-columns: 1fr;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.modern-header {
+		padding: 18px 14px;
+	}
+
+	.modal-dialog {
+		padding: 18px;
+		margin: 10px;
+	}
+
+	.title {
+		font-size: 18px;
+	}
+
+	.brand h1 {
+		font-size: 18px;
+	}
+}
+
+/* ============================================================
+   26. Email quota warning notice
+   ============================================================ */
+
+.vortem-email-marketing-wrap .vortem-daily-limit-warning,
+.vortem-daily-limit-warning {
+	margin: 0 0 20px 0 !important;
+	padding: 0 !important;
+	border-radius: var(--em-radius-lg) !important;
+	overflow: hidden !important;
+	box-shadow: 0 4px 16px rgba(217, 119, 6, .15) !important;
+	animation: em-slideDown 0.3s ease-out !important;
+}
+
+.vortem-email-marketing-wrap .vortem-daily-limit-warning-content,
+.vortem-daily-limit-warning-content {
+	background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%) !important;
+	border: 1px solid rgba(217, 119, 6, .25) !important;
+	border-left: 4px solid #D97706 !important;
+	border-radius: var(--em-radius-lg) !important;
+	padding: 18px 22px !important;
+	display: flex !important;
+	align-items: flex-start !important;
+	gap: 14px !important;
+}
+
+.vortem-email-marketing-wrap .vortem-daily-limit-warning-icon {
+	font-size: 22px !important;
+	line-height: 1 !important;
+	flex-shrink: 0 !important;
+}
+
+.vortem-email-marketing-wrap .vortem-daily-limit-warning-text {
+	flex: 1 !important;
+}
+
+.vortem-email-marketing-wrap .vortem-daily-limit-warning-text strong {
+	display: block !important;
+	font-size: 15px !important;
+	font-weight: 700 !important;
+	color: #856404 !important;
+	margin: 0 0 6px 0 !important;
+	line-height: 1.4 !important;
+}
+
+.vortem-email-marketing-wrap .vortem-daily-limit-warning-text p {
+	margin: 0 !important;
+	font-size: 13px !important;
+	color: #856404 !important;
+	line-height: 1.5 !important;
+}
+
+/* ============================================================
+   27. Email quota error notice (red)
+   ============================================================ */
+
+.vortem-email-marketing-wrap .vortem-daily-limit-error,
+.vortem-daily-limit-error {
+	margin: 0 0 20px 0 !important;
+	padding: 0 !important;
+	border-radius: var(--em-radius-lg) !important;
+	overflow: hidden !important;
+	box-shadow: 0 4px 16px rgba(220, 34, 102, .15) !important;
+	animation: em-slideDown 0.3s ease-out !important;
+}
+
+.vortem-email-marketing-wrap .vortem-daily-limit-error-content,
+.vortem-daily-limit-error-content {
+	background: linear-gradient(135deg, #fee2e2 0%, #fecaca 100%) !important;
+	border: 1px solid rgba(220, 34, 102, .25) !important;
+	border-left: 4px solid #DC2266 !important;
+	border-radius: var(--em-radius-lg) !important;
+	padding: 18px 22px !important;
+	display: flex !important;
+	align-items: flex-start !important;
+	gap: 14px !important;
+}
+
+.vortem-email-marketing-wrap .vortem-daily-limit-error-icon {
+	font-size: 22px !important;
+	line-height: 1 !important;
+	flex-shrink: 0 !important;
+}
+
+.vortem-email-marketing-wrap .vortem-daily-limit-error-text {
+	flex: 1 !important;
+}
+
+.vortem-email-marketing-wrap .vortem-daily-limit-error-text strong {
+	display: block !important;
+	font-size: 15px !important;
+	font-weight: 700 !important;
+	color: #991b1b !important;
+	margin: 0 0 6px 0 !important;
+	line-height: 1.4 !important;
+}
+
+.vortem-email-marketing-wrap .vortem-daily-limit-error-text p {
+	margin: 0 !important;
+	font-size: 13px !important;
+	color: #991b1b !important;
+	line-height: 1.5 !important;
+}
+
+@keyframes em-slideDown {
+	from { opacity: 0; transform: translateY(-8px); }
+	to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ============================================================
+   28. Email preview modal
+   ============================================================ */
+
+.email-preview-dialog {
+	width: min(900px, 95vw);
+	max-height: 90vh;
+	padding: 0;
+	overflow: hidden;
+}
+
+.email-preview-content {
+	max-height: calc(90vh - 80px);
+	overflow-y: auto;
+	padding: 0;
+}
+
+.email-preview-root {
+	padding: 24px;
+}
+
+.email-preview-root .email-preview-container {
+	max-width: 700px;
+	margin: 0 auto;
+	border: 1px solid var(--em-border);
+	border-radius: var(--em-radius-lg);
+	padding: 20px;
+	background: #ffffff;
+}
+
+.email-preview-root .email-preview-header {
+	border-bottom: 1px solid var(--em-border);
+	padding-bottom: 12px;
+	margin-bottom: 16px;
+}
+
+.email-preview-root .email-preview-subject {
+	font-weight: 700;
+	font-size: 18px;
+	color: var(--em-text);
+	margin-bottom: 4px;
+}
+
+.email-preview-root .email-preview-recipient {
+	color: var(--em-text-muted);
+	font-size: 13px;
+}
+
+.email-preview-root .email-preview-body {
+	font-family: Arial, sans-serif;
+	line-height: 1.6;
+	color: var(--em-text);
+}
+
+.email-preview-root .email-preview-body img {
+	max-width: 100%;
+	height: auto;
+}
+
+.email-preview-root .email-preview-body a {
+	color: var(--em-primary);
+	text-decoration: underline;
+}
+
+.email-preview-root .email-preview-body table {
+	border-collapse: collapse;
+	width: 100%;
+	margin: 16px 0;
+}
+
+.email-preview-root .email-preview-body table td,
+.email-preview-root .email-preview-body table th {
+	border: 1px solid var(--em-border);
+	padding: 8px 12px;
+	text-align: left;
+}
+
+.email-preview-root .email-preview-body table th {
+	background: var(--em-bg-soft);
+	font-weight: 600;
+}
+
+.email-preview-root .email-preview-recipients-list {
+	background: var(--em-bg-soft);
+	padding: 12px;
+	border-radius: var(--em-radius-sm);
+	margin-top: 8px;
+	max-height: 200px;
+	overflow-y: auto;
+	font-size: 13px;
+	font-family: monospace;
+}
+
+.email-preview-root .email-preview-recipients-list code {
+	font-size: 12px;
+	display: block;
+	padding: 2px 0;
+}
+
+.email-preview-root .email-preview-section-label {
+	font-weight: 600;
+	margin-bottom: 8px;
+	margin-top: 16px;
+	color: var(--em-text);
+}
+
+.email-preview-root .email-preview-no-recipients {
+	color: var(--em-text-muted);
+	font-style: italic;
+}
+
+/* ============================================================
+   29. Right controls group
+   ============================================================ */
+
+.right-controls {
+	display: flex;
+	align-items: center;
+	gap: 4px;
+}
+
+/* ============================================================
+   30. Reduced motion
+   ============================================================ */
+
+@media (prefers-reduced-motion: reduce) {
+	#vortem-email-marketing-app *,
+	#vortem-email-marketing-app *::before,
+	#vortem-email-marketing-app *::after {
+		animation-duration: 0.001ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.001ms !important;
+	}
+
+	.stat-card:hover,
+	.email-card:hover,
+	.btn:hover {
+		transform: none !important;
+	}
+}

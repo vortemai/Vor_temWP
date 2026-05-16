@@ -1,0 +1,3006 @@
+# Translation of Vortem AI in ko_KR
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "WooCommerce가 설치 및 활성화되어 있어야 합니다."
+
+msgid "or higher. You are running version"
+msgstr "이상. 현재 실행 중인 버전:"
+
+msgid "Welcome to vortem.ai!"
+msgstr "vortem.ai에 오신 것을 환영합니다!"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "Vortem.ai 설정 마법사"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "vortem.ai 플러그인을 선택해 주셔서 감사합니다. 이 마법사는 드롭쉬핑 스토어를 빠르고 쉽게 설정하도록 도와줍니다."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "Vortem의 제품 판매 서비스를 사용하려면 AliExpress 계정이 필요합니다. 설정 → Vortem 로그인 → AliExpress 통합에서 계정을 연결할 수 있습니다. 계정이 없으면 거기서 직접 가입할 수 있습니다."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "Vortem의 제품 판매 서비스를 사용하려면 AliExpress 계정이 필요합니다."
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "설정 → Vortem 로그인 → AliExpress 통합에서 계정을 연결할 수 있습니다."
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "계정이 없으면 거기서 직접 가입할 수 있습니다."
+
+msgid "Select Language"
+msgstr "언어 선택"
+
+msgid "Select Currency"
+msgstr "통화 선택"
+
+msgid "Complete Setup"
+msgstr "설정 완료"
+
+msgid "What you'll get:"
+msgstr "얻을 수 있는 것:"
+
+msgid "Automated product synchronization"
+msgstr "자동 제품 동기화"
+
+msgid "Order management and processing"
+msgstr "주문 관리 및 처리"
+
+msgid "Real-time inventory updates"
+msgstr "실시간 재고 업데이트"
+
+msgid "Easy-to-use admin interface"
+msgstr "사용하기 쉬운 관리자 인터페이스"
+
+msgid "24/7 customer support"
+msgstr "24/7 고객 지원"
+
+msgid "Contact Support"
+msgstr "지원 문의"
+
+msgid "Import Products"
+msgstr "제품 가져오기"
+
+msgid "Configure Settings"
+msgstr "설정 구성"
+
+msgid "Setup Complete!"
+msgstr "설정 완료!"
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "설정에는 약 2-3분이 소요됩니다."
+
+msgid "Terms & Conditions"
+msgstr "이용 약관"
+
+msgid "1. License Agreement"
+msgstr "1. 라이선스 계약"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "이 플러그인을 사용함으로써 귀하는 모든 적용 가능한 법률 및 규정을 준수하는 데 동의합니다. 이 플러그인은 GPL v2 또는 그 이후 버전의 라이선스 하에 제공됩니다."
+
+msgid "Sign up"
+msgstr "가입"
+
+msgid "Sign up to get started"
+msgstr "시작하려면 가입하세요"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "축하합니다! vortem.ai 플러그인이 성공적으로 설정되었습니다."
+
+msgid "What's next?"
+msgstr "다음 단계는 무엇인가요?"
+
+msgid "Need Help?"
+msgstr "도움이 필요하신가요?"
+
+msgid "Our support team is here to help you get started."
+msgstr "저희 지원 팀이 시작을 도와드리겠습니다."
+
+msgid "Step %1$d of %2$d"
+msgstr "단계 %1$d / %2$d"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "%1$s이용 약관%2$s을 읽었으며 이에 동의합니다"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "vortem.ai 플러그인 서비스 약관"
+
+msgid "1. authentication Agreement"
+msgstr "1. 라이선스 계약"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "이 플러그인을 사용함으로써 귀하는 모든 적용 가능한 법률 및 규정을 준수하는 데 동의합니다. 이 플러그인은 GPL v2 또는 그 이후 버전의 라이선스 하에 제공됩니다."
+
+msgid "2. Data Usage"
+msgstr "2. 데이터 사용"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "당사는 상품 정보, 주문 내역, 고객 데이터 등 드롭쉬핑 서비스 운영에 필요한 데이터를 수집하고 처리합니다. 모든 데이터는 당사의 개인정보 처리방침에 따라 처리됩니다."
+
+msgid "3. Service Availability"
+msgstr "3. 서비스 가용성"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "당사는 높은 서비스 가용성을 유지하기 위해 노력하지만, 중단 없는 서비스를 보장할 수는 없습니다. 당사는 필요에 따라 유지 보수 및 업데이트를 수행할 권리를 보유합니다."
+
+msgid "4. Support"
+msgstr "4. 지원"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "기술 지원은 당사의 지원 채널을 통해 제공됩니다. 응답 시간은 문제의 복잡성에 따라 달라질 수 있습니다."
+
+msgid "5. Updates"
+msgstr "5. 업데이트"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "기능 및 보안 향상을 위해 플러그인 업데이트가 제공됩니다. 플러그인을 최신 버전으로 유지하는 것이 좋습니다."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "플러그인을 활성화하고 모든 기능을 사용하려면 Vortem.ai 라이선스 키를 입력하십시오."
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "Vortem.ai 계정 대시보드에서 라이선스 키를 찾을 수 있습니다."
+
+msgid "Need help?"
+msgstr "도움이 필요하신가요?"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "설정 마법사를 완료하여 인증을 구성하고 시작하십시오."
+
+msgid "Vortem.ai Overview"
+msgstr "Vortem.ai 개요"
+
+msgid "Vortem.ai Products"
+msgstr "Vortem.ai 상품"
+
+msgid "Vortem.ai Settings"
+msgstr "Vortem.ai 설정"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "아래에서 Vortem.ai 설정을 구성하십시오."
+
+msgid "Saving settings and validating authentication..."
+msgstr "설정을 저장하고 라이선스를 확인하는 중..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "설정 완료 - Vortem.ai 플러그인을 사용할 준비가 되었습니다!"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "플러그인 인터페이스 언어를 선택하십시오. 변경 사항은 저장 후 적용됩니다."
+
+msgid "Vortem.ai AI Resources"
+msgstr "Vortem.ai AI 리소스"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "Vortem.ai AI 계정 및 리소스 액세스"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "Vortem.ai AI 계정 및 리소스 액세스:"
+
+msgid "Home"
+msgstr "홈"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "Vortem.ai AI 홈페이지 방문"
+
+msgid "Visit Site"
+msgstr "사이트 방문"
+
+msgid "My Account"
+msgstr "내 계정"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "Vortem.ai AI 계정 설정 관리"
+
+msgid "Support"
+msgstr "지원"
+
+msgid "Get help and support from our team"
+msgstr "우리 팀으로부터 도움 및 지원 받기"
+
+msgid "Documentation"
+msgstr "문서"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "포괄적인 가이드 및 튜토리얼 읽기"
+
+msgid "Terms"
+msgstr "약관"
+
+msgid "Review terms and conditions"
+msgstr "이용 약관 검토"
+
+msgid "Privacy"
+msgstr "개인정보 보호"
+
+msgid "View our privacy policy"
+msgstr "개인정보 보호 정책 보기"
+
+msgid "error"
+msgstr "오류"
+
+msgid "success"
+msgstr "성공"
+
+msgid "cancel"
+msgstr "취소"
+
+msgid "delete"
+msgstr "삭제"
+
+msgid "deleting"
+msgstr "삭제 중..."
+
+msgid "edit"
+msgstr "편집"
+
+msgid "close"
+msgstr "닫기"
+
+msgid "confirm"
+msgstr "확인"
+
+msgid "refresh"
+msgstr "새로 고침"
+
+msgid "import"
+msgstr "가져오기"
+
+msgid "actions"
+msgstr "작업"
+
+msgid "status"
+msgstr "상태"
+
+msgid "date"
+msgstr "날짜"
+
+msgid "subject"
+msgstr "제목"
+
+msgid "recipient"
+msgstr "수신자"
+
+msgid "total"
+msgstr "합계"
+
+msgid "items"
+msgstr "항목"
+
+msgid "customer"
+msgstr "고객"
+
+msgid "order"
+msgstr "주문"
+
+msgid "payment"
+msgstr "결제"
+
+msgid "active"
+msgstr "활성"
+
+msgid "inactive"
+msgstr "비활성"
+
+msgid "cards"
+msgstr "카드"
+
+msgid "table"
+msgstr "표"
+
+msgid "select"
+msgstr "선택"
+
+msgid "sent"
+msgstr "보냄"
+
+msgid "left"
+msgstr "남음"
+
+msgid "resets"
+msgstr "초기화됨"
+
+msgid "view_more"
+msgstr "더 보기"
+
+msgid "performance"
+msgstr "성능"
+
+msgid "insights"
+msgstr "인사이트"
+
+msgid "metrics"
+msgstr "지표"
+
+msgid "device"
+msgstr "기기"
+
+msgid "locale"
+msgstr "로케일"
+
+msgid "channel"
+msgstr "채널"
+
+msgid "desktop"
+msgstr "데스크톱"
+
+msgid "mobile"
+msgstr "모바일"
+
+msgid "retry"
+msgstr "재시도"
+
+msgid "failed"
+msgstr "실패"
+
+msgid "support"
+msgstr "4. 지원"
+
+msgid "documentation"
+msgstr "문서"
+
+msgid "are_you_sure"
+msgstr "확실합니까?"
+
+msgid "clear"
+msgstr "지우기"
+
+msgid "preview"
+msgstr "미리보기"
+
+msgid "send_email"
+msgstr "이메일 보내기"
+
+msgid "recipients"
+msgstr "수신자"
+
+msgid "question"
+msgstr "질문"
+
+msgid "answer"
+msgstr "답변"
+
+msgid "category"
+msgstr "카테고리:"
+
+msgid "category:"
+msgstr "카테고리:"
+
+msgid "showing"
+msgstr "표시 중"
+
+msgid "faqs"
+msgstr "FAQ"
+
+msgid "all_categories"
+msgstr "모든 카테고리"
+
+msgid "created"
+msgstr "생성됨"
+
+msgid "search_faqs"
+msgstr "FAQ 검색..."
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "FAQ를 어떻게 생성하시겠습니까?"
+
+msgid "Single FAQ"
+msgstr "단일 FAQ"
+
+msgid "Bulk FAQs"
+msgstr "대량 FAQ"
+
+msgid "no_faqs_added_yet"
+msgstr "아직 추가된 FAQ가 없습니다. 왼쪽에서 첫 번째 FAQ를 추가하세요."
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "아직 추가된 FAQ가 없습니다. 왼쪽에서 첫 번째 FAQ를 추가하세요."
+
+msgid "Added FAQs"
+msgstr "추가된 FAQ"
+
+msgid "update_faq"
+msgstr "FAQ 업데이트"
+
+msgid "category_label"
+msgstr "카테고리 *"
+
+msgid "select_existing_category_optional"
+msgstr "기존 카테고리 선택 (선택 사항)"
+
+msgid "create_faq"
+msgstr "FAQ 생성"
+
+msgid "delete_faq"
+msgstr "FAQ 삭제"
+
+msgid "delete_category"
+msgstr "카테고리 삭제"
+
+msgid "delete_category_faqs_confirm"
+msgstr "카테고리 \"%s\"의 모든 FAQ를 삭제하시겠습니까? 이 작업은 실행 취소할 수 없습니다."
+
+msgid "category_faqs_deleted"
+msgstr "카테고리 \"%s\"의 모든 FAQ가 삭제되었습니다."
+
+msgid "failed_to_delete_category_faqs"
+msgstr "이 카테고리의 FAQ 삭제에 실패했습니다. 다시 시도해 주십시오."
+
+msgid "category_id_not_found"
+msgstr "선택한 카테고리에 대한 카테고리 ID를 찾을 수 없습니다."
+
+msgid "orders"
+msgstr "주문"
+
+msgid "search_orders_by_number_customer_name_or_email"
+msgstr "주문 번호, 고객 이름 또는 이메일로 주문 검색..."
+
+msgid "last_updated"
+msgstr "마지막 업데이트:"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "분석 대시보드"
+
+msgid "Business Intelligence"
+msgstr "비즈니스 인텔리전스"
+
+msgid "Analytics Hub"
+msgstr "분석 허브"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "데이터 기반 의사 결정을 위한 고급 데이터 인텔리전스 기반의 포괄적인 분석 및 인사이트"
+
+msgid "Performance Overview"
+msgstr "성과 개요"
+
+msgid "Key performance indicators at a glance"
+msgstr "주요 성과 지표(KPI) 한눈에 보기"
+
+msgid "Analytics Insights"
+msgstr "분석 인사이트"
+
+msgid "Deep dive into performance metrics"
+msgstr "성과 지표 심층 분석"
+
+msgid "Customer Intelligence"
+msgstr "고객 인텔리전스"
+
+msgid "Understand customer behavior and trends"
+msgstr "고객 행동 및 트렌드 이해"
+
+msgid "Market Analysis"
+msgstr "시장 분석"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "포괄적인 시장 비교 및 카테고리 인사이트"
+
+msgid "Data Intelligence"
+msgstr "데이터 인텔리전스"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "상세 분석 표 및 가격 책정 인사이트"
+
+msgid "Product"
+msgstr "상품"
+
+msgid "Products"
+msgstr "상품"
+
+msgid "Average"
+msgstr "평균"
+
+msgid "No products found"
+msgstr "상품을 찾을 수 없음"
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "All KPI Products"
+msgstr "모든 KPI 상품"
+
+msgid "Top KPI Products"
+msgstr "상위 KPI 상품"
+
+msgid "Product ID"
+msgstr "상품 ID"
+
+msgid "Product Title"
+msgstr "상품명"
+
+msgid "Base Price"
+msgstr "기본 가격"
+
+msgid "Low-Risk Price"
+msgstr "저위험 가격"
+
+msgid "Competitive Price"
+msgstr "경쟁력 있는 가격"
+
+msgid "High-Risk Price"
+msgstr "고위험 가격"
+
+msgid "Untitled Product"
+msgstr "제목 없는 상품"
+
+msgid "All Trend Index Products"
+msgstr "모든 트렌드 지수 상품"
+
+msgid "Trend Index by Product"
+msgstr "상품별 트렌드 지수"
+
+msgid "Product Name"
+msgstr "상품명"
+
+msgid "Price vs Rating"
+msgstr "가격 대 평점"
+
+msgid "Price"
+msgstr "가격"
+
+msgid "Rating"
+msgstr "평점"
+
+msgid "Reviews"
+msgstr "리뷰"
+
+msgid "CTR"
+msgstr "클릭률 (CTR)"
+
+msgid "CVR"
+msgstr "전환율 (CVR)"
+
+msgid "Average Price"
+msgstr "평균 가격"
+
+msgid "Average Rating"
+msgstr "평균 평점"
+
+msgid "Product Count"
+msgstr "상품 수"
+
+msgid "Avg Price"
+msgstr "평균 가격"
+
+msgid "Avg Rating"
+msgstr "평균 평점"
+
+msgid "Failed to load"
+msgstr "로딩 실패"
+
+msgid "products"
+msgstr "제품"
+
+msgid "product"
+msgstr "상품"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "트렌드 지수"
+
+msgid "Profitability"
+msgstr "수익성"
+
+msgid "Competition"
+msgstr "경쟁"
+
+msgid "Demand Stability"
+msgstr "수요 안정성"
+
+msgid "View All"
+msgstr "모두 보기"
+
+msgid "price rating data"
+msgstr "가격 평점 데이터"
+
+msgid "Total Reviews"
+msgstr "총 리뷰"
+
+msgid "Avg Reviews"
+msgstr "평균 리뷰"
+
+msgid "Overall Sentiment"
+msgstr "전반적인 감성"
+
+msgid "Positive"
+msgstr "긍정적"
+
+msgid "Neutral"
+msgstr "중립"
+
+msgid "Negative"
+msgstr "부정적"
+
+msgid "Trend Status Overview"
+msgstr "트렌드 상태 개요"
+
+msgid "Rising"
+msgstr "상승 중"
+
+msgid "Stable"
+msgstr "안정적"
+
+msgid "Declining"
+msgstr "하락 중"
+
+msgid "sentiment data"
+msgstr "감성 데이터"
+
+msgid "trend status data"
+msgstr "트렌드 상태 데이터"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Category"
+msgstr "카테고리"
+
+msgid "All Categories"
+msgstr "모든 카테고리"
+
+msgid "Count"
+msgstr "개수"
+
+msgid "Percentage"
+msgstr "백분율"
+
+msgid "Market Comparison (by Source)"
+msgstr "시장 비교 (소스별)"
+
+msgid "Market"
+msgstr "시장"
+
+msgid "Best seller"
+msgstr "베스트셀러"
+
+msgid "Movers and shakers"
+msgstr "급상승"
+
+msgid "New releases"
+msgstr "신제품"
+
+msgid "market comparison data"
+msgstr "시장 비교 데이터"
+
+msgid "Category Comparison"
+msgstr "카테고리 비교"
+
+msgid "Category Comparison - All Data"
+msgstr "카테고리 비교 - 모든 데이터"
+
+msgid "Categories"
+msgstr "카테고리"
+
+msgid "Metrics"
+msgstr "지표"
+
+msgid "Avg Sold"
+msgstr "평균 판매량"
+
+msgid "Avg FPSI"
+msgstr "평균 FPSI"
+
+msgid "N/A"
+msgstr "해당 없음"
+
+msgid "value"
+msgstr "값"
+
+msgid "Unknown"
+msgstr "알 수 없음"
+
+msgid "category comparison data"
+msgstr "카테고리 비교 데이터"
+
+msgid "Amazon Device"
+msgstr "Amazon 기기"
+
+msgid "Appliances"
+msgstr "가전제품"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "예술, 공예 및 바느질"
+
+msgid "Automotive"
+msgstr "자동차"
+
+msgid "Baby Products"
+msgstr "유아용품"
+
+msgid "Baby"
+msgstr "유아"
+
+msgid "Beauty & Personal Care"
+msgstr "뷰티 및 퍼스널 케어"
+
+msgid "Cell Phones & Accessories"
+msgstr "휴대전화 및 액세서리"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "의류, 신발 및 보석"
+
+msgid "Collectibles & Fine Art"
+msgstr "수집품 및 미술품"
+
+msgid "Electronics"
+msgstr "전자제품"
+
+msgid "Health & Household"
+msgstr "건강 및 가정용품"
+
+msgid "Home & Kitchen"
+msgstr "가정 및 주방"
+
+msgid "Industrial & Scientific"
+msgstr "산업 및 과학"
+
+msgid "Musical Instruments"
+msgstr "악기"
+
+msgid "No category found"
+msgstr "카테고리를 찾을 수 없음"
+
+msgid "Office Products"
+msgstr "사무용품"
+
+msgid "Patio, Lawn & Garden"
+msgstr "테라스, 잔디 및 정원"
+
+msgid "Safety & Security"
+msgstr "안전 및 보안"
+
+msgid "Tools & Home Improvement"
+msgstr "공구 및 주택 개조"
+
+msgid "Toys & Games"
+msgstr "장난감 및 게임"
+
+msgid "Suggested Pricing"
+msgstr "권장 가격"
+
+msgid "All Suggested Pricing"
+msgstr "모든 권장 가격"
+
+msgid "suggested pricing data"
+msgstr "권장 가격 데이터"
+
+msgid "Search products..."
+msgstr "상품 검색..."
+
+msgid "Search products or categories..."
+msgstr "상품 또는 카테고리 검색..."
+
+msgid "Insights"
+msgstr "인사이트"
+
+msgid "Performance insights for"
+msgstr "성능 인사이트:"
+
+msgid "your website"
+msgstr "귀하의 웹사이트"
+
+msgid "Desktop"
+msgstr "데스크톱"
+
+msgid "Mobile"
+msgstr "모바일"
+
+msgid "Refresh"
+msgstr "새로 고침"
+
+msgid "Loading..."
+msgstr "로딩 중..."
+
+msgid "Core Web Vitals"
+msgstr "핵심 웹 지표 (Core Web Vitals)"
+
+msgid "Performance Audits"
+msgstr "성능 감사"
+
+msgid "View More"
+msgstr "더 보기"
+
+msgid "Performance Insights"
+msgstr "성능 인사이트"
+
+msgid "Analysis Configuration"
+msgstr "분석 구성"
+
+msgid "Device"
+msgstr "기기"
+
+msgid "Locale"
+msgstr "로케일"
+
+msgid "Channel"
+msgstr "채널"
+
+msgid "Loading Insights data..."
+msgstr "인사이트 데이터 로딩 중..."
+
+msgid "Error Loading Insights Data"
+msgstr "인사이트 데이터 로딩 오류"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "인사이트 분석 데이터를 가져오는 중 오류가 발생했습니다."
+
+msgid "Retry"
+msgstr "재시도"
+
+msgid "No Insights Data Available"
+msgstr "사용 가능한 인사이트 데이터 없음"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "사용 가능한 성능 분석 데이터가 없습니다. 분석이 아직 실행되지 않았거나 데이터를 가져오는 중 오류가 발생했을 수 있습니다."
+
+msgid "Last analyzed:"
+msgstr "최근 분석:"
+
+msgid "Performance"
+msgstr "성능"
+
+msgid "Accessibility"
+msgstr "접근성"
+
+msgid "Best Practices"
+msgstr "모범 사례"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "No performance metrics available"
+msgstr "사용 가능한 성능 지표 없음"
+
+msgid "No audit data available"
+msgstr "사용 가능한 감사 데이터 없음"
+
+msgid "No audits available"
+msgstr "사용 가능한 감사 없음"
+
+msgid "View Less"
+msgstr "간략히 보기"
+
+msgid "more"
+msgstr "더 보기"
+
+msgid "No insights available"
+msgstr "사용 가능한 인사이트 없음"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "성능 문제가 감지되지 않았습니다. 사이트가 잘 작동하고 있습니다!"
+
+msgid "Wasted:"
+msgstr "낭비됨:"
+
+msgid "Initializing..."
+msgstr "초기화 중..."
+
+msgid "Connecting to server..."
+msgstr "서버에 연결 중..."
+
+msgid "Fetching insights data..."
+msgstr "인사이트 데이터 가져오는 중..."
+
+msgid "Analyzing performance metrics..."
+msgstr "성능 지표 분석 중..."
+
+msgid "Processing audits and insights..."
+msgstr "감사 및 인사이트 처리 중..."
+
+msgid "Finalizing results..."
+msgstr "결과 마무리 중..."
+
+msgid "Complete!"
+msgstr "완료!"
+
+msgid "Failed to load Insights data"
+msgstr "인사이트 데이터 로딩 실패"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "인사이트 데이터 로딩에 실패했습니다. 연결을 확인하고 다시 시도해 주십시오."
+
+msgid "No data available"
+msgstr "데이터 없음"
+
+msgid "Excellent"
+msgstr "훌륭함"
+
+msgid "Needs Improvement"
+msgstr "개선 필요"
+
+msgid "Poor"
+msgstr "나쁨"
+
+msgid "Unknown error"
+msgstr "알 수 없는 오류"
+
+msgid "Email Marketing"
+msgstr "이메일 마케팅"
+
+msgid "Manage, send, and track your emails"
+msgstr "이메일 관리, 전송 및 추적"
+
+msgid "Emails"
+msgstr "이메일"
+
+msgid "Lists"
+msgstr "목록"
+
+msgid "Create Email"
+msgstr "이메일 생성"
+
+msgid "Search emails..."
+msgstr "이메일 검색..."
+
+msgid "Cards"
+msgstr "카드"
+
+msgid "Table"
+msgstr "표"
+
+msgid "Select"
+msgstr "선택"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Recipient"
+msgstr "수신자"
+
+msgid "Subject"
+msgstr "제목"
+
+msgid "Created"
+msgstr "생성됨"
+
+msgid "Actions"
+msgstr "작업"
+
+msgid "Email Lists"
+msgstr "이메일 목록"
+
+msgid "Manage, send, and track your email lists"
+msgstr "이메일 목록 관리, 전송 및 추적"
+
+msgid "Create Email List"
+msgstr "이메일 목록 생성"
+
+msgid "Search lists..."
+msgstr "목록 검색..."
+
+msgid "Download Template"
+msgstr "템플릿 다운로드"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "이메일 수신자.xlsx 템플릿 다운로드"
+
+msgid "Upload Template"
+msgstr "템플릿 업로드"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "이메일 수신자.xlsx 파일 업로드"
+
+msgid "Recipients"
+msgstr "수신자"
+
+msgid "Confirm Action"
+msgstr "작업 확인"
+
+msgid "Are you sure you want to proceed?"
+msgstr "계속하시겠습니까?"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Confirm"
+msgstr "확인"
+
+msgid "List Subject"
+msgstr "목록 제목"
+
+msgid "Subject for all recipients"
+msgstr "모든 수신자의 제목"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "이메일 주소를 입력하고 Enter를 누르거나 추가를 클릭하십시오"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "이메일 주소를 하나씩 입력하십시오. 태그의 X를 클릭하여 제거하십시오."
+
+msgid "Email Body (optional HTML)"
+msgstr "이메일 본문 (HTML 선택 사항)"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "비주얼 에디터를 사용하거나 텍스트 모드로 전환하여 HTML을 붙여넣을 수 있습니다."
+
+msgid "Send"
+msgstr "보내기"
+
+msgid "Preview"
+msgstr "미리보기"
+
+msgid "Clear"
+msgstr "지우기"
+
+msgid "Create New Email"
+msgstr "새 이메일 생성"
+
+msgid "Your subject"
+msgstr "제목"
+
+msgid "Email Body"
+msgstr "이메일 본문"
+
+msgid "Send Email"
+msgstr "이메일 보내기"
+
+msgid "Email Sent"
+msgstr "이메일 보냄"
+
+msgid "Your email has been sent successfully."
+msgstr "이메일이 성공적으로 전송되었습니다."
+
+msgid "OK"
+msgstr "확인"
+
+msgid "Total"
+msgstr "총계"
+
+msgid "Sent"
+msgstr "보냄"
+
+msgid "Read"
+msgstr "읽음"
+
+msgid "Revision"
+msgstr "수정"
+
+msgid "Sent Emails"
+msgstr "보낸 이메일"
+
+msgid "Export Excel"
+msgstr "Excel 내보내기"
+
+msgid "Updated"
+msgstr "업데이트됨"
+
+msgid "Failed"
+msgstr "실패"
+
+msgid "Pending"
+msgstr "대기 중"
+
+msgid "Show"
+msgstr "표시"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Update & Send"
+msgstr "업데이트 및 보내기"
+
+msgid "Sending..."
+msgstr "보내는 중..."
+
+msgid "Edit Email"
+msgstr "이메일 편집"
+
+msgid "Exit Select"
+msgstr "선택 종료"
+
+msgid "To:"
+msgstr "받는 사람:"
+
+msgid "Created:"
+msgstr "생성일:"
+
+msgid "Error"
+msgstr "오류"
+
+msgid "Success"
+msgstr "성공"
+
+msgid "Update Email List"
+msgstr "이메일 목록 업데이트"
+
+msgid "status_sent"
+msgstr "보냄"
+
+msgid "status_failed"
+msgstr "실패"
+
+msgid "status_pending"
+msgstr "대기 중"
+
+msgid "SENT"
+msgstr "보냄"
+
+msgid "Sent:"
+msgstr "보낸 시간:"
+
+msgid "Failed:"
+msgstr "실패:"
+
+msgid "Pending:"
+msgstr "대기 중:"
+
+msgid "Email sent"
+msgstr "이메일 보냄"
+
+msgid "Successfully sent"
+msgstr "성공적으로 보냄"
+
+msgid "email(s)"
+msgstr "이메일"
+
+msgid "Your email list has been sent successfully."
+msgstr "이메일 목록이 성공적으로 전송되었습니다."
+
+msgid "FAILED"
+msgstr "실패"
+
+msgid "PENDING"
+msgstr "대기 중"
+
+msgid "Total Lists"
+msgstr "전체 목록"
+
+msgid "Total Recipients"
+msgstr "전체 수신자"
+
+msgid "manage_send_and_track_your_email_lists"
+msgstr "이메일 목록 관리, 전송 및 추적"
+
+msgid "create_email_list"
+msgstr "이메일 목록 생성"
+
+msgid "add"
+msgstr "추가"
+
+msgid "send"
+msgstr "보내기"
+
+msgid "ok"
+msgstr "확인"
+
+msgid "security"
+msgstr "보안"
+
+msgid "welcome"
+msgstr "환영합니다"
+
+msgid "of"
+msgstr "중"
+
+msgid "we_collect_and_process"
+msgstr "당사는 상품 정보, 주문 내역, 고객 데이터 등 드롭쉬핑 서비스 운영에 필요한 데이터를 수집하고 처리합니다. 모든 데이터는 당사의 개인정보 처리방침에 따라 처리됩니다."
+
+msgid "while_we_strive"
+msgstr "당사는 높은 서비스 가용성을 유지하기 위해 노력하지만, 중단 없는 서비스를 보장할 수는 없습니다. 당사는 필요에 따라 유지 보수 및 업데이트를 수행할 권리를 보유합니다."
+
+msgid "previous"
+msgstr "이전"
+
+msgid "next"
+msgstr "다음"
+
+msgid "home"
+msgstr "홈"
+
+msgid "terms"
+msgstr "약관"
+
+msgid "Active"
+msgstr "활성"
+
+msgid "Not Set"
+msgstr "설정되지 않음"
+
+msgid "Import"
+msgstr "가져오기"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> 가져오기"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> 삭제"
+
+msgid "Importing..."
+msgstr "가져오는 중..."
+
+msgid "Deleting..."
+msgstr "삭제 중..."
+
+msgid "Already Imported"
+msgstr "이미 가져옴"
+
+msgid "Product deleted successfully"
+msgstr "상품이 성공적으로 삭제되었습니다"
+
+msgid "NEW"
+msgstr "신규"
+
+msgid "Added"
+msgstr "추가됨"
+
+msgid "Exists"
+msgstr "존재함"
+
+msgid "Showing"
+msgstr "표시 중"
+
+msgid "← Previous"
+msgstr "← 이전"
+
+msgid "Previous"
+msgstr "이전"
+
+msgid "Next →"
+msgstr "다음 →"
+
+msgid "Next"
+msgstr "다음"
+
+msgid "Processing..."
+msgstr "처리 중..."
+
+msgid "Please wait while we import your product"
+msgstr "상품을 가져오는 동안 잠시 기다려 주십시오"
+
+msgid "Importing product as draft..."
+msgstr "상품을 초안으로 가져오는 중..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "이 작업은 WooCommerce에 상품을 생성합니다"
+
+msgid "Importing product with SEO optimization..."
+msgstr "SEO 최적화로 상품 가져오는 중..."
+
+msgid "Checking product status..."
+msgstr "상품 상태 확인 중..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "상품이 존재하는지 확인하는 동안 잠시 기다려 주십시오"
+
+msgid "Loading products..."
+msgstr "상품 로딩 중..."
+
+msgid "Overview"
+msgstr "개요"
+
+msgid "Business Overview"
+msgstr "비즈니스 개요"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "단일 대시보드에서 플러그인 성능을 모니터링하고, 주요 지표를 추적하며, 운영을 관리하십시오"
+
+msgid "Total Products"
+msgstr "전체 상품"
+
+msgid "Quick Actions"
+msgstr "빠른 작업"
+
+msgid "Analytics Dashboard"
+msgstr "분석 대시보드"
+
+msgid "Analytics Overview"
+msgstr "분석 개요"
+
+msgid "Quick insights into your business performance"
+msgstr "비즈니스 성과에 대한 빠른 인사이트"
+
+msgid "View Full Analytics"
+msgstr "전체 분석 보기"
+
+msgid "Overall Sentiment distribution"
+msgstr "전반적인 감성 분포"
+
+msgid "Trend Status distribution"
+msgstr "트렌드 상태 분포"
+
+msgid "Analytics"
+msgstr "분석"
+
+msgid "BI Analytics Hub"
+msgstr "비즈니스 인텔리전스 분석 허브"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "No orders found"
+msgstr "주문을 찾을 수 없음"
+
+msgid "Total Orders"
+msgstr "전체 주문"
+
+msgid "Current Page"
+msgstr "현재 페이지"
+
+msgid "Orders Per Page"
+msgstr "페이지당 주문"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "주문 번호, 고객 이름 또는 이메일로 주문 검색..."
+
+msgid "Loading orders..."
+msgstr "주문 로딩 중..."
+
+msgid "Page"
+msgstr "페이지"
+
+msgid "WooCommerce Analytics"
+msgstr "WooCommerce 분석"
+
+msgid "WordPress Analytics"
+msgstr "WordPress 분석"
+
+msgid "Clear Cache"
+msgstr "캐시 지우기"
+
+msgid "Export CSV"
+msgstr "CSV 내보내기"
+
+msgid "Last updated:"
+msgstr "마지막 업데이트:"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "분석 데이터를 로드하지 못했습니다. 페이지를 새로 고치십시오."
+
+msgid "No data available to export"
+msgstr "내보낼 데이터가 없습니다"
+
+msgid "Orders Today"
+msgstr "오늘의 주문"
+
+msgid "Total Revenue"
+msgstr "총 수익"
+
+msgid "Revenue Today"
+msgstr "오늘 수익"
+
+msgid "Revenue (30 Days)"
+msgstr "수익 (30일)"
+
+msgid "Avg Order Value"
+msgstr "평균 주문 가치"
+
+msgid "Pending Orders"
+msgstr "대기 중인 주문"
+
+msgid "Failed Orders"
+msgstr "실패한 주문"
+
+msgid "Cart Abandonment"
+msgstr "장바구니 포기"
+
+msgid "Customers (30 Days)"
+msgstr "고객 (30일)"
+
+msgid "Top Seller (30 Days)"
+msgstr "베스트셀러 (30일)"
+
+msgid "Total Users"
+msgstr "전체 사용자"
+
+msgid "Users Today"
+msgstr "오늘의 사용자"
+
+msgid "Total Comments"
+msgstr "전체 댓글"
+
+msgid "Total Views"
+msgstr "전체 조회수"
+
+msgid "Refunded"
+msgstr "환불됨"
+
+msgid "Pending payment"
+msgstr "결제 대기 중"
+
+msgid "Processing"
+msgstr "처리 중"
+
+msgid "On hold"
+msgstr "보류 중"
+
+msgid "Completed"
+msgstr "완료됨"
+
+msgid "Cancelled"
+msgstr "취소됨"
+
+msgid "Draft"
+msgstr "초안"
+
+msgid "Revenue Overview"
+msgstr "수익 개요"
+
+msgid "Orders Status"
+msgstr "주문 상태"
+
+msgid "WordPress Activity"
+msgstr "WordPress 활동"
+
+msgid "Revenue"
+msgstr "수익"
+
+msgid "WordPress Metrics"
+msgstr "WordPress 지표"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "페이지당 상품 수는 100을 초과할 수 없습니다. 1에서 100 사이의 값을 입력하십시오."
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "페이지당 상품 수는 최소 1이어야 합니다. 유효한 값을 입력하십시오."
+
+msgid "Settings saved successfully!"
+msgstr "설정이 성공적으로 저장되었습니다!"
+
+msgid "Please enter a authentication key before testing."
+msgstr "테스트하기 전에 라이선스 키를 입력하십시오."
+
+msgid "more..."
+msgstr "더 보기..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "분석 캐시가 성공적으로 지워졌습니다!"
+
+msgid "No products to import. Please sync products first."
+msgstr "가져올 상품이 없습니다. 먼저 상품을 동기화하십시오."
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "가져오기 완료! %d개 상품 가져오기 성공, %d개 실패."
+
+msgid "Import failed: %s"
+msgstr "가져오기 실패: %s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "API 테스트 완료! 자세한 로그는 debug.log를 확인하십시오. 모든 엔드포인트가 성공적으로 테스트되었습니다."
+
+msgid "API Test Failed: %s"
+msgstr "API 테스트 실패: %s"
+
+msgid "Database structure validated and fixed:"
+msgstr "데이터베이스 구조 확인 및 수정됨:"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "데이터베이스 구조가 유효합니다. 수정이 필요하지 않습니다."
+
+msgid "Database validation issues:"
+msgstr "데이터베이스 확인 문제:"
+
+msgid "Database validation failed: %s"
+msgstr "데이터베이스 확인 실패: %s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "Vortem.ai 라이선스가 %s 요금제로 활성화되어 있습니다."
+
+msgid "Validated on: %s"
+msgstr "확인일: %s"
+
+msgid "Import failed. Please try again."
+msgstr "가져오기에 실패했습니다. 다시 시도해 주십시오."
+
+msgid "Please select a bulk action."
+msgstr "일괄 작업을 선택하십시오."
+
+msgid "Please select at least one product."
+msgstr "상품을 하나 이상 선택하십시오."
+
+msgid "Bulk action failed. Please try again."
+msgstr "일괄 작업에 실패했습니다. 다시 시도해 주십시오."
+
+msgid "Failed to trash product. Please try again."
+msgstr "상품을 휴지통으로 이동하지 못했습니다. 다시 시도해 주십시오."
+
+msgid "Failed to restore product. Please try again."
+msgstr "상품을 복원하지 못했습니다. 다시 시도해 주십시오."
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "상품을 초안으로 가져오지 못했습니다. 다시 시도해 주십시오."
+
+msgid "Failed to get product details."
+msgstr "상품 세부 정보를 가져오지 못했습니다."
+
+msgid "Delete failed. Please try again."
+msgstr "삭제에 실패했습니다. 다시 시도해 주십시오."
+
+msgid "FAQ Management"
+msgstr "FAQ 관리"
+
+msgid "Manage your frequently asked questions"
+msgstr "자주 묻는 질문 관리"
+
+msgid "Search FAQs..."
+msgstr "FAQ 검색..."
+
+msgid "Card View"
+msgstr "카드 보기"
+
+msgid "Table View"
+msgstr "표 보기"
+
+msgid "Refresh FAQs"
+msgstr "FAQ 새로 고침"
+
+msgid "Create New FAQ"
+msgstr "새 FAQ 생성"
+
+msgid "Total FAQs"
+msgstr "전체 FAQ"
+
+msgid "Active FAQs"
+msgstr "활성 FAQ"
+
+msgid "Page Status"
+msgstr "페이지 상태"
+
+msgid "Question"
+msgstr "질문"
+
+msgid "No FAQs yet"
+msgstr "아직 FAQ가 없습니다"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "FAQ를 생성하여 지식 베이스를 구축하십시오"
+
+msgid "Create Your First FAQ"
+msgstr "첫 번째 FAQ 생성"
+
+msgid "Loading FAQs..."
+msgstr "FAQ 로딩 중..."
+
+msgid "Update FAQ"
+msgstr "FAQ 업데이트"
+
+msgid "Question *"
+msgstr "질문 *"
+
+msgid "Enter your question here..."
+msgstr "여기에 질문을 입력하십시오..."
+
+msgid "Answer *"
+msgstr "답변 *"
+
+msgid "Enter the answer here..."
+msgstr "여기에 답변을 입력하십시오..."
+
+msgid "Create FAQ"
+msgstr "FAQ 생성"
+
+msgid "FAQ Details"
+msgstr "FAQ 세부 정보"
+
+msgid "Answer"
+msgstr "답변"
+
+msgid "Delete FAQ"
+msgstr "FAQ 삭제"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Answer:"
+msgstr "답변:"
+
+msgid "View Details"
+msgstr "세부 정보 보기"
+
+msgid "Edit FAQ"
+msgstr "FAQ 편집"
+
+msgid "Creating..."
+msgstr "생성 중..."
+
+msgid "Updating..."
+msgstr "업데이트 중..."
+
+msgid "Question is required"
+msgstr "질문은 필수입니다"
+
+msgid "Answer is required"
+msgstr "답변은 필수입니다"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "답변은 최소 10자 이상이어야 합니다"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "FAQ \"%s\"이(가) 생성되었습니다"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "FAQ \"%s\"이(가) 업데이트되었습니다"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "FAQ \"%s\"이(가) 삭제되었습니다"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "\"%s\"을(를) 삭제하시겠습니까? 이 작업은 취소할 수 없습니다."
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "FAQ를 불러오지 못했습니다. 다시 시도해 주십시오."
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "FAQ를 저장하지 못했습니다. 다시 시도해 주십시오."
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "FAQ를 삭제하지 못했습니다. 다시 시도해 주십시오."
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "인증이 필요합니다. 라이선스 키를 확인하십시오."
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "라이선스 키가 필요합니다. Vortem.ai 설정에서 라이선스 키를 구성하십시오."
+
+msgid "Security"
+msgstr "보안"
+
+msgid "Search plugins..."
+msgstr "플러그인 검색..."
+
+msgid "Last Modified"
+msgstr "최종 수정"
+
+msgid "Inactive"
+msgstr "비활성"
+
+msgid "WordPress Core"
+msgstr "WordPress 코어"
+
+msgid "Themes"
+msgstr "테마"
+
+msgid "Plugins"
+msgstr "플러그인"
+
+msgid "Version"
+msgstr "버전"
+
+msgid "Author"
+msgstr "작성자"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "File"
+msgstr "파일"
+
+msgid "Plugin URI"
+msgstr "플러그인 URI"
+
+msgid "Requires WP Version"
+msgstr "필요 WP 버전"
+
+msgid "Requires PHP"
+msgstr "필요 PHP"
+
+msgid "Read more"
+msgstr "더 보기"
+
+msgid "Stylesheet"
+msgstr "스타일시트"
+
+msgid "Theme URI"
+msgstr "테마 URI"
+
+msgid "Type"
+msgstr "유형"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "All"
+msgstr "전체"
+
+msgid "Vulnerabilities"
+msgstr "취약점"
+
+msgid "Checking..."
+msgstr "확인 중..."
+
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "플러그인 설정 및 기본 설정 구성"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "플러그인 기능을 활성화하려면 Vortem.ai 라이선스 키를 입력하십시오. 키를 확인하려면 \"라이선스 확인\"을 클릭하십시오."
+
+msgid "Products Per Page"
+msgstr "페이지당 상품 수"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Currency"
+msgstr "통화"
+
+msgid "Update Currency"
+msgstr "통화 업데이트"
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "페이지당 표시할 상품 수. 기본값: 16."
+
+msgid "Products per page must be at least 1"
+msgstr "페이지당 상품 수는 최소 1이어야 합니다"
+
+msgid "Products per page cannot exceed 100"
+msgstr "페이지당 상품 수는 100을 초과할 수 없습니다"
+
+msgid "Loading currencies..."
+msgstr "통화 로딩 중..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "플러그인의 통화 유형을 선택하고 \"통화 업데이트\"를 클릭하여 변경 사항을 저장하십시오."
+
+msgid "Currency updated successfully!"
+msgstr "통화가 성공적으로 업데이트되었습니다!"
+
+msgid "Video Settings"
+msgstr "비디오 설정"
+
+msgid "Video Download for Excluded Themes"
+msgstr "제외된 테마용 비디오 다운로드"
+
+msgid "AliExpress Integration"
+msgstr "AliExpress 통합"
+
+msgid "Add video to product description"
+msgstr "제품 설명에 비디오 추가"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "Vortem Clothes, Vortem Cosmetic 및 xstore 테마용 비디오 다운로드"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "일일 이메일 한도(%s)에 근접했습니다. 한도는 내일 초기화됩니다."
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "일일 이메일 한도에 도달했습니다. 한도는 내일 초기화됩니다."
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "일일 제품 가져오기 할당량(%s)에 근접했습니다. 할당량은 내일 초기화됩니다."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "일일 제품 가져오기 할당량에 도달했습니다. 할당량은 내일 초기화됩니다."
+
+msgid "Search plugins and themes..."
+msgstr "플러그인 및 테마 검색..."
+
+msgid "Loading security scan results..."
+msgstr "보안 검사 결과 로딩 중..."
+
+msgid "published"
+msgstr "게시됨"
+
+msgid "Published"
+msgstr "게시됨"
+
+msgid "references"
+msgstr "참조"
+
+msgid "References"
+msgstr "참조"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "활성화하면 제품 비디오가 자동으로 제품 설명에 추가됩니다. 비활성화하면 비디오가 전혀 다운로드되지 않습니다. 비디오를 수동으로 처리하려면 이 기능을 비활성화하세요."
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "비활성화하면 Vortem Clothes, Vortem Cosmetic 및 xstore 테마용 비디오가 다운로드되지 않으며 미디어 라이브러리에 추가되지 않습니다. 이렇게 하면 저장 공간을 절약할 수 있습니다."
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "이 페이지를 사용하려면 설정의 authentication Key 섹션에 라이선스를 입력한 다음 \"authentication validation\" 버튼을 클릭해야 합니다."
+
+msgid "Products Pages"
+msgstr "제품 페이지"
+
+msgid "Analytics Pages"
+msgstr "분석 페이지"
+
+msgid "sales"
+msgstr "판매"
+
+msgid "Loading trend products..."
+msgstr "트렌드 제품 로딩 중..."
+
+msgid "Loading TikTok products..."
+msgstr "TikTok 제품 로딩 중..."
+
+msgid "Error loading TikTok products:"
+msgstr "TikTok 제품 로드 중 오류:"
+
+msgid "Failed to load TikTok products:"
+msgstr "TikTok 제품 로드 실패:"
+
+msgid "Loading Kinguin products..."
+msgstr "Kinguin 제품 로딩 중..."
+
+msgid "No Kinguin products found."
+msgstr "Kinguin 제품을 찾을 수 없습니다."
+
+msgid "Failed to load Kinguin products:"
+msgstr "Kinguin 제품 로드 실패:"
+
+msgid "Error loading Kinguin products:"
+msgstr "Kinguin 제품 로드 중 오류:"
+
+msgid "View on Amazon"
+msgstr "Amazon에서 보기"
+
+msgid "View on Kinguin"
+msgstr "Kinguin에서 보기"
+
+msgid "Release:"
+msgstr "출시일:"
+
+msgid "Price N/A"
+msgstr "가격 정보 없음"
+
+msgid "In Stock"
+msgstr "재고 있음"
+
+msgid "Sentiment"
+msgstr "감정"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "재고 부족 항목 10개 미만"
+
+msgid "Total Pages"
+msgstr "총 페이지"
+
+msgid "Total Posts"
+msgstr "총 게시물"
+
+msgid "Refetch"
+msgstr "다시 가져오기"
+
+msgid "AliExpress"
+msgstr "AliExpress"
+
+msgid "Connect to AliExpress"
+msgstr "AliExpress에 연결"
+
+msgid "Disconnect AliExpress"
+msgstr "AliExpress 연결 해제"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "AliExpress 계정 연결을 해제하시겠습니까?"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "주문 처리 및 드롭쉬핑 기능을 사용하려면 AliExpress 계정을 연결하세요."
+
+msgid "Checking connection status..."
+msgstr "연결 상태 확인 중..."
+
+msgid "Connected"
+msgstr "연결됨"
+
+msgid "Not connected"
+msgstr "연결되지 않음"
+
+msgid "Error checking status"
+msgstr "상태 확인 오류"
+
+msgid "Connecting..."
+msgstr "연결 중..."
+
+msgid "Disconnecting..."
+msgstr "연결 해제 중..."
+
+msgid "Error connecting to AliExpress"
+msgstr "AliExpress 연결 오류"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "AliExpress 계정 연결 해제 오류"
+
+msgid "Failed to disconnect"
+msgstr "연결 해제 실패"
+
+msgid "Failed to connect to AliExpress"
+msgstr "AliExpress 연결 실패"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "AliExpress에 성공적으로 연결되었습니다!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "AliExpress 주문 생성을 위해 전화번호가 필요합니다."
+
+msgid "Expires:"
+msgstr "만료:"
+
+msgid "Disconnect"
+msgstr "연결 해제"
+
+msgid "Select Import Method"
+msgstr "가져오기 방법 선택"
+
+msgid "Choose how you want to import this product:"
+msgstr "이 제품을 가져오는 방법을 선택하세요:"
+
+msgid "Normal Import"
+msgstr "일반 가져오기"
+
+msgid "Import product with original title and description"
+msgstr "원본 제목과 설명으로 제품 가져오기"
+
+msgid "SEO Import"
+msgstr "SEO 가져오기"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "SEO 최적화된 제목, 설명 및 태그로 가져오기"
+
+msgid "SEO Import Completed"
+msgstr "SEO 가져오기 완료"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "다음 SEO 최적화가 적용되었습니다:"
+
+msgid "Keyphrase"
+msgstr "핵심 키워드"
+
+msgid "SEO Title"
+msgstr "SEO 제목"
+
+msgid "SEO Description"
+msgstr "SEO 설명"
+
+msgid "Meta Description"
+msgstr "메타 설명"
+
+msgid "Tags"
+msgstr "태그"
+
+msgid "Yoast SEO Title"
+msgstr "Yoast SEO 제목"
+
+msgid "Headings"
+msgstr "제목"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO가 설치되어 있지 않습니다. SEO 가져오기 옵션을 사용하려면 설치하고 활성화해야 합니다."
+
+msgid "Email subject must be at least 16 characters"
+msgstr "이메일 제목은 최소 16자 이상이어야 합니다"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "이메일 제목은 256자를 초과할 수 없습니다"
+
+msgid "Email body must be at least 128 characters"
+msgstr "이메일 본문은 최소 128자 이상이어야 합니다"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "이메일 본문은 8196자를 초과할 수 없습니다"
+
+msgid "All Imported Products"
+msgstr "모든 가져온 제품"
+
+msgid "Refresh Products"
+msgstr "제품 새로고침"
+
+msgid "Show All Products"
+msgstr "모든 제품 표시"
+
+msgid "Show All Added Products"
+msgstr "추가된 모든 제품 표시"
+
+msgid "Top Products Kinguin"
+msgstr "인기 제품 Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "트렌드 제품 Amazon"
+
+msgid "Top Products AliExpress"
+msgstr "인기 제품 AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "제품 재고 관리 및 보기"
+
+msgid "Security Overview"
+msgstr "보안 개요"
+
+msgid "Security Scan Results"
+msgstr "보안 스캔 결과"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "설치된 모든 WordPress 플러그인 및 테마 모니터링 및 검사"
+
+msgid "Total Plugins"
+msgstr "총 플러그인"
+
+msgid "Active Plugins"
+msgstr "활성 플러그인"
+
+msgid "Inactive Plugins"
+msgstr "비활성 플러그인"
+
+msgid "Total Themes"
+msgstr "총 테마"
+
+msgid "Active Themes"
+msgstr "활성 테마"
+
+msgid "Inactive Themes"
+msgstr "비활성 테마"
+
+msgid "Sort by:"
+msgstr "정렬 기준:"
+
+msgid "Filter by Status:"
+msgstr "상태별 필터:"
+
+msgid "Sort by Date"
+msgstr "날짜별 정렬"
+
+msgid "View and manage your store orders"
+msgstr "스토어 주문 보기 및 관리"
+
+msgid "Start Date"
+msgstr "시작 날짜"
+
+msgid "End Date"
+msgstr "종료 날짜"
+
+msgid "All Statuses"
+msgstr "모든 상태"
+
+msgid "Navigation"
+msgstr "내비게이션"
+
+msgid "Shop Analytics"
+msgstr "쇼핑 분석"
+
+msgid "Traffic Analytics"
+msgstr "트래픽 분석"
+
+msgid "Search currencies..."
+msgstr "통화 검색..."
+
+msgid "Search by country or currency code"
+msgstr "국가 또는 통화 코드로 검색"
+
+msgid "Popularity"
+msgstr "인기도"
+
+msgid "Impressions"
+msgstr "노출"
+
+msgid "Engagement"
+msgstr "참여도"
+
+msgid "Videos"
+msgstr "동영상"
+
+msgid "# Hashtags"
+msgstr "# 해시태그"
+
+msgid "View Rate (6s)"
+msgstr "조회율 (6초)"
+
+msgid "Cost"
+msgstr "비용"
+
+msgid "Avg. Time on Site"
+msgstr "사이트 평균 체류 시간"
+
+msgid "Unique Visitors"
+msgstr "고유 방문자"
+
+msgid "Visits"
+msgstr "방문"
+
+msgid "Top Pages"
+msgstr "인기 페이지"
+
+msgid "Top Page Titles"
+msgstr "인기 페이지 제목"
+
+msgid "Cities"
+msgstr "도시"
+
+msgid "Countries"
+msgstr "국가"
+
+msgid "Exit Pages"
+msgstr "이탈 페이지"
+
+msgid "Entry Pages"
+msgstr "진입 페이지"
+
+msgid "Real-time Visits"
+msgstr "실시간 방문"
+
+msgid "Bounce Rate"
+msgstr "이탈률"
+
+msgid "Today"
+msgstr "오늘"
+
+msgid "Yesterday"
+msgstr "어제"
+
+msgid "Last 7 Days"
+msgstr "지난 7일"
+
+msgid "Last 30 Days"
+msgstr "지난 30일"
+
+msgid "First Contentful Paint"
+msgstr "첫 콘텐츠 그리기"
+
+msgid "Total Size"
+msgstr "총 크기"
+
+msgid "Requests"
+msgstr "요청"
+
+msgid "Page Load"
+msgstr "페이지 로드"
+
+msgid "Last updated: %s"
+msgstr "마지막 업데이트: %s"
+
+msgid "Live"
+msgstr "라이브"
+
+msgid "Quick Insights"
+msgstr "빠른 인사이트"
+
+msgid "Config"
+msgstr "설정"
+
+msgid "Vortem Logo"
+msgstr "Vortem 로고"
+
+msgid "Core"
+msgstr "코어"
+
+msgid "Filter by:"
+msgstr "필터:"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Total Vulnerabilities"
+msgstr "총 취약점"
+
+msgid "Critical"
+msgstr "심각"
+
+msgid "High"
+msgstr "높음"
+
+msgid "Medium"
+msgstr "중간"
+
+msgid "Low"
+msgstr "낮음"
+
+msgid "Secure Items"
+msgstr "안전한 항목"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "심각도별 취약점 분포"
+
+msgid "Vulnerabilities by Type"
+msgstr "유형별 취약점"
+
+msgid "Scanning..."
+msgstr "스캔 중..."
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "WordPress 설치에서 보안 취약점을 분석하고 있습니다"
+
+msgid "Items Requiring Attention"
+msgstr "주의가 필요한 항목"
+
+msgid "No items at risk"
+msgstr "위험한 항목 없음"
+
+msgid "Recent Vulnerabilities"
+msgstr "최근 취약점"
+
+msgid "No recent vulnerabilities"
+msgstr "최근 취약점 없음"
+
+msgid "No plugins found"
+msgstr "플러그인을 찾을 수 없습니다"
+
+msgid "No themes found"
+msgstr "테마를 찾을 수 없습니다"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "필터 또는 검색어를 조정해 보세요"
+
+msgid "WordPress Vulnerability"
+msgstr "WordPress 취약점"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "WordPress 버전에서 보안 취약점이 감지되었습니다. 최신 버전으로 업데이트하는 것이 좋습니다."
+
+msgid "Vulnerability Details"
+msgstr "취약점 세부 정보"
+
+msgid "Vulnerability"
+msgstr "취약점"
+
+msgid "vulnerabilities"
+msgstr "취약점"
+
+msgid "Read less"
+msgstr "접기"
+
+msgid "Your site is secure"
+msgstr "사이트가 안전합니다"
+
+msgid "No known vulnerabilities detected"
+msgstr "알려진 취약점이 감지되지 않았습니다"
+
+msgid "Attention required"
+msgstr "주의 필요"
+
+msgid "vulnerabilities found"
+msgstr "취약점 발견"
+
+msgid "Your plugins are secure!"
+msgstr "플러그인이 안전합니다!"
+
+msgid "Your themes are secure!"
+msgstr "테마가 안전합니다!"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "플러그인에서 취약점을 찾을 수 없습니다"
+
+msgid "No vulnerabilities found in themes"
+msgstr "테마에서 취약점을 찾을 수 없습니다"
+
+msgid "Your WP Core is Secure"
+msgstr "WP 코어가 안전합니다"
+
+msgid "Unknown Plugin"
+msgstr "알 수 없는 플러그인"
+
+msgid "Unknown Theme"
+msgstr "알 수 없는 테마"
+
+msgid "Requires immediate attention"
+msgstr "즉각적인 조치 필요"
+
+msgid "Address as soon as possible"
+msgstr "가능한 빨리 해결"
+
+msgid "Schedule for review"
+msgstr "검토 예약"
+
+msgid "Monitor and plan fix"
+msgstr "모니터링 및 수정 계획"
+
+msgid "No vulnerabilities found"
+msgstr "취약점을 찾을 수 없습니다"
+
+msgid "All Security Issues"
+msgstr "모든 보안 문제"
+
+msgid "Across all plugins, themes & core"
+msgstr "모든 플러그인, 테마 및 코어에 걸쳐"
+
+msgid "of installed items affected"
+msgstr "설치된 항목 영향"
+
+msgid "Critical Severity"
+msgstr "심각한 수준"
+
+msgid "Requires immediate action"
+msgstr "즉각적인 조치 필요"
+
+msgid "of all vulnerabilities"
+msgstr "전체 취약점 중"
+
+msgid "High Severity"
+msgstr "높은 수준"
+
+msgid "Should be fixed soon"
+msgstr "빨리 수정해야 함"
+
+msgid "Medium Severity"
+msgstr "중간 수준"
+
+msgid "Plan to address"
+msgstr "해결 계획"
+
+msgid "Low Severity"
+msgstr "낮은 수준"
+
+msgid "Monitor & track"
+msgstr "모니터링 및 추적"
+
+msgid "Items without vulnerabilities"
+msgstr "취약점이 없는 항목"
+
+msgid "of items are clean"
+msgstr "항목이 안전함"
+
+msgid "Third-party plugins installed"
+msgstr "설치된 서드파티 플러그인"
+
+msgid "WordPress themes"
+msgstr "WordPress 테마"
+
+msgid "Core WordPress files"
+msgstr "WordPress 코어 파일"
+
+msgid "Component Type"
+msgstr "구성요소 유형"
+
+msgid "Number of Vulnerabilities"
+msgstr "취약점 수"
+
+msgid "of total"
+msgstr "전체 중"
+
+msgid "VERSION"
+msgstr "버전"
+
+msgid "AUTHOR"
+msgstr "작성자"
+
+msgid "REQUIRES WP"
+msgstr "WP 필요"
+
+msgid "REQUIRES PHP"
+msgstr "PHP 필요"
+
+msgid "View Page"
+msgstr "페이지 보기"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "심각한 취약점이 감지되었습니다!"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "즉각적인 조치가 필요합니다. 영향을 받는 항목을 가능한 빨리 업데이트하거나 제거하세요."
+
+msgid "High severity vulnerabilities detected"
+msgstr "높은 심각도 취약점이 감지되었습니다"
+
+msgid "Please review and address these issues soon."
+msgstr "이 문제들을 빨리 검토하고 해결하세요."
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "중간 심각도 취약점이 감지되었습니다"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "이 문제들을 검토하고 수정할 시간을 예약하세요."
+
+msgid "Low severity vulnerabilities detected"
+msgstr "낮은 심각도 취약점이 감지되었습니다"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "이 문제들을 모니터링하고 편리할 때 수정을 계획하세요."
+
+msgid "Your WordPress core is secure!"
+msgstr "WordPress 코어가 안전합니다!"
+
+msgid "CVSS Score:"
+msgstr "CVSS 점수:"
+
+msgid "Published:"
+msgstr "게시됨:"
+
+msgid "Last Modified:"
+msgstr "마지막 수정:"
+
+msgid "References:"
+msgstr "참조:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "View All Vulnerabilities"
+msgstr "모든 취약점 보기"
+
+msgid "CRITICAL"
+msgstr "심각"
+
+msgid "HIGH"
+msgstr "높음"
+
+msgid "MEDIUM"
+msgstr "중간"
+
+msgid "LOW"
+msgstr "낮음"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "조치를 권장합니다. 영향을 받은 항목을 검토하고 업데이트하세요."
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "모든 플러그인, 테마 및 WordPress 코어가 안전하고 최신 상태입니다."
+
+msgid "High severity vulnerabilities found"
+msgstr "높은 심각도의 취약점 발견"
+
+msgid "Last updated: Loading..."
+msgstr "마지막 업데이트: 로딩 중..."
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "검토를 권장합니다. 가능한 경우 영향을 받은 항목을 모니터링하고 업데이트하세요."
+
+msgid "Some vulnerabilities found"
+msgstr "일부 취약점 발견"
+
+msgid "Trend Products TikTok"
+msgstr "트렌드 제품 TikTok"
+
+msgid "Your site is secure!"
+msgstr "사이트가 안전합니다!"
+
+msgid "failed_to_load_insights_error"
+msgstr "인사이트 데이터 로드 오류"
+
+msgid "failed_to_refetch"
+msgstr "다시 가져오기 실패"
+
+msgid "no_category"
+msgstr "카테고리 없음"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "SEO 최적화 처리 중: 키워드, SEO 제목, SEO 설명, 메타 설명, 태그, Yoast SEO 제목 및 제목"
+
+msgid "Search themes..."
+msgstr "테마 검색..."
+
+msgid "answer:"
+msgstr "답변:"
+
+msgid "bulk_faqs_created"
+msgstr "%d개의 FAQ가 성공적으로 생성되었습니다"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "FAQ 생성에 실패했습니다. 다시 시도해 주세요."
+
+msgid "faq"
+msgstr "FAQ"
+
+msgid "no_faqs_to_create"
+msgstr "생성하기 전에 최소한 하나의 FAQ를 추가해 주세요."
+
+msgid "question:"
+msgstr "질문:"
+
+msgid "remove"
+msgstr "제거"
+
+msgid "Filter by Severity:"
+msgstr "심각도별 필터:"
+
+msgid "All Severities"
+msgstr "모든 심각도"
+
+msgid "Let's Get You Started"
+msgstr "시작하겠습니다"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "약 2분 안에 설정 완료"
+
+msgid "Quick Setup"
+msgstr "빠른 설정"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "안내된 설치 프로세스로 몇 분 안에 시작"
+
+msgid "Secure & Reliable"
+msgstr "안전하고 신뢰할 수 있음"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "모든 구성 요소에 내장된 엔터프라이즈급 보안"
+
+msgid "Optimized Performance"
+msgstr "최적화된 성능"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "초고속이며 WordPress 환경에 최적화"
+
+msgid "Next Step"
+msgstr "다음 단계"
+
+msgid "Initial Configuration"
+msgstr "초기 구성"
+
+msgid "Set your default language and currency preferences"
+msgstr "기본 언어 및 통화 기본 설정"
+
+msgid "Please review and accept our terms to continue"
+msgstr "계속하려면 약관을 검토하고 동의해 주세요"
+
+msgid "1. Service Availability"
+msgstr "1. 서비스 가용성"
+
+msgid "2. Support"
+msgstr "2. 지원"
+
+msgid "3. Updates"
+msgstr "3. 업데이트"
+
+msgid "I accept the Terms & Conditions"
+msgstr "약관 및 조건에 동의합니다"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "이 확인란을 선택하면 약관을 읽고 이에 동의했음을 인정하는 것입니다."
+
+msgid "Installation Complete!"
+msgstr "설치 완료!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "플러그인이 성공적으로 구성되었으며 사용할 준비가 되었습니다. 이제 모든 기능을 사용할 수 있습니다."
+
+msgid "Configuration Summary"
+msgstr "구성 요약"
+
+msgid "Language:"
+msgstr "언어:"
+
+msgid "Currency:"
+msgstr "통화:"
+
+msgid "Terms Accepted:"
+msgstr "약관 승인:"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "Go to Dashboard"
+msgstr "대시보드로 이동"
+
+msgid "Go to Analytics page"
+msgstr "분석 페이지로 이동"
+
+msgid "Go to Products page"
+msgstr "제품 페이지로 이동"
+
+msgid "Go to Matomo Analytics page"
+msgstr "Matomo 분석 페이지로 이동"
+
+msgid "Restart Wizard"
+msgstr "마법사 다시 시작"
+
+msgid "Restart"
+msgstr "다시 시작"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "설정 프로세스가 재설정됩니다. 계속하시겠습니까?"
+
+msgid "Confirm Restart"
+msgstr "다시 시작 확인"
+
+msgid "Back"
+msgstr "뒤로"
+
+msgid "Welcome"
+msgstr "환영합니다"
+
+msgid "Configuration"
+msgstr "구성"
+
+msgid "Complete"
+msgstr "완료"
+
+msgid "Insufficient permissions"
+msgstr "권한이 부족합니다"
+
+msgid "Language parameter is required"
+msgstr "언어 매개변수가 필요합니다"
+
+msgid "Translation manager not available"
+msgstr "번역 관리자를 사용할 수 없습니다"
+
+msgid "Unsupported language"
+msgstr "지원되지 않는 언어"
+
+msgid "Language changed successfully"
+msgstr "언어가 성공적으로 변경되었습니다"
+
+msgid "Failed to change language"
+msgstr "언어 변경에 실패했습니다"
+
+msgid "Currency parameter is required"
+msgstr "통화 매개변수가 필요합니다"
+
+msgid "Unsupported currency"
+msgstr "지원되지 않는 통화"
+
+msgid "Currency changed successfully"
+msgstr "통화가 성공적으로 변경되었습니다"
+
+msgid "Loading"
+msgstr "로딩 중"
+
+msgid "Search..."
+msgstr "검색..."
+
+msgid "Search Language"
+msgstr "언어 검색"
+
+msgid "No languages found"
+msgstr "언어를 찾을 수 없습니다"
+
+msgid "No currencies found"
+msgstr "통화를 찾을 수 없습니다"
+
+msgid "Failed to load currencies"
+msgstr "통화를 로드하는 데 실패했습니다"
+
+msgid "Error loading currencies"
+msgstr "통화를 로드하는 중 오류가 발생했습니다"
+
+msgid "Failed to restart wizard"
+msgstr "마법사 다시 시작에 실패했습니다"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "마법사를 다시 시작하는 중 오류가 발생했습니다. 다시 시도해 주세요."
+
+msgid "Please complete the current step before proceeding."
+msgstr "계속하기 전에 현재 단계를 완료하세요."
+
+msgid "Please wait for authentication to complete."
+msgstr "인증이 완료될 때까지 기다려 주세요."
+
+msgid "Please accept the terms and conditions."
+msgstr "약관에 동의해 주세요."
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "계속하기 전에 약관에 동의해 주세요."
+
+msgid "Please complete authentication first."
+msgstr "먼저 인증을 완료하세요."
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "설정을 완료하기 전에 약관에 동의해 주세요."
+
+msgid "Failed to complete setup"
+msgstr "설정 완료에 실패했습니다"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "설정을 완료하는 중 오류가 발생했습니다. 다시 시도해 주세요."
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "세션 토큰을 찾을 수 없습니다. 먼저 인증을 완료하세요."
+
+msgid "An error occurred while switching language"
+msgstr "언어를 전환하는 중 오류가 발생했습니다"
+
+msgid "An error occurred while switching currency"
+msgstr "통화를 전환하는 중 오류가 발생했습니다"
+
+msgid "Last updated: %1$s • Live"
+msgstr "마지막 업데이트: %1$s • 실시간"
+
+msgid "Last 30 days"
+msgstr "최근 30일"
+
+msgid "Traffic Overview"
+msgstr "트래픽 개요"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "Matomo 분석 – 최근 30일"
+
+msgid "Today's Focus"
+msgstr "오늘의 포커스"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "Vortem.ai 플러그인 개요"
+
+msgid "Read More"
+msgstr "더 읽기"
+
+msgid "Check your dashboard regularly"
+msgstr "대시보드를 정기적으로 확인하세요"
+
+msgid "View Analytics"
+msgstr "분석 보기"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem, 2026년 최고 AI 플랫폼으로 선정"
+
+msgid "Order Statistics"
+msgstr "주문 통계"
+
+msgid "Today's Orders Completed"
+msgstr "오늘 완료된 주문"
+
+msgid "Total Orders Completed"
+msgstr "총 완료된 주문"
+
+msgid "Imported Products"
+msgstr "가져온 제품"
+
+msgid "Recent Activity"
+msgstr "최근 활동"
+
+msgid "Overview dashboard loaded"
+msgstr "개요 대시보드 로드됨"
+
+msgid "Just now"
+msgstr "방금"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "여기서 제품, 분석, 이메일 마케팅을 관리할 수 있습니다"
+
+msgid "Ready"
+msgstr "준비됨"
+
+msgid "Configure plugin settings and API keys"
+msgstr "플러그인 설정 및 API 키 구성"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "Vortem.ai 플러그인이 준비되었습니다. 여기서 제품, 분석, 이메일 마케팅을 관리할 수 있습니다."
+
+msgid "Vortem.ai official website"
+msgstr "Vortem.ai 공식 웹사이트"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "탐색, 학습 및 계정 관리"
+
+msgid "Quick Access"
+msgstr "빠른 액세스"
+
+msgid "Return to dashboard home"
+msgstr "대시보드 홈으로 돌아가기"
+
+msgid "Go to Home"
+msgstr "홈으로"
+
+msgid "Profile, settings, and preferences"
+msgstr "프로필, 설정 및 기본 설정"
+
+msgid "Help & Learning"
+msgstr "도움말 및 학습"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "도움 받기, 티켓 제출 또는 지원팀 문의"
+
+msgid "Get Support"
+msgstr "지원 받기"
+
+msgid "Developer & user guides"
+msgstr "개발자 및 사용자 가이드"
+
+msgid "Read Docs"
+msgstr "문서 읽기"
+
+msgid "Legal & Policies"
+msgstr "법률 및 정책"
+
+msgid "Terms of Service"
+msgstr "서비스 약관"
+
+msgid "Usage terms and conditions"
+msgstr "이용 약관"
+
+msgid "View"
+msgstr "보기"
+
+msgid "Privacy Policy"
+msgstr "개인정보 처리방침"
+
+msgid "Data protection and privacy"
+msgstr "데이터 보호 및 개인정보"
+
+msgid "Navigation to vortem wordpress"
+msgstr "Vortem WordPress로 이동"
+
+msgid "Access key features and settings"
+msgstr "주요 기능 및 설정 액세스"
+
+msgid "Manage catalog and inventory"
+msgstr "카탈로그 및 재고 관리"
+
+msgid "Business insights and metrics"
+msgstr "비즈니스 인사이트 및 지표"
+
+msgid "Growth & Intelligence"
+msgstr "성장 및 인텔리전스"
+
+msgid "Campaigns and automation"
+msgstr "캠페인 및 자동화"
+
+msgid "AI-powered recommendations"
+msgstr "AI 기반 추천"
+
+msgid "Manage orders and shipments"
+msgstr "주문 및 배송 관리"
+
+msgid "System"
+msgstr "시스템"
+
+msgid "Knowledge base editor"
+msgstr "지식 베이스 편집기"
+
+msgid "Access control and monitoring"
+msgstr "액세스 제어 및 모니터링"
+
+msgid "System configuration"
+msgstr "시스템 구성"
+
+msgid "Emails Sent"
+msgstr "발송된 이메일"
+
+msgid "Orders"
+msgstr "주문"
+
+msgid "Total products"
+msgstr "총 제품"
+
+msgid "Imported via plugin"
+msgstr "플러그인으로 가져옴"
+
+msgid "Other products"
+msgstr "기타 제품"
+
+msgid "Manage"
+msgstr "관리"
+
+msgid "bounce"
+msgstr "이탈"
+
+
+msgid "Dashboard"
+msgstr "대시보드"
+
+msgid "Plugin"
+msgstr "플러그인"
+
+msgid "External"
+msgstr "외부"
+
+msgid "Navigation to vortem WordPress"
+msgstr "vortem WordPress로 이동"
+
+msgid "Commerce"
+msgstr "상거래"
+
+msgid "Timeline"
+msgstr "타임라인"
+
+msgid "Security Center"
+msgstr "보안 센터"
+
+msgid "Display"
+msgstr "표시"
+
+msgid "How products and currency are presented in your store."
+msgstr "매장에서 상품과 통화가 표시되는 방식입니다."
+
+msgid "Products per page"
+msgstr "페이지당 상품 수"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "기본값: 16. 범위: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "플러그인 가격에 사용되는 통화입니다. 선택 사항을 저장하려면 \"업데이트\"를 클릭하세요."
+
+msgid "Media"
+msgstr "미디어"
+
+msgid "Control how product videos are imported and attached."
+msgstr "상품 동영상이 가져와지고 첨부되는 방식을 제어합니다."
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "활성화하면 상품 동영상이 자동으로 설명에 추가됩니다. 동영상을 수동으로 관리하려면 비활성화하세요."
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "비활성화하면 Vortem Clothes, Vortem Cosmetic, xstore 테마의 동영상이 다운로드되지 않습니다 — 저장 공간을 절약합니다."
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "Vortem 및 xstore 테마용 동영상 다운로드"
+
+msgid "Integrations"
+msgstr "통합"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "외부 계정을 연결하여 소싱과 주문 처리를 확장하세요."
+
+msgid "Update"
+msgstr "업데이트"
+
+msgid "Last updated"
+msgstr "마지막 업데이트"
+
+msgid "Setup"
+msgstr "설정"
+
+msgid "Let's get you started"
+msgstr "시작해 보세요"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "약 2분 안에 설정을 완료하세요."
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "Vortem의 제품 가져오기 기능에는 AliExpress 계정이 필요합니다."
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "나중에 설정 → Vortem → AliExpress 연동에서 연결합니다. 계정이 없으시면 거기서 가입할 수도 있습니다."
+
+msgid "Up and running in minutes."
+msgstr "몇 분 안에 바로 사용할 수 있습니다."
+
+msgid "Built with WordPress security best practices."
+msgstr "WordPress 보안 모범 사례를 따릅니다."
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "가볍고 WordPress에 맞게 조정되었습니다."
+
+msgid "Store basics"
+msgstr "스토어 기본 정보"
+
+msgid "Pick your store currency"
+msgstr "스토어 통화 선택"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "결제 시 고객에게 표시되는 금액입니다. 나중에 변경할 수 있습니다."
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "상품 카드, 장바구니, 결제에 사용됩니다."
+
+msgid "Almost there"
+msgstr "거의 완료"
+
+msgid "Review and accept"
+msgstr "검토 후 동의"
+
+msgid "Read the full Terms"
+msgstr "약관 전문 읽기"
+
+msgid "You agree to be bound by these terms."
+msgstr "이 약관에 구속되는 데 동의합니다."
+
+msgid "I consent to data processing"
+msgstr "데이터 처리에 동의합니다"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "이 플러그인이 내 사이트 데이터(사이트 URL, WordPress 버전, 플러그인 버전, 통화 설정, 제품 가져올 때 WooCommerce 제품 데이터, 주문 처리 시 배송 정보, 보안 기능 사용 시 플러그인/테마 메타데이터)를 처리, 분석 및 서비스 제공을 위해 vortem.ai 서버(https://c.vortem.ai)로 보내는 것을 이해하고 동의합니다. 명시적 동의 전에는 데이터가 전송되지 않으며 거부해도 플러그인은 작동합니다(vortem.ai에 의존하는 기능은 사용할 수 없음). 설치된 플러그인/테마 목록을 취약점 조회를 위해 보내는 것은 Wordfence, Patchstack, WPScan, Jetpack Protect와 같은 방식입니다."
+
+msgid "All done"
+msgstr "완료"
+
+msgid "You're all set!"
+msgstr "모든 준비가 끝났습니다!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem이 구성되었습니다. 준비되면 설정에서 AliExpress를 연결하세요."
+
+msgid "Accepted"
+msgstr "승인됨"
+
+msgid "Consented"
+msgstr "동의함"
+
+msgid "Data processing"
+msgstr "데이터 처리"
+
+msgid "Meta Title"
+msgstr "메타 제목"
+
+msgid "Order"
+msgstr "주문"
+
+msgid "Customer"
+msgstr "고객"
+
+msgid "Items"
+msgstr "항목"
+
+msgid "Payment"
+msgstr "결제"

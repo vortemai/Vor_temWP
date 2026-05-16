@@ -1,0 +1,3006 @@
+# Translation of Vortem AI in so_SO
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: so_SO\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "wuxuu u baahan yahay in WooCommerce la rakibo oo la hawlgeliyo."
+
+msgid "or higher. You are running version"
+msgstr "ama ka sareeya. Waxaad isticmaalaysaa nooca"
+
+msgid "Welcome to vortem.ai!"
+msgstr "Ku soo dhowow vortem.ai!"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "Caawiyaha Habaynta Vortem.ai"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "Waad ku mahadsantahay doorashada Plaging-ka vortem.ai. Caawiyahan wuxuu kaa caawin doonaa inaad dukaankaaga u habayso si degdeg ah oo fudud."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "Si aad u isticmaasho adeegyada iibinta badeecadaha Vortem, waxaad u baahan tahay akoon AliExpress. Waxaad ku xidhi karta akoonkaaga ka Settings → Vortem Login → AliExpress Integration. Haddii aadan haysan akoon, waxaad si toos ah u iska diiwaan geli kartaa halkaas."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "Si aad u isticmaasho adeegyada iibinta badeecadaha Vortem, waxaad u baahan tahay akoon AliExpress."
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "Waxaad ku xidhi karta akoonkaaga ka Settings → Vortem Login → AliExpress Integration."
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "Haddii aadan haysan akoon, waxaad si toos ah u iska diiwaan geli kartaa halkaas."
+
+msgid "Select Language"
+msgstr "Dooro luqadda"
+
+msgid "Select Currency"
+msgstr "Dooro lacagta"
+
+msgid "Complete Setup"
+msgstr "Dhamaystir habaynta"
+
+msgid "What you'll get:"
+msgstr "Waxaad helaysid:"
+
+msgid "Automated product synchronization"
+msgstr "Isku xirka badeecadaha otomaatig ah"
+
+msgid "Order management and processing"
+msgstr "Maamulka iyo habaynta dalabyada"
+
+msgid "Real-time inventory updates"
+msgstr "Cusbooneysiinta kaydka waqtiga dhabta ah"
+
+msgid "Easy-to-use admin interface"
+msgstr "Wax ka qabashada maamulka oo fudud"
+
+msgid "24/7 customer support"
+msgstr "Taageerada macaamiisha 24/7"
+
+msgid "Contact Support"
+msgstr "La xidhiidh taageerada"
+
+msgid "Import Products"
+msgstr "Soo deji badeecadaha"
+
+msgid "Configure Settings"
+msgstr "Habayso goobaha"
+
+msgid "Setup Complete!"
+msgstr "Habayntu waa dhammaysatay!"
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "Habayntu waxay qaadan doontaa qiyaastii 2-3 daqiiqo."
+
+msgid "Terms & Conditions"
+msgstr "Shuruudaha iyo Qawaaniinta"
+
+msgid "1. License Agreement"
+msgstr "1. Heshiiska Shatiga"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "Markaad isticmaalayso plugin-kan, waxaad ogolaatay inaad u hoggaansanto dhammaan sharciyada iyo qawaaniinta khuseeya. Plugin-kan waxaa lagu bixiyaa shatiga GPL v2 ama ka dambeeya."
+
+msgid "Sign up"
+msgstr "Isku qor"
+
+msgid "Sign up to get started"
+msgstr "Isku qor si aad u bilowdo"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "Hambalyo! Plugin-kaaga vortem.ai si guul leh ayaa loo habeeyey."
+
+msgid "What's next?"
+msgstr "Maxaa xiga?"
+
+msgid "Need Help?"
+msgstr "Ma u baahan tahay caawimaad?"
+
+msgid "Our support team is here to help you get started."
+msgstr "Kooxdayada taageerada ayaa halkan u joogta inay kaa caawiyaan bilaabista."
+
+msgid "Step %1$d of %2$d"
+msgstr "Tallaabada %1$d ee %2$d"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "Waan akhriyey oo waan ku raacay %1$sShuruudaha & Qawaaniinta%2$s"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "Shuruudaha Adeegga ee Plugin-ka vortem.ai"
+
+msgid "1. authentication Agreement"
+msgstr "1. Heshiiska Aqoonsiga"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "Markaad isticmaalayso plugin-kan, waxaad ogolaatay inaad raacdo dhammaan sharciyada. Plugin-kan waxaa lagu bixiyaa aqoonsiga GPL v2 ama ka dambeeya."
+
+msgid "2. Data Usage"
+msgstr "2. Isticmaalka Xogta"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "Waxaan ururinaa oo aan ka shaqeynaa xogta lagama maarmaanka u ah adeegga, oo ay ku jiraan macluumaadka alaabta, faahfaahinta dalabka, iyo xogta macaamiisha. Dhammaan xogta waxaa loo maareeyaa si waafaqsan siyaasadda ilaalinta xogta gaarka ah."
+
+msgid "3. Service Availability"
+msgstr "3. Helitaanka Adeegga"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "In kasta oo aan ku dadaalno in adeeggu had iyo jeer diyaar yahay, ma dammaanad qaadi karno adeeg aan kala go' lahayn."
+
+msgid "4. Support"
+msgstr "4. Taageerada"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "Taageerada farsamada waxaa lagu bixiyaa kanaaladayada taageerada. Waqtiga jawaabtu wuu kala duwanaan karaa."
+
+msgid "5. Updates"
+msgstr "5. Cusboonaysiinta"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "Cusboonaysiinta plugin-ka waxaa loo bixiyaa si loo hagaajiyo shaqada iyo amniga. Waxaa lagula talinayaa in plugin-ka lagu hayo noociisii ugu dambeeyey."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "Gali furaha aqoonsiga Vortem.ai si aad u hawlgeliso plugin-ka oo aad u hesho dhammaan sifooyinka."
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "Waxaad ka heli kartaa furahaaga aqoonsiga gudaha dashboard-ka akoonkaaga Vortem.ai."
+
+msgid "Need help?"
+msgstr "Ma u baahan tahay caawimaad?"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "Dhammaystir caawiyaha habaynta si aad u habayso aqoonsigaaga oo aad u bilowdo."
+
+msgid "Vortem.ai Overview"
+msgstr "Guudmarka Vortem.ai"
+
+msgid "Vortem.ai Products"
+msgstr "Alaabta Vortem.ai"
+
+msgid "Vortem.ai Settings"
+msgstr "Settings-ka Vortem.ai"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "Hoos ku habee settings-kaaga Vortem.ai."
+
+msgid "Saving settings and validating authentication..."
+msgstr "Kaydinta settings-ka iyo xaqiijinta aqoonsiga..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "Habayntu waa Dhammays - Plugin-kaaga Vortem.ai wuxuu diyaar u yahay isticmaalka!"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "Dooro luqadda interface-ka plugin-ka. Isbeddelladu waxay dhaqangelayaan kaydinta ka dib."
+
+msgid "Vortem.ai AI Resources"
+msgstr "Khayraadka AI ee Vortem.ai"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "Gal akoonkaaga iyo khayraadka AI ee Vortem.ai"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "Gal akoonkaaga iyo khayraadka AI ee Vortem.ai:"
+
+msgid "Home"
+msgstr "Hoyga"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "Booqo bogga hore ee Vortem.ai AI"
+
+msgid "Visit Site"
+msgstr "Booqo Bogga"
+
+msgid "My Account"
+msgstr "Akoonkayga"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "Maamul settings-ka akoonkaaga Vortem.ai AI"
+
+msgid "Support"
+msgstr "Taageerada"
+
+msgid "Get help and support from our team"
+msgstr "Ka hel caawimaad iyo taageero kooxdayada"
+
+msgid "Documentation"
+msgstr "Dukumentiyada"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "Akhri tilmaamo iyo casharo dhammaystiran"
+
+msgid "Terms"
+msgstr "Shuruudaha"
+
+msgid "Review terms and conditions"
+msgstr "Eeg shuruudaha iyo qawaaniinta"
+
+msgid "Privacy"
+msgstr "Xog-gaar ah"
+
+msgid "View our privacy policy"
+msgstr "Eeg siyaasadda ilaalinta xogta gaarka ah"
+
+msgid "error"
+msgstr "qalad"
+
+msgid "success"
+msgstr "guul"
+
+msgid "cancel"
+msgstr "baajili"
+
+msgid "delete"
+msgstr "tirtir"
+
+msgid "deleting"
+msgstr "tirtiraya..."
+
+msgid "edit"
+msgstr "wax ka beddel"
+
+msgid "close"
+msgstr "xir"
+
+msgid "confirm"
+msgstr "xaqiiji"
+
+msgid "refresh"
+msgstr "cusboonaysii"
+
+msgid "import"
+msgstr "soo deji"
+
+msgid "actions"
+msgstr "waxqabadka"
+
+msgid "status"
+msgstr "xaaladda"
+
+msgid "date"
+msgstr "taariikhda"
+
+msgid "subject"
+msgstr "mawduuca"
+
+msgid "recipient"
+msgstr "qaataha"
+
+msgid "total"
+msgstr "wadarta"
+
+msgid "items"
+msgstr "alaabta"
+
+msgid "customer"
+msgstr "macaamiil"
+
+msgid "order"
+msgstr "dalab"
+
+msgid "payment"
+msgstr "lacag bixin"
+
+msgid "active"
+msgstr "shaqaynaya"
+
+msgid "inactive"
+msgstr "aan shaqaynayn"
+
+msgid "cards"
+msgstr "kaararka"
+
+msgid "table"
+msgstr "shaxda"
+
+msgid "select"
+msgstr "dooro"
+
+msgid "sent"
+msgstr "la diray"
+
+msgid "left"
+msgstr "haray"
+
+msgid "resets"
+msgstr "dib u bilaabmaya"
+
+msgid "view_more"
+msgstr "eeg wax kale"
+
+msgid "performance"
+msgstr "waxqabadka"
+
+msgid "insights"
+msgstr "falanqaynta"
+
+msgid "metrics"
+msgstr "cabbirada"
+
+msgid "device"
+msgstr "qalabka"
+
+msgid "locale"
+msgstr "luqadda/gobolka"
+
+msgid "channel"
+msgstr "kanaalka"
+
+msgid "desktop"
+msgstr "kumbuyuutar"
+
+msgid "mobile"
+msgstr "mobil"
+
+msgid "retry"
+msgstr "isku day mar kale"
+
+msgid "failed"
+msgstr "fashilmay"
+
+msgid "support"
+msgstr "4. Taageerada"
+
+msgid "documentation"
+msgstr "dukumenti"
+
+msgid "are_you_sure"
+msgstr "ma hubtaa?"
+
+msgid "clear"
+msgstr "tirtir/nadiifi"
+
+msgid "preview"
+msgstr "hordhac"
+
+msgid "send_email"
+msgstr "dir iimayl"
+
+msgid "recipients"
+msgstr "qaatayaasha"
+
+msgid "question"
+msgstr "su'aal"
+
+msgid "answer"
+msgstr "jawaab"
+
+msgid "category"
+msgstr "Qaybta:"
+
+msgid "category:"
+msgstr "Qaybta:"
+
+msgid "showing"
+msgstr "tusinaya"
+
+msgid "faqs"
+msgstr "Su'aalaha badanaa la is weydiiyo"
+
+msgid "all_categories"
+msgstr "Dhammaan qaybaha"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "Sidee ayaad u jeceshahay inaad u samayso su'aalaha badanaa la is weydiiyo?"
+
+msgid "Single FAQ"
+msgstr "Su'aal kaliya"
+
+msgid "Bulk FAQs"
+msgstr "Su'aalo badan oo mar quda ah"
+
+msgid "no_faqs_added_yet"
+msgstr "Wali ma jiraan wax su'aalo ah oo lagu daray. Ku dar su'aashaada koowaad ee dhanka bidix."
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "Wali ma jiraan wax su'aalo ah oo lagu daray. Ku dar su'aashaada koowaad ee dhanka bidix."
+
+msgid "Added FAQs"
+msgstr "Su'aalaha lagu daray"
+
+msgid "created"
+msgstr "la sameeyay"
+
+msgid "search_faqs"
+msgstr "raadi su'aalaha..."
+
+msgid "update_faq"
+msgstr "cusboonaysii su'aasha"
+
+msgid "category_label"
+msgstr "Qaybta *"
+
+msgid "select_existing_category_optional"
+msgstr "Dooro qayb hore u jirtay (ikhtiyaari)"
+
+msgid "create_faq"
+msgstr "samee su'aal"
+
+msgid "delete_faq"
+msgstr "tirtir su'aasha"
+
+msgid "delete_category"
+msgstr "Tirtir qaybta"
+
+msgid "delete_category_faqs_confirm"
+msgstr "Ma hubtaa inaad rabto inaad tirtirto dhammaan su'aalaha qaybta \"%s\"? Ficilkan dib looma soo celin karo."
+
+msgid "category_faqs_deleted"
+msgstr "Dhammaan su'aalihii ku jiray qaybta \"%s\" waa la tirtiray."
+
+msgid "failed_to_delete_category_faqs"
+msgstr "Waa lagu guul darreystay tirtiridda su'aalaha qaybtan. Fadlan isku day mar kale."
+
+msgid "category_id_not_found"
+msgstr "ID-ga qaybta lama helin."
+
+msgid "orders"
+msgstr "dalabaadka"
+
+msgid "search_orders_by_number_customer_name_or_email"
+msgstr "raadi dalabaadka adoo isticmaalaya lambarka, magaca ama iimaylka..."
+
+msgid "last_updated"
+msgstr "Markii ugu dambeysay ee la cusboonaysiiyey:"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "DASHBOARD-KA FALANQAYNTA"
+
+msgid "Business Intelligence"
+msgstr "Macluumaadka Ganacsiga (BI)"
+
+msgid "Analytics Hub"
+msgstr "Xarunta Falanqaynta"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "Falanqayn dhammaystiran iyo xog ay AI ku shaqaynayso si go'aanno ku salaysan xog loo gaaro"
+
+msgid "Performance Overview"
+msgstr "Guudmarka Waxqabadka"
+
+msgid "Key performance indicators at a glance"
+msgstr "Tilmaamayaasha waxqabadka ee muhiimka ah oo kooban"
+
+msgid "Analytics Insights"
+msgstr "Falanqaynta Xogta"
+
+msgid "Deep dive into performance metrics"
+msgstr "U kuur-gal qoto dheer oo waxqabadka ah"
+
+msgid "Customer Intelligence"
+msgstr "Falanqaynta Macaamiisha"
+
+msgid "Understand customer behavior and trends"
+msgstr "Faham hab-dhaqanka iyo isbeddellada macaamiisha"
+
+msgid "Market Analysis"
+msgstr "Falanqaynta Suuqa"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "Muqaasada suuqa oo dhammaystiran"
+
+msgid "Data Intelligence"
+msgstr "Falanqaynta Xogta"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "Shaxda falanqaynta iyo xogta sicirka"
+
+msgid "Product"
+msgstr "Alaabta"
+
+msgid "Products"
+msgstr "Alaabaha"
+
+msgid "Average"
+msgstr "Celcelis"
+
+msgid "No products found"
+msgstr "Wax alaab ah lama helin"
+
+msgid "Close"
+msgstr "Xir"
+
+msgid "All KPI Products"
+msgstr "Dhammaan Alaabta KPI"
+
+msgid "Top KPI Products"
+msgstr "Alaabta KPI ee ugu sarreysa"
+
+msgid "Product ID"
+msgstr "ID-ga Alaabta"
+
+msgid "Product Title"
+msgstr "Cinwaanka Alaabta"
+
+msgid "Base Price"
+msgstr "Sicirka Asaasiga ah"
+
+msgid "Low-Risk Price"
+msgstr "Sicirka Khatarta Yar"
+
+msgid "Competitive Price"
+msgstr "Sicirka Tartanka"
+
+msgid "High-Risk Price"
+msgstr "Sicirka Khatarta Badan"
+
+msgid "Untitled Product"
+msgstr "Alaab aan magac lahayn"
+
+msgid "All Trend Index Products"
+msgstr "Dhammaan Alaabta Tilmaanta Isbeddellada"
+
+msgid "Trend Index by Product"
+msgstr "Tilmaanta Isbeddelka ee Alaab kasta"
+
+msgid "Product Name"
+msgstr "Magaca Alaabta"
+
+msgid "Price vs Rating"
+msgstr "Sicirka iyo Qiimaynta"
+
+msgid "Price"
+msgstr "Sicirka"
+
+msgid "Rating"
+msgstr "Qiimaynta"
+
+msgid "Reviews"
+msgstr "Faallooyinka"
+
+msgid "CTR"
+msgstr "CTR"
+
+msgid "CVR"
+msgstr "CVR"
+
+msgid "Average Price"
+msgstr "Sicirka Celceliska"
+
+msgid "Average Rating"
+msgstr "Qiimaynta Celceliska"
+
+msgid "Product Count"
+msgstr "Tirada Alaabta"
+
+msgid "Avg Price"
+msgstr "Celceliska Sicirka"
+
+msgid "Avg Rating"
+msgstr "Celceliska Qiimaynta"
+
+msgid "Failed to load"
+msgstr "Waa lagu guuldareystay in la soo raro"
+
+msgid "products"
+msgstr "alaabta"
+
+msgid "product"
+msgstr "alaab"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "Tilmaanta Isbeddelka"
+
+msgid "Profitability"
+msgstr "Macaashka"
+
+msgid "Competition"
+msgstr "Tartanka"
+
+msgid "Demand Stability"
+msgstr "Xasiloonida Dalabka"
+
+msgid "View All"
+msgstr "Eeg Dhammaan"
+
+msgid "price rating data"
+msgstr "xogta sicirka iyo qiimaynta"
+
+msgid "Total Reviews"
+msgstr "Wadarta Faallooyinka"
+
+msgid "Avg Reviews"
+msgstr "Celceliska Faallooyinka"
+
+msgid "Overall Sentiment"
+msgstr "Dareenka guud"
+
+msgid "Positive"
+msgstr "Wanaag"
+
+msgid "Neutral"
+msgstr "Dhexdhexaad"
+
+msgid "Negative"
+msgstr "Xun"
+
+msgid "Trend Status Overview"
+msgstr "Guudmarka Xaaladda Isbeddellada"
+
+msgid "Rising"
+msgstr "Kor u kacaya"
+
+msgid "Stable"
+msgstr "Xasiloon"
+
+msgid "Declining"
+msgstr "Hoos u dhacaya"
+
+msgid "sentiment data"
+msgstr "xogta dareenka"
+
+msgid "trend status data"
+msgstr "xogta xaaladda isbeddellada"
+
+msgid "Status"
+msgstr "Xaaladda"
+
+msgid "Category"
+msgstr "Qaybta"
+
+msgid "All Categories"
+msgstr "Dhammaan Qaybaha"
+
+msgid "Count"
+msgstr "Tirada"
+
+msgid "Percentage"
+msgstr "Boqolkiiba"
+
+msgid "Market Comparison (by Source)"
+msgstr "Isbarbardhigga Suuqa (adoo eegaya isha)"
+
+msgid "Market"
+msgstr "Suuqa"
+
+msgid "Best seller"
+msgstr "Ugu iibka badan"
+
+msgid "Movers and shakers"
+msgstr "Kuwa isbeddelka keena"
+
+msgid "New releases"
+msgstr "Kuwa cusub"
+
+msgid "market comparison data"
+msgstr "xogta isbarbardhigga suuqa"
+
+msgid "Category Comparison"
+msgstr "Isbarbardhigga Qaybaha"
+
+msgid "Category Comparison - All Data"
+msgstr "Isbarbardhigga Qaybaha - Dhammaan Xogta"
+
+msgid "Categories"
+msgstr "Qaybaha"
+
+msgid "Metrics"
+msgstr "Cabbirada"
+
+msgid "Avg Sold"
+msgstr "Celcelis ahaan la iibiyey"
+
+msgid "Avg FPSI"
+msgstr "Celcelis ahaan FPSI"
+
+msgid "N/A"
+msgstr "Lama hayo"
+
+msgid "value"
+msgstr "qiimaha"
+
+msgid "Unknown"
+msgstr "Lama yaqaan"
+
+msgid "category comparison data"
+msgstr "xogta isbarbardhigga qaybaha"
+
+msgid "Amazon Device"
+msgstr "Qalabka Amazon"
+
+msgid "Appliances"
+msgstr "Qalabka korontada"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "Farshaxanka iyo Tooshka"
+
+msgid "Automotive"
+msgstr "Baabuurta"
+
+msgid "Baby Products"
+msgstr "Alaabta carruurta"
+
+msgid "Baby"
+msgstr "Cunug"
+
+msgid "Beauty & Personal Care"
+msgstr "Quruxda iyo daryeelka"
+
+msgid "Cell Phones & Accessories"
+msgstr "Telefoonnada iyo qalabkooda"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "Dharka, kabaha iyo dahabka"
+
+msgid "Collectibles & Fine Art"
+msgstr "Alaabta la ururiyo iyo farshaxanka"
+
+msgid "Electronics"
+msgstr "Elektaroonigga"
+
+msgid "Health & Household"
+msgstr "Caafimaadka iyo guriga"
+
+msgid "Home & Kitchen"
+msgstr "Guriga iyo jikada"
+
+msgid "Industrial & Scientific"
+msgstr "Warshadaha iyo sayniska"
+
+msgid "Musical Instruments"
+msgstr "Qalabka muusikada"
+
+msgid "No category found"
+msgstr "Qayb lama helin"
+
+msgid "Office Products"
+msgstr "Alaabta xafiiska"
+
+msgid "Patio, Lawn & Garden"
+msgstr "Beerta iyo barxadda"
+
+msgid "Safety & Security"
+msgstr "Amniga"
+
+msgid "Tools & Home Improvement"
+msgstr "Aaladaha iyo hagaajinta guriga"
+
+msgid "Toys & Games"
+msgstr "Ciyaaraha iyo alaabta lagu ciyaaro"
+
+msgid "Suggested Pricing"
+msgstr "Sicirka la soo jeediyey"
+
+msgid "All Suggested Pricing"
+msgstr "Dhammaan sicirka la soo jeediyey"
+
+msgid "suggested pricing data"
+msgstr "xogta sicirka la soo jeediyey"
+
+msgid "Search products..."
+msgstr "Raadi alaab..."
+
+msgid "Search products or categories..."
+msgstr "Raadi alaab ama qaybo..."
+
+msgid "Insights"
+msgstr "Aragti"
+
+msgid "Performance insights for"
+msgstr "Falanqaynta waxqabadka ee"
+
+msgid "your website"
+msgstr "mareegtaada"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Mobile"
+msgstr "Mobile"
+
+msgid "Refresh"
+msgstr "Cusboonaysii"
+
+msgid "Loading..."
+msgstr "Raraynaya..."
+
+msgid "Core Web Vitals"
+msgstr "Tilmaamayaasha muhiimka ah"
+
+msgid "Performance Audits"
+msgstr "Baaritaannada Waxqabadka"
+
+msgid "View More"
+msgstr "Eeg wax badan"
+
+msgid "Performance Insights"
+msgstr "Falanqaynta Waxqabadka"
+
+msgid "Analysis Configuration"
+msgstr "Habaynta Falanqaynta"
+
+msgid "Device"
+msgstr "Qalabka"
+
+msgid "Locale"
+msgstr "Luqadda/Gobolka"
+
+msgid "Channel"
+msgstr "Kanaalka"
+
+msgid "Loading Insights data..."
+msgstr "Raraynaya xogta falanqaynta..."
+
+msgid "Error Loading Insights Data"
+msgstr "Qalad raridda xogta falanqaynta"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "Qalad ayaa dhacay markii la keenayey xogta falanqaynta."
+
+msgid "Retry"
+msgstr "Isku day mar kale"
+
+msgid "No Insights Data Available"
+msgstr "Ma jirto xog falanqayn oo diyaar ah"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "Ma jirto xog falanqayn waxqabad. Waxaa laga yaabaa inaan wali la samayn."
+
+msgid "Last analyzed:"
+msgstr "Falanqayntii u dambaysay:"
+
+msgid "Performance"
+msgstr "Waxqabadka"
+
+msgid "Accessibility"
+msgstr "Helitaanka"
+
+msgid "Best Practices"
+msgstr "Dhaqammada ugu wanaagsan"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "No performance metrics available"
+msgstr "Ma jiraan cabbirro waxqabad"
+
+msgid "No audit data available"
+msgstr "Ma jirto xog baaritaan"
+
+msgid "No audits available"
+msgstr "Ma jiraan baaritaanno"
+
+msgid "View Less"
+msgstr "Eeg wax ka yar"
+
+msgid "more"
+msgstr "kale"
+
+msgid "No insights available"
+msgstr "Ma jirto xog falanqayn"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "Wax dhibaato waxqabad ah lama helin. Mareegtaadu si fiican ayay u shaqaynaysaa!"
+
+msgid "Wasted:"
+msgstr "La khasaariyey:"
+
+msgid "Initializing..."
+msgstr "Bilaabaya..."
+
+msgid "Connecting to server..."
+msgstr "Ku xirmaya server-ka..."
+
+msgid "Fetching insights data..."
+msgstr "Keenaya xogta falanqaynta..."
+
+msgid "Analyzing performance metrics..."
+msgstr "Falanqaynaya cabbirada waxqabadka..."
+
+msgid "Processing audits and insights..."
+msgstr "Socodsiinaya baaritaannada iyo falanqaynta..."
+
+msgid "Finalizing results..."
+msgstr "Dhammaystiraya natiijooyinka..."
+
+msgid "Complete!"
+msgstr "Dhammays!"
+
+msgid "Failed to load Insights data"
+msgstr "Waa lagu guuldareystay raridda xogta falanqaynta"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "Waa lagu guuldareystay raridda xogta. Fadlan iska hubi internetkaaga."
+
+msgid "No data available"
+msgstr "Xog lama hayo"
+
+msgid "Excellent"
+msgstr "Aad u fiican"
+
+msgid "Needs Improvement"
+msgstr "U baahan hagaajin"
+
+msgid "Poor"
+msgstr "Liita"
+
+msgid "Unknown error"
+msgstr "Qalad aan la aqoon"
+
+msgid "Email Marketing"
+msgstr "Suuqgeynta iimaylka"
+
+msgid "Manage, send, and track your emails"
+msgstr "Maamul, dir, oo la soco iimaylladaada"
+
+msgid "Emails"
+msgstr "Iimayllada"
+
+msgid "Lists"
+msgstr "Liisaska"
+
+msgid "Create Email"
+msgstr "Samee Iimayl"
+
+msgid "Search emails..."
+msgstr "Raadi iimayllada..."
+
+msgid "Cards"
+msgstr "Kaararka"
+
+msgid "Table"
+msgstr "Shaxda"
+
+msgid "Select"
+msgstr "Dooro"
+
+msgid "Delete"
+msgstr "Tirtir"
+
+msgid "Recipient"
+msgstr "Qaataha"
+
+msgid "Subject"
+msgstr "Mawduuca"
+
+msgid "Created"
+msgstr "La sameeyey"
+
+msgid "Actions"
+msgstr "Ficilada"
+
+msgid "Email Lists"
+msgstr "Liisaska Iimaylka"
+
+msgid "Manage, send, and track your email lists"
+msgstr "Maamul, dir, oo la soco liisaskaaga iimaylka"
+
+msgid "Create Email List"
+msgstr "Samee Liiska Iimaylka"
+
+msgid "Search lists..."
+msgstr "Raadi liisaska..."
+
+msgid "Download Template"
+msgstr "Soo deji Qolobka"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "Soo deji qolobka email-recipient.xlsx"
+
+msgid "Upload Template"
+msgstr "Soo rari Qolobka"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "Soo rari faylka email-recipient.xlsx"
+
+msgid "Recipients"
+msgstr "Qaatayaasha"
+
+msgid "Confirm Action"
+msgstr "Xaqiiji Waxqabadka"
+
+msgid "Are you sure you want to proceed?"
+msgstr "Ma hubtaa inaad rabto inaad sii socoto?"
+
+msgid "Cancel"
+msgstr "Baajili"
+
+msgid "Confirm"
+msgstr "Xaqiiji"
+
+msgid "List Subject"
+msgstr "Mawduuca Liiska"
+
+msgid "Subject for all recipients"
+msgstr "Mawduuca dhammaan qaatayaasha"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "Gali iimaylka oo riix Enter ama guji Ku dar"
+
+msgid "Add"
+msgstr "Ku dar"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "Gali iimayllada mid mid. Guji X-ta si aad u tirtirto."
+
+msgid "Email Body (optional HTML)"
+msgstr "Jirka Iimaylka (HTML ikhtiyaari ah)"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "Waxaad isticmaali kartaa editor-ka muuqda ama waxaad u beddelan kartaa qoraal si aad HTML ugu dhejiso."
+
+msgid "Send"
+msgstr "Dir"
+
+msgid "Preview"
+msgstr "Hordhac"
+
+msgid "Clear"
+msgstr "Nadiifi/Tirtir"
+
+msgid "Create New Email"
+msgstr "Samee Iimayl Cusub"
+
+msgid "Your subject"
+msgstr "Mawduucaaga"
+
+msgid "Email Body"
+msgstr "Jirka Iimaylka"
+
+msgid "Send Email"
+msgstr "Dir Iimayl"
+
+msgid "Email Sent"
+msgstr "Iimaylka waa la diray"
+
+msgid "Your email has been sent successfully."
+msgstr "Iimaylkaaga si guul leh ayaa loo diray."
+
+msgid "OK"
+msgstr "Hagaag"
+
+msgid "Total"
+msgstr "Wadarta"
+
+msgid "Sent"
+msgstr "La diray"
+
+msgid "Read"
+msgstr "La akhriyey"
+
+msgid "Revision"
+msgstr "Cusboonaysiin"
+
+msgid "Sent Emails"
+msgstr "Iimayllada la diray"
+
+msgid "Export Excel"
+msgstr "U dhoofiyo Excel"
+
+msgid "Updated"
+msgstr "La cusboonaysiiyey"
+
+msgid "Failed"
+msgstr "Fashilmay"
+
+msgid "Pending"
+msgstr "Sugaya"
+
+msgid "Show"
+msgstr "Tus"
+
+msgid "Edit"
+msgstr "Wax ka beddel"
+
+msgid "Update & Send"
+msgstr "Cusboonaysii & Dir"
+
+msgid "Sending..."
+msgstr "Diraya..."
+
+msgid "Edit Email"
+msgstr "Wax ka beddel Iimaylka"
+
+msgid "Exit Select"
+msgstr "Ka bax doorashada"
+
+msgid "To:"
+msgstr "Ku:"
+
+msgid "Created:"
+msgstr "La sameeyey:"
+
+msgid "Error"
+msgstr "Qalad"
+
+msgid "Success"
+msgstr "Guul"
+
+msgid "Update Email List"
+msgstr "Cusboonaysii Liiska Iimaylka"
+
+msgid "status_sent"
+msgstr "la diray"
+
+msgid "status_failed"
+msgstr "fashilmay"
+
+msgid "status_pending"
+msgstr "sugaya"
+
+msgid "SENT"
+msgstr "LA DIRAY"
+
+msgid "Sent:"
+msgstr "La diray:"
+
+msgid "Failed:"
+msgstr "Fashilmay:"
+
+msgid "Pending:"
+msgstr "Sugaya:"
+
+msgid "Email sent"
+msgstr "Iimaylka waa la diray"
+
+msgid "Successfully sent"
+msgstr "Si guul leh ayaa loo diray"
+
+msgid "email(s)"
+msgstr "iimayl(lada)"
+
+msgid "Your email list has been sent successfully."
+msgstr "Liiska iimaylkaaga si guul leh ayaa loo diray."
+
+msgid "FAILED"
+msgstr "FASHILMAY"
+
+msgid "PENDING"
+msgstr "SUGAYA"
+
+msgid "Total Lists"
+msgstr "Wadarta Liisaska"
+
+msgid "Total Recipients"
+msgstr "Wadarta Qaatayaasha"
+
+msgid "manage_send_and_track_your_email_lists"
+msgstr "maamul, dir, oo la soco liisaskaaga iimaylka"
+
+msgid "create_email_list"
+msgstr "samee liiska iimaylka"
+
+msgid "add"
+msgstr "ku dar"
+
+msgid "send"
+msgstr "dir"
+
+msgid "ok"
+msgstr "hagaag"
+
+msgid "security"
+msgstr "amniga"
+
+msgid "welcome"
+msgstr "soo dhowow"
+
+msgid "of"
+msgstr "ka mid ah"
+
+msgid "by_using_this_plugin"
+msgstr "Markaad isticmaalayso plugin-kan, waxaad ogolaatay inaad raacdo sharciga."
+
+msgid "previous"
+msgstr "Hore"
+
+msgid "next"
+msgstr "Xiga"
+
+msgid "home"
+msgstr "Hoyga"
+
+msgid "terms"
+msgstr "Shuruudaha"
+
+msgid "Active"
+msgstr "Shaqaynaya"
+
+msgid "Not Set"
+msgstr "Lama habayn"
+
+msgid "Import"
+msgstr "Soo deji"
+
+msgid "Importing..."
+msgstr "Soo dejinaya..."
+
+msgid "Deleting..."
+msgstr "Tirtiraya..."
+
+msgid "Already Imported"
+msgstr "Hore ayaa loo soo dejiyey"
+
+msgid "Product deleted successfully"
+msgstr "Alaabta si guul leh ayaa loo tirtiray"
+
+msgid "NEW"
+msgstr "CUSUB"
+
+msgid "Added"
+msgstr "Lagu daray"
+
+msgid "Exists"
+msgstr "Waa uu jiraa"
+
+msgid "Showing"
+msgstr "Muujinaya"
+
+msgid "Previous"
+msgstr "Hore"
+
+msgid "Next"
+msgstr "Xiga"
+
+msgid "Processing..."
+msgstr "Socodsiinaya..."
+
+msgid "Please wait while we import your product"
+msgstr "Fadlan sug inta aan soo dejinayno alaabtaada"
+
+msgid "Importing product as draft..."
+msgstr "Soo dejinaya alaabta sidii qabyo-qoraal (draft)..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "Tani waxay alaabta ku samayn doontaa WooCommerce"
+
+msgid "Importing product with SEO optimization..."
+msgstr "Soo dejinaya alaabta iyadoo la hagaajinayo SEO..."
+
+msgid "Checking product status..."
+msgstr "Hubinta xaaladda alaabta..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "Sug inta aan hubinayno haddii alaabtu hore u jirtay"
+
+msgid "Loading products..."
+msgstr "Soo raraya alaabta..."
+
+msgid "Overview"
+msgstr "Guudmarka"
+
+msgid "Business Overview"
+msgstr "Guudmarka ganacsiga"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "La soco waxqabadka plugin-ka oo ku maamul howsha hal dashboard."
+
+msgid "Total Products"
+msgstr "Wadarta alaabta"
+
+msgid "Quick Actions"
+msgstr "Waxqabadka degdegga ah"
+
+msgid "Analytics Dashboard"
+msgstr "Dashboard-ka falanqaynta"
+
+msgid "Analytics Overview"
+msgstr "Guudmarka falanqaynta"
+
+msgid "Quick insights into your business performance"
+msgstr "Xog kooban oo ku saabsan waxqabadka ganacsigaaga"
+
+msgid "View Full Analytics"
+msgstr "Eeg falanqaynta oo dhan"
+
+msgid "Overall Sentiment distribution"
+msgstr "Qaybinta dareenka guud"
+
+msgid "Trend Status distribution"
+msgstr "Qaybinta xaaladda isbeddellada"
+
+msgid "Analytics"
+msgstr "Falanqaynta"
+
+msgid "BI Analytics Hub"
+msgstr "Xarunta Falanqaynta BI"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "No orders found"
+msgstr "Wax dalabaad ah lama helin"
+
+msgid "Total Orders"
+msgstr "Wadarta dalabaadka"
+
+msgid "Current Page"
+msgstr "Bogga hadda la joogo"
+
+msgid "Orders Per Page"
+msgstr "Dalabaadka hal bog"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "Raadi dalab adoo isticmaalaya lambarka, magaca ama iimaylka..."
+
+msgid "Loading orders..."
+msgstr "Soo raraya dalabaadka..."
+
+msgid "Page"
+msgstr "Bogga"
+
+msgid "WooCommerce Analytics"
+msgstr "Falanqaynta WooCommerce"
+
+msgid "WordPress Analytics"
+msgstr "Falanqaynta WordPress"
+
+msgid "Clear Cache"
+msgstr "Nadiifi kashka (cache)"
+
+msgid "Export CSV"
+msgstr "Dhoofiyo CSV"
+
+msgid "Last updated:"
+msgstr "Markii ugu dambeysay ee la cusboonaysiiyey:"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "Waa lagu guuldareystay in la soo raro xogta. Bogga cusboonaysii."
+
+msgid "No data available to export"
+msgstr "Ma jirto xog loo dhoofin karo"
+
+msgid "Orders Today"
+msgstr "Dalabaadka maanta"
+
+msgid "Total Revenue"
+msgstr "Dakhliga wadarta"
+
+msgid "Revenue Today"
+msgstr "Dakhliga maanta"
+
+msgid "Revenue (30 Days)"
+msgstr "Dakhliga (30 maalmood)"
+
+msgid "Avg Order Value"
+msgstr "Qiimaha celceliska dalabka"
+
+msgid "Pending Orders"
+msgstr "Dalabaadka sugaya"
+
+msgid "Failed Orders"
+msgstr "Dalabaadka fashilmay"
+
+msgid "Cart Abandonment"
+msgstr "Saabashada laga tagay"
+
+msgid "Customers (30 Days)"
+msgstr "Macaamiisha (30 maalmood)"
+
+msgid "Top Seller (30 Days)"
+msgstr "Ugu iibka badan (30 maalmood)"
+
+msgid "Total Users"
+msgstr "Wadarta isticmaalayaasha"
+
+msgid "Users Today"
+msgstr "Isticmaalayaasha maanta"
+
+msgid "Total Comments"
+msgstr "Wadarta faallooyinka"
+
+msgid "Total Views"
+msgstr "Wadarta daawashada"
+
+msgid "Pending payment"
+msgstr "Sugaya lacag bixinta"
+
+msgid "Processing"
+msgstr "Socodsiinta"
+
+msgid "On hold"
+msgstr "Sugidda"
+
+msgid "Completed"
+msgstr "Dhammaystiran"
+
+msgid "Cancelled"
+msgstr "La baajiyey"
+
+msgid "Draft"
+msgstr "Qabyo-qoraal"
+
+msgid "Revenue Overview"
+msgstr "Guudmarka dakhliga"
+
+msgid "Orders Status"
+msgstr "Xaaladda dalabaadka"
+
+msgid "WordPress Activity"
+msgstr "Dhaqdhaqaaqa WordPress"
+
+msgid "Revenue"
+msgstr "Dakhliga"
+
+msgid "WordPress Metrics"
+msgstr "Cabbirada WordPress"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "Alaabta hal bog ku jirta kama badnaan karto 100."
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "Alaabta hal bog ku jirta waa inay ahaataa ugu yaraan 1."
+
+msgid "Settings saved successfully!"
+msgstr "Settings-ka si guul leh ayaa loo kaydiyey!"
+
+msgid "Please enter a authentication key before testing."
+msgstr "Fadlan gali furaha shatiga ka hor inta aan la tijaabin."
+
+msgid "more..."
+msgstr "kale..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "Kashka falanqaynta si guul leh ayaa loo nadiifiyey!"
+
+msgid "No products to import. Please sync products first."
+msgstr "Ma jiraan alaab la soo dejiyo. Marka hore iswaafaji alaabta."
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "Soo-dejintu waa dhammaatay! %d waa la soo dejiyey, %d waa fashilantay."
+
+msgid "Import failed: %s"
+msgstr "Soo-dejintu waa fashilantay: %s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "Tijaabada API waa dhammaatay! Faahfaahinta ka eeg debug.log."
+
+msgid "API Test Failed: %s"
+msgstr "Tijaabada API waa fashilantay: %s"
+
+msgid "Database structure validated and fixed:"
+msgstr "Qaab-dhismeedka xogta waa la xaqiijiyey waana la hagaajiyey:"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "Qaab-dhismeedka xogta waa sax."
+
+msgid "Database validation issues:"
+msgstr "Dhibaatooyinka xaqiijinta xogta:"
+
+msgid "Database validation failed: %s"
+msgstr "Xaqiijinta xogta waa fashilantay: %s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "Shatigaaga Vortem wuxuu ka shaqaynayaa qorshaha %s."
+
+msgid "Validated on: %s"
+msgstr "La xaqiijiyey: %s"
+
+msgid "Import failed. Please try again."
+msgstr "Soo-dejintu waa fashilantay. Isku day mar kale."
+
+msgid "Please select a bulk action."
+msgstr "Fadlan dooro waxqabad tiro badan ah."
+
+msgid "Please select at least one product."
+msgstr "Fadlan dooro ugu yaraan hal alaab."
+
+msgid "Bulk action failed. Please try again."
+msgstr "Waxqabadkii tirada badnaa waa fashilmay. Isku day mar kale."
+
+msgid "Failed to trash product. Please try again."
+msgstr "Waa lagu guuldareystay in alaabta la tirtiro. Isku day mar kale."
+
+msgid "Failed to restore product. Please try again."
+msgstr "Waa lagu guuldareystay in alaabta dib loo soo celiyo. Isku day mar kale."
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "Waa lagu guuldareystay in alaabta loo soo dejiyo sidii qabyo-qoraal. Isku day mar kale."
+
+msgid "Failed to get product details."
+msgstr "Waa lagu guuldareystay helidda faahfaahinta alaabta."
+
+msgid "Delete failed. Please try again."
+msgstr "Tirtiridda waa fashilantay. Isku day mar kale."
+
+msgid "FAQ Management"
+msgstr "Maamulka Su'aalaha Badanaa la Is Weydiiyo"
+
+msgid "Manage your frequently asked questions"
+msgstr "Maamul su'aalahaaga badanaa la is weydiiyo"
+
+msgid "Search FAQs..."
+msgstr "Raadi su'aalaha..."
+
+msgid "Card View"
+msgstr "Muuqaalka Kaarka"
+
+msgid "Table View"
+msgstr "Muuqaalka Shaxda"
+
+msgid "Refresh FAQs"
+msgstr "Cusboonaysii Su'aalaha"
+
+msgid "Create New FAQ"
+msgstr "Samee Su'aal Cusub"
+
+msgid "Total FAQs"
+msgstr "Wadarta Su'aalaha"
+
+msgid "Active FAQs"
+msgstr "Su'aalaha Shaqaynaya"
+
+msgid "Page Status"
+msgstr "Xaaladda Bogga"
+
+msgid "Question"
+msgstr "Su'aal"
+
+msgid "Answer"
+msgstr "Jawaab"
+
+msgid "No FAQs yet"
+msgstr "Wali ma jiraan wax su'aalo ah"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "Bilow abuurista su'aalaha"
+
+msgid "Create Your First FAQ"
+msgstr "Samee su'aashaada koowaad"
+
+msgid "Loading FAQs..."
+msgstr "Soo raraya su'aalaha..."
+
+msgid "Update FAQ"
+msgstr "Cusboonaysii su'aasha"
+
+msgid "Question *"
+msgstr "Su'aal *"
+
+msgid "Enter your question here..."
+msgstr "Halkan ku qor su'aashaada..."
+
+msgid "Answer *"
+msgstr "Jawaab *"
+
+msgid "Enter the answer here..."
+msgstr "Halkan ku qor jawaabta..."
+
+msgid "Create FAQ"
+msgstr "Samee Su'aal"
+
+msgid "FAQ Details"
+msgstr "Faahfaahinta Su'aasha"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Answer:"
+msgstr "Jawaab:"
+
+msgid "View Details"
+msgstr "Eeg Faahfaahinta"
+
+msgid "Edit FAQ"
+msgstr "Wax ka beddel Su'aasha"
+
+msgid "Creating..."
+msgstr "Samaynaya..."
+
+msgid "Updating..."
+msgstr "Cusboonaysiinaya..."
+
+msgid "Question is required"
+msgstr "Su'aashu waa waajib"
+
+msgid "Answer is required"
+msgstr "Jawaabtu waa waajib"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "Jawaabtu waa inay ka koobnaataa ugu yaraan 10 xaraf"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "Su'aasha \"%s\" waa la sameeyey"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "Su'aasha \"%s\" waa la cusboonaysiiyey"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "Su'aasha \"%s\" waa la tirtiray"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "Ma hubtaa inaad rabto inaad tirtirto \"%s\"?"
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "Waa lagu guuldareystay raridda su'aalaha."
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "Waa lagu guuldareystay kaydinta su'aasha."
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "Waa lagu guuldareystay tirtiridda su'aasha."
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "Aqoonsi ayaa loo baahan yahay. Hubi furahaaga."
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "Furaha shatiga waa waajib. Fadlan ku habee settings-ka Vortem."
+
+msgid "Security"
+msgstr "Amniga"
+
+msgid "Search plugins..."
+msgstr "Raadi plugins..."
+
+msgid "Last Modified"
+msgstr "Markii ugu dambeysay ee wax laga beddelay"
+
+msgid "Inactive"
+msgstr "Aan shaqaynayn"
+
+msgid "WordPress Core"
+msgstr "Xididdada WordPress"
+
+msgid "Themes"
+msgstr "Mawduucyada"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Version"
+msgstr "Nooca"
+
+msgid "Author"
+msgstr "Qoraaga"
+
+msgid "Description"
+msgstr "Sharaxaada"
+
+msgid "File"
+msgstr "Faylka"
+
+msgid "Plugin URI"
+msgstr "URI-ga Plugin"
+
+msgid "Requires WP Version"
+msgstr "Wuxuu u baahan yahay Nooca WP"
+
+msgid "Requires PHP"
+msgstr "Wuxuu u baahan yahay PHP"
+
+msgid "Read more"
+msgstr "Akhrinta dheeraad ah"
+
+msgid "Stylesheet"
+msgstr "Waraaqaha Qaabka"
+
+msgid "Theme URI"
+msgstr "URI-ga Mawduuca"
+
+msgid "Type"
+msgstr "Nooca"
+
+msgid "Name"
+msgstr "Magaca"
+
+msgid "All"
+msgstr "Dhammaan"
+
+msgid "Vulnerabilities"
+msgstr "Nabadgelyada"
+
+msgid "Checking..."
+msgstr "Hubinta..."
+
+msgid "Save Changes"
+msgstr "Kaydi isbeddellada"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "Gali furaha shatiga Vortem.ai si aad u hawlgeliso sifooyinka plugin-ka."
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "Tirada alaabta lagu tuso hal bog. Sida caadiga ah: 16."
+
+msgid "Products per page must be at least 1"
+msgstr "Alaabta halkii bog waa inay ahaataa ugu yaraan 1"
+
+msgid "Products per page cannot exceed 100"
+msgstr "Alaabta halkii bog kama badnaan karto 100"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "Waxaad u dhawdahay xadka iimaylka maalmaha leh (%s). Xadku wuu dib u dejini doonaa berrito."
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "Waxaad gaartay xadka iimaylka maalmaha leh. Xadku wuu dib u dejini doonaa berrito."
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "Waxaad u dhawdahay koobka soo dejinta alaabta maalmaha leh (%s). Koobku wuu dib u dejini doonaa berrito."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "Waxaad gaartay koobka soo dejinta alaabta maalmaha leh. Koobku wuu dib u dejini doonaa berrito."
+
+msgid "Search plugins and themes..."
+msgstr "Raadi plugins iyo mawduucyada..."
+
+msgid "Loading security scan results..."
+msgstr "Soo raraya natiijooyinka baaritaanka amniga..."
+
+msgid "published"
+msgstr "la daabacay"
+
+msgid "Published"
+msgstr "La daabacay"
+
+msgid "references"
+msgstr "tixraacyada"
+
+msgid "References"
+msgstr "Tixraacyada"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "Haddii la hawlgeliyo, fiidiyowyada alaabta ayaa si toos ah loogu dari doonaa faahfaahinta."
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "Haddii la damiyo, fiidiyowyo laguma soo dejin doono mawduucyadan si meel loo badbaadiyo."
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "Si aad u isticmaasho boggan, waa inaad shatiga galiyaa settings-ka oo aad xaqiijisaa."
+
+msgid "To get a authentication, visit"
+msgstr "Si aad u hesho shati, booqo"
+
+msgid "Products Pages"
+msgstr "Bogagga Alaabta"
+
+msgid "Analytics Pages"
+msgstr "Bogagga Falanqaynta"
+
+msgid "sales"
+msgstr "iibka"
+
+msgid "Loading trend products..."
+msgstr "Soo raraya alaabta isbeddellada leh..."
+
+msgid "Loading TikTok products..."
+msgstr "Soo raraya alaabta TikTok..."
+
+msgid "Error loading TikTok products:"
+msgstr "Qalad raridda alaabta TikTok:"
+
+msgid "Failed to load TikTok products:"
+msgstr "Waa lagu guuldareystay raridda alaabta TikTok:"
+
+msgid "Loading Kinguin products..."
+msgstr "Soo raraya alaabta Kinguin..."
+
+msgid "No Kinguin products found."
+msgstr "Wax alaab ah oo Kinguin ah lama helin."
+
+msgid "Failed to load Kinguin products:"
+msgstr "Waa lagu guuldareystay raridda alaabta Kinguin:"
+
+msgid "Error loading Kinguin products:"
+msgstr "Qalad raridda alaabta Kinguin:"
+
+msgid "View on Amazon"
+msgstr "Ku eeg Amazon"
+
+msgid "View on Kinguin"
+msgstr "Ku eeg Kinguin"
+
+msgid "Release:"
+msgstr "La soo saaray:"
+
+msgid "Price N/A"
+msgstr "Sicirka lama hayo"
+
+msgid "In Stock"
+msgstr "Kaydka waa uu jiraa"
+
+msgid "Sentiment"
+msgstr "Dareenka (Sentiment)"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "Alaabta kaydkeedu yar yahay (wax ka yar 10 xabbo)"
+
+msgid "Total Pages"
+msgstr "Wadarta Bogagga"
+
+msgid "Total Posts"
+msgstr "Wadarta Qoraallada"
+
+msgid "Refetch"
+msgstr "Dib u soo qaado"
+
+msgid "AliExpress"
+msgstr "AliExpress"
+
+msgid "Connect to AliExpress"
+msgstr "Ku xir AliExpress"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "Habee settings-ka iyo doorashooyinka plugin-kaaga"
+
+msgid "Products Per Page"
+msgstr "Alaabta Bog kasta"
+
+msgid "Language"
+msgstr "Luqadda"
+
+msgid "Currency"
+msgstr "Lacagta"
+
+msgid "Update Currency"
+msgstr "Cusbooneysii Lacagta"
+
+msgid "Loading currencies..."
+msgstr "Waa la soo gelinayaa lacagaha..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "Dooro nooca lacagta ee plugin-ka ka dibna dhagsii \"Cusbooneysii Lacagta\" si aad u keydiso isbeddellada."
+
+msgid "Currency updated successfully!"
+msgstr "Lacagta si guul leh ayaa loo cusbooneysiiyay!"
+
+msgid "Video Settings"
+msgstr "Settings-ka Fiidiyaha"
+
+msgid "Video Download for Excluded Themes"
+msgstr "Soo Dejinta Fiidiyaha ee Mawduucyada La Reebay"
+
+msgid "AliExpress Integration"
+msgstr "Isu-dhafka AliExpress"
+
+msgid "Add video to product description"
+msgstr "Ku dar fiidiyaha sharaxaada alaabta"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "Soo deji fiidiyaha mawduucyada Vortem Clothes, Vortem Cosmetic, iyo xstore"
+
+msgid "Disconnect AliExpress"
+msgstr "Ka jar AliExpress"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "Ma hubtaa inaad rabto inaad ka jarto akoonkaaga AliExpress?"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "Ku xir akoonkaaga AliExpress si aad u hawlgeliso dropshipping."
+
+msgid "Checking connection status..."
+msgstr "Hubinta xaaladda isku-xirka..."
+
+msgid "Connected"
+msgstr "Waa uu ku xiran yahay"
+
+msgid "Not connected"
+msgstr "Kuma xirna"
+
+msgid "Error checking status"
+msgstr "Qalad hubinta xaaladda"
+
+msgid "Connecting..."
+msgstr "Ku xirmaya..."
+
+msgid "Disconnecting..."
+msgstr "Ka jaryaya..."
+
+msgid "Error connecting to AliExpress"
+msgstr "Qalad ku xiridda AliExpress"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "Qalad ka jidda akoonka AliExpress"
+
+msgid "Failed to disconnect"
+msgstr "Ka jaryadii waa fashilantay"
+
+msgid "Failed to connect to AliExpress"
+msgstr "Ku xiriddii AliExpress waa fashilantay"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "Si guul leh ayaa loogu xiray AliExpress!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "Si dalab loogu sameeyo AliExpress, lambarka telefoonka waa waajib."
+
+msgid "Expires:"
+msgstr "Wuxuu dhacayaa:"
+
+msgid "Disconnect"
+msgstr "Ka jar"
+
+msgid "Select Import Method"
+msgstr "Dooro qaabka soo-dejinta"
+
+msgid "Choose how you want to import this product:"
+msgstr "Dooro sida aad rabto inaad u soo dejiso alaabtan:"
+
+msgid "Normal Import"
+msgstr "Soo-dejin caadi ah"
+
+msgid "Import product with original title and description"
+msgstr "Soo deji adoo isticmaalaya cinwaanka iyo faahfaahinta asalka ah"
+
+msgid "SEO Import"
+msgstr "Soo-dejin SEO ah"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "Soo deji adoo isticmaalaya cinwaan iyo faahfaahin loogu talagalay SEO"
+
+msgid "SEO Import Completed"
+msgstr "Soo Dejinta SEO Ayaa Dhammaystirtay"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "Hagaajinta SEO ee soo socda ayaa la adeegsaday:"
+
+msgid "Keyphrase"
+msgstr "Jumlada Muhiimka Ah"
+
+msgid "SEO Title"
+msgstr "Cinwaanka SEO"
+
+msgid "SEO Description"
+msgstr "Sharaxaada SEO"
+
+msgid "Meta Description"
+msgstr "Sharaxaada Meta"
+
+msgid "Tags"
+msgstr "Summado"
+
+msgid "Yoast SEO Title"
+msgstr "Cinwaanka SEO ee Yoast"
+
+msgid "Headings"
+msgstr "Cinwaanada"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO ma la gelin. Si aad u isticmaasho ikhtiyaarka soo-dejinta SEO, waa inaad ku rakibto oo aad firfircoonayso."
+
+msgid "Email subject must be at least 16 characters"
+msgstr "Mawduuca iimeylka waa inuu ugu yaraan 16 xaraf uu yeesho"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "Mawduuca iimeylka ma noqon karo inuu ka badan yahay 256 xaraf"
+
+msgid "Email body must be at least 128 characters"
+msgstr "Nuxurka iimeylka waa inuu ugu yaraan 128 xaraf uu yeesho"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "Nuxurka iimeylka ma noqon karo inuu ka badan yahay 8196 xaraf"
+
+msgid "All Imported Products"
+msgstr "Dhammaan Alaabta la Soo Dejiyey"
+
+msgid "Refresh Products"
+msgstr "Cusbooneysii Alaabta"
+
+msgid "Show All Products"
+msgstr "Muuji Dhammaan Alaabta"
+
+msgid "Show All Added Products"
+msgstr "Muuji Dhammaan Alaabta la Soo Daray"
+
+msgid "Top Products Kinguin"
+msgstr "Alaabta Ugu Wanaagsan Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "Alaabta Trend-ka Amazon"
+
+msgid "Top Products AliExpress"
+msgstr "Alaabta Ugu Wanaagsan AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "Maamul oo eeg kaydka alaabtaada"
+
+msgid "Security Overview"
+msgstr "Dulmarida Amniga"
+
+msgid "Security Scan Results"
+msgstr "Natiijooyinka Baadhista Amniga"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "Dareen oo baadh dhammaan plugins-ka WordPress iyo themes-ka la rakibay"
+
+msgid "Total Plugins"
+msgstr "Wadarta Plugins"
+
+msgid "Active Plugins"
+msgstr "Plugins Firfircoon"
+
+msgid "Inactive Plugins"
+msgstr "Plugins Firfircoonayn"
+
+msgid "Total Themes"
+msgstr "Wadarta Themes"
+
+msgid "Active Themes"
+msgstr "Themes Firfircoon"
+
+msgid "Inactive Themes"
+msgstr "Themes Firfircoonayn"
+
+msgid "Sort by:"
+msgstr "Kala saar:"
+
+msgid "Filter by Status:"
+msgstr "Filter by Status:"
+
+msgid "Sort by Date"
+msgstr "Kala saar Taariikhda"
+
+msgid "View and manage your store orders"
+msgstr "Fiiri oo maamul dalabyada dukaankaaga"
+
+msgid "Start Date"
+msgstr "Taariikhda Bilowga"
+
+msgid "End Date"
+msgstr "Taariikhda Dhamaadka"
+
+msgid "All Statuses"
+msgstr "Dhammaan Xaaladaha"
+
+msgid "Navigation"
+msgstr "Navigation"
+
+msgid "Shop Analytics"
+msgstr "Xisaabinta Dukaanka"
+
+msgid "Traffic Analytics"
+msgstr "Xisaabinta Taraafikada"
+
+msgid "Search currencies..."
+msgstr "Raadi lacagaha..."
+
+msgid "Search by country or currency code"
+msgstr "Raadi dalka ama koodhka lacagta"
+
+msgid "Popularity"
+msgstr "Caanshaha"
+
+msgid "Impressions"
+msgstr "Aragtida"
+
+msgid "Engagement"
+msgstr "Wadaag"
+
+msgid "Videos"
+msgstr "Fiidiyowga"
+
+msgid "# Hashtags"
+msgstr "# Hashtags"
+
+msgid "View Rate (6s)"
+msgstr "Heerka Daawashada (6s)"
+
+msgid "Cost"
+msgstr "Qiimaha"
+
+msgid "Avg. Time on Site"
+msgstr "Waqtiga Celceliska ee Goobta"
+
+msgid "Visits"
+msgstr "Boobka"
+
+msgid "Unique Visitors"
+msgstr "Booqayaasha Gaarka ah"
+
+msgid "Top Pages"
+msgstr "Bogagga Ugu Sarreeya"
+
+msgid "Top Page Titles"
+msgstr "Cinwaannada Bogagga Ugu Sarreeya"
+
+msgid "Cities"
+msgstr "Magaalada"
+
+msgid "Countries"
+msgstr "Wadamada"
+
+msgid "Exit Pages"
+msgstr "Bogagga Bixinta"
+
+msgid "Entry Pages"
+msgstr "Bogagga Galitaanka"
+
+msgid "Real-time Visits"
+msgstr "Booqashooyinka Waqtiga Runta"
+
+msgid "Bounce Rate"
+msgstr "Heerka soo noqoshada"
+
+msgid "Today"
+msgstr "Maanta"
+
+msgid "Yesterday"
+msgstr "Shalay"
+
+msgid "Last 7 Days"
+msgstr "7 Maalmood ee Ugu Dambeeyay"
+
+msgid "Last 30 Days"
+msgstr "30 Maalmood ee Ugu Dambeeyay"
+
+msgid "First Contentful Paint"
+msgstr "Midabka Koowaad ee Nuxurka"
+
+msgid "Total Size"
+msgstr "Cabbirka Wadariga"
+
+msgid "Requests"
+msgstr "Codsiga"
+
+msgid "Page Load"
+msgstr "Soo Dejinta Bogga"
+
+msgid "Last updated: %s"
+msgstr "Cusbooneysiinta ugu dambeysay: %s"
+
+msgid "Live"
+msgstr "Tooska ah"
+
+msgid "Quick Insights"
+msgstr "Fahamka Degdega ah"
+
+msgid "Config"
+msgstr "Qaabeynta"
+
+msgid "Total Vulnerabilities"
+msgstr "Wadarta Nuglaanta"
+
+msgid "CVSS Score:"
+msgstr "Qiimaha CVSS:"
+
+msgid "Published:"
+msgstr "La daabacay:"
+
+msgid "Last Modified:"
+msgstr "Ugu dambeeyay waa la beddelay:"
+
+msgid "References:"
+msgstr "Tixraacyada:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "Your WordPress core is secure!"
+msgstr "Xidhka WordPress-kaagu waa ammaan ah!"
+
+msgid "View All Vulnerabilities"
+msgstr "Eeg Dhammaan Nuglaanta"
+
+msgid "CRITICAL"
+msgstr "XAALAD XOOG LEH"
+
+msgid "HIGH"
+msgstr "SARE"
+
+msgid "MEDIUM"
+msgstr "DHEXDHEXAAD"
+
+msgid "LOW"
+msgstr "HOOSE"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "Waxaa lagu talinayaa fal. Fadlan dib u eeg oo cusbooneysii walxaha ku dhacay."
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "Dhammaan plugins-kaaga, themes-kaaga, iyo WordPress core-kaagu waa ammaan ah oo cusub."
+
+msgid "High severity vulnerabilities found"
+msgstr "Loo helay dhibaatooyin cufnaanta sare"
+
+msgid "Last updated: Loading..."
+msgstr "Ugu dambeeyay: Waa la soo gelinayaa..."
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "Dib u eegis ayaa lagu talinayaa. Daawado oo cusbooneysii walxaha ku dhacay marka suurtogal tahay."
+
+msgid "Some vulnerabilities found"
+msgstr "Dhibaatooyin qaar ayaa la helay"
+
+msgid "Trend Products TikTok"
+msgstr "Alaabta Trend TikTok"
+
+msgid "Your site is secure!"
+msgstr "Website-kaagu waa ammaan ah!"
+
+msgid "failed_to_load_insights_error"
+msgstr "Qaladka soo gelinta xogta fahamka"
+
+msgid "failed_to_refetch"
+msgstr "Dib u soo celinta way fashilmay"
+
+msgid "no_category"
+msgstr "Ma jiro qayb"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "Wax ka qabashada SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, iyo Headings"
+
+msgid "Search themes..."
+msgstr "Raadi themes..."
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+
+msgid "AUTHOR"
+msgstr "QORAAGA"
+
+msgid "Across all plugins, themes & core"
+msgstr "Dhamaan plugins-ka, themes-ka iyo core-ka"
+
+msgid "Address as soon as possible"
+msgstr "Xallinta sida ugu dhakhsaha badan"
+
+msgid "All Security Issues"
+msgstr "Dhammaan Dhibaatooyinka Amniga"
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "Falanqaynta rakibidda WordPress-kaaga ee nuglaanta amniga"
+
+msgid "Attention required"
+msgstr "Fiiro ayaa loo baahan yahay"
+
+msgid "Component Type"
+msgstr "Nooca Qaybta"
+
+msgid "Core"
+msgstr "Xidhka"
+
+msgid "Core WordPress files"
+msgstr "Faylasha xidhka WordPress"
+
+msgid "Critical"
+msgstr "Xaalad Xoog Leh"
+
+msgid "Critical Severity"
+msgstr "Xaalad Xoog Leh"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "Nuglaanta xaalad xoog leh ayaa la helay!"
+
+msgid "Date"
+msgstr "Taariikh"
+
+msgid "Delete FAQ"
+msgstr "Tirtir FAQ"
+
+msgid "Filter by:"
+msgstr "Filtir:"
+
+msgid "High"
+msgstr "Sare"
+
+msgid "High Severity"
+msgstr "Cufnaanta Sare"
+
+msgid "High severity vulnerabilities detected"
+msgstr "Nuglaanta cufnaanta sare ayaa la helay"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "Fal degdeg ah ayaa loo baahan yahay. Fadlan cusbooneysii ama ka saar walxaha ku dhacay sida ugu dhakhsaha badan."
+
+msgid "Items Requiring Attention"
+msgstr "Walxaha Fiiro U Baahan"
+
+msgid "Items without vulnerabilities"
+msgstr "Walxaha aan nuglaan lahayn"
+
+msgid "Low"
+msgstr "Hoose"
+
+msgid "Low Severity"
+msgstr "Cufnaanta Hoose"
+
+msgid "Low severity vulnerabilities detected"
+msgstr "Nuglaanta cufnaanta hoose ayaa la helay"
+
+msgid "Medium"
+msgstr "Dhexdhexaad"
+
+msgid "Medium Severity"
+msgstr "Cufnaanta Dhexdhexaad"
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "Nuglaanta cufnaanta dhexdhexaad ayaa la helay"
+
+msgid "Monitor & track"
+msgstr "Daawado oo raacso"
+
+msgid "Monitor and plan fix"
+msgstr "Daawado oo qorsheeyso hagaajin"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "Daawado dhibaatooyinkan oo qorsheeyso hagaajinta marka ay suurtogal tahay."
+
+msgid "Next →"
+msgstr "Xiga →"
+
+msgid "No items at risk"
+msgstr "Ma jiro walxo khatar ah"
+
+msgid "No known vulnerabilities detected"
+msgstr "Ma la helin nuglaan la yaqaan"
+
+msgid "No plugins found"
+msgstr "Ma la helin plugins"
+
+msgid "No recent vulnerabilities"
+msgstr "Ma jiro nuglaan dhawaan"
+
+msgid "No themes found"
+msgstr "Ma la helin themes"
+
+msgid "No vulnerabilities found"
+msgstr "Ma la helin nuglaan"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "Ma la helin nuglaan plugins-ka"
+
+msgid "No vulnerabilities found in themes"
+msgstr "Ma la helin nuglaan themes-ka"
+
+msgid "Number of Vulnerabilities"
+msgstr "Tirada Nuglaanta"
+
+msgid "Plan to address"
+msgstr "Qorshe xallinta"
+
+msgid "Please review and address these issues soon."
+msgstr "Fadlan dib u eeg oo xalliso dhibaatooyinkan dhawaan."
+
+msgid "REQUIRES PHP"
+msgstr "WUXUU U BAHAAN YAHAA PHP"
+
+msgid "REQUIRES WP"
+msgstr "WUXUU U BAHAAN YAHAA WP"
+
+msgid "Read less"
+msgstr "Akhri yar"
+
+msgid "Recent Vulnerabilities"
+msgstr "Nuglaanta Dhawaan"
+
+msgid "Refunded"
+msgstr "Loo celiyay"
+
+msgid "Requires immediate action"
+msgstr "Wuxuu u baahan yahay fal degdeg ah"
+
+msgid "Requires immediate attention"
+msgstr "Wuxuu u baahan yahay fiiro degdeg ah"
+
+msgid "Scanning..."
+msgstr "Baarista..."
+
+msgid "Schedule for review"
+msgstr "Jadwal dib u eegis"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "Jadwal waqtiga dib u eegista iyo hagaajinta dhibaatooyinkan."
+
+msgid "Secure Items"
+msgstr "Walxaha Ammaan"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "Nuglaanta amniga ayaa la helay nooca WordPress. Waxaa lagu talinayaa in la cusbooneysii nooca ugu dambeeyay."
+
+msgid "Should be fixed soon"
+msgstr "Waa in la hagaajiyaa dhawaan"
+
+msgid "Third-party plugins installed"
+msgstr "Plugins-ka dhinaca saddexaad ayaa la rakibay"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "Isku day inaad hagaajiso filtiradaada ama ereyada raadinta"
+
+msgid "Unknown Plugin"
+msgstr "Plugin Aan La Aqoon"
+
+msgid "Unknown Theme"
+msgstr "Theme Aan La Aqoon"
+
+msgid "VERSION"
+msgstr "NOOCA"
+
+msgid "View Page"
+msgstr "Eeg Bogga"
+
+msgid "Vortem Logo"
+msgstr "Calaamadda Vortem"
+
+msgid "Vulnerabilities by Type"
+msgstr "Nuglaanta Nooca"
+
+msgid "Vulnerability"
+msgstr "Nuglaan"
+
+msgid "Vulnerability Details"
+msgstr "Faahfaahinta Nuglaanta"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "Qaybinta Nuglaanta Cufnaanta"
+
+msgid "WordPress Vulnerability"
+msgstr "Nuglaanta WordPress"
+
+msgid "WordPress themes"
+msgstr "Themes-ka WordPress"
+
+msgid "Your WP Core is Secure"
+msgstr "Xidhka WP-gaagu waa ammaan"
+
+msgid "Your plugins are secure!"
+msgstr "Plugins-kaagu waa ammaan!"
+
+msgid "Your site is secure"
+msgstr "Website-kaagu waa ammaan"
+
+msgid "Your themes are secure!"
+msgstr "Themes-kaagu waa ammaan!"
+
+msgid "answer:"
+msgstr "Jawaab:"
+
+msgid "bulk_faqs_created"
+msgstr "%d FAQ ayaa si guul leh loo abuuray"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "Waxaa fashilmay abuurista FAQ. Fadlan isku day mar kale."
+
+msgid "faq"
+msgstr "FAQ"
+
+msgid "no_faqs_to_create"
+msgstr "Fadlan ku dar ugu yaraan hal FAQ ka hor abuurista."
+
+msgid "of all vulnerabilities"
+msgstr "dhammaan naafadaha"
+
+msgid "of installed items affected"
+msgstr "alaabaha la rakibay ee saameeyay"
+
+msgid "of items are clean"
+msgstr "alaabaha ayaa nadiif ah"
+
+msgid "of total"
+msgstr "wadarta"
+
+msgid "question:"
+msgstr "Su'aal:"
+
+msgid "remove"
+msgstr "Ka saar"
+
+msgid "vulnerabilities"
+msgstr "naafada"
+
+msgid "vulnerabilities found"
+msgstr "naafada la helay"
+
+msgid "← Previous"
+msgstr "← Hore"
+
+msgid "Filter by Severity:"
+msgstr "Filter by Severity:"
+
+msgid "All Severities"
+msgstr "All Severities"
+
+msgid "Let's Get You Started"
+msgstr "Aan bilowno"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "Dhameeyso dejinta dhowrka 2 daqiiqo gudahood"
+
+msgid "Quick Setup"
+msgstr "Dejinta Degdega ah"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "Bilow daqiiqooyin gudahood adoo adeegsanaya habka nagu hogaamiya ee rakibida"
+
+msgid "Secure & Reliable"
+msgstr "Aamin & Aamin ah"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "Amniga heerka shirkadda oo ku dhex jira dhammaan qaybaha"
+
+msgid "Optimized Performance"
+msgstr "Waxqabadka la hagaajiyey"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "Aad u degdeg ah oo loo hagaajiyey goobaha WordPress"
+
+msgid "Next Step"
+msgstr "Tallaabada Xigta"
+
+msgid "Initial Configuration"
+msgstr "Dejinta Bilowga ah"
+
+msgid "Set your default language and currency preferences"
+msgstr "Deji luuqadaada iyo doorashooyinka lacagta"
+
+msgid "Please review and accept our terms to continue"
+msgstr "Fadlan dib u eeg oo aqbal shuruudahayaga si aad u sii waddo"
+
+msgid "1. Service Availability"
+msgstr "1. Helitaanka Adeegga"
+
+msgid "2. Support"
+msgstr "2. Taageerada"
+
+msgid "3. Updates"
+msgstr "3. Cusbooneysiinta"
+
+msgid "I accept the Terms & Conditions"
+msgstr "Waxaan aqbalayaa Shuruudaha & Shuruudaha"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "Adoo sanduuqan xidhanaya, waxaad xaqiijinaysaa inaad akhriday oo aad ku heshiiyay inaad ku xidhan tahay shuruudaha iyo shuruudahan."
+
+msgid "Installation Complete!"
+msgstr "Rakibida waa dhamaatay!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "Plugin-kaaga si guul leh ayaa loo habayey oo waa diyaar in la isticmaalo. Hadda waxaad bilaabi kartaa isticmaalka dhammaan sifooyinka."
+
+msgid "Configuration Summary"
+msgstr "Koobidka Dejinta"
+
+msgid "Language:"
+msgstr "Luuqada:"
+
+msgid "Currency:"
+msgstr "Lacagta:"
+
+msgid "Terms Accepted:"
+msgstr "Shuruudaha la aqbalay:"
+
+msgid "Yes"
+msgstr "Haa"
+
+msgid "Go to Dashboard"
+msgstr "U tag Dashboard-ka"
+
+msgid "Go to Analytics page"
+msgstr "U tag bogga falanqaynta"
+
+msgid "Go to Products page"
+msgstr "U tag bogga alaabta"
+
+msgid "Go to Matomo Analytics page"
+msgstr "U tag bogga Matomo Analytics"
+
+msgid "Restart Wizard"
+msgstr "Dib u bilow Wizard-ka"
+
+msgid "Restart"
+msgstr "Dib u bilow"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "Tani wuxuu dib u dejin doonaa habka dejinta. Ma hubtaa?"
+
+msgid "Confirm Restart"
+msgstr "Xaqiiji dib u bilow"
+
+msgid "Back"
+msgstr "Dib u noqo"
+
+msgid "Welcome"
+msgstr "Soo dhawoow"
+
+msgid "Configuration"
+msgstr "Dejinta"
+
+msgid "Complete"
+msgstr "Dhamaaday"
+
+msgid "Insufficient permissions"
+msgstr "Ogolaansho aan ku filnayn"
+
+msgid "Language parameter is required"
+msgstr "Qodobka luqadda waa loo baahan yahay"
+
+msgid "Translation manager not available"
+msgstr "Maamulaha turjumaada ma heli karo"
+
+msgid "Unsupported language"
+msgstr "Luqad la taageerin"
+
+msgid "Language changed successfully"
+msgstr "Luqadda si guul leh ayaa loo beddelay"
+
+msgid "Failed to change language"
+msgstr "Beddelida luqadda ayaa fashilmay"
+
+msgid "Currency parameter is required"
+msgstr "Qodobka lacagta waa loo baahan yahay"
+
+msgid "Unsupported currency"
+msgstr "Lacag la taageerin"
+
+msgid "Currency changed successfully"
+msgstr "Lacagta si guul leh ayaa loo beddelay"
+
+msgid "Loading"
+msgstr "Soo dejinaya"
+
+msgid "Search..."
+msgstr "Raadi..."
+
+msgid "Search Language"
+msgstr "Raadi luqadda"
+
+msgid "No languages found"
+msgstr "Luqado lama helin"
+
+msgid "No currencies found"
+msgstr "Lacago lama helin"
+
+msgid "Failed to load currencies"
+msgstr "Soo dejinta lacagaha ayaa fashilmay"
+
+msgid "Error loading currencies"
+msgstr "Qalad soo dejinta lacagaha"
+
+msgid "Failed to restart wizard"
+msgstr "Dib u bilawginta wizard ayaa fashilmay"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "Qalad ayaa dhacay markii wizard la dib u bilawgiyay. Fadlan mar kale isku day."
+
+msgid "Please complete the current step before proceeding."
+msgstr "Fadlan dhameey talaabada hadda ah ka hor inta aadan sii wadayn."
+
+msgid "Please wait for authentication to complete."
+msgstr "Fadlan sug in xaqiijinta la dhameeyo."
+
+msgid "Please accept the terms and conditions."
+msgstr "Fadlan aqbal shuruudaha iyo xaaladaha."
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "Fadlan aqbal shuruudaha iyo xaaladaha ka hor inta aadan sii wadayn."
+
+msgid "Please complete authentication first."
+msgstr "Fadlan marka hore dhameey xaqiijinta."
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "Fadlan aqbal shuruudaha iyo xaaladaha ka hor inta aadan dhameeyin dejinta."
+
+msgid "Failed to complete setup"
+msgstr "Dhameynta dejinta ayaa fashilmay"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "Qalad ayaa dhacay markii dejinta la dhameeyay. Fadlan mar kale isku day."
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "Token-ka fadhiga lama helin. Fadlan marka hore dhameey xaqiijinta."
+
+msgid "An error occurred while switching language"
+msgstr "Qalad ayaa dhacay markii luqadda la beddelay"
+
+msgid "An error occurred while switching currency"
+msgstr "Qalad ayaa dhacay markii lacagta la beddelay"
+
+msgid "Last updated: %1$s • Live"
+msgstr "Laga cusboonaysiiyay ugu dambaysti: %1$s • Toos ah"
+
+msgid "Last 30 days"
+msgstr "30 maalmood ee la soo dhaafay"
+
+msgid "Traffic Overview"
+msgstr "Dulmar trafka"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "Falanqaynta Matomo – 30 maalmood ee la soo dhaafay"
+
+msgid "Today's Focus"
+msgstr "Diiradda maanta"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "Dulmar pluginka Vortem.ai"
+
+msgid "Read More"
+msgstr "Akhri wax badan"
+
+msgid "Check your dashboard regularly"
+msgstr "Hubi dashboardkaaga si joogto ah"
+
+msgid "View Analytics"
+msgstr "Arag falanqaynta"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem loo aqoonsan yahay sida Platform AI ugu sarreysa 2026"
+
+msgid "Order Statistics"
+msgstr "Tirokoobka dalabka"
+
+msgid "Today's Orders Completed"
+msgstr "Dalabka maanta la dhamaystiray"
+
+msgid "Total Orders Completed"
+msgstr "Wadarta dalabka la dhamaystiray"
+
+msgid "Imported Products"
+msgstr "Alaabta laga soo dejiyay"
+
+msgid "Recent Activity"
+msgstr "Dhaqdhaqaaqii dhowaan"
+
+msgid "Overview dashboard loaded"
+msgstr "Dashboardka dulmarka waa la soo dejiyay"
+
+msgid "Just now"
+msgstr "Hadda"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "Halkan ka waxaad maamuli kartaa alaabta, falanqaynta iyo suuqgeynta iimaylka"
+
+msgid "Ready"
+msgstr "Diyaar"
+
+msgid "Configure plugin settings and API keys"
+msgstr "Deji dejinta pluginka iyo furaha API"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "Pluginka Vortem.ai waa diyaar. Halkan ka waxaad maamuli kartaa alaabta, falanqaynta iyo suuqgeynta iimaylka."
+
+msgid "Vortem.ai official website"
+msgstr "Webka rasmiga ah ee Vortem.ai"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "Socodgal, wax baro, oo maamul akoonkaaga"
+
+msgid "Quick Access"
+msgstr "Helitaanka degdeg ah"
+
+msgid "Return to dashboard home"
+msgstr "Ku noqo guriga dashboardka"
+
+msgid "Go to Home"
+msgstr "Tag guriga"
+
+msgid "Profile, settings, and preferences"
+msgstr "Profile, dejinta iyo doorashooyinka"
+
+msgid "Help & Learning"
+msgstr "Caawinta & waxbarashada"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "Hel caawimo, gudbi tigidhyada, ama la xiriir taageerada"
+
+msgid "Get Support"
+msgstr "Hel taageero"
+
+msgid "Developer & user guides"
+msgstr "Tilmaamaha horumariyaha iyo isticmaalaha"
+
+msgid "Read Docs"
+msgstr "Akhri dukumeentiga"
+
+msgid "Legal & Policies"
+msgstr "Sharciga & siyaasadaha"
+
+msgid "Terms of Service"
+msgstr "Shuruudaha adeegga"
+
+msgid "Usage terms and conditions"
+msgstr "Shuruudaha iyo shuruudaha isticmaalka"
+
+msgid "View"
+msgstr "Arag"
+
+msgid "Privacy Policy"
+msgstr "Siyaasadda arrimaha khaas ah"
+
+msgid "Data protection and privacy"
+msgstr "Ilaalinta xogta iyo arrimaha khaas ah"
+
+msgid "Navigation to vortem wordpress"
+msgstr "Socodgal ilaa Vortem WordPress"
+
+msgid "Access key features and settings"
+msgstr "Helitaanka sifooyinka muhiimka ah iyo dejinta"
+
+msgid "Manage catalog and inventory"
+msgstr "Maamul kataloolka iyo kaydka"
+
+msgid "Business insights and metrics"
+msgstr "Xogta ganacsiga iyo cabbirrada"
+
+msgid "Growth & Intelligence"
+msgstr "Koritaanka & xikmadda"
+
+msgid "Campaigns and automation"
+msgstr "Ololaha iyo otomaatiga"
+
+msgid "AI-powered recommendations"
+msgstr "Talooyinka ku saleysan AI"
+
+msgid "Manage orders and shipments"
+msgstr "Maamul dalabka iyo rarida"
+
+msgid "System"
+msgstr "Nidaamka"
+
+msgid "Knowledge base editor"
+msgstr "Tafatiraha aasaaska aqoonta"
+
+msgid "Access control and monitoring"
+msgstr "Xakameynta gelitaanka iyo iidaynta"
+
+msgid "System configuration"
+msgstr "Dejinta nidaamka"
+
+msgid "Emails Sent"
+msgstr "Iimaylka la diray"
+
+msgid "Orders"
+msgstr "Dalabka"
+
+msgid "Total products"
+msgstr "Wadarta alaabta"
+
+msgid "Imported via plugin"
+msgstr "Laga soo dejiyay pluginka"
+
+msgid "Other products"
+msgstr "Alaabta kale"
+
+msgid "Manage"
+msgstr "Maamul"
+
+msgid "bounce"
+msgstr "soo noqoshada"
+
+
+msgid "Dashboard"
+msgstr "Daashboorka"
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "External"
+msgstr "Dibadda"
+
+msgid "Navigation to vortem WordPress"
+msgstr "Navigeshan ilaa vortem WordPress"
+
+msgid "Commerce"
+msgstr "Ganacsi"
+
+msgid "Timeline"
+msgstr "Khadka Wakhtiga"
+
+msgid "Security Center"
+msgstr "Xarunta Amniga"
+
+msgid "Display"
+msgstr "Bandhig"
+
+msgid "How products and currency are presented in your store."
+msgstr "Sida alaabta iyo lacagta loogu bandhigayo bakhaarkaaga."
+
+msgid "Products per page"
+msgstr "Alaab boggii"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "Caadi ah: 16. Kala-duwanaansho: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "Lacagta lagu isticmaalo qiimaynta plugin-ka. Riix \"Cusboonaysii\" si aad u keydiso doorashadaada."
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Control how product videos are imported and attached."
+msgstr "Xakamayso sida fiidiyowyada alaabta loo soo dejiyo loona lifaaqo."
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "Marka la furo, fiidiyowyada alaabta si toos ah ayaa loogu daraa sharaxa. Dami si aad gacanta ugu maamusho fiidiyowyada."
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "Marka la damiyo, fiidiyowyo lama soo dejiyo mawduucyada Vortem Clothes, Vortem Cosmetic iyo xstore — wuxuu kaydiyaa booska kaydka."
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "Soo deji fiidiyowyo mawduucyada Vortem iyo xstore"
+
+msgid "Integrations"
+msgstr "Isku-darka"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "Isku xir akoonnada dibadda si aad u ballaariso ilaha iyo fulinta."
+
+msgid "Update"
+msgstr "Cusboonaysii"
+
+msgid "Last updated"
+msgstr "Markii ugu dambeysay la cusboonaysiiyay"
+
+msgid "Setup"
+msgstr "Dejinta"
+
+msgid "Let's get you started"
+msgstr "Aan bilowno"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "Ku dhammaystir dejinta qiyaastii 2 daqiiqo."
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "Muuqaalada soo dejinta alaabta Vortem waxay u baahan yihiin koonto AliExpress."
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "Waxaad ku xiri doontaa dambe goobaha → Vortem → Isdhexgalka AliExpress. Weli ma lihid koonto? Waxaad iska diiwaan gelin kartaa halkaas sidoo kale."
+
+msgid "Up and running in minutes."
+msgstr "Shaqayn daqiiqado gudahood."
+
+msgid "Built with WordPress security best practices."
+msgstr "Loo dhisay sida ugu wanaagsan ee amniga WordPress."
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "Fudud oo loogu talagalay WordPress."
+
+msgid "Store basics"
+msgstr "Aasaaska dukaanka"
+
+msgid "Pick your store currency"
+msgstr "Dooro lacagta dukaanka"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "Kani waa wax macaamiisha ku arkaan lacag bixinta. Waad beddeli kartaa dambe."
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "Waxaa loo isticmaalaa kaararka alaabta, gaadhiga, iyo lacag bixinta."
+
+msgid "Almost there"
+msgstr "Ku dhowaad dhammaystiran"
+
+msgid "Review and accept"
+msgstr "Hubi oo aqbal"
+
+msgid "Read the full Terms"
+msgstr "Akhri Shuruudaha oo dhan"
+
+msgid "You agree to be bound by these terms."
+msgstr "Waxaad ogolaatay inaad ku xiran tahay shuruudahan."
+
+msgid "I consent to data processing"
+msgstr "Waan ogolahay in la shaqeeyo xogta"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "Waan fahmayaa oo waan ogolahay in kordhintaani ay u dirtaa xogta boggeyga (URL-ka bogga, nooca WordPress, nooca kordhinta, doorashada lacagta, xogta alaabta WooCommerce marka la soo dejinayo, macluumaadka maraakiibta marka la shaqaynayo amarada, iyo metadata kordhinta/naqshadeynta marka la isticmaalayo astaamaha amniga) server-yada vortem.ai (https://c.vortem.ai) si loo shaqeeyo, loo falanqeeyo, loona bixiyo adeegga. Xog lama diro ka hor ogolaanshahaaga cad, kordhinta weli way shaqeysaa haddii aad diiddo (muuqaalada ku tiirsan vortem.ai ma heli doonto). Dirida liiska kordhiyaha/naqshadeynta la rakibay raadinta nugulnimada waxay raacdaa isla qaabka Wordfence, Patchstack, WPScan, iyo Jetpack Protect."
+
+msgid "All done"
+msgstr "La dhammeeyay"
+
+msgid "You're all set!"
+msgstr "Wax walba diyaar yihiin!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem waa la dejiyay oo diyaar yahay. Ku xir AliExpress goobaha markaad diyaar tahay."
+
+msgid "Accepted"
+msgstr "La aqbalay"
+
+msgid "Consented"
+msgstr "Ogolaansho la siiyey"
+
+msgid "Data processing"
+msgstr "Wax ka qabashada xogta"
+
+msgid "Meta Title"
+msgstr "Cinwaanka meta"
+
+msgid "Order"
+msgstr "Amar"
+
+msgid "Customer"
+msgstr "Macmiil"
+
+msgid "Items"
+msgstr "Waxyaabaha"
+
+msgid "Payment"
+msgstr "Lacag bixinta"

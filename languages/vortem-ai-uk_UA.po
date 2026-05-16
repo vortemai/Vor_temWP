@@ -1,0 +1,2994 @@
+# Translation of Vortem AI in uk_UA
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "вимагає встановлення та активації WooCommerce."
+
+msgid "or higher. You are running version"
+msgstr "або новішої. Ви використовуєте версію"
+
+msgid "Welcome to vortem.ai!"
+msgstr "Ласкаво просимо до vortem.ai!"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "Майстер налаштування Vortem.ai"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "Дякуємо, що обрали плагін vortem.ai. Цей майстер допоможе вам швидко та легко налаштувати ваш магазин."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "Для використання послуг продажу продуктів Vortem вам потрібен обліковий запис AliExpress. Ви можете підключити свій обліковий запис з Налаштування → Вхід у Vortem → Інтеграція AliExpress. Якщо у вас немає облікового запису, ви можете зареєструватися безпосередньо звідти."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "Для використання послуг продажу продуктів Vortem вам потрібен обліковий запис AliExpress."
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "Ви можете підключити свій обліковий запис з Налаштування → Вхід у Vortem → Інтеграція AliExpress."
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "Якщо у вас немає облікового запису, ви можете зареєструватися безпосередньо звідти."
+
+msgid "Select Language"
+msgstr "Виберіть мову"
+
+msgid "Select Currency"
+msgstr "Виберіть валюту"
+
+msgid "Complete Setup"
+msgstr "Завершити налаштування"
+
+msgid "What you'll get:"
+msgstr "Що ви отримаєте:"
+
+msgid "Automated product synchronization"
+msgstr "Автоматична синхронізація продуктів"
+
+msgid "Order management and processing"
+msgstr "Управління та обробка замовлень"
+
+msgid "Real-time inventory updates"
+msgstr "Оновлення інвентарю в реальному часі"
+
+msgid "Easy-to-use admin interface"
+msgstr "Простий інтерфейс адміністратора"
+
+msgid "24/7 customer support"
+msgstr "Підтримка клієнтів 24/7"
+
+msgid "Contact Support"
+msgstr "Зв'язатися з підтримкою"
+
+msgid "Import Products"
+msgstr "Імпортувати продукти"
+
+msgid "Configure Settings"
+msgstr "Налаштувати параметри"
+
+msgid "Setup Complete!"
+msgstr "Налаштування завершено!"
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "Налаштування займе приблизно 2-3 хвилини."
+
+msgid "Terms & Conditions"
+msgstr "Умови та положення"
+
+msgid "1. License Agreement"
+msgstr "1. Ліцензійна угода"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "Використовуючи цей плагін, ви погоджуєтеся дотримуватися всіх чинних законів і правил. Плагін надається за ліцензією GPL v2 або новішої версії."
+
+msgid "Sign up"
+msgstr "Зареєструватися"
+
+msgid "Sign up to get started"
+msgstr "Зареєструйтеся, щоб почати"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "Вітаємо! Ваш плагін vortem.ai успішно налаштовано."
+
+msgid "What's next?"
+msgstr "Що далі?"
+
+msgid "Need Help?"
+msgstr "Потрібна допомога?"
+
+msgid "Our support team is here to help you get started."
+msgstr "Наша служба підтримки готова допомогти вам почати роботу."
+
+msgid "Step %1$d of %2$d"
+msgstr "Крок %1$d з %2$d"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "Я прочитав(-ла) і погоджуюся з %1$sУмовами та положеннями%2$s"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "Умови використання плагіна vortem.ai"
+
+msgid "1. authentication Agreement"
+msgstr "1. Угода про автентифікацію"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "Використовуючи цей плагін, ви погоджуєтеся дотримуватися всіх чинних законів і правил. Плагін надається під ліцензією GPL v2 або новішою."
+
+msgid "2. Data Usage"
+msgstr "2. Використання даних"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "Ми збираємо та обробляємо дані, необхідні для роботи сервісу, включаючи інформацію про товари, деталі замовлень та дані клієнтів. Усі дані обробляються відповідно до нашої політики конфіденційності."
+
+msgid "3. Service Availability"
+msgstr "3. Доступність сервісу"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "Хоча ми прагнемо підтримувати високу доступність сервісу, ми не можемо гарантувати безперебійну роботу. Ми залишаємо за собою право виконувати технічне обслуговування та оновлення за потреби."
+
+msgid "4. Support"
+msgstr "4. Підтримка"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "Технічна підтримка надається через наші канали підтримки. Час відповіді може відрізнятися залежно від складності проблеми."
+
+msgid "5. Updates"
+msgstr "5. Оновлення"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "Оновлення плагіна надаються для покращення функціональності та безпеки. Рекомендується оновлювати плагін до останньої версії."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "Введіть ключ автентифікації Vortem.ai, щоб активувати плагін і отримати доступ до всіх функцій."
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "Ви можете знайти свій ключ автентифікації на панелі керування вашого облікового запису Vortem.ai."
+
+msgid "Need help?"
+msgstr "Потрібна допомога?"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "Завершіть роботу майстра налаштування, щоб налаштувати автентифікацію та розпочати роботу."
+
+msgid "Vortem.ai Overview"
+msgstr "Огляд Vortem.ai"
+
+msgid "Vortem.ai Products"
+msgstr "Товари Vortem.ai"
+
+msgid "Vortem.ai Settings"
+msgstr "Налаштування Vortem.ai"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "Налаштуйте параметри Vortem.ai нижче."
+
+msgid "Saving settings and validating authentication..."
+msgstr "Збереження налаштувань та перевірка автентифікації..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "Налаштування завершено - ваш плагін Vortem.ai готовий до використання!"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "Виберіть мову інтерфейсу плагіна. Зміни набудуть чинності після збереження."
+
+msgid "Vortem.ai AI Resources"
+msgstr "Ресурси Vortem.ai AI"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "Доступ до вашого облікового запису Vortem.ai AI та ресурсів"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "Доступ до вашого облікового запису Vortem.ai AI та ресурсів:"
+
+msgid "Home"
+msgstr "Головна"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "Відвідати домашню сторінку Vortem.ai AI"
+
+msgid "Visit Site"
+msgstr "Відвідати сайт"
+
+msgid "My Account"
+msgstr "Мій акаунт"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "Керування налаштуваннями акаунту Vortem.ai AI"
+
+msgid "Support"
+msgstr "Підтримка"
+
+msgid "Get help and support from our team"
+msgstr "Отримати допомогу та підтримку від нашої команди"
+
+msgid "Documentation"
+msgstr "Документація"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "Читати детальні посібники та інструкції"
+
+msgid "Terms"
+msgstr "Умови"
+
+msgid "Review terms and conditions"
+msgstr "Переглянути умови та положення"
+
+msgid "Privacy"
+msgstr "Конфіденційність"
+
+msgid "View our privacy policy"
+msgstr "Переглянути нашу політику конфіденційності"
+
+msgid "error"
+msgstr "помилка"
+
+msgid "success"
+msgstr "успіх"
+
+msgid "cancel"
+msgstr "скасувати"
+
+msgid "delete"
+msgstr "видалити"
+
+msgid "deleting"
+msgstr "видалення..."
+
+msgid "edit"
+msgstr "редагувати"
+
+msgid "close"
+msgstr "закрити"
+
+msgid "confirm"
+msgstr "підтвердити"
+
+msgid "refresh"
+msgstr "оновити"
+
+msgid "import"
+msgstr "імпорт"
+
+msgid "actions"
+msgstr "дії"
+
+msgid "status"
+msgstr "статус"
+
+msgid "date"
+msgstr "дата"
+
+msgid "subject"
+msgstr "тема"
+
+msgid "recipient"
+msgstr "отримувач"
+
+msgid "total"
+msgstr "всього"
+
+msgid "items"
+msgstr "елементи"
+
+msgid "customer"
+msgstr "клієнт"
+
+msgid "order"
+msgstr "замовлення"
+
+msgid "payment"
+msgstr "оплата"
+
+msgid "active"
+msgstr "активний"
+
+msgid "inactive"
+msgstr "неактивний"
+
+msgid "cards"
+msgstr "картки"
+
+msgid "table"
+msgstr "таблиця"
+
+msgid "select"
+msgstr "вибрати"
+
+msgid "sent"
+msgstr "надіслано"
+
+msgid "left"
+msgstr "залишилось"
+
+msgid "resets"
+msgstr "скидання"
+
+msgid "view_more"
+msgstr "дивитися більше"
+
+msgid "performance"
+msgstr "продуктивність"
+
+msgid "insights"
+msgstr "інсайти"
+
+msgid "metrics"
+msgstr "метрики"
+
+msgid "device"
+msgstr "пристрій"
+
+msgid "locale"
+msgstr "локалізація"
+
+msgid "channel"
+msgstr "канал"
+
+msgid "desktop"
+msgstr "комп'ютер"
+
+msgid "mobile"
+msgstr "мобільний"
+
+msgid "retry"
+msgstr "повторити"
+
+msgid "failed"
+msgstr "не вдалося"
+
+msgid "support"
+msgstr "4. Підтримка"
+
+msgid "documentation"
+msgstr "документація"
+
+msgid "are_you_sure"
+msgstr "ви впевнені?"
+
+msgid "clear"
+msgstr "очистити"
+
+msgid "preview"
+msgstr "попередній перегляд"
+
+msgid "send_email"
+msgstr "надіслати email"
+
+msgid "recipients"
+msgstr "отримувачі"
+
+msgid "question"
+msgstr "питання"
+
+msgid "question:"
+msgstr "Питання:"
+
+msgid "answer"
+msgstr "відповідь"
+
+msgid "answer:"
+msgstr "Відповідь:"
+
+msgid "category"
+msgstr "Категорія:"
+
+msgid "category:"
+msgstr "Категорія:"
+
+msgid "showing"
+msgstr "відображення"
+
+msgid "faqs"
+msgstr "FAQ"
+
+msgid "all_categories"
+msgstr "всі категорії"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "Як ви хочете створити FAQ?"
+
+msgid "Single FAQ"
+msgstr "Одне питання"
+
+msgid "Bulk FAQs"
+msgstr "Масові питання"
+
+msgid "no_faqs_added_yet"
+msgstr "FAQ ще не додано. Додайте перше питання зліва."
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "FAQ ще не додано. Додайте перше питання зліва."
+
+msgid "Added FAQs"
+msgstr "Додані FAQ"
+
+msgid "faq"
+msgstr "FAQ"
+
+msgid "remove"
+msgstr "видалити"
+
+msgid "no_faqs_to_create"
+msgstr "Будь ласка, додайте хоча б одне питання перед створенням."
+
+msgid "bulk_faqs_created"
+msgstr "Успішно створено %d FAQ"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "Не вдалося створити FAQ. Будь ласка, спробуйте ще раз."
+
+msgid "created"
+msgstr "створено"
+
+msgid "search_faqs"
+msgstr "Пошук у FAQ..."
+
+msgid "update_faq"
+msgstr "Оновити FAQ"
+
+msgid "category_label"
+msgstr "Категорія *"
+
+msgid "select_existing_category_optional"
+msgstr "Виберіть існуючу категорію (необов'язково)"
+
+msgid "create_faq"
+msgstr "Створити FAQ"
+
+msgid "delete_faq"
+msgstr "Видалити FAQ"
+
+msgid "delete_category"
+msgstr "Видалити категорію"
+
+msgid "delete_category_faqs_confirm"
+msgstr "Ви впевнені, що хочете видалити всі FAQ у категорії \"%s\"? Цю дію неможливо скасувати."
+
+msgid "category_faqs_deleted"
+msgstr "Всі FAQ у категорії \"%s\" видалено."
+
+msgid "failed_to_delete_category_faqs"
+msgstr "Не вдалося видалити FAQ цієї категорії. Спробуйте ще раз."
+
+msgid "category_id_not_found"
+msgstr "ID категорії не знайдено для вибраної категорії."
+
+msgid "orders"
+msgstr "замовлення"
+
+msgid "last_updated"
+msgstr "останнє оновлення:"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "ПАНЕЛЬ АНАЛІТИКИ"
+
+msgid "Business Intelligence"
+msgstr "Бізнес-аналітика"
+
+msgid "Analytics Hub"
+msgstr "Центр аналітики"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "Комплексна аналітика та інсайти на основі передових даних для прийняття рішень"
+
+msgid "Performance Overview"
+msgstr "Огляд продуктивності"
+
+msgid "Key performance indicators at a glance"
+msgstr "Ключові показники ефективності з одного погляду"
+
+msgid "Analytics Insights"
+msgstr "Аналітичні інсайти"
+
+msgid "Deep dive into performance metrics"
+msgstr "Глибокий аналіз показників ефективності"
+
+msgid "Customer Intelligence"
+msgstr "Аналітика клієнтів"
+
+msgid "Understand customer behavior and trends"
+msgstr "Розуміння поведінки клієнтів та тенденцій"
+
+msgid "Market Analysis"
+msgstr "Аналіз ринку"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "Комплексне порівняння ринку та інсайти категорій"
+
+msgid "Data Intelligence"
+msgstr "Аналітика даних"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "Детальні аналітичні таблиці та інсайти ціноутворення"
+
+msgid "Product"
+msgstr "Товар"
+
+msgid "Products"
+msgstr "Товари"
+
+msgid "Average"
+msgstr "Середнє"
+
+msgid "No products found"
+msgstr "Товарів не знайдено"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "All KPI Products"
+msgstr "Всі товари KPI"
+
+msgid "Top KPI Products"
+msgstr "Найкращі товари KPI"
+
+msgid "Product ID"
+msgstr "ID товару"
+
+msgid "Product Title"
+msgstr "Назва товару"
+
+msgid "Base Price"
+msgstr "Базова ціна"
+
+msgid "Low-Risk Price"
+msgstr "Ціна з низьким ризиком"
+
+msgid "Competitive Price"
+msgstr "Конкурентна ціна"
+
+msgid "High-Risk Price"
+msgstr "Ціна з високим ризиком"
+
+msgid "Untitled Product"
+msgstr "Товар без назви"
+
+msgid "All Trend Index Products"
+msgstr "Всі товари індексу трендів"
+
+msgid "Trend Index by Product"
+msgstr "Індекс тренду за товаром"
+
+msgid "Product Name"
+msgstr "Назва товару"
+
+msgid "Price vs Rating"
+msgstr "Ціна проти рейтингу"
+
+msgid "Price"
+msgstr "Ціна"
+
+msgid "Rating"
+msgstr "Рейтинг"
+
+msgid "Reviews"
+msgstr "Відгуки"
+
+msgid "CTR"
+msgstr "CTR"
+
+msgid "CVR"
+msgstr "CVR"
+
+msgid "Average Price"
+msgstr "Середня ціна"
+
+msgid "Average Rating"
+msgstr "Середній рейтинг"
+
+msgid "Product Count"
+msgstr "Кількість товарів"
+
+msgid "Avg Price"
+msgstr "Сер. ціна"
+
+msgid "Avg Rating"
+msgstr "Сер. рейтинг"
+
+msgid "Failed to load"
+msgstr "Не вдалося завантажити"
+
+msgid "products"
+msgstr "товари"
+
+msgid "product"
+msgstr "товар"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "Індекс тренду"
+
+msgid "Profitability"
+msgstr "Прибутковість"
+
+msgid "Competition"
+msgstr "Конкуренція"
+
+msgid "Demand Stability"
+msgstr "Стабільність попиту"
+
+msgid "View All"
+msgstr "Дивитися все"
+
+msgid "price rating data"
+msgstr "дані рейтингу цін"
+
+msgid "Total Reviews"
+msgstr "Всього відгуків"
+
+msgid "Avg Reviews"
+msgstr "Сер. відгуки"
+
+msgid "Overall Sentiment"
+msgstr "Загальні настрої"
+
+msgid "Positive"
+msgstr "Позитивний"
+
+msgid "Neutral"
+msgstr "Нейтральний"
+
+msgid "Negative"
+msgstr "Негативний"
+
+msgid "Trend Status Overview"
+msgstr "Огляд статусу тренду"
+
+msgid "Rising"
+msgstr "Зростаючий"
+
+msgid "Stable"
+msgstr "Стабільний"
+
+msgid "Declining"
+msgstr "Знижується"
+
+msgid "sentiment data"
+msgstr "дані про настрої"
+
+msgid "trend status data"
+msgstr "дані про статус тренду"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Category"
+msgstr "Категорія"
+
+msgid "All Categories"
+msgstr "Всі категорії"
+
+msgid "Count"
+msgstr "Кількість"
+
+msgid "Percentage"
+msgstr "Відсоток"
+
+msgid "Market Comparison (by Source)"
+msgstr "Порівняння ринку (за джерелом)"
+
+msgid "Market"
+msgstr "Ринок"
+
+msgid "Best seller"
+msgstr "Хіт продажів"
+
+msgid "Movers and shakers"
+msgstr "Лідери зростання"
+
+msgid "New releases"
+msgstr "Новинки"
+
+msgid "market comparison data"
+msgstr "дані порівняння ринку"
+
+msgid "Category Comparison"
+msgstr "Порівняння категорій"
+
+msgid "Category Comparison - All Data"
+msgstr "Порівняння категорій - Всі дані"
+
+msgid "Categories"
+msgstr "Категорії"
+
+msgid "Metrics"
+msgstr "Метрики"
+
+msgid "Avg Sold"
+msgstr "Сер. продано"
+
+msgid "Avg FPSI"
+msgstr "Сер. FPSI"
+
+msgid "N/A"
+msgstr "Н/Д"
+
+msgid "value"
+msgstr "значення"
+
+msgid "Unknown"
+msgstr "Невідомо"
+
+msgid "category comparison data"
+msgstr "дані порівняння категорій"
+
+msgid "Amazon Device"
+msgstr "Пристрої Amazon"
+
+msgid "Appliances"
+msgstr "Побутова техніка"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "Мистецтво, ремесла та шиття"
+
+msgid "Automotive"
+msgstr "Автомобільні товари"
+
+msgid "Baby Products"
+msgstr "Товари для малюків"
+
+msgid "Baby"
+msgstr "Дитячі товари"
+
+msgid "Beauty & Personal Care"
+msgstr "Краса та особистий догляд"
+
+msgid "Cell Phones & Accessories"
+msgstr "Мобільні телефони та аксесуари"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "Одяг, взуття та прикраси"
+
+msgid "Collectibles & Fine Art"
+msgstr "Колекціонування та мистецтво"
+
+msgid "Electronics"
+msgstr "Електроніка"
+
+msgid "Health & Household"
+msgstr "Здоров'я та побут"
+
+msgid "Home & Kitchen"
+msgstr "Дім та кухня"
+
+msgid "Industrial & Scientific"
+msgstr "Промисловість та наука"
+
+msgid "Musical Instruments"
+msgstr "Музичні інструменти"
+
+msgid "No category found"
+msgstr "Категорію не знайдено"
+
+msgid "Office Products"
+msgstr "Офісні товари"
+
+msgid "Patio, Lawn & Garden"
+msgstr "Двір, газон та сад"
+
+msgid "Safety & Security"
+msgstr "Безпека та охорона"
+
+msgid "Tools & Home Improvement"
+msgstr "Інструменти та ремонт"
+
+msgid "Toys & Games"
+msgstr "Іграшки та ігри"
+
+msgid "Suggested Pricing"
+msgstr "Рекомендована ціна"
+
+msgid "All Suggested Pricing"
+msgstr "Всі рекомендовані ціни"
+
+msgid "suggested pricing data"
+msgstr "дані рекомендованих цін"
+
+msgid "Search products..."
+msgstr "Пошук товарів..."
+
+msgid "Search products or categories..."
+msgstr "Пошук товарів або категорій..."
+
+msgid "Insights"
+msgstr "Інсайти"
+
+msgid "Performance insights for"
+msgstr "Інсайти продуктивності для"
+
+msgid "your website"
+msgstr "ваш веб-сайт"
+
+msgid "Desktop"
+msgstr "Робочий Стіл"
+
+msgid "Mobile"
+msgstr "Мобільний"
+
+msgid "Refresh"
+msgstr "Оновити"
+
+msgid "Loading..."
+msgstr "Завантаження..."
+
+msgid "Core Web Vitals"
+msgstr "Core Web Vitals"
+
+msgid "Performance Audits"
+msgstr "Аудит продуктивності"
+
+msgid "View More"
+msgstr "Дивитися більше"
+
+msgid "Performance Insights"
+msgstr "Інсайти продуктивності"
+
+msgid "Analysis Configuration"
+msgstr "Конфігурація аналізу"
+
+msgid "Device"
+msgstr "Пристрій"
+
+msgid "Locale"
+msgstr "Локаль"
+
+msgid "Channel"
+msgstr "Канал"
+
+msgid "Loading Insights data..."
+msgstr "Завантаження даних інсайтів..."
+
+msgid "Error Loading Insights Data"
+msgstr "Помилка завантаження даних інсайтів"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "Сталася помилка під час отримання даних аналізу інсайтів."
+
+msgid "Retry"
+msgstr "Спробувати ще раз"
+
+msgid "No Insights Data Available"
+msgstr "Дані інсайтів недоступні"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "Дані аналізу продуктивності недоступні. Це може означати, що аналіз ще не проводився або сталася помилка під час отримання даних."
+
+msgid "Last analyzed:"
+msgstr "Останній аналіз:"
+
+msgid "Performance"
+msgstr "Продуктивність"
+
+msgid "Accessibility"
+msgstr "Доступність"
+
+msgid "Best Practices"
+msgstr "Найкращі практики"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "No performance metrics available"
+msgstr "Показники продуктивності недоступні"
+
+msgid "No audit data available"
+msgstr "Дані аудиту недоступні"
+
+msgid "No audits available"
+msgstr "Аудити недоступні"
+
+msgid "View Less"
+msgstr "Дивитися менше"
+
+msgid "more"
+msgstr "ще"
+
+msgid "No insights available"
+msgstr "Інсайти недоступні"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "Проблем із продуктивністю не виявлено. Ваш сайт працює добре!"
+
+msgid "Wasted:"
+msgstr "Витрачено даремно:"
+
+msgid "Initializing..."
+msgstr "Ініціалізація..."
+
+msgid "Connecting to server..."
+msgstr "Підключення до сервера..."
+
+msgid "Fetching insights data..."
+msgstr "Отримання даних інсайтів..."
+
+msgid "Analyzing performance metrics..."
+msgstr "Аналіз показників продуктивності..."
+
+msgid "Processing audits and insights..."
+msgstr "Обробка аудитів та інсайтів..."
+
+msgid "Finalizing results..."
+msgstr "Завершення результатів..."
+
+msgid "Complete!"
+msgstr "Завершено!"
+
+msgid "Failed to load Insights data"
+msgstr "Не вдалося завантажити дані інсайтів"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "Не вдалося завантажити дані інсайтів. Перевірте з'єднання та спробуйте ще раз."
+
+msgid "No data available"
+msgstr "Дані недоступні"
+
+msgid "Excellent"
+msgstr "Відмінно"
+
+msgid "Needs Improvement"
+msgstr "Потребує покращення"
+
+msgid "Poor"
+msgstr "Погано"
+
+msgid "Unknown error"
+msgstr "Невідома помилка"
+
+msgid "Email Marketing"
+msgstr "Email-маркетинг"
+
+msgid "Manage, send, and track your emails"
+msgstr "Керуйте, надсилайте та відстежуйте свої електронні листи"
+
+msgid "Emails"
+msgstr "Листи"
+
+msgid "Lists"
+msgstr "Списки"
+
+msgid "Create Email"
+msgstr "Створити лист"
+
+msgid "Search emails..."
+msgstr "Пошук листів..."
+
+msgid "Cards"
+msgstr "Картки"
+
+msgid "Table"
+msgstr "Таблиця"
+
+msgid "Select"
+msgstr "Вибрати"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Recipient"
+msgstr "Отримувач"
+
+msgid "Subject"
+msgstr "Тема"
+
+msgid "Created"
+msgstr "Створено"
+
+msgid "Actions"
+msgstr "Дії"
+
+msgid "Email Lists"
+msgstr "Списки email"
+
+msgid "Manage, send, and track your email lists"
+msgstr "Керуйте, надсилайте та відстежуйте свої списки email"
+
+msgid "Create Email List"
+msgstr "Створити список email"
+
+msgid "Search lists..."
+msgstr "Пошук списків..."
+
+msgid "Download Template"
+msgstr "Завантажити шаблон"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "Завантажити шаблон email-recipient.xlsx"
+
+msgid "Upload Template"
+msgstr "Завантажити шаблон"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "Завантажити файл email-recipient.xlsx"
+
+msgid "Recipients"
+msgstr "Отримувачі"
+
+msgid "Confirm Action"
+msgstr "Підтвердити дію"
+
+msgid "Are you sure you want to proceed?"
+msgstr "Ви впевнені, що хочете продовжити?"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Confirm"
+msgstr "Підтвердити"
+
+msgid "List Subject"
+msgstr "Тема списку"
+
+msgid "Subject for all recipients"
+msgstr "Тема для всіх отримувачів"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "Введіть електронну адресу та натисніть Enter або кнопку Додати"
+
+msgid "Add"
+msgstr "Додати"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "Вводьте електронні адреси по одній. Натисніть X на тегу, щоб видалити його."
+
+msgid "Email Body (optional HTML)"
+msgstr "Тіло листа (опціонально HTML)"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "Ви можете використовувати візуальний редактор або переключитися в текстовий режим, щоб вставити HTML."
+
+msgid "Send"
+msgstr "Надіслати"
+
+msgid "Preview"
+msgstr "Попередній перегляд"
+
+msgid "Clear"
+msgstr "Очистити"
+
+msgid "Create New Email"
+msgstr "Створити новий лист"
+
+msgid "Your subject"
+msgstr "Ваша тема"
+
+msgid "Email Body"
+msgstr "Тіло листа"
+
+msgid "Send Email"
+msgstr "Надіслати лист"
+
+msgid "Email Sent"
+msgstr "Лист надіслано"
+
+msgid "Your email has been sent successfully."
+msgstr "Ваш лист успішно надіслано."
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Total"
+msgstr "Всього"
+
+msgid "Sent"
+msgstr "Надіслано"
+
+msgid "Read"
+msgstr "Прочитано"
+
+msgid "Revision"
+msgstr "Ревізія"
+
+msgid "Sent Emails"
+msgstr "Надіслані листи"
+
+msgid "Export Excel"
+msgstr "Експорт Excel"
+
+msgid "Updated"
+msgstr "Оновлено"
+
+msgid "Failed"
+msgstr "Не вдалося"
+
+msgid "Pending"
+msgstr "В очікуванні"
+
+msgid "Show"
+msgstr "Показати"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Update & Send"
+msgstr "Оновити та надіслати"
+
+msgid "Sending..."
+msgstr "Надсилання..."
+
+msgid "Edit Email"
+msgstr "Редагувати лист"
+
+msgid "Exit Select"
+msgstr "Вийти з вибору"
+
+msgid "To:"
+msgstr "Кому:"
+
+msgid "Created:"
+msgstr "Створено:"
+
+msgid "Error"
+msgstr "Помилка"
+
+msgid "Success"
+msgstr "Успіх"
+
+msgid "Update Email List"
+msgstr "Оновити список email"
+
+msgid "status_sent"
+msgstr "надіслано"
+
+msgid "status_failed"
+msgstr "не вдалося"
+
+msgid "status_pending"
+msgstr "в очікуванні"
+
+msgid "SENT"
+msgstr "НАДІСЛАНО"
+
+msgid "Sent:"
+msgstr "Надіслано:"
+
+msgid "Failed:"
+msgstr "Не вдалося:"
+
+msgid "Pending:"
+msgstr "В очікуванні:"
+
+msgid "Email sent"
+msgstr "Лист надіслано"
+
+msgid "Successfully sent"
+msgstr "Успішно надіслано"
+
+msgid "email(s)"
+msgstr "лист(ів)"
+
+msgid "Your email list has been sent successfully."
+msgstr "Ваш список розсилки успішно надіслано."
+
+msgid "FAILED"
+msgstr "НЕ ВДАЛОСЯ"
+
+msgid "PENDING"
+msgstr "В ОЧІКУВАННІ"
+
+msgid "Total Lists"
+msgstr "Всього списків"
+
+msgid "Total Recipients"
+msgstr "Всього отримувачів"
+
+msgid "create_email_list"
+msgstr "створити список email"
+
+msgid "add"
+msgstr "додати"
+
+msgid "send"
+msgstr "надіслати"
+
+msgid "ok"
+msgstr "ок"
+
+msgid "security"
+msgstr "безпека"
+
+msgid "welcome"
+msgstr "вітаємо"
+
+msgid "of"
+msgstr "з"
+
+msgid "previous"
+msgstr "попередній"
+
+msgid "next"
+msgstr "наступний"
+
+msgid "home"
+msgstr "головна"
+
+msgid "terms"
+msgstr "умови"
+
+msgid "Active"
+msgstr "Активний"
+
+msgid "Not Set"
+msgstr "Не встановлено"
+
+msgid "Import"
+msgstr "Імпорт"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Імпорт"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Видалити"
+
+msgid "Importing..."
+msgstr "Імпорт..."
+
+msgid "Deleting..."
+msgstr "Видалення..."
+
+msgid "Already Imported"
+msgstr "Вже імпортовано"
+
+msgid "Product deleted successfully"
+msgstr "Товар успішно видалено"
+
+msgid "NEW"
+msgstr "НОВИЙ"
+
+msgid "Added"
+msgstr "Додано"
+
+msgid "Exists"
+msgstr "Існує"
+
+msgid "Showing"
+msgstr "Показано"
+
+msgid "← Previous"
+msgstr "← Попередній"
+
+msgid "Previous"
+msgstr "Попередній"
+
+msgid "Next →"
+msgstr "Наступний →"
+
+msgid "Next"
+msgstr "Далі"
+
+msgid "Processing..."
+msgstr "Обробка..."
+
+msgid "Please wait while we import your product"
+msgstr "Будь ласка, зачекайте, поки ми імпортуємо ваш товар"
+
+msgid "Importing product as draft..."
+msgstr "Імпорт товару як чернетки..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "Це створить товар у WooCommerce"
+
+msgid "Importing product with SEO optimization..."
+msgstr "Імпорт товару з оптимізацією SEO..."
+
+msgid "Checking product status..."
+msgstr "Перевірка статусу товару..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "Будь ласка, зачекайте, поки ми перевіримо наявність товару"
+
+msgid "Loading products..."
+msgstr "Завантаження товарів..."
+
+msgid "Overview"
+msgstr "Огляд"
+
+msgid "Business Overview"
+msgstr "Огляд бізнесу"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "Відстежуйте продуктивність плагіна, ключові показники та керуйте операціями з однієї панелі"
+
+msgid "Total Products"
+msgstr "Всього товарів"
+
+msgid "Quick Actions"
+msgstr "Швидкі дії"
+
+msgid "Analytics Dashboard"
+msgstr "Панель аналітики"
+
+msgid "Analytics Overview"
+msgstr "Огляд аналітики"
+
+msgid "Quick insights into your business performance"
+msgstr "Швидкі інсайти про ефективність вашого бізнесу"
+
+msgid "View Full Analytics"
+msgstr "Переглянути повну аналітику"
+
+msgid "Overall Sentiment distribution"
+msgstr "Розподіл загальних настроїв"
+
+msgid "Trend Status distribution"
+msgstr "Розподіл статусу трендів"
+
+msgid "Analytics"
+msgstr "Аналітика"
+
+msgid "BI Analytics Hub"
+msgstr "Центр BI аналітики"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "No orders found"
+msgstr "Замовлень не знайдено"
+
+msgid "Total Orders"
+msgstr "Всього замовлень"
+
+msgid "Current Page"
+msgstr "Поточна сторінка"
+
+msgid "Orders Per Page"
+msgstr "Замовлень на сторінці"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "Пошук замовлень за номером, ім'ям клієнта або email..."
+
+msgid "Loading orders..."
+msgstr "Завантаження замовлень..."
+
+msgid "Page"
+msgstr "Сторінка"
+
+msgid "WooCommerce Analytics"
+msgstr "Аналітика WooCommerce"
+
+msgid "WordPress Analytics"
+msgstr "Аналітика WordPress"
+
+msgid "Clear Cache"
+msgstr "Очистити кеш"
+
+msgid "Export CSV"
+msgstr "Експорт CSV"
+
+msgid "Last updated:"
+msgstr "Останнє оновлення:"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "Не вдалося завантажити дані аналітики. Оновіть сторінку."
+
+msgid "No data available to export"
+msgstr "Немає даних для експорту"
+
+msgid "Orders Today"
+msgstr "Замовлення сьогодні"
+
+msgid "Total Revenue"
+msgstr "Загальний дохід"
+
+msgid "Revenue Today"
+msgstr "Дохід сьогодні"
+
+msgid "Revenue (30 Days)"
+msgstr "Дохід (30 днів)"
+
+msgid "Avg Order Value"
+msgstr "Середня вартість замовлення"
+
+msgid "Pending Orders"
+msgstr "Замовлення в очікуванні"
+
+msgid "Failed Orders"
+msgstr "Неуспішні замовлення"
+
+msgid "Cart Abandonment"
+msgstr "Покинуті кошики"
+
+msgid "Customers (30 Days)"
+msgstr "Клієнти (30 днів)"
+
+msgid "Top Seller (30 Days)"
+msgstr "Топ продажів (30 днів)"
+
+msgid "Total Users"
+msgstr "Всього користувачів"
+
+msgid "Users Today"
+msgstr "Користувачі сьогодні"
+
+msgid "Total Comments"
+msgstr "Всього коментарів"
+
+msgid "Total Views"
+msgstr "Всього переглядів"
+
+msgid "Refunded"
+msgstr "Повернуто"
+
+msgid "Pending payment"
+msgstr "Очікує оплати"
+
+msgid "Processing"
+msgstr "Обробляється"
+
+msgid "On hold"
+msgstr "На утриманні"
+
+msgid "Completed"
+msgstr "Виконано"
+
+msgid "Cancelled"
+msgstr "Скасовано"
+
+msgid "Draft"
+msgstr "Чернетка"
+
+msgid "Revenue Overview"
+msgstr "Огляд доходу"
+
+msgid "Orders Status"
+msgstr "Статус замовлень"
+
+msgid "WordPress Activity"
+msgstr "Активність WordPress"
+
+msgid "Revenue"
+msgstr "Дохід"
+
+msgid "WordPress Metrics"
+msgstr "Метрики WordPress"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "Кількість товарів на сторінці не може перевищувати 100. Введіть значення від 1 до 100."
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "Кількість товарів на сторінці має бути не менше 1. Введіть правильне значення."
+
+msgid "Settings saved successfully!"
+msgstr "Налаштування успішно збережено!"
+
+msgid "Please enter a authentication key before testing."
+msgstr "Будь ласка, введіть ключ автентифікації перед тестуванням."
+
+msgid "more..."
+msgstr "більше..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "Кеш аналітики успішно очищено!"
+
+msgid "No products to import. Please sync products first."
+msgstr "Немає товарів для імпорту. Спочатку синхронізуйте товари."
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "Імпорт завершено! %d товарів імпортовано, %d не вдалося."
+
+msgid "Import failed: %s"
+msgstr "Імпорт не вдався: %s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "Тест API завершено! Перевірте debug.log для детальних записів. Усі кінцеві точки протестовано успішно."
+
+msgid "API Test Failed: %s"
+msgstr "Тест API не вдався: %s"
+
+msgid "Database structure validated and fixed:"
+msgstr "Структуру бази даних перевірено та виправлено:"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "Структура бази даних правильна. Виправлення не потрібні."
+
+msgid "Database validation issues:"
+msgstr "Проблеми перевірки бази даних:"
+
+msgid "Database validation failed: %s"
+msgstr "Перевірка бази даних не вдалася: %s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "Ваша автентифікація Vortem активна з планом %s."
+
+msgid "Validated on: %s"
+msgstr "Перевірено: %s"
+
+msgid "Import failed. Please try again."
+msgstr "Імпорт не вдався. Спробуйте ще раз."
+
+msgid "Please select a bulk action."
+msgstr "Виберіть масову дію."
+
+msgid "Please select at least one product."
+msgstr "Виберіть принаймні один товар."
+
+msgid "Bulk action failed. Please try again."
+msgstr "Масова дія не вдалася. Спробуйте ще раз."
+
+msgid "Failed to trash product. Please try again."
+msgstr "Не вдалося перемістити товар у кошик. Спробуйте ще раз."
+
+msgid "Failed to restore product. Please try again."
+msgstr "Не вдалося відновити товар. Спробуйте ще раз."
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "Не вдалося імпортувати товар як чернетку. Спробуйте ще раз."
+
+msgid "Failed to get product details."
+msgstr "Не вдалося отримати деталі товару."
+
+msgid "Delete failed. Please try again."
+msgstr "Видалення не вдалося. Спробуйте ще раз."
+
+msgid "FAQ Management"
+msgstr "Керування FAQ"
+
+msgid "Manage your frequently asked questions"
+msgstr "Керуйте своїми частими запитаннями"
+
+msgid "Search FAQs..."
+msgstr "Пошук FAQ..."
+
+msgid "Card View"
+msgstr "Вигляд карток"
+
+msgid "Table View"
+msgstr "Вигляд таблиці"
+
+msgid "Refresh FAQs"
+msgstr "Оновити FAQ"
+
+msgid "Create New FAQ"
+msgstr "Створити новий FAQ"
+
+msgid "Total FAQs"
+msgstr "Всього FAQ"
+
+msgid "Active FAQs"
+msgstr "Активні FAQ"
+
+msgid "Page Status"
+msgstr "Статус сторінки"
+
+msgid "Question"
+msgstr "Питання"
+
+msgid "No FAQs yet"
+msgstr "FAQ ще немає"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "Почніть створювати FAQ, щоб побудувати базу знань"
+
+msgid "Create Your First FAQ"
+msgstr "Створіть свій перший FAQ"
+
+msgid "Loading FAQs..."
+msgstr "Завантаження FAQ..."
+
+msgid "Update FAQ"
+msgstr "Оновити FAQ"
+
+msgid "Question *"
+msgstr "Питання *"
+
+msgid "Enter your question here..."
+msgstr "Введіть ваше питання тут..."
+
+msgid "Answer *"
+msgstr "Відповідь *"
+
+msgid "Enter the answer here..."
+msgstr "Введіть відповідь тут..."
+
+msgid "Create FAQ"
+msgstr "Створити FAQ"
+
+msgid "FAQ Details"
+msgstr "Деталі FAQ"
+
+msgid "Answer"
+msgstr "Відповідь"
+
+msgid "Delete FAQ"
+msgstr "Видалити FAQ"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Answer:"
+msgstr "Відповідь:"
+
+msgid "View Details"
+msgstr "Переглянути деталі"
+
+msgid "Edit FAQ"
+msgstr "Редагувати FAQ"
+
+msgid "Creating..."
+msgstr "Створення..."
+
+msgid "Updating..."
+msgstr "Оновлення..."
+
+msgid "Question is required"
+msgstr "Питання обов'язкове"
+
+msgid "Answer is required"
+msgstr "Відповідь обов'язкова"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "Відповідь має містити щонайменше 10 символів"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "FAQ \"%s\" створено"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "FAQ \"%s\" оновлено"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "FAQ \"%s\" видалено"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "Ви впевнені, що хочете видалити \"%s\"? Цю дію неможливо скасувати."
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "Не вдалося завантажити FAQ. Спробуйте ще раз."
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "Не вдалося зберегти FAQ. Спробуйте ще раз."
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "Не вдалося видалити FAQ. Спробуйте ще раз."
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "Потрібна автентифікація. Перевірте ваш ключ автентифікації."
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "Потрібен ключ автентифікації. Налаштуйте ваш ключ у налаштуваннях Vortem."
+
+msgid "Security"
+msgstr "Безпека"
+
+msgid "Search plugins..."
+msgstr "Пошук плагінів..."
+
+msgid "Last Modified"
+msgstr "Остання зміна"
+
+msgid "Inactive"
+msgstr "Неактивний"
+
+msgid "WordPress Core"
+msgstr "Ядро WordPress"
+
+msgid "Themes"
+msgstr "Теми"
+
+msgid "Plugins"
+msgstr "Плагіни"
+
+msgid "Version"
+msgstr "Версія"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Plugin URI"
+msgstr "URI плагіна"
+
+msgid "Requires WP Version"
+msgstr "Потрібна версія WP"
+
+msgid "Requires PHP"
+msgstr "Потрібен PHP"
+
+msgid "Read more"
+msgstr "Читати далі"
+
+msgid "Stylesheet"
+msgstr "Таблиця стилів"
+
+msgid "Theme URI"
+msgstr "URI теми"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Name"
+msgstr "Назва"
+
+msgid "All"
+msgstr "Всі"
+
+msgid "Vulnerabilities"
+msgstr "Вразливості"
+
+msgid "Checking..."
+msgstr "Перевірка..."
+
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "Налаштуйте параметри та переваги вашого плагіна"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "Введіть ключ автентифікації Vortem.ai для активації функцій плагіна. Натисніть \"перевірка автентифікації\", щоб перевірити ключ."
+
+msgid "Products Per Page"
+msgstr "Товарів на Сторінку"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "Currency"
+msgstr "Валюта"
+
+msgid "Update Currency"
+msgstr "Оновити Валюту"
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "Кількість товарів для відображення на сторінці. За замовчуванням: 16."
+
+msgid "Products per page must be at least 1"
+msgstr "Кількість товарів на сторінці має бути не менше 1"
+
+msgid "Products per page cannot exceed 100"
+msgstr "Кількість товарів на сторінці не може перевищувати 100"
+
+msgid "Loading currencies..."
+msgstr "Завантаження валют..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "Виберіть тип валюти для плагіна та натисніть \"Оновити валюту\", щоб зберегти зміни."
+
+msgid "Currency updated successfully!"
+msgstr "Валюту успішно оновлено!"
+
+msgid "Video Settings"
+msgstr "Налаштування Відео"
+
+msgid "Video Download for Excluded Themes"
+msgstr "Завантаження Відео для Виключених Тем"
+
+msgid "AliExpress Integration"
+msgstr "Інтеграція AliExpress"
+
+msgid "Add video to product description"
+msgstr "Додати відео до опису товару"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "Завантажити відео для тем Vortem Clothes, Vortem Cosmetic та xstore"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "Ви наближаєтесь до денного ліміту листів (%s). Ліміт скинеться завтра."
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "Ви досягли денного ліміту листів. Ліміт скинеться завтра."
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "Ви наближаєтесь до денної квоти імпорту товарів (%s). Квота скинеться завтра."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "Ви досягли денної квоти імпорту товарів. Квота скинеться завтра."
+
+msgid "Search plugins and themes..."
+msgstr "Пошук плагінів і тем..."
+
+msgid "Loading security scan results..."
+msgstr "Завантаження результатів перевірки безпеки..."
+
+msgid "published"
+msgstr "опубліковано"
+
+msgid "Published"
+msgstr "Опубліковано"
+
+msgid "references"
+msgstr "посилання"
+
+msgid "References"
+msgstr "Посилання"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "Якщо ввімкнено, відео про товар автоматично додаватимуться до опису товару. Вимкніть це, якщо ви віддаєте перевагу обробці відео вручну."
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "Якщо вимкнено, відео не завантажуватимуться і не додаватимуться до медіабібліотеки для тем Vortem Clothes, Vortem Cosmetic та xstore. Це заощаджує місце в сховищі."
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "Щоб використовувати цю сторінку, ви повинні ввести дані автентифікації в налаштуваннях у розділі \"Authentication Key\", а потім натиснути кнопку \"authentication validation\"."
+
+msgid "Products Pages"
+msgstr "Сторінки товарів"
+
+msgid "Analytics Pages"
+msgstr "Сторінки аналітики"
+
+msgid "sales"
+msgstr "продажі"
+
+msgid "Loading trend products..."
+msgstr "Завантаження трендових товарів..."
+
+msgid "Loading TikTok products..."
+msgstr "Завантаження товарів TikTok..."
+
+msgid "Error loading TikTok products:"
+msgstr "Помилка завантаження товарів TikTok:"
+
+msgid "Failed to load TikTok products:"
+msgstr "Не вдалося завантажити товари TikTok:"
+
+msgid "Loading Kinguin products..."
+msgstr "Завантаження товарів Kinguin..."
+
+msgid "No Kinguin products found."
+msgstr "Товарів Kinguin не знайдено."
+
+msgid "Failed to load Kinguin products:"
+msgstr "Не вдалося завантажити товари Kinguin:"
+
+msgid "Error loading Kinguin products:"
+msgstr "Помилка завантаження товарів Kinguin:"
+
+msgid "View on Amazon"
+msgstr "Переглянути на Amazon"
+
+msgid "View on Kinguin"
+msgstr "Переглянути на Kinguin"
+
+msgid "Release:"
+msgstr "Дата випуску:"
+
+msgid "Price N/A"
+msgstr "Ціна Н/Д"
+
+msgid "In Stock"
+msgstr "В наявності"
+
+msgid "Sentiment"
+msgstr "Настрій"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "Товари з низьким запасом (менше 10 шт.)"
+
+msgid "Total Pages"
+msgstr "Всього сторінок"
+
+msgid "Total Posts"
+msgstr "Всього публікацій"
+
+msgid "Refetch"
+msgstr "Повторний запит"
+
+msgid "AliExpress"
+msgstr "AliExpress"
+
+msgid "Connect to AliExpress"
+msgstr "Підключитися до AliExpress"
+
+msgid "Disconnect AliExpress"
+msgstr "Відключити AliExpress"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "Ви впевнені, що хочете відключити свій обліковий запис AliExpress?"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "Підключіть свій обліковий запис AliExpress, щоб увімкнути виконання замовлень та функції дропшипінгу."
+
+msgid "Checking connection status..."
+msgstr "Перевірка статусу підключення..."
+
+msgid "Connected"
+msgstr "Підключено"
+
+msgid "Not connected"
+msgstr "Не підключено"
+
+msgid "Error checking status"
+msgstr "Помилка перевірки статусу"
+
+msgid "Connecting..."
+msgstr "Підключення..."
+
+msgid "Disconnecting..."
+msgstr "Відключення..."
+
+msgid "Error connecting to AliExpress"
+msgstr "Помилка підключення до AliExpress"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "Помилка відключення облікового запису AliExpress"
+
+msgid "Failed to disconnect"
+msgstr "Не вдалося відключити"
+
+msgid "Failed to connect to AliExpress"
+msgstr "Не вдалося підключитися до AliExpress"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "Успішно підключено до AliExpress!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "Для створення замовлення на AliExpress потрібен номер телефону."
+
+msgid "Expires:"
+msgstr "Термін дії:"
+
+msgid "Disconnect"
+msgstr "Відключити"
+
+msgid "Select Import Method"
+msgstr "Виберіть метод імпорту"
+
+msgid "Choose how you want to import this product:"
+msgstr "Виберіть, як ви хочете імпортувати цей товар:"
+
+msgid "Normal Import"
+msgstr "Звичайний імпорт"
+
+msgid "Import product with original title and description"
+msgstr "Імпортувати товар з оригінальною назвою та описом"
+
+msgid "SEO Import"
+msgstr "SEO імпорт"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "Імпорт з оптимізованою для SEO назвою, описом і тегами"
+
+msgid "SEO Import Completed"
+msgstr "SEO Імпорт Завершено"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "Були застосовані наступні SEO-оптимізації:"
+
+msgid "Keyphrase"
+msgstr "Ключова Фраза"
+
+msgid "SEO Title"
+msgstr "SEO Заголовок"
+
+msgid "SEO Description"
+msgstr "SEO Опис"
+
+msgid "Meta Description"
+msgstr "Мета Опис"
+
+msgid "Tags"
+msgstr "Теги"
+
+msgid "Yoast SEO Title"
+msgstr "Yoast SEO Заголовок"
+
+msgid "Headings"
+msgstr "Заголовки"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO не встановлено. Щоб використовувати опцію імпорту SEO, ви повинні встановити та активувати його."
+
+msgid "Email subject must be at least 16 characters"
+msgstr "Тема листа повинна містити принаймні 16 символів"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "Тема листа не повинна перевищувати 256 символів"
+
+msgid "Email body must be at least 128 characters"
+msgstr "Текст листа повинен містити принаймні 128 символів"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "Текст листа не повинен перевищувати 8196 символів"
+
+msgid "All Imported Products"
+msgstr "Всі імпортовані продукти"
+
+msgid "Refresh Products"
+msgstr "Оновити продукти"
+
+msgid "Show All Products"
+msgstr "Показати всі продукти"
+
+msgid "Show All Added Products"
+msgstr "Показати всі додані продукти"
+
+msgid "Top Products Kinguin"
+msgstr "Топ продуктів Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "Трендові продукти Amazon"
+
+msgid "Top Products AliExpress"
+msgstr "Топ продуктів AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "Керуйте та переглядайте свій інвентар продуктів"
+
+msgid "Security Overview"
+msgstr "Огляд безпеки"
+
+msgid "Security Scan Results"
+msgstr "Результати сканування безпеки"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "Моніторинг та перевірка всіх встановлених плагінів і тем WordPress"
+
+msgid "Total Plugins"
+msgstr "Всього плагінів"
+
+msgid "Active Plugins"
+msgstr "Активні плагіни"
+
+msgid "Inactive Plugins"
+msgstr "Неактивні плагіни"
+
+msgid "Total Themes"
+msgstr "Всього тем"
+
+msgid "Active Themes"
+msgstr "Активні теми"
+
+msgid "Inactive Themes"
+msgstr "Неактивні теми"
+
+msgid "Sort by:"
+msgstr "Сортувати за:"
+
+msgid "Filter by Status:"
+msgstr "Фільтр за статусом:"
+
+msgid "Sort by Date"
+msgstr "Сортувати за датою"
+
+msgid "View and manage your store orders"
+msgstr "Переглядайте та керуйте замовленнями вашого магазину"
+
+msgid "Start Date"
+msgstr "Дата початку"
+
+msgid "End Date"
+msgstr "Дата закінчення"
+
+msgid "All Statuses"
+msgstr "Всі статуси"
+
+msgid "Navigation"
+msgstr "Навігація"
+
+msgid "Shop Analytics"
+msgstr "Аналітика магазину"
+
+msgid "Traffic Analytics"
+msgstr "Аналітика трафіку"
+
+msgid "Search currencies..."
+msgstr "Пошук валют..."
+
+msgid "Search by country or currency code"
+msgstr "Пошук за країною або кодом валюти"
+
+msgid "Popularity"
+msgstr "Популярність"
+
+msgid "Impressions"
+msgstr "Покази"
+
+msgid "Engagement"
+msgstr "Взаємодія"
+
+msgid "Videos"
+msgstr "Відео"
+
+msgid "# Hashtags"
+msgstr "# Хештеги"
+
+msgid "View Rate (6s)"
+msgstr "Перегляди (6с)"
+
+msgid "Cost"
+msgstr "Вартість"
+
+msgid "Avg. Time on Site"
+msgstr "Середній час на сайті"
+
+msgid "Visits"
+msgstr "Візити"
+
+msgid "Unique Visitors"
+msgstr "Унікальні відвідувачі"
+
+msgid "Top Pages"
+msgstr "Топ сторінки"
+
+msgid "Top Page Titles"
+msgstr "Топ заголовки сторінок"
+
+msgid "Cities"
+msgstr "Міста"
+
+msgid "Countries"
+msgstr "Країни"
+
+msgid "Exit Pages"
+msgstr "Сторінки виходу"
+
+msgid "Entry Pages"
+msgstr "Сторінки входу"
+
+msgid "Real-time Visits"
+msgstr "Візити в реальному часі"
+
+msgid "Bounce Rate"
+msgstr "Показник відмов"
+
+msgid "Today"
+msgstr "Сьогодні"
+
+msgid "Yesterday"
+msgstr "Вчора"
+
+msgid "Last 7 Days"
+msgstr "Останні 7 днів"
+
+msgid "Last 30 Days"
+msgstr "Останні 30 днів"
+
+msgid "First Contentful Paint"
+msgstr "Перша Візуалізація Контенту"
+
+msgid "Total Size"
+msgstr "Загальний Розмір"
+
+msgid "Requests"
+msgstr "Запити"
+
+msgid "Page Load"
+msgstr "Завантаження Сторінки"
+
+msgid "Last updated: %s"
+msgstr "Останнє оновлення: %s"
+
+msgid "Live"
+msgstr "В Прямому Ефірі"
+
+msgid "Quick Insights"
+msgstr "Швидка Аналітика"
+
+msgid "Config"
+msgstr "Конфігурація"
+
+msgid "Total Vulnerabilities"
+msgstr "Всього вразливостей"
+
+msgid "CVSS Score:"
+msgstr "Оцінка CVSS:"
+
+msgid "Published:"
+msgstr "Опубліковано:"
+
+msgid "Last Modified:"
+msgstr "Остання зміна:"
+
+msgid "References:"
+msgstr "Посилання:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "Your WordPress core is secure!"
+msgstr "Ядро вашого WordPress захищене!"
+
+msgid "View All Vulnerabilities"
+msgstr "Переглянути Всі Вразливості"
+
+msgid "CRITICAL"
+msgstr "КРИТИЧНИЙ"
+
+msgid "HIGH"
+msgstr "ВИСОКИЙ"
+
+msgid "MEDIUM"
+msgstr "СЕРЕДНІЙ"
+
+msgid "LOW"
+msgstr "НИЗЬКИЙ"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "Рекомендується вжити заходів. Будь ласка, перевірте та оновіть уражені елементи."
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "Всі ваші плагіни, теми та ядро WordPress захищені та оновлені."
+
+msgid "High severity vulnerabilities found"
+msgstr "Виявлено вразливості високої серйозності"
+
+msgid "Last updated: Loading..."
+msgstr "Останнє оновлення: Завантаження..."
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "Рекомендується перевірка. Слідкуйте та оновлюйте уражені елементи, коли це можливо."
+
+msgid "Some vulnerabilities found"
+msgstr "Виявлено деякі вразливості"
+
+msgid "Trend Products TikTok"
+msgstr "Трендові продукти TikTok"
+
+msgid "Your site is secure!"
+msgstr "Ваш сайт захищений!"
+
+msgid "failed_to_load_insights_error"
+msgstr "Помилка завантаження даних аналітики"
+
+msgid "failed_to_refetch"
+msgstr "Помилка повторного отримання"
+
+msgid "no_category"
+msgstr "Немає категорії"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "Обробка SEO оптимізацій: Ключова фраза, SEO Заголовок, SEO Опис, Мета Опис, Теги, Yoast SEO Заголовок та Заголовки"
+
+msgid "Search themes..."
+msgstr "Пошук тем..."
+
+msgid "AUTHOR"
+msgstr "АВТОР"
+
+msgid "Across all plugins, themes & core"
+msgstr "Через усі плагіни, теми та ядро"
+
+msgid "Address as soon as possible"
+msgstr "Вирішити якомога швидше"
+
+msgid "All Security Issues"
+msgstr "Всі Проблеми Безпеки"
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "Аналіз вашої WordPress-інсталяції на вразливості безпеки"
+
+msgid "Attention required"
+msgstr "Потрібна увага"
+
+msgid "Component Type"
+msgstr "Тип Компонента"
+
+msgid "Core"
+msgstr "Ядро"
+
+msgid "Core WordPress files"
+msgstr "Основні файли WordPress"
+
+msgid "Critical"
+msgstr "Критично"
+
+msgid "Critical Severity"
+msgstr "Критична Серйозність"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "Виявлено критичні вразливості!"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Filter by:"
+msgstr "Фільтрувати за:"
+
+msgid "High"
+msgstr "Високо"
+
+msgid "High Severity"
+msgstr "Висока Серйозність"
+
+msgid "High severity vulnerabilities detected"
+msgstr "Виявлено вразливості високої серйозності"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "Потрібні негайні дії. Будь ласка, оновіть або видаліть постраждалі елементи якомога швидше."
+
+msgid "Items Requiring Attention"
+msgstr "Елементи, Які Потребують Уваги"
+
+msgid "Items without vulnerabilities"
+msgstr "Елементи без вразливостей"
+
+msgid "Low"
+msgstr "Низько"
+
+msgid "Low Severity"
+msgstr "Низька Серйозність"
+
+msgid "Low severity vulnerabilities detected"
+msgstr "Виявлено вразливості низької серйозності"
+
+msgid "Medium"
+msgstr "Середньо"
+
+msgid "Medium Severity"
+msgstr "Середня Серйозність"
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "Виявлено вразливості середньої серйозності"
+
+msgid "Monitor & track"
+msgstr "Відстежувати та відстежувати"
+
+msgid "Monitor and plan fix"
+msgstr "Відстежувати та планувати виправлення"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "Відстежуйте ці проблеми та плануйте виправлення, коли зручно."
+
+msgid "No items at risk"
+msgstr "Немає елементів у ризику"
+
+msgid "No known vulnerabilities detected"
+msgstr "Відомих вразливостей не виявлено"
+
+msgid "No plugins found"
+msgstr "Плагіни не знайдено"
+
+msgid "No recent vulnerabilities"
+msgstr "Немає останніх вразливостей"
+
+msgid "No themes found"
+msgstr "Теми не знайдено"
+
+msgid "No vulnerabilities found"
+msgstr "Вразливостей не знайдено"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "У плагінах не знайдено вразливостей"
+
+msgid "No vulnerabilities found in themes"
+msgstr "У темах не знайдено вразливостей"
+
+msgid "Number of Vulnerabilities"
+msgstr "Кількість вразливостей"
+
+msgid "Plan to address"
+msgstr "План вирішення"
+
+msgid "Please review and address these issues soon."
+msgstr "Будь ласка, незабаром перегляньте та виріште ці проблеми."
+
+msgid "REQUIRES PHP"
+msgstr "ВИМАГАЄ PHP"
+
+msgid "REQUIRES WP"
+msgstr "ВИМАГАЄ WP"
+
+msgid "Read less"
+msgstr "Читати менше"
+
+msgid "Recent Vulnerabilities"
+msgstr "Останні вразливості"
+
+msgid "Requires immediate action"
+msgstr "Потребує негайних дій"
+
+msgid "Requires immediate attention"
+msgstr "Потребує негайної уваги"
+
+msgid "Scanning..."
+msgstr "Сканування..."
+
+msgid "Schedule for review"
+msgstr "Запланувати на перегляд"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "Запланувати час для перегляду та вирішення цих проблем."
+
+msgid "Secure Items"
+msgstr "Безпечні елементи"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "У версії WordPress виявлено вразливості безпеки. Рекомендується оновити до останньої версії."
+
+msgid "Should be fixed soon"
+msgstr "Має бути виправлено незабаром"
+
+msgid "Third-party plugins installed"
+msgstr "Встановлені плагіни сторонніх розробників"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "Спробуйте налаштувати фільтри або пошукові терміни"
+
+msgid "Unknown Plugin"
+msgstr "Невідомий плагін"
+
+msgid "Unknown Theme"
+msgstr "Невідома тема"
+
+msgid "VERSION"
+msgstr "ВЕРСІЯ"
+
+msgid "View Page"
+msgstr "Переглянути сторінку"
+
+msgid "Vortem Logo"
+msgstr "Логотип Vortem"
+
+msgid "Vulnerabilities by Type"
+msgstr "Вразливості за типом"
+
+msgid "Vulnerability"
+msgstr "Вразливість"
+
+msgid "Vulnerability Details"
+msgstr "Деталі вразливості"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "Розподіл вразливостей за серйозністю"
+
+msgid "WordPress Vulnerability"
+msgstr "Вразливість WordPress"
+
+msgid "WordPress themes"
+msgstr "Теми WordPress"
+
+msgid "Your WP Core is Secure"
+msgstr "Ваше WP ядро безпечне"
+
+msgid "Your plugins are secure!"
+msgstr "Ваші плагіни безпечні!"
+
+msgid "Your site is secure"
+msgstr "Ваш сайт безпечний"
+
+msgid "Your themes are secure!"
+msgstr "Ваші теми безпечні!"
+
+msgid "of all vulnerabilities"
+msgstr "всіх вразливостей"
+
+msgid "of installed items affected"
+msgstr "встановлених елементів постраждалих"
+
+msgid "of items are clean"
+msgstr "елементів чисті"
+
+msgid "of total"
+msgstr "від загальної кількості"
+
+msgid "vulnerabilities"
+msgstr "вразливості"
+
+msgid "vulnerabilities found"
+msgstr "вразливості знайдено"
+
+msgid "Filter by Severity:"
+msgstr "Фільтр за серйозністю:"
+
+msgid "All Severities"
+msgstr "Всі рівні серйозності"
+
+msgid "Let's Get You Started"
+msgstr "Почнімо"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "Завершіть налаштування приблизно за 2 хвилин"
+
+msgid "Quick Setup"
+msgstr "Швидке налаштування"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "Почніть роботу за кілька хвилин з нашим покроковим процесом встановлення"
+
+msgid "Secure & Reliable"
+msgstr "Безпечно та надійно"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "Корпоративна безпека, вбудована в кожен компонент"
+
+msgid "Optimized Performance"
+msgstr "Оптимізована продуктивність"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "Дуже швидко та оптимізовано для середовищ WordPress"
+
+msgid "Next Step"
+msgstr "Наступний крок"
+
+msgid "Initial Configuration"
+msgstr "Початкова конфігурація"
+
+msgid "Set your default language and currency preferences"
+msgstr "Встановіть бажану мову та валюту за замовчуванням"
+
+msgid "Please review and accept our terms to continue"
+msgstr "Будь ласка, перегляньте та прийміть наші умови, щоб продовжити"
+
+msgid "1. Service Availability"
+msgstr "1. Доступність сервісу"
+
+msgid "2. Support"
+msgstr "2. Підтримка"
+
+msgid "3. Updates"
+msgstr "3. Оновлення"
+
+msgid "I accept the Terms & Conditions"
+msgstr "Я приймаю Умови використання"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "Встановивши цей прапорець, ви підтверджуєте, що прочитали та згодні дотримуватися цих умов."
+
+msgid "Installation Complete!"
+msgstr "Встановлення завершено!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "Ваш плагін успішно налаштовано та готовий до використання. Тепер ви можете почати використовувати всі функції."
+
+msgid "Configuration Summary"
+msgstr "Підсумок налаштувань"
+
+msgid "Language:"
+msgstr "Мова:"
+
+msgid "Currency:"
+msgstr "Валюта:"
+
+msgid "Terms Accepted:"
+msgstr "Умови прийнято:"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "Go to Dashboard"
+msgstr "Перейти до панелі керування"
+
+msgid "Go to Analytics page"
+msgstr "Перейти на сторінку аналітики"
+
+msgid "Go to Products page"
+msgstr "Перейти на сторінку товарів"
+
+msgid "Go to Matomo Analytics page"
+msgstr "Перейти на сторінку Matomo Analytics"
+
+msgid "Restart Wizard"
+msgstr "Перезапустити майстра"
+
+msgid "Restart"
+msgstr "Перезапустити"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "Це скине процес налаштування. Ви впевнені?"
+
+msgid "Confirm Restart"
+msgstr "Підтвердити перезапуск"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Welcome"
+msgstr "Ласкаво просимо"
+
+msgid "Configuration"
+msgstr "Налаштування"
+
+msgid "Complete"
+msgstr "Завершено"
+
+msgid "Insufficient permissions"
+msgstr "Недостатньо дозволів"
+
+msgid "Language parameter is required"
+msgstr "Параметр мови обов'язковий"
+
+msgid "Translation manager not available"
+msgstr "Менеджер перекладів недоступний"
+
+msgid "Unsupported language"
+msgstr "Непідтримувана мова"
+
+msgid "Language changed successfully"
+msgstr "Мову успішно змінено"
+
+msgid "Failed to change language"
+msgstr "Не вдалося змінити мову"
+
+msgid "Currency parameter is required"
+msgstr "Параметр валюти обов'язковий"
+
+msgid "Unsupported currency"
+msgstr "Непідтримувана валюта"
+
+msgid "Currency changed successfully"
+msgstr "Валюту успішно змінено"
+
+msgid "Loading"
+msgstr "Завантаження"
+
+msgid "Search..."
+msgstr "Пошук..."
+
+msgid "Search Language"
+msgstr "Пошук мови"
+
+msgid "No languages found"
+msgstr "Мови не знайдено"
+
+msgid "No currencies found"
+msgstr "Валюти не знайдено"
+
+msgid "Failed to load currencies"
+msgstr "Не вдалося завантажити валюти"
+
+msgid "Error loading currencies"
+msgstr "Помилка завантаження валют"
+
+msgid "Failed to restart wizard"
+msgstr "Не вдалося перезапустити майстер"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "Під час перезапуску майстра сталася помилка. Будь ласка, спробуйте ще раз."
+
+msgid "Please complete the current step before proceeding."
+msgstr "Будь ласка, завершіть поточний крок перед продовженням."
+
+msgid "Please wait for authentication to complete."
+msgstr "Будь ласка, зачекайте завершення автентифікації."
+
+msgid "Please accept the terms and conditions."
+msgstr "Будь ласка, прийміть умови використання."
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "Будь ласка, прийміть умови використання перед продовженням."
+
+msgid "Please complete authentication first."
+msgstr "Будь ласка, спочатку завершіть автентифікацію."
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "Будь ласка, прийміть умови використання перед завершенням налаштування."
+
+msgid "Failed to complete setup"
+msgstr "Не вдалося завершити налаштування"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "Під час завершення налаштування сталася помилка. Будь ласка, спробуйте ще раз."
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "Токен сесії не знайдено. Будь ласка, спочатку завершіть автентифікацію."
+
+msgid "An error occurred while switching language"
+msgstr "Під час перемикання мови сталася помилка"
+
+msgid "An error occurred while switching currency"
+msgstr "Під час перемикання валюти сталася помилка"
+
+msgid "Last updated: %1$s • Live"
+msgstr "Останнє оновлення: %1$s • В ефірі"
+
+msgid "Last 30 days"
+msgstr "Останні 30 днів"
+
+msgid "Traffic Overview"
+msgstr "Огляд трафіку"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "Аналітика Matomo – останні 30 днів"
+
+msgid "Today's Focus"
+msgstr "Фокус сьогодні"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "Огляд плагіна Vortem.ai"
+
+msgid "Read More"
+msgstr "Читати далі"
+
+msgid "Check your dashboard regularly"
+msgstr "Регулярно перевіряйте панель керування"
+
+msgid "View Analytics"
+msgstr "Переглянути аналітику"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem визнана провідною AI-платформою 2026"
+
+msgid "Order Statistics"
+msgstr "Статистика замовлень"
+
+msgid "Today's Orders Completed"
+msgstr "Сьогодні виконані замовлення"
+
+msgid "Total Orders Completed"
+msgstr "Всього виконаних замовлень"
+
+msgid "Imported Products"
+msgstr "Імпортовані товари"
+
+msgid "Recent Activity"
+msgstr "Остання активність"
+
+msgid "Overview dashboard loaded"
+msgstr "Панель огляду завантажено"
+
+msgid "Just now"
+msgstr "Щойно"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "Ви можете керувати товарами, аналітикою та email-маркетингом звідси"
+
+msgid "Ready"
+msgstr "Готово"
+
+msgid "Configure plugin settings and API keys"
+msgstr "Налаштуйте параметри плагіна та API-ключі"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "Плагін Vortem.ai готовий. Ви можете керувати товарами, аналітикою та email-маркетингом звідси."
+
+msgid "Vortem.ai official website"
+msgstr "Офіційний сайт Vortem.ai"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "Навігуйте, навчайтеся та керуйте обліковим записом"
+
+msgid "Quick Access"
+msgstr "Швидкий доступ"
+
+msgid "Return to dashboard home"
+msgstr "Повернутися на головну панелі"
+
+msgid "Go to Home"
+msgstr "На головну"
+
+msgid "Profile, settings, and preferences"
+msgstr "Профіль, налаштування та уподобання"
+
+msgid "Help & Learning"
+msgstr "Допомога та навчання"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "Отримайте допомогу, надішліть заявки або зв’яжіться з підтримкою"
+
+msgid "Get Support"
+msgstr "Отримати підтримку"
+
+msgid "Developer & user guides"
+msgstr "Посібники для розробників та користувачів"
+
+msgid "Read Docs"
+msgstr "Читати документацію"
+
+msgid "Legal & Policies"
+msgstr "Правові та політики"
+
+msgid "Terms of Service"
+msgstr "Умови надання послуг"
+
+msgid "Usage terms and conditions"
+msgstr "Умови використання"
+
+msgid "View"
+msgstr "Переглянути"
+
+msgid "Privacy Policy"
+msgstr "Політика конфіденційності"
+
+msgid "Data protection and privacy"
+msgstr "Захист даних та конфіденційність"
+
+msgid "Navigation to vortem wordpress"
+msgstr "Навігація до Vortem WordPress"
+
+msgid "Access key features and settings"
+msgstr "Доступ до ключових функцій та налаштувань"
+
+msgid "Manage catalog and inventory"
+msgstr "Керування каталогом та запасами"
+
+msgid "Business insights and metrics"
+msgstr "Бізнес-аналітика та метрики"
+
+msgid "Growth & Intelligence"
+msgstr "Зростання та інтелект"
+
+msgid "Campaigns and automation"
+msgstr "Кампанії та автоматизація"
+
+msgid "AI-powered recommendations"
+msgstr "Рекомендації на основі AI"
+
+msgid "Manage orders and shipments"
+msgstr "Керування замовленнями та відправленнями"
+
+msgid "System"
+msgstr "Система"
+
+msgid "Knowledge base editor"
+msgstr "Редактор бази знань"
+
+msgid "Access control and monitoring"
+msgstr "Контроль доступу та моніторинг"
+
+msgid "System configuration"
+msgstr "Конфігурація системи"
+
+msgid "Emails Sent"
+msgstr "Надіслані листи"
+
+msgid "Orders"
+msgstr "Замовлення"
+
+msgid "Total products"
+msgstr "Всього товарів"
+
+msgid "Imported via plugin"
+msgstr "Імпортовано через плагін"
+
+msgid "Other products"
+msgstr "Інші товари"
+
+msgid "Manage"
+msgstr "Керувати"
+
+msgid "bounce"
+msgstr "відмова"
+
+
+msgid "Dashboard"
+msgstr "Панель керування"
+
+msgid "Plugin"
+msgstr "Плагін"
+
+msgid "External"
+msgstr "Зовнішній"
+
+msgid "Navigation to vortem WordPress"
+msgstr "Перехід до vortem WordPress"
+
+msgid "Commerce"
+msgstr "Комерція"
+
+msgid "Timeline"
+msgstr "Хронологія"
+
+msgid "Security Center"
+msgstr "Центр безпеки"
+
+msgid "Display"
+msgstr "Відображення"
+
+msgid "How products and currency are presented in your store."
+msgstr "Як товари та валюта подаються у вашому магазині."
+
+msgid "Products per page"
+msgstr "Товарів на сторінку"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "За замовчуванням: 16. Діапазон: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "Валюта, що використовується в цінах плагіна. Натисніть «Оновити», щоб зберегти вибір."
+
+msgid "Media"
+msgstr "Медіа"
+
+msgid "Control how product videos are imported and attached."
+msgstr "Керуйте імпортом і прикріпленням відео товарів."
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "Якщо ввімкнено, відео товарів автоматично додаються до опису. Вимкніть для керування відео вручну."
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "Якщо вимкнено, відео не завантажуються для тем Vortem Clothes, Vortem Cosmetic і xstore — економить місце на диску."
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "Завантажувати відео для тем Vortem і xstore"
+
+msgid "Integrations"
+msgstr "Інтеграції"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "Під'єднайте зовнішні облікові записи, щоб розширити постачання та виконання замовлень."
+
+msgid "Update"
+msgstr "Оновити"
+
+msgid "Last updated"
+msgstr "Останнє оновлення"
+
+msgid "Setup"
+msgstr "Налаштування"
+
+msgid "Let's get you started"
+msgstr "Почнімо"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "Завершіть налаштування приблизно за 2 хвилини."
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "Для імпорту продуктів Vortem потрібний обліковий запис AliExpress."
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "Ви підключите його пізніше в Налаштування → Vortem → Інтеграція AliExpress. Ще немає облікового запису? Можна зареєструватися й там."
+
+msgid "Up and running in minutes."
+msgstr "Запуск за лічені хвилини."
+
+msgid "Built with WordPress security best practices."
+msgstr "Створено з урахуванням найкращих практик безпеки WordPress."
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "Легкий і налаштований під WordPress."
+
+msgid "Store basics"
+msgstr "Основи магазину"
+
+msgid "Pick your store currency"
+msgstr "Оберіть валюту магазину"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "Так клієнти бачать суму на касі. Можна змінити пізніше."
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "Використовується на картках товарів, у кошику та на оплаті."
+
+msgid "Almost there"
+msgstr "Майже готово"
+
+msgid "Review and accept"
+msgstr "Перегляньте та прийміть"
+
+msgid "Read the full Terms"
+msgstr "Прочитати повні Умови"
+
+msgid "You agree to be bound by these terms."
+msgstr "Ви погоджуєтесь дотримуватися цих умов."
+
+msgid "I consent to data processing"
+msgstr "Я погоджуюсь на обробку даних"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "Я розумію та погоджуюсь, що цей плагін надсилає дані мого сайту (URL сайту, версія WordPress, версія плагіна, валютні налаштування, дані товарів WooCommerce під час імпорту, інформацію про доставку під час обробки замовлень і метадані плагінів/тем під час використання функцій безпеки) на сервери vortem.ai (https://c.vortem.ai) для обробки, аналітики та надання сервісу. Дані не надсилаються до вашої явної згоди, і плагін залишається робочим у разі відмови (функції, що залежать від vortem.ai, будуть недоступні). Надсилання переліку встановлених плагінів/тем для пошуку вразливостей відповідає тій самій моделі, що й у Wordfence, Patchstack, WPScan і Jetpack Protect."
+
+msgid "All done"
+msgstr "Готово"
+
+msgid "You're all set!"
+msgstr "Усе готово!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem налаштовано й готовий. Підключіть AliExpress у Налаштуваннях, коли будете готові."
+
+msgid "Accepted"
+msgstr "Прийнято"
+
+msgid "Consented"
+msgstr "Згоду надано"
+
+msgid "Data processing"
+msgstr "Обробка даних"
+
+msgid "Meta Title"
+msgstr "Мета-заголовок"
+
+msgid "Order"
+msgstr "Замовлення"
+
+msgid "Customer"
+msgstr "Клієнт"
+
+msgid "Items"
+msgstr "Товари"
+
+msgid "Payment"
+msgstr "Оплата"

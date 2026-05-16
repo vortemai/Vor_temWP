@@ -1,0 +1,3006 @@
+# Translation of Vortem AI in tg_TJ
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tg_TJ\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "насб ва фаъолсозии WooCommerce-ро талаб мекунад."
+
+msgid "or higher. You are running version"
+msgstr "ё болотар. Шумо нусхаи зеринро истифода мебаред:"
+
+msgid "Welcome to vortem.ai!"
+msgstr "Хуш омадед ба vortem.ai!"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "Устоди танзимоти Vortem.ai"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "Ташаккур барои интихоби плагини vortem.ai. Ин устоди танзимот ба шумо барои зуд ва осон танзим кардани мағозаатон кӯмак мекунад."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "Барои истифода бурдани хизматрасониҳои фурӯши маҳсулоти Vortem, ба шумо ҳисоби AliExpress лозим аст. Шумо метавонед ҳисобатонро аз Танзимот → Вуруди Vortem → Ҳамгироии AliExpress пайваст кунед. Агар шумо ҳисоб надоред, шумо метавонед мустақиман аз он ҷо сабти ном кунед."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "Барои истифода бурдани хизматрасониҳои фурӯши маҳсулоти Vortem, ба шумо ҳисоби AliExpress лозим аст."
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "Шумо метавонед ҳисобатонро аз Танзимот → Вуруди Vortem → Ҳамгироии AliExpress пайваст кунед."
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "Агар шумо ҳисоб надоред, шумо метавонед мустақиман аз он ҷо сабти ном кунед."
+
+msgid "Select Language"
+msgstr "Забонро интихоб кунед"
+
+msgid "Select Currency"
+msgstr "Асъорро интихоб кунед"
+
+msgid "Complete Setup"
+msgstr "Танзимотро анҷом диҳед"
+
+msgid "What you'll get:"
+msgstr "Он чӣ ба даст меоред:"
+
+msgid "Automated product synchronization"
+msgstr "Синхронизатсияи худкори маҳсулот"
+
+msgid "Order management and processing"
+msgstr "Идоракунӣ ва коркарди фармоишҳо"
+
+msgid "Real-time inventory updates"
+msgstr "Навсозиҳои анбор дар вақти воқеӣ"
+
+msgid "Easy-to-use admin interface"
+msgstr "Интерфейси маъмурӣ барои истифода осон"
+
+msgid "24/7 customer support"
+msgstr "Дастгирии муштариён 24/7"
+
+msgid "Contact Support"
+msgstr "Бо дастгирӣ тамос гиред"
+
+msgid "Import Products"
+msgstr "Маҳсулотро ворид кунед"
+
+msgid "Configure Settings"
+msgstr "Танзимоти конфигуратсия"
+
+msgid "Setup Complete!"
+msgstr "Танзимот анҷом ёфт!"
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "Танзимот тақрибан 2-3 дақиқа вақт мегирад."
+
+msgid "Terms & Conditions"
+msgstr "Шартҳо ва қоидаҳо"
+
+msgid "1. License Agreement"
+msgstr "1. Созишномаи литсензионӣ"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "Бо истифода аз ин плагин, шумо розӣ мешавед, ки тамоми қонунҳо ва қоидаҳои амалкунандаро риоя кунед. Плагин таҳти литсензияи GPL v2 ё навтар пешниҳод мешавад."
+
+msgid "Sign up"
+msgstr "Рӯйхатгирӣ"
+
+msgid "Sign up to get started"
+msgstr "Барои оғоз кардан рӯйхат гузаред"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "Табрик мекунем! Плагини vortem.ai-и шумо бомуваффақият танзим карда шуд."
+
+msgid "What's next?"
+msgstr "Қадами навбатӣ чист?"
+
+msgid "Need Help?"
+msgstr "Кӯмак лозим аст?"
+
+msgid "Our support team is here to help you get started."
+msgstr "Дастаи дастгирии мо барои оғози кор ба шумо кӯмак мекунад."
+
+msgid "Step %1$d of %2$d"
+msgstr "Қадами %1$d аз %2$d"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "Ман %1$sШартҳо ва қоидаҳоро%2$s хондам ва ба онҳо розиям"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "Шартҳои истифодаи плагини vortem.ai"
+
+msgid "1. authentication Agreement"
+msgstr "1. Созишномаи тасдиқкунӣ"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "Бо истифода аз ин плагин, шумо розӣ мешавед, ки тамоми қонунҳо ва қоидаҳои амалкунандаро риоя кунед. Плагин таҳти литсензияи GPL v2 ё тасдиқи навтар пешниҳод мешавад."
+
+msgid "2. Data Usage"
+msgstr "2. Истифодаи маълумот"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "Мо маълумоти заруриро барои фаъолияти хидматрасонӣ, аз ҷумла маълумоти маҳсулот, тафсилоти фармоиш ва маълумоти муштариёнро ҷамъоварӣ ва коркард мекунем. Тамоми маълумот мувофиқи сиёсати маҳрамияти мо коркард мешавад."
+
+msgid "3. Service Availability"
+msgstr "3. Дастрасии хидмат"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "Ҳарчанд мо кӯшиш мекунем, ки дастрасии баланди хидматро таъмин кунем, мо хидматрасонии бефосиларо кафолат дода наметавонем. Мо ҳуқуқи гузаронидани корҳои техникӣ ва навсозиро дар ҳолати зарурӣ нигоҳ медорем."
+
+msgid "4. Support"
+msgstr "4. Дастгирӣ"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "Дастгирии техникӣ тавассути каналҳои дастгирии мо пешниҳод карда мешавад. Вақти вокуниш вобаста ба мураккабии масъала метавонад фарқ кунад."
+
+msgid "5. Updates"
+msgstr "5. Навсозиҳо"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "Навсозиҳои плагин барои беҳтар кардани функсияҳо ва амният пешниҳод карда мешаванд. Тавсия дода мешавад, ки плагинро ба нусхаи охирин навсозӣ кунед."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "Калиди тасдиқи Vortem.ai-и худро барои фаъол кардани плагин ва дастрасӣ ба тамоми имкониятҳо ворид кунед."
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "Шумо метавонед калиди тасдиқи худро дар панели идоракунии ҳисоби Vortem.ai пайдо кунед."
+
+msgid "Need help?"
+msgstr "Кӯмак лозим аст?"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "Устоди танзимотро барои танзими тасдиқ ва оғози кор анҷом диҳед."
+
+msgid "Vortem.ai Overview"
+msgstr "Баррасии Vortem.ai"
+
+msgid "Vortem.ai Products"
+msgstr "Маҳсулоти Vortem.ai"
+
+msgid "Vortem.ai Settings"
+msgstr "Танзимоти Vortem.ai"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "Танзимоти Vortem.ai-ро дар зер муайян кунед."
+
+msgid "Saving settings and validating authentication..."
+msgstr "Захираи танзимот ва санҷиши тасдиқ..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "Танзимот анҷом ёфт - Плагини Vortem.ai барои истифода омода аст!"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "Забони интерфейси плагинро интихоб кунед. Тағйирот пас аз захира кардан эътибор пайдо мекунанд."
+
+msgid "Vortem.ai AI Resources"
+msgstr "Захираҳои AI-и Vortem.ai"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "Дастрасӣ ба ҳисоб ва захираҳои AI-и Vortem.ai"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "Дастрасӣ ба ҳисоб ва захираҳои AI-и Vortem.ai:"
+
+msgid "Home"
+msgstr "Асосӣ"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "Боздид аз саҳифаи асосии Vortem.ai AI"
+
+msgid "Visit Site"
+msgstr "Боздид аз сайт"
+
+msgid "My Account"
+msgstr "Ҳисоби ман"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "Идоракунии танзимоти ҳисоби Vortem.ai AI"
+
+msgid "Support"
+msgstr "Дастгирӣ"
+
+msgid "Get help and support from our team"
+msgstr "Кӯмак ва дастгирӣ аз дастаи мо"
+
+msgid "Documentation"
+msgstr "Ҳуҷҷатҳо"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "Хондани дастурҳо ва дарсҳои муфассал"
+
+msgid "Terms"
+msgstr "Шартҳо"
+
+msgid "Review terms and conditions"
+msgstr "Баррасии шартҳо ва қоидаҳо"
+
+msgid "Privacy"
+msgstr "Маҳрамият"
+
+msgid "View our privacy policy"
+msgstr "Дидани сиёсати маҳрамияти мо"
+
+msgid "error"
+msgstr "хато"
+
+msgid "success"
+msgstr "муваффақият"
+
+msgid "cancel"
+msgstr "лағв кардан"
+
+msgid "delete"
+msgstr "нест кардан"
+
+msgid "deleting"
+msgstr "нестшавӣ..."
+
+msgid "edit"
+msgstr "вироиш"
+
+msgid "close"
+msgstr "бастан"
+
+msgid "confirm"
+msgstr "тасдиқ кардан"
+
+msgid "refresh"
+msgstr "навсозӣ"
+
+msgid "import"
+msgstr "воридот"
+
+msgid "actions"
+msgstr "амалҳо"
+
+msgid "status"
+msgstr "ҳолат"
+
+msgid "date"
+msgstr "сана"
+
+msgid "subject"
+msgstr "мавзӯъ"
+
+msgid "recipient"
+msgstr "қабулкунанда"
+
+msgid "total"
+msgstr "ҷамъ"
+
+msgid "items"
+msgstr "ададҳо"
+
+msgid "customer"
+msgstr "муштарӣ"
+
+msgid "order"
+msgstr "фармоиш"
+
+msgid "payment"
+msgstr "пардохт"
+
+msgid "active"
+msgstr "фаъол"
+
+msgid "inactive"
+msgstr "ғайрифаъол"
+
+msgid "cards"
+msgstr "кортҳо"
+
+msgid "table"
+msgstr "ҷадвал"
+
+msgid "select"
+msgstr "интихоб кардан"
+
+msgid "sent"
+msgstr "фиристода шуд"
+
+msgid "left"
+msgstr "боқӣ монд"
+
+msgid "resets"
+msgstr "аз нав мешавад"
+
+msgid "view_more"
+msgstr "бештар дидан"
+
+msgid "performance"
+msgstr "маҳсулнокӣ"
+
+msgid "insights"
+msgstr "таҳлилҳо"
+
+msgid "metrics"
+msgstr "метрикҳо"
+
+msgid "device"
+msgstr "дастгоҳ"
+
+msgid "locale"
+msgstr "макон/забон"
+
+msgid "channel"
+msgstr "канал"
+
+msgid "desktop"
+msgstr "компютер"
+
+msgid "mobile"
+msgstr "мобилӣ"
+
+msgid "retry"
+msgstr "дубора кӯшиш кардан"
+
+msgid "failed"
+msgstr "ноком шуд"
+
+msgid "support"
+msgstr "4. Дастгирӣ"
+
+msgid "documentation"
+msgstr "ҳуҷҷатҳо"
+
+msgid "are_you_sure"
+msgstr "шумо мутмаин ҳастед?"
+
+msgid "clear"
+msgstr "пок кардан"
+
+msgid "preview"
+msgstr "пешнамоиш"
+
+msgid "send_email"
+msgstr "фиристодани почта"
+
+msgid "recipients"
+msgstr "қабулкунандагон"
+
+msgid "question"
+msgstr "савол"
+
+msgid "answer"
+msgstr "ҷавоб"
+
+msgid "category"
+msgstr "Категория:"
+
+msgid "category:"
+msgstr "Категория:"
+
+msgid "showing"
+msgstr "намоиш дода мешавад"
+
+msgid "faqs"
+msgstr "Саволҳои маъмул"
+
+msgid "all_categories"
+msgstr "Ҳамаи категорияҳо"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "Чӣ гуна мехоҳед саволҳои маъмулро эҷод кунед?"
+
+msgid "Single FAQ"
+msgstr "Саволи алоҳида"
+
+msgid "Bulk FAQs"
+msgstr "Саволҳои дастаҷамъӣ"
+
+msgid "no_faqs_added_yet"
+msgstr "Ҳанӯз ягон савол илова нашудааст. Аввалин саволи худро дар тарафи чап илова кунед."
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "Ҳанӯз ягон савол илова нашудааст. Аввалин саволи худро дар тарафи чап илова кунед."
+
+msgid "Added FAQs"
+msgstr "Саволҳои иловашуда"
+
+msgid "created"
+msgstr "эҷод шуд"
+
+msgid "search_faqs"
+msgstr "ҷустуҷӯи саволҳо..."
+
+msgid "start_creating"
+msgstr "ба эҷоди саволҳо оғоз кунед, то базаи дониши худро созед"
+
+msgid "update_faq"
+msgstr "навсозии савол"
+
+msgid "category_label"
+msgstr "Категория *"
+
+msgid "select_existing_category_optional"
+msgstr "Интихоби категорияи мавҷуда (ихтиёрӣ)"
+
+msgid "create_faq"
+msgstr "эҷоди савол"
+
+msgid "delete_faq"
+msgstr "нест кардани савол"
+
+msgid "delete_category"
+msgstr "Нест кардани категория"
+
+msgid "delete_category_faqs_confirm"
+msgstr "Оё шумо мутмаинед, ки мехоҳед ҳамаи саволҳоро дар категорияи \"%s\" нест кунед? Ин амалро баргардонида намешавад."
+
+msgid "category_faqs_deleted"
+msgstr "Ҳамаи саволҳо дар категорияи \"%s\" нест карда шуданд."
+
+msgid "failed_to_delete_category_faqs"
+msgstr "Нест кардани саволҳо барои ин категория ноком шуд. Лутфан дубора кӯшиш кунед."
+
+msgid "category_id_not_found"
+msgstr "ID-и категория ёфт нашуд."
+
+msgid "orders"
+msgstr "фармоишҳо"
+
+msgid "search_orders_by_number_customer_name_or_email"
+msgstr "ҷустуҷӯи фармоишҳо аз рӯи рақам, номи муштарӣ ё почта..."
+
+msgid "last_updated"
+msgstr "Навсозии охирин:"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "ПАНЕЛИ ТАҲЛИЛӢ"
+
+msgid "Business Intelligence"
+msgstr "Зеҳни бизнес (BI)"
+
+msgid "Analytics Hub"
+msgstr "Маркази таҳлилӣ"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "Таҳлилҳо ва фаҳмишҳои ҳамаҷониба дар асоси зеҳни сунъӣ барои қабули қарорҳои дуруст"
+
+msgid "Performance Overview"
+msgstr "Баррасии маҳсулнокӣ"
+
+msgid "Key performance indicators at a glance"
+msgstr "Нишондиҳандаҳои асосӣ дар як нигоҳ"
+
+msgid "Analytics Insights"
+msgstr "Фаҳмишҳои таҳлилӣ"
+
+msgid "Deep dive into performance metrics"
+msgstr "Таҳлили амиқи нишондиҳандаҳо"
+
+msgid "Customer Intelligence"
+msgstr "Зеҳни муштариён"
+
+msgid "Understand customer behavior and trends"
+msgstr "Фаҳмидани рафтор ва тамоюлҳои муштариён"
+
+msgid "Market Analysis"
+msgstr "Таҳлили бозор"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "Муқоисаи бозор ва таҳлили категорияҳо"
+
+msgid "Data Intelligence"
+msgstr "Зеҳни маълумот"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "Ҷадвалҳои муфассал ва таҳлили нархҳо"
+
+msgid "Product"
+msgstr "Маҳсулот"
+
+msgid "Products"
+msgstr "Маҳсулотҳо"
+
+msgid "Average"
+msgstr "Миёна"
+
+msgid "No products found"
+msgstr "Маҳсулот ёфт нашуд"
+
+msgid "Close"
+msgstr "Бастан"
+
+msgid "All KPI Products"
+msgstr "Ҳамаи маҳсулоти KPI"
+
+msgid "Top KPI Products"
+msgstr "Маҳсулоти беҳтарини KPI"
+
+msgid "Product ID"
+msgstr "ID-и маҳсулот"
+
+msgid "Product Title"
+msgstr "Номи маҳсулот"
+
+msgid "Base Price"
+msgstr "Нархи асосӣ"
+
+msgid "Low-Risk Price"
+msgstr "Нархи камиск"
+
+msgid "Competitive Price"
+msgstr "Нархи рақобатпазир"
+
+msgid "High-Risk Price"
+msgstr "Нархи пуриск"
+
+msgid "Untitled Product"
+msgstr "Маҳсулоти беном"
+
+msgid "All Trend Index Products"
+msgstr "Ҳамаи маҳсулоти индекси тамоюл"
+
+msgid "Trend Index by Product"
+msgstr "Индекси тамоюл аз рӯи маҳсулот"
+
+msgid "Product Name"
+msgstr "Номи маҳсулот"
+
+msgid "Price vs Rating"
+msgstr "Нарх нисбат ба рейтинг"
+
+msgid "Price"
+msgstr "Нарх"
+
+msgid "Rating"
+msgstr "Рейтинг"
+
+msgid "Reviews"
+msgstr "Шарҳҳо"
+
+msgid "CTR"
+msgstr "CTR"
+
+msgid "CVR"
+msgstr "CVR"
+
+msgid "Average Price"
+msgstr "Нархи миёна"
+
+msgid "Average Rating"
+msgstr "Рейтинги миёна"
+
+msgid "Product Count"
+msgstr "Миқдори маҳсулот"
+
+msgid "Avg Price"
+msgstr "Нархи миёна"
+
+msgid "Avg Rating"
+msgstr "Рейтинги миёна"
+
+msgid "Failed to load"
+msgstr "Боргирӣ ноком шуд"
+
+msgid "products"
+msgstr "маҳсулотҳо"
+
+msgid "product"
+msgstr "маҳсулот"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "Индекси тамоюл"
+
+msgid "Profitability"
+msgstr "Фоидаоварӣ"
+
+msgid "Competition"
+msgstr "Рақобат"
+
+msgid "Demand Stability"
+msgstr "Суботи талабот"
+
+msgid "View All"
+msgstr "Дидани ҳама"
+
+msgid "price rating data"
+msgstr "маълумоти нарх ва рейтинг"
+
+msgid "Total Reviews"
+msgstr "Ҷамъи шарҳҳо"
+
+msgid "Avg Reviews"
+msgstr "Шарҳҳои миёна"
+
+msgid "Overall Sentiment"
+msgstr "Рӯҳияи умумӣ"
+
+msgid "Positive"
+msgstr "Мусбат"
+
+msgid "Neutral"
+msgstr "Бетараф"
+
+msgid "Negative"
+msgstr "Манфӣ"
+
+msgid "Trend Status Overview"
+msgstr "Баррасии ҳолати тамоюл"
+
+msgid "Rising"
+msgstr "Рӯ ба афзоиш"
+
+msgid "Stable"
+msgstr "Устувор"
+
+msgid "Declining"
+msgstr "Рӯ ба коҳиш"
+
+msgid "sentiment data"
+msgstr "маълумоти рӯҳия"
+
+msgid "trend status data"
+msgstr "маълумоти ҳолати тамоюл"
+
+msgid "Status"
+msgstr "Вазъият"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "All Categories"
+msgstr "Ҳамаи категорияҳо"
+
+msgid "Count"
+msgstr "Миқдор"
+
+msgid "Percentage"
+msgstr "Файз"
+
+msgid "Market Comparison (by Source)"
+msgstr "Муқоисаи бозор (аз рӯи манбаъ)"
+
+msgid "Market"
+msgstr "Бозор"
+
+msgid "Best seller"
+msgstr "Пурфурӯштарин"
+
+msgid "Movers and shakers"
+msgstr "Маҳсулоти фаъол"
+
+msgid "New releases"
+msgstr "Навгониҳо"
+
+msgid "market comparison data"
+msgstr "маълумоти муқоисаи бозор"
+
+msgid "Category Comparison"
+msgstr "Муқоисаи категорияҳо"
+
+msgid "Category Comparison - All Data"
+msgstr "Муқоисаи категорияҳо - Ҳамаи маълумот"
+
+msgid "Categories"
+msgstr "Категорияҳо"
+
+msgid "Metrics"
+msgstr "Метрикҳо"
+
+msgid "Avg Sold"
+msgstr "Фурӯши миёна"
+
+msgid "Avg FPSI"
+msgstr "Миёнаи FPSI"
+
+msgid "N/A"
+msgstr "Маълум нест"
+
+msgid "value"
+msgstr "арзиш"
+
+msgid "Unknown"
+msgstr "Номаълум"
+
+msgid "category comparison data"
+msgstr "маълумоти муқоисаи категорияҳо"
+
+msgid "Amazon Device"
+msgstr "Дастгоҳи Amazon"
+
+msgid "Appliances"
+msgstr "Техникаи рӯзгор"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "Ҳунар, санъат ва дӯзандагӣ"
+
+msgid "Automotive"
+msgstr "Автомобилҳо"
+
+msgid "Baby Products"
+msgstr "Маҳсулоти кӯдакона"
+
+msgid "Baby"
+msgstr "Кӯдак"
+
+msgid "Beauty & Personal Care"
+msgstr "Зебоӣ ва нигоҳубин"
+
+msgid "Cell Phones & Accessories"
+msgstr "Телефонҳо ва лавозимот"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "Либос, пойафзол ва ҷавоҳирот"
+
+msgid "Collectibles & Fine Art"
+msgstr "Ашёи коллексионӣ ва санъат"
+
+msgid "Electronics"
+msgstr "Электроника"
+
+msgid "Health & Household"
+msgstr "Саломатӣ ва хонавода"
+
+msgid "Home & Kitchen"
+msgstr "Хона ва ошхона"
+
+msgid "Industrial & Scientific"
+msgstr "Саноатӣ ва илмӣ"
+
+msgid "Musical Instruments"
+msgstr "Асбобҳои мусиқӣ"
+
+msgid "No category found"
+msgstr "Категория ёфт нашуд"
+
+msgid "Office Products"
+msgstr "Маҳсулоти корӣ"
+
+msgid "Patio, Lawn & Garden"
+msgstr "Ҳавлӣ ва боғ"
+
+msgid "Safety & Security"
+msgstr "Амният ва муҳофизат"
+
+msgid "Tools & Home Improvement"
+msgstr "Асбобҳо ва таъмири хона"
+
+msgid "Toys & Games"
+msgstr "Бозичаҳо ва бозиҳо"
+
+msgid "Suggested Pricing"
+msgstr "Нархгузории тавсиявӣ"
+
+msgid "All Suggested Pricing"
+msgstr "Ҳамаи нархҳои тавсиявӣ"
+
+msgid "suggested pricing data"
+msgstr "маълумоти нархгузории тавсиявӣ"
+
+msgid "Search products..."
+msgstr "Ҷустуҷӯи маҳсулот..."
+
+msgid "Search products or categories..."
+msgstr "Ҷустуҷӯи маҳсулот ё категорияҳо..."
+
+msgid "Insights"
+msgstr "Огоҳиҳо"
+
+msgid "Performance insights for"
+msgstr "Таҳлили маҳсулнокӣ барои"
+
+msgid "your website"
+msgstr "сайти шумо"
+
+msgid "Desktop"
+msgstr "Мизи Кор"
+
+msgid "Mobile"
+msgstr "Мобилӣ"
+
+msgid "Refresh"
+msgstr "Навсозӣ"
+
+msgid "Loading..."
+msgstr "Боргирӣ..."
+
+msgid "Core Web Vitals"
+msgstr "Нишондиҳандаҳои асосии веб"
+
+msgid "Performance Audits"
+msgstr "Аудити маҳсулнокӣ"
+
+msgid "View More"
+msgstr "Бештар дидан"
+
+msgid "Performance Insights"
+msgstr "Таҳлили маҳсулнокӣ"
+
+msgid "Analysis Configuration"
+msgstr "Танзимоти таҳлил"
+
+msgid "Device"
+msgstr "Дастгоҳ"
+
+msgid "Locale"
+msgstr "Макон/Забон"
+
+msgid "Channel"
+msgstr "Канал"
+
+msgid "Loading Insights data..."
+msgstr "Боргирии маълумоти таҳлилӣ..."
+
+msgid "Error Loading Insights Data"
+msgstr "Хато дар боргирии маълумоти таҳлилӣ"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "Ҳангоми гирифтани маълумоти таҳлилӣ хатогие рӯй дод."
+
+msgid "Retry"
+msgstr "Дубора кӯшиш кунед"
+
+msgid "No Insights Data Available"
+msgstr "Маълумоти таҳлилӣ дастрас нест"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "Маълумоти таҳлили маҳсулнокӣ дастрас нест. Шояд таҳлил ҳанӯз иҷро нашудааст ё хатогие рӯй додааст."
+
+msgid "Last analyzed:"
+msgstr "Таҳлили охирин:"
+
+msgid "Performance"
+msgstr "Иҷро"
+
+msgid "Accessibility"
+msgstr "Дастрасӣ"
+
+msgid "Best Practices"
+msgstr "Таҷрибаҳои беҳтарин"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "No performance metrics available"
+msgstr "Метрикҳои маҳсулнокӣ дастрас нестанд"
+
+msgid "No audit data available"
+msgstr "Маълумоти аудит дастрас нест"
+
+msgid "No audits available"
+msgstr "Аудитҳо дастрас нестанд"
+
+msgid "View Less"
+msgstr "Камтар дидан"
+
+msgid "more"
+msgstr "бештар"
+
+msgid "No insights available"
+msgstr "Таҳлилҳо дастрас нестанд"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "Ягон мушкилоти маҳсулнокӣ ёфт нашуд. Сайти шумо хуб кор мекунад!"
+
+msgid "Wasted:"
+msgstr "Беҳуда:"
+
+msgid "Initializing..."
+msgstr "Омодасозӣ..."
+
+msgid "Connecting to server..."
+msgstr "Пайвастшавӣ ба сервер..."
+
+msgid "Fetching insights data..."
+msgstr "Гирифтани маълумоти таҳлилӣ..."
+
+msgid "Analyzing performance metrics..."
+msgstr "Таҳлили метрикҳои маҳсулнокӣ..."
+
+msgid "Processing audits and insights..."
+msgstr "Коркарди аудит ва таҳлилҳо..."
+
+msgid "Finalizing results..."
+msgstr "Анҷоми натиҷаҳо..."
+
+msgid "Complete!"
+msgstr "Анҷом ёфт!"
+
+msgid "Failed to load Insights data"
+msgstr "Боргирии маълумоти таҳлилӣ ноком шуд"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "Боргирии маълумот ноком шуд. Пайвастро санҷед."
+
+msgid "No data available"
+msgstr "Маълумот нест"
+
+msgid "Excellent"
+msgstr "Аъло"
+
+msgid "Needs Improvement"
+msgstr "Ниёз ба беҳтаршавӣ"
+
+msgid "Poor"
+msgstr "Заиф"
+
+msgid "Unknown error"
+msgstr "Хатогии номаълум"
+
+msgid "Email Marketing"
+msgstr "Маркетинги email"
+
+msgid "Manage, send, and track your emails"
+msgstr "Идора, фиристодан ва пайгирии почтаҳо"
+
+msgid "Emails"
+msgstr "Почтаҳо"
+
+msgid "Lists"
+msgstr "Рӯйхатҳо"
+
+msgid "Create Email"
+msgstr "Эҷоди почта"
+
+msgid "Search emails..."
+msgstr "Ҷустуҷӯи почтаҳо..."
+
+msgid "Cards"
+msgstr "Кортҳо"
+
+msgid "Table"
+msgstr "Ҷадвал"
+
+msgid "Select"
+msgstr "Интихоб кардан"
+
+msgid "Delete"
+msgstr "Нест кардан"
+
+msgid "Recipient"
+msgstr "Қабулкунанда"
+
+msgid "Subject"
+msgstr "Мавзӯъ"
+
+msgid "Created"
+msgstr "Эҷод шуд"
+
+msgid "Actions"
+msgstr "Амалҳо"
+
+msgid "Email Lists"
+msgstr "Рӯйхати почтаҳо"
+
+msgid "Manage, send, and track your email lists"
+msgstr "Идора ва фиристодани рӯйхати почтаҳо"
+
+msgid "Create Email List"
+msgstr "Эҷоди рӯйхати почтаҳо"
+
+msgid "Search lists..."
+msgstr "Ҷустуҷӯи рӯйхатҳо..."
+
+msgid "Download Template"
+msgstr "Боргирии қолаб"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "Боргирии қолаби email-recipient.xlsx"
+
+msgid "Upload Template"
+msgstr "Боргузории қолаб"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "Боргузории файли email-recipient.xlsx"
+
+msgid "Recipients"
+msgstr "Қабулкунандагон"
+
+msgid "Confirm Action"
+msgstr "Тасдиқи амал"
+
+msgid "Are you sure you want to proceed?"
+msgstr "Оё мутмаинед, ки идома додан мехоҳед?"
+
+msgid "Cancel"
+msgstr "Лағв кардан"
+
+msgid "Confirm"
+msgstr "Тасдиқ кардан"
+
+msgid "List Subject"
+msgstr "Мавзӯи рӯйхат"
+
+msgid "Subject for all recipients"
+msgstr "Мавзӯъ барои ҳамаи қабулкунандагон"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "Почтаро ворид кунед ва Enter-ро пахш кунед"
+
+msgid "Add"
+msgstr "Илова кардан"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "Почтаҳоро як-як ворид кунед."
+
+msgid "Email Body (optional HTML)"
+msgstr "Матни почта (HTML ихтиёрӣ)"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "Шумо метавонед муҳаррири визуалӣ ё матниро истифода баред."
+
+msgid "Send"
+msgstr "Фиристодан"
+
+msgid "Preview"
+msgstr "Пешнамоиш"
+
+msgid "Clear"
+msgstr "Пок кардан"
+
+msgid "Create New Email"
+msgstr "Эҷоди почтаи нав"
+
+msgid "Your subject"
+msgstr "Мавзӯи шумо"
+
+msgid "Email Body"
+msgstr "Матни почта"
+
+msgid "Send Email"
+msgstr "Фиристодани почта"
+
+msgid "Email Sent"
+msgstr "Почта фиристода шуд"
+
+msgid "Your email has been sent successfully."
+msgstr "Почтаи шумо бомуваффақият фиристода шуд."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Total"
+msgstr "Ҳамагӣ"
+
+msgid "Sent"
+msgstr "Фиристода шуд"
+
+msgid "Read"
+msgstr "Хонда шуд"
+
+msgid "Revision"
+msgstr "Навсозӣ"
+
+msgid "Sent Emails"
+msgstr "Почтаҳои фиристодашуда"
+
+msgid "Export Excel"
+msgstr "Содирот ба Excel"
+
+msgid "Updated"
+msgstr "Нав шуд"
+
+msgid "Failed"
+msgstr "Ноком шуд"
+
+msgid "Pending"
+msgstr "Дар интизорӣ"
+
+msgid "Show"
+msgstr "Нишон додан"
+
+msgid "Edit"
+msgstr "Вироиш"
+
+msgid "Update & Send"
+msgstr "Навсозӣ ва фиристодан"
+
+msgid "Sending..."
+msgstr "Дар ҳоли фиристодан..."
+
+msgid "Edit Email"
+msgstr "Вироиши почта"
+
+msgid "Exit Select"
+msgstr "Хоруҷ аз интихоб"
+
+msgid "To:"
+msgstr "Ба:"
+
+msgid "Created:"
+msgstr "Эҷод шуд:"
+
+msgid "Error"
+msgstr "Хато"
+
+msgid "Success"
+msgstr "Муваффақият"
+
+msgid "Update Email List"
+msgstr "Навсозии рӯйхати почтаҳо"
+
+msgid "status_sent"
+msgstr "фиристода шуд"
+
+msgid "status_failed"
+msgstr "ноком шуд"
+
+msgid "status_pending"
+msgstr "дар интизорӣ"
+
+msgid "SENT"
+msgstr "ФИРИСТОДА ШУД"
+
+msgid "Sent:"
+msgstr "Фиристода шуд:"
+
+msgid "Failed:"
+msgstr "Ноком шуд:"
+
+msgid "Pending:"
+msgstr "Дар интизорӣ:"
+
+msgid "Email sent"
+msgstr "Почта фиристода шуд"
+
+msgid "Successfully sent"
+msgstr "Бомуваффақият фиристода шуд"
+
+msgid "email(s)"
+msgstr "почта(ҳо)"
+
+msgid "Your email list has been sent successfully."
+msgstr "Рӯйхати почтаҳои шумо бомуваффақият фиристода шуд."
+
+msgid "FAILED"
+msgstr "НОКОМ ШУД"
+
+msgid "PENDING"
+msgstr "ДАР ИНТИЗОРӢ"
+
+msgid "Total Lists"
+msgstr "Ҷамъи рӯйхатҳо"
+
+msgid "Total Recipients"
+msgstr "Ҷамъи қабулкунандагон"
+
+msgid "create_email_list"
+msgstr "эҷоди рӯйхати почтаҳо"
+
+msgid "add"
+msgstr "илова кардан"
+
+msgid "send"
+msgstr "фиристодан"
+
+msgid "ok"
+msgstr "ok"
+
+msgid "security"
+msgstr "амният"
+
+msgid "welcome"
+msgstr "хуш омадед"
+
+msgid "of"
+msgstr "аз"
+
+msgid "by_using_this_plugin"
+msgstr "Бо истифода аз ин плагин, шумо ба риояи қонунҳо розӣ мешавед."
+
+msgid "previous"
+msgstr "Қаблӣ"
+
+msgid "next"
+msgstr "Баъдӣ"
+
+msgid "home"
+msgstr "Асосӣ"
+
+msgid "terms"
+msgstr "Шартҳо"
+
+msgid "Active"
+msgstr "Фаъол"
+
+msgid "Not Set"
+msgstr "Танзим нашудааст"
+
+msgid "Import"
+msgstr "Воридот"
+
+msgid "Importing..."
+msgstr "Воридшавӣ..."
+
+msgid "Deleting..."
+msgstr "Дар ҳоли несткунӣ..."
+
+msgid "Already Imported"
+msgstr "Пештар ворид шудааст"
+
+msgid "Product deleted successfully"
+msgstr "Маҳсулот бомуваффақият нест карда шуд"
+
+msgid "NEW"
+msgstr "НАВ"
+
+msgid "Added"
+msgstr "Илова шуд"
+
+msgid "Exists"
+msgstr "Мавҷуд аст"
+
+msgid "Showing"
+msgstr "Намоиш"
+
+msgid "Previous"
+msgstr "Қаблӣ"
+
+msgid "Next"
+msgstr "Минбаъда"
+
+msgid "Processing..."
+msgstr "Коркард..."
+
+msgid "Please wait while we import your product"
+msgstr "Лутфан интизор шавед, мо маҳсулотро ворид мекунем"
+
+msgid "Importing product as draft..."
+msgstr "Воридоти маҳсулот ҳамчун тарҳ (черновик)..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "Ин маҳсулотро дар WooCommerce эҷод мекунад"
+
+msgid "Importing product with SEO optimization..."
+msgstr "Воридоти маҳсулот бо оптимизатсияи SEO..."
+
+msgid "Checking product status..."
+msgstr "Санҷиши ҳолати маҳсулот..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "Интизор шавед, мо мавҷудияти маҳсулотро месанҷем"
+
+msgid "Loading products..."
+msgstr "Боргирии маҳсулотҳо..."
+
+msgid "Overview"
+msgstr "Баррасӣ"
+
+msgid "Business Overview"
+msgstr "Баррасии бизнес"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "Маҳсулнокии плагинро назорат кунед ва амалиётро дар як панел идора кунед"
+
+msgid "Total Products"
+msgstr "Ҷамъи маҳсулот"
+
+msgid "Quick Actions"
+msgstr "Амалҳои фаврӣ"
+
+msgid "Analytics Dashboard"
+msgstr "Панели таҳлилӣ"
+
+msgid "Analytics Overview"
+msgstr "Баррасии таҳлилӣ"
+
+msgid "Quick insights into your business performance"
+msgstr "Фаҳмиши фаврӣ дар бораи тиҷорати шумо"
+
+msgid "View Full Analytics"
+msgstr "Дидани таҳлили пурра"
+
+msgid "Overall Sentiment distribution"
+msgstr "Тақсимоти рӯҳияи умумӣ"
+
+msgid "Trend Status distribution"
+msgstr "Тақсимоти ҳолати тамоюл"
+
+msgid "Analytics"
+msgstr "Таҳлил"
+
+msgid "BI Analytics Hub"
+msgstr "Маркази таҳлилии BI"
+
+msgid "Settings"
+msgstr "Танзимот"
+
+msgid "No orders found"
+msgstr "Фармоиш ёфт нашуд"
+
+msgid "Total Orders"
+msgstr "Ҷамъи фармоишҳо"
+
+msgid "Current Page"
+msgstr "Саҳифаи ҷорӣ"
+
+msgid "Orders Per Page"
+msgstr "Фармоишҳо дар як саҳифа"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "Ҷустуҷӯи фармоиш аз рӯи рақам, ном ё почта..."
+
+msgid "Loading orders..."
+msgstr "Боргирии фармоишҳо..."
+
+msgid "Page"
+msgstr "Саҳифа"
+
+msgid "WooCommerce Analytics"
+msgstr "Таҳлили WooCommerce"
+
+msgid "WordPress Analytics"
+msgstr "Таҳлили WordPress"
+
+msgid "Clear Cache"
+msgstr "Пок кардани кэш"
+
+msgid "Export CSV"
+msgstr "Содироти CSV"
+
+msgid "Last updated:"
+msgstr "Навсозии охирин:"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "Боргирии маълумот ноком шуд. Саҳифаро нав кунед."
+
+msgid "No data available to export"
+msgstr "Маълумот барои содирот нест"
+
+msgid "Orders Today"
+msgstr "Фармоишҳои имрӯз"
+
+msgid "Total Revenue"
+msgstr "Ҳамагии даромад"
+
+msgid "Revenue Today"
+msgstr "Даромади имрӯз"
+
+msgid "Revenue (30 Days)"
+msgstr "Даромад (30 рӯз)"
+
+msgid "Avg Order Value"
+msgstr "Қимати миёнаи фармоиш"
+
+msgid "Pending Orders"
+msgstr "Фармоишҳои мунтазир"
+
+msgid "Failed Orders"
+msgstr "Фармоишҳои ноком"
+
+msgid "Cart Abandonment"
+msgstr "Сабадҳои партофташуда"
+
+msgid "Customers (30 Days)"
+msgstr "Муштариён (30 рӯз)"
+
+msgid "Top Seller (30 Days)"
+msgstr "Пурфурӯштарин (30 рӯз)"
+
+msgid "Total Users"
+msgstr "Ҷамъи корбарон"
+
+msgid "Users Today"
+msgstr "Корбарони имрӯз"
+
+msgid "Total Comments"
+msgstr "Ҷамъи шарҳҳо"
+
+msgid "Total Views"
+msgstr "Ҷамъи тамошоҳо"
+
+msgid "Pending payment"
+msgstr "Мунтазири пардохт"
+
+msgid "Processing"
+msgstr "Дар ҳоли коркард"
+
+msgid "On hold"
+msgstr "Дар интизорӣ"
+
+msgid "Completed"
+msgstr "Анҷом ёфт"
+
+msgid "Cancelled"
+msgstr "Лағв шуд"
+
+msgid "Draft"
+msgstr "Тарҳ (Черновик)"
+
+msgid "Revenue Overview"
+msgstr "Баррасии даромад"
+
+msgid "Orders Status"
+msgstr "Ҳолати фармоишҳо"
+
+msgid "WordPress Activity"
+msgstr "Фаъолияти WordPress"
+
+msgid "Revenue"
+msgstr "Даромад"
+
+msgid "WordPress Metrics"
+msgstr "Метрикҳои WordPress"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "Маҳсулот дар як саҳифа набояд аз 100 зиёд бошад."
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "Маҳсулот дар як саҳифа бояд ҳадди аққал 1 бошад."
+
+msgid "Settings saved successfully!"
+msgstr "Танзимот захира шуд!"
+
+msgid "Please enter a authentication key before testing."
+msgstr "Лутфан пеш аз санҷиш калиди литсензияро ворид кунед."
+
+msgid "more..."
+msgstr "бештар..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "Кэши таҳлилӣ пок шуд!"
+
+msgid "No products to import. Please sync products first."
+msgstr "Маҳсулот барои воридот нест. Аввал ҳамоҳанг кунед."
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "Воридот анҷом ёфт! %d ворид шуд, %d ноком."
+
+msgid "Import failed: %s"
+msgstr "Воридот ноком шуд: %s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "Санҷиши API анҷом ёфт! Барои тафсилот debug.log-ро бинед."
+
+msgid "API Test Failed: %s"
+msgstr "Санҷиши API ноком шуд: %s"
+
+msgid "Database structure validated and fixed:"
+msgstr "Сохтори базаи маълумот санҷида ва ислоҳ шуд:"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "Сохтори база дуруст аст."
+
+msgid "Database validation issues:"
+msgstr "Мушкилоти базаи маълумот:"
+
+msgid "Database validation failed: %s"
+msgstr "Санҷиши база ноком шуд: %s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "Литсензияи Vortem-и шумо фаъол аст дар нақшаи %s."
+
+msgid "Validated on: %s"
+msgstr "Тасдиқ шуд: %s"
+
+msgid "Import failed. Please try again."
+msgstr "Воридот ноком шуд. Дубора кӯшиш кунед."
+
+msgid "Please select a bulk action."
+msgstr "Лутфан амали дастаҷамъиро интихоб кунед."
+
+msgid "Please select at least one product."
+msgstr "Лутфан ҳадди аққал як маҳсулотро интихоб кунед."
+
+msgid "Bulk action failed. Please try again."
+msgstr "Амали дастаҷамъӣ ноком шуд. Дубора кӯшиш кунед."
+
+msgid "Failed to trash product. Please try again."
+msgstr "Нест кардани маҳсулот ноком шуд. Дубора кӯшиш кунед."
+
+msgid "Failed to restore product. Please try again."
+msgstr "Барқарорсозии маҳсулот ноком шуд. Дубора кӯшиш кунед."
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "Воридот ҳамчун тарҳ ноком шуд. Дубора кӯшиш кунед."
+
+msgid "Failed to get product details."
+msgstr "Гирифтани тафсилоти маҳсулот ноком шуд."
+
+msgid "Delete failed. Please try again."
+msgstr "Нест кардан ноком шуд. Дубора кӯшиш кунед."
+
+msgid "FAQ Management"
+msgstr "Идоракунии саволҳои маъмул"
+
+msgid "Manage your frequently asked questions"
+msgstr "Саволҳои маъмулии худро идора кунед"
+
+msgid "Search FAQs..."
+msgstr "Ҷустуҷӯи саволҳо..."
+
+msgid "Card View"
+msgstr "Намуди кортӣ"
+
+msgid "Table View"
+msgstr "Намуди ҷадвалӣ"
+
+msgid "Refresh FAQs"
+msgstr "Навсозии саволҳо"
+
+msgid "Create New FAQ"
+msgstr "Эҷоди саволи нав"
+
+msgid "Total FAQs"
+msgstr "Ҷамъи саволҳо"
+
+msgid "Active FAQs"
+msgstr "Саволҳои фаъол"
+
+msgid "Page Status"
+msgstr "Вазъияти саҳифа"
+
+msgid "Question"
+msgstr "Савол"
+
+msgid "Answer"
+msgstr "Ҷавоб"
+
+msgid "No FAQs yet"
+msgstr "Ҳанӯз саволе нест"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "Ба эҷоди саволҳо оғоз кунед"
+
+msgid "Create Your First FAQ"
+msgstr "Аввалин саволи худро созед"
+
+msgid "Loading FAQs..."
+msgstr "Боргирии саволҳо..."
+
+msgid "Update FAQ"
+msgstr "Навсозии савол"
+
+msgid "Question *"
+msgstr "Савол *"
+
+msgid "Enter your question here..."
+msgstr "Саволро дар ин ҷо ворид кунед..."
+
+msgid "Answer *"
+msgstr "Ҷавоб *"
+
+msgid "Enter the answer here..."
+msgstr "Ҷавобро дар ин ҷо ворид кунед..."
+
+msgid "Create FAQ"
+msgstr "Эҷоди савол"
+
+msgid "FAQ Details"
+msgstr "Тафсилоти савол"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Answer:"
+msgstr "Ҷавоб:"
+
+msgid "View Details"
+msgstr "Дидани тафсилот"
+
+msgid "Edit FAQ"
+msgstr "Вироиши савол"
+
+msgid "Creating..."
+msgstr "Дар ҳоли эҷод..."
+
+msgid "Updating..."
+msgstr "Дар ҳоли навсозӣ..."
+
+msgid "Question is required"
+msgstr "Савол ҳатмист"
+
+msgid "Answer is required"
+msgstr "Ҷавоб ҳатмист"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "Ҷавоб бояд ҳадди аққал 10 аломат бошад"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "Саволи \"%s\" эҷод шуд"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "Саволи \"%s\" нав шуд"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "Саволи \"%s\" нест карда шуд"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "Оё шумо мутмаинед, ки мехоҳед \"%s\"-ро нест кунед?"
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "Боргирии саволҳо ноком шуд."
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "Захираи савол ноком шуд."
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "Нест кардани савол ноком шуд."
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "Тасдиқ лозим аст. Калиди худро санҷед."
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "Калиди литсензия лозим аст. Онро дар танзимоти Vortem ворид кунед."
+
+msgid "Security"
+msgstr "Амният"
+
+msgid "Search plugins..."
+msgstr "Ҷустуҷӯи плагинҳо..."
+
+msgid "Last Modified"
+msgstr "Тағйироти охирин"
+
+msgid "Inactive"
+msgstr "Ғайрифаъол"
+
+msgid "WordPress Core"
+msgstr "Ядрои WordPress"
+
+msgid "Themes"
+msgstr "Мазмунҳо"
+
+msgid "Plugins"
+msgstr "Плагинҳо"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Author"
+msgstr "Муаллиф"
+
+msgid "Description"
+msgstr "Тавсиф"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Plugin URI"
+msgstr "URI-и плагин"
+
+msgid "Requires WP Version"
+msgstr "Версияи WP лозим аст"
+
+msgid "Requires PHP"
+msgstr "PHP лозим аст"
+
+msgid "Read more"
+msgstr "Бештар хонед"
+
+msgid "Stylesheet"
+msgstr "Ҷадвали услуб"
+
+msgid "Theme URI"
+msgstr "URI-и мазмун"
+
+msgid "Type"
+msgstr "Навъ"
+
+msgid "Name"
+msgstr "Ном"
+
+msgid "All"
+msgstr "Ҳама"
+
+msgid "Vulnerabilities"
+msgstr "Осебпазирии амниятӣ"
+
+msgid "Checking..."
+msgstr "Санҷида мешавад..."
+
+msgid "Save Changes"
+msgstr "Захираи тағйирот"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "Калиди литсензияи Vortem.ai-ро барои фаъол кардани имкониятҳо ворид кунед."
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "Миқдори маҳсулот дар саҳифа. Бо нобаёнӣ: 16."
+
+msgid "Products per page must be at least 1"
+msgstr "Маҳсулот дар саҳифа бояд ҳадди аққал 1 бошад"
+
+msgid "Products per page cannot exceed 100"
+msgstr "Маҳсулот дар саҳифа наметавонад аз 100 зиёд бошад"
+
+msgid "Loading currencies..."
+msgstr "Боргирии асъорҳо..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "Намуди асъорро барои плагин интихоб кунед ва барои захира кардани тағйирот \"Асъорро навсозӣ кунед\"-ро пахш кунед."
+
+msgid "Currency updated successfully!"
+msgstr "Асъор бомуваффақият навсозӣ шуд!"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "Танзимоти ва афзалиятҳои плагини худро танзим кунед"
+
+msgid "Products Per Page"
+msgstr "Маҳсулот дар Саҳифа"
+
+msgid "Language"
+msgstr "Забон"
+
+msgid "Currency"
+msgstr "Асъор"
+
+msgid "Update Currency"
+msgstr "Асъорро Навсозӣ Кунед"
+
+msgid "Video Settings"
+msgstr "Танзимоти Видео"
+
+msgid "Video Download for Excluded Themes"
+msgstr "Боргирии Видео барои Мавзӯъҳои Исключёншуда"
+
+msgid "AliExpress Integration"
+msgstr "Интегратсияи AliExpress"
+
+msgid "Add video to product description"
+msgstr "Видеоро ба тавсифи маҳсулот илова кунед"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "Видеоҳоро барои мавзӯъҳои Vortem Clothes, Vortem Cosmetic ва xstore боргирӣ кунед"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "Шумо ба ҳадди рӯзонаи email наздик мешавед (%s). Ҳадд фардо аз нав танзим мешавад."
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "Шумо ба ҳадди рӯзонаи email расидед. Ҳадд фардо аз нав танзим мешавад."
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "Шумо ба квотаи рӯзонаи воридот наздик мешавед (%s). Квота фардо аз нав танзим мешавад."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "Шумо ба квотаи рӯзонаи воридот расидед. Квота фардо аз нав танзим мешавад."
+
+msgid "Search plugins and themes..."
+msgstr "Ҷустуҷӯи плагинҳо ва мавзӯъҳо..."
+
+msgid "Loading security scan results..."
+msgstr "Боргирии натиҷаҳои скани амниятӣ..."
+
+msgid "published"
+msgstr "нашр шуд"
+
+msgid "Published"
+msgstr "Нашр шуд"
+
+msgid "references"
+msgstr "иқтибосҳо"
+
+msgid "References"
+msgstr "Иқтибосҳо"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "Агар фаъол бошад, видеоҳои маҳсулот ба тавсиф ба таври худкор илова мешаванд."
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "Агар ғайрифаъол бошад, барои ин мавзӯъҳо видео боргирӣ намешавад, то ҷой сарфа шавад."
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "Барои истифодаи ин саҳифа, шумо бояд литсензияро дар танзимот ворид ва тасдиқ кунед."
+
+msgid "To get a authentication, visit"
+msgstr "Барои гирифтани литсензия, ба ин ҷо равед:"
+
+msgid "Products Pages"
+msgstr "Саҳифаҳои маҳсулот"
+
+msgid "Analytics Pages"
+msgstr "Саҳифаҳои таҳлилӣ"
+
+msgid "sales"
+msgstr "фурӯш"
+
+msgid "Loading trend products..."
+msgstr "Боргирии маҳсулоти тамоюлӣ..."
+
+msgid "Loading TikTok products..."
+msgstr "Боргирии маҳсулоти TikTok..."
+
+msgid "Error loading TikTok products:"
+msgstr "Хато дар боргирии маҳсулоти TikTok:"
+
+msgid "Failed to load TikTok products:"
+msgstr "Боргирии маҳсулоти TikTok ноком шуд:"
+
+msgid "Loading Kinguin products..."
+msgstr "Боргирии маҳсулоти Kinguin..."
+
+msgid "No Kinguin products found."
+msgstr "Маҳсулоти Kinguin ёфт нашуд."
+
+msgid "Failed to load Kinguin products:"
+msgstr "Боргирии маҳсулоти Kinguin ноком шуд:"
+
+msgid "Error loading Kinguin products:"
+msgstr "Хато дар боргирии маҳсулоти Kinguin:"
+
+msgid "View on Amazon"
+msgstr "Дидан дар Amazon"
+
+msgid "View on Kinguin"
+msgstr "Дидан дар Kinguin"
+
+msgid "Release:"
+msgstr "Нашр:"
+
+msgid "Price N/A"
+msgstr "Нарх маълум нест"
+
+msgid "In Stock"
+msgstr "Дар анбор"
+
+msgid "Sentiment"
+msgstr "Рӯҳия (Sentiment)"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "Маҳсулоти камбоқӣ камтар аз 10 адад"
+
+msgid "Total Pages"
+msgstr "Ҷамъи саҳифаҳо"
+
+msgid "Total Posts"
+msgstr "Ҷамъи навиштаҳо"
+
+msgid "Refetch"
+msgstr "Гирифтани дубора"
+
+msgid "AliExpress"
+msgstr "AliExpress"
+
+msgid "Connect to AliExpress"
+msgstr "Пайваст шудан ба AliExpress"
+
+msgid "Disconnect AliExpress"
+msgstr "Қатъи пайваст бо AliExpress"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "Оё мутмаинед, ки мехоҳед ҳисоби AliExpress-ро қатъ кунед?"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "Ҳисоби AliExpress-ро барои фаъол кардани фурӯши мустақим пайваст кунед."
+
+msgid "Checking connection status..."
+msgstr "Санҷиши ҳолати пайваст..."
+
+msgid "Connected"
+msgstr "Пайваст шуд"
+
+msgid "Not connected"
+msgstr "Пайваст нест"
+
+msgid "Error checking status"
+msgstr "Хато дар санҷиши ҳолат"
+
+msgid "Connecting..."
+msgstr "Пайвастшавӣ..."
+
+msgid "Disconnecting..."
+msgstr "Қатъи пайваст..."
+
+msgid "Error connecting to AliExpress"
+msgstr "Хато дар пайвастшавӣ ба AliExpress"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "Хато дар қатъи ҳисоби AliExpress"
+
+msgid "Failed to disconnect"
+msgstr "Қатъи пайваст ноком шуд"
+
+msgid "Failed to connect to AliExpress"
+msgstr "Пайвастшавӣ ба AliExpress ноком шуд"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "Бомуваффақият ба AliExpress пайваст шуд!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "Барои фармоиш дар AliExpress рақами телефон ҳатмист."
+
+msgid "Expires:"
+msgstr "Мӯҳлат:"
+
+msgid "Disconnect"
+msgstr "Қатъ кардан"
+
+msgid "Select Import Method"
+msgstr "Интихоби усули воридот"
+
+msgid "Choose how you want to import this product:"
+msgstr "Интихоб кунед, ки ин маҳсулот чӣ гуна ворид шавад:"
+
+msgid "Normal Import"
+msgstr "Воридоти муқаррарӣ"
+
+msgid "Import product with original title and description"
+msgstr "Воридот бо ном ва тавсифи аслӣ"
+
+msgid "SEO Import"
+msgstr "Воридоти SEO"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "Воридот бо ном ва тавсифи барои SEO беҳтаршуда"
+
+msgid "SEO Import Completed"
+msgstr "Воридоти SEO Анҷом Ёфт"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "Оптимизатсияҳои SEO-и зерин татбиқ карда шуданд:"
+
+msgid "Keyphrase"
+msgstr "Фразаи Калидӣ"
+
+msgid "SEO Title"
+msgstr "Сарлавҳаи SEO"
+
+msgid "SEO Description"
+msgstr "Тавсифи SEO"
+
+msgid "Meta Description"
+msgstr "Тавсифи Meta"
+
+msgid "Tags"
+msgstr "Тегҳо"
+
+msgid "Yoast SEO Title"
+msgstr "Сарлавҳаи SEO-и Yoast"
+
+msgid "Headings"
+msgstr "Сарлавҳаҳо"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO насб нашудааст. Барои истифода аз имкони воридоти SEO, шумо бояд онро насб ва фаъол кунед."
+
+msgid "Email subject must be at least 16 characters"
+msgstr "Мавзӯи почтаи электронӣ бояд ҳадди ақал 16 аломат дошта бошад"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "Мавзӯи почтаи электронӣ набояд аз 256 аломат зиёд бошад"
+
+msgid "Email body must be at least 128 characters"
+msgstr "Матни почтаи электронӣ бояд ҳадди ақал 128 аломат дошта бошад"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "Матни почтаи электронӣ набояд аз 8196 аломат зиёд бошад"
+
+msgid "All Imported Products"
+msgstr "Ҳамаи маҳсулоти воридшуда"
+
+msgid "Refresh Products"
+msgstr "Навсозии маҳсулот"
+
+msgid "Show All Products"
+msgstr "Намоиши ҳамаи маҳсулот"
+
+msgid "Show All Added Products"
+msgstr "Намоиши ҳамаи маҳсулоти иловашуда"
+
+msgid "Top Products Kinguin"
+msgstr "Маҳсулоти беҳтарин Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "Маҳсулоти модавӣ Amazon"
+
+msgid "Top Products AliExpress"
+msgstr "Маҳсулоти беҳтарин AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "Идора ва намоиши анбори маҳсулоти шумо"
+
+msgid "Security Overview"
+msgstr "Муҳити амният"
+
+msgid "Security Scan Results"
+msgstr "Натиҷаҳои скан кардани амният"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "Назорат ва тафтиш кардани ҳамаи плагинҳо ва мавзуъҳои насбшудаи WordPress"
+
+msgid "Total Plugins"
+msgstr "Ҳамаи плагинҳо"
+
+msgid "Active Plugins"
+msgstr "Плагинҳои фаъол"
+
+msgid "Inactive Plugins"
+msgstr "Плагинҳои ғайрифаъол"
+
+msgid "Total Themes"
+msgstr "Ҳамаи мавзуъҳо"
+
+msgid "Active Themes"
+msgstr "Мавзуъҳои фаъол"
+
+msgid "Inactive Themes"
+msgstr "Мавзуъҳои ғайрифаъол"
+
+msgid "Sort by:"
+msgstr "Ҷобаҷо кардан:"
+
+msgid "Filter by Status:"
+msgstr "Филтр кардан аз рӯи вазъият:"
+
+msgid "Sort by Date"
+msgstr "Ҷобаҷо кардан аз рӯи сана"
+
+msgid "View and manage your store orders"
+msgstr "Фармоишҳои мағозаи худро тамошо кунед ва идора кунед"
+
+msgid "Start Date"
+msgstr "Санаи оғоз"
+
+msgid "End Date"
+msgstr "Санаи анҷом"
+
+msgid "All Statuses"
+msgstr "Ҳамаи вазъиятҳо"
+
+msgid "Navigation"
+msgstr "Навигатсия"
+
+msgid "Shop Analytics"
+msgstr "Таҳлили мағоза"
+
+msgid "Traffic Analytics"
+msgstr "Таҳлили трафик"
+
+msgid "Search currencies..."
+msgstr "Ҷустуҷӯи асъорҳо..."
+
+msgid "Search by country or currency code"
+msgstr "Ҷустуҷӯи ба кишвар ё рамзи асъор"
+
+msgid "Popularity"
+msgstr "Машҳурият"
+
+msgid "Impressions"
+msgstr "Намоишҳо"
+
+msgid "Engagement"
+msgstr "Иштирок"
+
+msgid "Videos"
+msgstr "Видеоҳо"
+
+msgid "# Hashtags"
+msgstr "# Хештегҳо"
+
+msgid "View Rate (6s)"
+msgstr "Ҳиссаи намоиш (6с)"
+
+msgid "Cost"
+msgstr "Арзиш"
+
+msgid "Avg. Time on Site"
+msgstr "Вақти миёна дар сайт"
+
+msgid "Visits"
+msgstr "Ташрифот"
+
+msgid "Unique Visitors"
+msgstr "Ташрифкунандагони ягона"
+
+msgid "Top Pages"
+msgstr "Саҳифаҳои беҳтарин"
+
+msgid "Top Page Titles"
+msgstr "Сарлавҳаҳои беҳтарини саҳифаҳо"
+
+msgid "Cities"
+msgstr "Шаҳрҳо"
+
+msgid "Countries"
+msgstr "Кишварҳо"
+
+msgid "Exit Pages"
+msgstr "Саҳифаҳои баромад"
+
+msgid "Entry Pages"
+msgstr "Саҳифаҳои дохилшавӣ"
+
+msgid "Real-time Visits"
+msgstr "Ташрифҳои вақти воқеӣ"
+
+msgid "Bounce Rate"
+msgstr "Ҳиссаи бозгашт"
+
+msgid "Today"
+msgstr "Имрӯз"
+
+msgid "Yesterday"
+msgstr "Дирӯз"
+
+msgid "Last 7 Days"
+msgstr "7 рӯзи охирин"
+
+msgid "Last 30 Days"
+msgstr "30 рӯзи охирин"
+
+msgid "First Contentful Paint"
+msgstr "Нақши Аввалини Муҳтаво"
+
+msgid "Total Size"
+msgstr "Ҳаҷми Умуми"
+
+msgid "Requests"
+msgstr "Дархостҳо"
+
+msgid "Page Load"
+msgstr "Боркунии Саҳифа"
+
+msgid "Last updated: %s"
+msgstr "Охирин навсозии: %s"
+
+msgid "Live"
+msgstr "Зинда"
+
+msgid "Quick Insights"
+msgstr "Огоҳиҳои Зуд"
+
+msgid "Config"
+msgstr "Танзимот"
+
+msgid "Total Vulnerabilities"
+msgstr "Ҳамаи Осебпазириҳо"
+
+msgid "CVSS Score:"
+msgstr "Ҳисобкунии CVSS:"
+
+msgid "Published:"
+msgstr "Нашршуда:"
+
+msgid "Last Modified:"
+msgstr "Охирин тағйир:"
+
+msgid "References:"
+msgstr "Маълумотномаҳо:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "Your WordPress core is secure!"
+msgstr "Ядрои WordPress-и шумо бехатар аст!"
+
+msgid "View All Vulnerabilities"
+msgstr "Ҳамаи Осебпазириҳоро Бубинед"
+
+msgid "CRITICAL"
+msgstr "ҲАЁТАН"
+
+msgid "HIGH"
+msgstr "БАЛАНД"
+
+msgid "MEDIUM"
+msgstr "МИЁНА"
+
+msgid "LOW"
+msgstr "ПАСТ"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "Амал тавсия карда мешавад. Лутфан унсурҳои таъсирдодашударо баррасӣ ва навсозӣ кунед."
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "Ҳамаи плагинҳо, мавзӯъҳо ва ядрои WordPress-и шумо бехатар ва нав аст."
+
+msgid "High severity vulnerabilities found"
+msgstr "Зоифҳои сатҳи баланд ёфт шуданд"
+
+msgid "Last updated: Loading..."
+msgstr "Охирин навсозӣ: Бор карда мешавад..."
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "Баррасӣ тавсия карда мешавад. Унсурҳои таъсирдодашударо назорат кунед ва навсозӣ кунед, вақте ки имконпазир аст."
+
+msgid "Some vulnerabilities found"
+msgstr "Баъзе зоифҳо ёфт шуданд"
+
+msgid "Trend Products TikTok"
+msgstr "Маҳсулоти Trend TikTok"
+
+msgid "Your site is secure!"
+msgstr "Сайти шумо бехатар аст!"
+
+msgid "failed_to_load_insights_error"
+msgstr "Хатогии боркунии маълумоти фаҳмиш"
+
+msgid "failed_to_refetch"
+msgstr "Бозгирифтан номуваффақ шуд"
+
+msgid "no_category"
+msgstr "Категория нест"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "Коркарди оптимизатсияҳои SEO: Фразаи калидӣ, Унвони SEO, Тавсифи SEO, Тавсифи Meta, Барчаспҳо, Унвони Yoast SEO ва Сарлавҳаҳо"
+
+msgid "Search themes..."
+msgstr "Ҷустуҷӯи мавзӯъҳо..."
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+
+msgid "AUTHOR"
+msgstr "МУАЛЛИФ"
+
+msgid "Across all plugins, themes & core"
+msgstr "Дар тамоми плагинҳо, мавзӯъҳо ва ядро"
+
+msgid "Address as soon as possible"
+msgstr "Ҳал кардан ҳамчун имконпазир"
+
+msgid "All Security Issues"
+msgstr "Ҳамаи Масъалаҳои Амният"
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "Таҳлили насби WordPress-и шумо барои заифҳои амният"
+
+msgid "Attention required"
+msgstr "Диққат талаб карда мешавад"
+
+msgid "Component Type"
+msgstr "Навъи Қисм"
+
+msgid "Core"
+msgstr "Ядро"
+
+msgid "Core WordPress files"
+msgstr "Файлҳои асосии WordPress"
+
+msgid "Critical"
+msgstr "Ҳаётан"
+
+msgid "Critical Severity"
+msgstr "Ҳаётан Ҷиддият"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "Заифҳои ҳаётан кашф шуданд!"
+
+msgid "Date"
+msgstr "Сана"
+
+msgid "Delete FAQ"
+msgstr "Нест кардани FAQ"
+
+msgid "Filter by:"
+msgstr "Филтр кардан:"
+
+msgid "High"
+msgstr "Баланд"
+
+msgid "High Severity"
+msgstr "Баланд Ҷиддият"
+
+msgid "High severity vulnerabilities detected"
+msgstr "Заифҳои сатҳи баланд кашф шуданд"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "Амали фаврӣ талаб карда мешавад. Лутфан унсурҳои таъсирдодашударо ҳамчун имконпазир навсозӣ ё нест кунед."
+
+msgid "Items Requiring Attention"
+msgstr "Унсурҳое, ки Диққат Талаб Мекунанд"
+
+msgid "Items without vulnerabilities"
+msgstr "Унсурҳо бе заифӣ"
+
+msgid "Low"
+msgstr "Паст"
+
+msgid "Low Severity"
+msgstr "Паст Ҷиддият"
+
+msgid "Low severity vulnerabilities detected"
+msgstr "Заифҳои сатҳи паст кашф шуданд"
+
+msgid "Medium"
+msgstr "Миёна"
+
+msgid "Medium Severity"
+msgstr "Миёна Ҷиддият"
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "Заифҳои сатҳи миёна кашф шуданд"
+
+msgid "Monitor & track"
+msgstr "Назорат ва пайгирӣ"
+
+msgid "Monitor and plan fix"
+msgstr "Назорат ва тарҳрезии таъмир"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "Ин масъалаҳоро назорат кунед ва таъмиротро тарҳрезӣ кунед, вақте ки имконпазир аст."
+
+msgid "Next →"
+msgstr "Оянда →"
+
+msgid "No items at risk"
+msgstr "Унсурҳо дар хатар нестанд"
+
+msgid "No known vulnerabilities detected"
+msgstr "Заифҳои маълум кашф нашуданд"
+
+msgid "No plugins found"
+msgstr "Плагинҳо ёфт нашуданд"
+
+msgid "No recent vulnerabilities"
+msgstr "Заифҳои охирин нестанд"
+
+msgid "No themes found"
+msgstr "Мавзӯъҳо ёфт нашуданд"
+
+msgid "No vulnerabilities found"
+msgstr "Заифҳо ёфт нашуданд"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "Дар плагинҳо заифҳо ёфт нашуданд"
+
+msgid "No vulnerabilities found in themes"
+msgstr "Дар мавзӯъҳо заифҳо ёфт нашуданд"
+
+msgid "Number of Vulnerabilities"
+msgstr "Шумораи Заифҳо"
+
+msgid "Plan to address"
+msgstr "Тарҳрезии ҳал кардан"
+
+msgid "Please review and address these issues soon."
+msgstr "Лутфан ин масъалаҳоро зуд баррасӣ ва ҳал кунед."
+
+msgid "REQUIRES PHP"
+msgstr "PHP ТАЛАБ МЕКУНАД"
+
+msgid "REQUIRES WP"
+msgstr "WP ТАЛАБ МЕКУНАД"
+
+msgid "Read less"
+msgstr "Камтар хонед"
+
+msgid "Recent Vulnerabilities"
+msgstr "Заифҳои Охирин"
+
+msgid "Refunded"
+msgstr "Бозгардонида шуд"
+
+msgid "Requires immediate action"
+msgstr "Амали фаврӣ талаб мекунад"
+
+msgid "Requires immediate attention"
+msgstr "Диққати фаврӣ талаб мекунад"
+
+msgid "Scanning..."
+msgstr "Скан карда истодааст..."
+
+msgid "Schedule for review"
+msgstr "Барои баррасӣ тартиб додан"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "Вақт барои баррасӣ ва таъмири ин масъалаҳо тартиб диҳед."
+
+msgid "Secure Items"
+msgstr "Унсурҳои Безопас"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "Дар версияи WordPress заифҳои амният кашф шуданд. Навсозии версияи охирин тавсия карда мешавад."
+
+msgid "Should be fixed soon"
+msgstr "Бояд зуд таъмир карда шавад"
+
+msgid "Third-party plugins installed"
+msgstr "Плагинҳои тарафи сеюм насб шудаанд"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "Кӯшиш кунед, ки филтрҳо ё истилоҳҳои ҷустуҷӯи худро танзим кунед"
+
+msgid "Unknown Plugin"
+msgstr "Плагини Номаълум"
+
+msgid "Unknown Theme"
+msgstr "Мавзӯъи Номаълум"
+
+msgid "VERSION"
+msgstr "ВЕРСИЯ"
+
+msgid "View Page"
+msgstr "Дидани Саҳифа"
+
+msgid "Vortem Logo"
+msgstr "Логотипи Vortem"
+
+msgid "Vulnerabilities by Type"
+msgstr "Заифҳо аз рӯи Навъ"
+
+msgid "Vulnerability"
+msgstr "Заифӣ"
+
+msgid "Vulnerability Details"
+msgstr "Тафсилоти Заифӣ"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "Тақсимоти Заифҳо аз рӯи Ҷиддият"
+
+msgid "WordPress Vulnerability"
+msgstr "Заифии WordPress"
+
+msgid "WordPress themes"
+msgstr "Мавзӯъҳои WordPress"
+
+msgid "Your WP Core is Secure"
+msgstr "Ядрои WP-и Шумо Безопас Аст"
+
+msgid "Your plugins are secure!"
+msgstr "Плагинҳои шумо бехатаранд!"
+
+msgid "Your site is secure"
+msgstr "Сайти шумо бехатар аст"
+
+msgid "Your themes are secure!"
+msgstr "Мавзӯъҳои шумо бехатаранд!"
+
+msgid "answer:"
+msgstr "Ҷавоб:"
+
+msgid "bulk_faqs_created"
+msgstr "%d FAQ бо муваффақият эҷод шуд"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "Эҷоди FAQ номуваффақ шуд. Лутфан бори дигар кӯшиш кунед."
+
+msgid "faq"
+msgstr "FAQ"
+
+msgid "no_faqs_to_create"
+msgstr "Лутфан ҳадди ақал як FAQ илова кунед пеш аз эҷод кардан."
+
+msgid "of all vulnerabilities"
+msgstr "аз ҳама заифӣҳо"
+
+msgid "of installed items affected"
+msgstr "аз маводҳои насбшуда таъсиргирифта"
+
+msgid "of items are clean"
+msgstr "маводҳо поканд"
+
+msgid "of total"
+msgstr "аз ҷамъ"
+
+msgid "question:"
+msgstr "Савол:"
+
+msgid "remove"
+msgstr "Нест кардан"
+
+msgid "vulnerabilities"
+msgstr "заифӣҳо"
+
+msgid "vulnerabilities found"
+msgstr "заифӣҳо ёфт шуданд"
+
+msgid "← Previous"
+msgstr "← Қаблӣ"
+
+msgid "Filter by Severity:"
+msgstr "Филтр кардан ба ҳасаби ҷиддият:"
+
+msgid "All Severities"
+msgstr "Ҳама сатҳҳои ҷиддият"
+
+msgid "Let's Get You Started"
+msgstr "Биёед оғоз кунем"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "Танзимотро дар тақрибан 2 дақиқа ба анҷом расонед"
+
+msgid "Quick Setup"
+msgstr "Тартибдиҳии зуд"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "Дар дақиқаҳо бо раванди насби роҳнамоишудаи мо оғоз кунед"
+
+msgid "Secure & Reliable"
+msgstr "Амният ва эътимоднок"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "Амнияти сатҳи корхона дар ҳар як ҷузъ ҷойгир карда шудааст"
+
+msgid "Optimized Performance"
+msgstr "Иҷроии беҳтаршуда"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "Хеле зуд ва барои муҳитиҳои WordPress беҳтар карда шудааст"
+
+msgid "Next Step"
+msgstr "Қадами навбатӣ"
+
+msgid "Initial Configuration"
+msgstr "Тартибдиҳии ибтидоӣ"
+
+msgid "Set your default language and currency preferences"
+msgstr "Танзимоти забони ва асъори пешфарзи худро муқаррар кунед"
+
+msgid "Please review and accept our terms to continue"
+msgstr "Лутфан барои идома додан шартҳои моро баррасӣ ва қабул кунед"
+
+msgid "1. Service Availability"
+msgstr "1. Дастрасии хизмат"
+
+msgid "2. Support"
+msgstr "2. Дастгирӣ"
+
+msgid "3. Updates"
+msgstr "3. Навсозиҳо"
+
+msgid "I accept the Terms & Conditions"
+msgstr "Ман Шартҳо ва шароитроро қабул мекунам"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "Бо интихоб кардани ин қуттӣ, шумо тасдиқ мекунед, ки ин шартҳо ва шароитроро хондаед ва ба онҳо риоя карданро қабул мекунед."
+
+msgid "Installation Complete!"
+msgstr "Насб анҷом ёфт!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "Плагини шумо бо муваффақият тартиб дода шуд ва барои истифода омода аст. Акнун шумо метавонед истифодаи ҳамаи хусусиятҳоро оғоз кунед."
+
+msgid "Configuration Summary"
+msgstr "Хулосаи тартибдиҳӣ"
+
+msgid "Language:"
+msgstr "Забон:"
+
+msgid "Currency:"
+msgstr "Асъор:"
+
+msgid "Terms Accepted:"
+msgstr "Шартҳо қабул карда шуданд:"
+
+msgid "Yes"
+msgstr "Бале"
+
+msgid "Go to Dashboard"
+msgstr "Ба панели идоракунӣ равед"
+
+msgid "Go to Analytics page"
+msgstr "Ба саҳифаи таҳлил равед"
+
+msgid "Go to Products page"
+msgstr "Ба саҳифаи маҳсулот равед"
+
+msgid "Go to Matomo Analytics page"
+msgstr "Ба саҳифаи Matomo Analytics равед"
+
+msgid "Restart Wizard"
+msgstr "Машварадро аз нав оғоз кунед"
+
+msgid "Restart"
+msgstr "Бозгашт"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "Ин раванди тартибдиҳиро бозгашт мекунад. Шумо мутмаин ҳастед?"
+
+msgid "Confirm Restart"
+msgstr "Тасдиқи бозгашт"
+
+msgid "Back"
+msgstr "Бозгашт"
+
+msgid "Welcome"
+msgstr "Хуш омадед"
+
+msgid "Configuration"
+msgstr "Тартибдиҳӣ"
+
+msgid "Complete"
+msgstr "Анҷом ёфт"
+
+msgid "Insufficient permissions"
+msgstr "Иҷозаҳои кофӣ нестанд"
+
+msgid "Language parameter is required"
+msgstr "Параметри забон талаб карда мешавад"
+
+msgid "Translation manager not available"
+msgstr "Мудири тарҷума дастрас нест"
+
+msgid "Unsupported language"
+msgstr "Забони дастгирӣ нашуда"
+
+msgid "Language changed successfully"
+msgstr "Забон бомуваффақият тағйир дода шуд"
+
+msgid "Failed to change language"
+msgstr "Тағйири забон номуваффақ шуд"
+
+msgid "Currency parameter is required"
+msgstr "Параметри асъор талаб карда мешавад"
+
+msgid "Unsupported currency"
+msgstr "Асъори дастгирӣ нашуда"
+
+msgid "Currency changed successfully"
+msgstr "Асъор бомуваффақият тағйир дода шуд"
+
+msgid "Loading"
+msgstr "Бор шуда истодааст"
+
+msgid "Search..."
+msgstr "Ҷустуҷӯ..."
+
+msgid "Search Language"
+msgstr "Ҷустуҷӯи забон"
+
+msgid "No languages found"
+msgstr "Забонҳо ёфт нашуд"
+
+msgid "No currencies found"
+msgstr "Асъорҳо ёфт нашуд"
+
+msgid "Failed to load currencies"
+msgstr "Бор кардани асъорҳо номуваффақ шуд"
+
+msgid "Error loading currencies"
+msgstr "Хатогии бор кардани асъорҳо"
+
+msgid "Failed to restart wizard"
+msgstr "Оғози дубораи ҷодугар номуваффақ шуд"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "Дар вақти оғози дубораи ҷодугар хатогӣ рух дод. Лутфан боз кӯшиш кунед."
+
+msgid "Please complete the current step before proceeding."
+msgstr "Лутфан қадами ҷорӣро қабл аз идома анҷом диҳед."
+
+msgid "Please wait for authentication to complete."
+msgstr "Лутфан интизор шавед, то тасдиқ анҷом шавад."
+
+msgid "Please accept the terms and conditions."
+msgstr "Лутфан шартҳо ва шароитроро қабул кунед."
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "Лутфан қабл аз идома шартҳо ва шароитроро қабул кунед."
+
+msgid "Please complete authentication first."
+msgstr "Лутфан аввал тасдиқро анҷом диҳед."
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "Лутфан қабл аз анҷоми танзимот шартҳо ва шароитроро қабул кунед."
+
+msgid "Failed to complete setup"
+msgstr "Анҷоми танзимот номуваффақ шуд"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "Дар вақти анҷоми танзимот хатогӣ рух дод. Лутфан боз кӯшиш кунед."
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "Токени ҷаласа ёфт нашуд. Лутфан аввал тасдиқро анҷом диҳед."
+
+msgid "An error occurred while switching language"
+msgstr "Дар вақти тағйири забон хатогӣ рух дод"
+
+msgid "An error occurred while switching currency"
+msgstr "Дар вақти тағйири асъор хатогӣ рух дод"
+
+msgid "Last updated: %1$s • Live"
+msgstr "Охирин навсозӣ: %1$s • Зинда"
+
+msgid "Last 30 days"
+msgstr "30 рӯзи охирон"
+
+msgid "Traffic Overview"
+msgstr "Намоиши трафик"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "Таҳлили Matomo – 30 рӯзи охирон"
+
+msgid "Today's Focus"
+msgstr "Диқати имрӯза"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "Намоиши плагини Vortem.ai"
+
+msgid "Read More"
+msgstr "Бисёртар хонед"
+
+msgid "Check your dashboard regularly"
+msgstr "Панели худро мунтазам санҷед"
+
+msgid "View Analytics"
+msgstr "Таҳлилро бубинед"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem ҳамчун платформаи бартари AI 2026 эътироф шуд"
+
+msgid "Order Statistics"
+msgstr "Омори фармоишҳо"
+
+msgid "Today's Orders Completed"
+msgstr "Фармоишҳои имрӯза иҷрошуда"
+
+msgid "Total Orders Completed"
+msgstr "Ҷамъи фармоишҳои иҷрошуда"
+
+msgid "Imported Products"
+msgstr "Маҳсулоти воридшуда"
+
+msgid "Recent Activity"
+msgstr "Фаъолияти охирин"
+
+msgid "Overview dashboard loaded"
+msgstr "Панели намоиш бор шуд"
+
+msgid "Just now"
+msgstr "Ҳозир"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "Шумо метавонед маҳсулот, таҳлил ва маркетинги email-ро аз ин ҷо идора кунед"
+
+msgid "Ready"
+msgstr "Омода"
+
+msgid "Configure plugin settings and API keys"
+msgstr "Танзимоти плагин ва калидҳои API-ро танзим кунед"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "Плагини Vortem.ai омода аст. Шумо метавонед маҳсулот, таҳлил ва маркетинги email-ро аз ин ҷо идора кунед."
+
+msgid "Vortem.ai official website"
+msgstr "Сомонаи расмии Vortem.ai"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "Навигация кунед, ёд гиред ва ҳисоби худро идора кунед"
+
+msgid "Quick Access"
+msgstr "Дастрасии зуд"
+
+msgid "Return to dashboard home"
+msgstr "Бозгашт ба саҳифаи асосии панел"
+
+msgid "Go to Home"
+msgstr "Ба саҳифаи асосӣ"
+
+msgid "Profile, settings, and preferences"
+msgstr "Профил, танзимот ва ихтиёрот"
+
+msgid "Help & Learning"
+msgstr "Кӯмак ва омӯзиш"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "Кӯмак гиред, тикет фиристед ё бо дастгирӣ тамос гиред"
+
+msgid "Get Support"
+msgstr "Дастгирӣ гиред"
+
+msgid "Developer & user guides"
+msgstr "Дастурҳои барномасоз ва корбар"
+
+msgid "Read Docs"
+msgstr "Ҳуҷҷатҳоро хонед"
+
+msgid "Legal & Policies"
+msgstr "Қонунӣ ва сиёсатҳо"
+
+msgid "Terms of Service"
+msgstr "Шартҳои хидмат"
+
+msgid "Usage terms and conditions"
+msgstr "Шартҳои истифода"
+
+msgid "View"
+msgstr "Дидан"
+
+msgid "Privacy Policy"
+msgstr "Сиёсати махфият"
+
+msgid "Data protection and privacy"
+msgstr "Ҳифзи маълумот ва махфият"
+
+msgid "Navigation to vortem wordpress"
+msgstr "Навигация ба Vortem WordPress"
+
+msgid "Access key features and settings"
+msgstr "Дастрасӣ ба хусусиятҳо ва танзимоти асосӣ"
+
+msgid "Manage catalog and inventory"
+msgstr "Идораи каталог ва анбор"
+
+msgid "Business insights and metrics"
+msgstr "Омори тиҷорат ва метрикаҳо"
+
+msgid "Growth & Intelligence"
+msgstr "Рушд ва зеҳнӣ"
+
+msgid "Campaigns and automation"
+msgstr "Маъракаҳо ва автоматӣ"
+
+msgid "AI-powered recommendations"
+msgstr "Тавсияҳои бар асоси AI"
+
+msgid "Manage orders and shipments"
+msgstr "Идораи фармоишҳо ва фиристоданҳо"
+
+msgid "System"
+msgstr "Система"
+
+msgid "Knowledge base editor"
+msgstr "Муҳаррири пойгоҳи дониш"
+
+msgid "Access control and monitoring"
+msgstr "Идораи дастрасӣ ва назардорӣ"
+
+msgid "System configuration"
+msgstr "Танзими система"
+
+msgid "Emails Sent"
+msgstr "Email-ҳои фиристодашуда"
+
+msgid "Orders"
+msgstr "Фармоишҳо"
+
+msgid "Total products"
+msgstr "Ҷамъи маҳсулот"
+
+msgid "Imported via plugin"
+msgstr "Воридшуда тавассути плагин"
+
+msgid "Other products"
+msgstr "Маҳсулоти дигар"
+
+msgid "Manage"
+msgstr "Идора кардан"
+
+msgid "bounce"
+msgstr "бозгашт"
+
+
+msgid "Dashboard"
+msgstr "Лавҳаи идоракунӣ"
+
+msgid "Plugin"
+msgstr "Барномаи иловагӣ"
+
+msgid "External"
+msgstr "Берунӣ"
+
+msgid "Navigation to vortem WordPress"
+msgstr "Гузаштан ба vortem WordPress"
+
+msgid "Commerce"
+msgstr "Тиҷорат"
+
+msgid "Timeline"
+msgstr "Хатти вақт"
+
+msgid "Security Center"
+msgstr "Маркази амният"
+
+msgid "Display"
+msgstr "Намоиш"
+
+msgid "How products and currency are presented in your store."
+msgstr "Чӣ тавр маҳсулот ва асъор дар дӯкони шумо нишон дода мешаванд."
+
+msgid "Products per page"
+msgstr "Маҳсулот дар саҳифа"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "Пешфарз: 16. Доира: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "Асъоре, ки дар нархгузории барнома истифода мешавад. Барои нигоҳ доштани интихоб «Навсозӣ»-ро пахш кунед."
+
+msgid "Media"
+msgstr "Медиа"
+
+msgid "Control how product videos are imported and attached."
+msgstr "Идора кунед, ки чӣ гуна видеоҳои маҳсулот ворид ва замима мешаванд."
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "Вақте ки фаъол аст, видеоҳои маҳсулот ба таври худкор ба тавсиф илова мешаванд. Барои идораи дастии видео хомӯш кунед."
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "Вақте ки хомӯш аст, видеоҳо барои мавзӯъҳои Vortem Clothes, Vortem Cosmetic ва xstore зеркашӣ намешаванд — фазои нигаҳдориро сарфа мекунад."
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "Зеркашии видеоҳо барои мавзӯъҳои Vortem ва xstore"
+
+msgid "Integrations"
+msgstr "Интегратсияҳо"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "Барои тавсеаи таъминот ва иҷро ҳисобҳои берунаро пайваст кунед."
+
+msgid "Update"
+msgstr "Навсозӣ"
+
+msgid "Last updated"
+msgstr "Охирин навсозӣ"
+
+msgid "Setup"
+msgstr "Танзимот"
+
+msgid "Let's get you started"
+msgstr "Биёед, оғоз кунем"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "Тақрибан дар 2 дақиқа танзимотро анҷом диҳед."
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "Вазифаҳои воридоти маҳсулоти Vortem ҳисоби AliExpress-ро талаб мекунад."
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "Шумо онро баъдтар дар Танзимот → Vortem → Интегратсияи AliExpress пайваст мекунед. Ҳисоб надоред? Аз он ҷо низ метавонед сабт шавед."
+
+msgid "Up and running in minutes."
+msgstr "Дар чанд дақиқа омода."
+
+msgid "Built with WordPress security best practices."
+msgstr "Мутобиқ ба беҳтарин амалҳои амнияти WordPress сохта шудааст."
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "Сабук ва барои WordPress мутобиқшуда."
+
+msgid "Store basics"
+msgstr "Асосҳои мағоза"
+
+msgid "Pick your store currency"
+msgstr "Асъори мағозаро интихоб кунед"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "Инро мизоҷон дар пардохт мебинанд. Баъдтар тағйир додан мумкин аст."
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "Дар кортҳои маҳсулот, сабад ва пардохт истифода мешавад."
+
+msgid "Almost there"
+msgstr "Қариб анҷом ёфт"
+
+msgid "Review and accept"
+msgstr "Баррасӣ ва қабул"
+
+msgid "Read the full Terms"
+msgstr "Шартҳои пурраро хонед"
+
+msgid "You agree to be bound by these terms."
+msgstr "Шумо ба ин шартҳо риоя карданро қабул мекунед."
+
+msgid "I consent to data processing"
+msgstr "Ба коркарди иттилоот розӣ ҳастам"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "Мефаҳмам ва розӣ ҳастам, ки ин васлка иттилооти сомонаи маро (URL, версияи WordPress, версияи васлка, интихоби асъор, иттилооти маҳсулоти WooCommerce ҳангоми воридот, иттилооти интиқол ҳангоми коркарди фармонҳо ва метаи васлка/мавзӯъ ҳангоми истифодаи хусусиятҳои амният) ба серверҳои vortem.ai (https://c.vortem.ai) барои коркард, таҳлил ва хизматрасонӣ мефиристад. Пеш аз розигии ошкор иттилоот фиристода намешавад ва васлка ҳангоми рад низ кор мекунад (хусусиятҳои вобаста ба vortem.ai дастрас намешаванд). Фиристодани рӯйхати васлка/мавзӯъҳои насбшуда барои ҷустуҷӯи заифӣ ба намунаи Wordfence, Patchstack, WPScan ва Jetpack Protect мувофиқ аст."
+
+msgid "All done"
+msgstr "Анҷом шуд"
+
+msgid "You're all set!"
+msgstr "Ҳама чиз омода аст!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem танзим шудааст. Вақте омода шудед, AliExpress-ро аз Танзимот пайваст кунед."
+
+msgid "Accepted"
+msgstr "Қабул шуд"
+
+msgid "Consented"
+msgstr "Розигӣ дода шуд"
+
+msgid "Data processing"
+msgstr "Коркарди иттилоот"
+
+msgid "Meta Title"
+msgstr "Сарлавҳаи мета"
+
+msgid "Order"
+msgstr "Фармон"
+
+msgid "Customer"
+msgstr "Мизоҷ"
+
+msgid "Items"
+msgstr "Ашё"
+
+msgid "Payment"
+msgstr "Пардохт"

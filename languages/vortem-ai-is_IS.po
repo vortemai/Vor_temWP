@@ -1,0 +1,3000 @@
+# Translation of Vortem AI in is_IS
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is_IS\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "krefst þess að WooCommerce sé uppsett og virkt."
+
+msgid "or higher. You are running version"
+msgstr "eða nýrri. Þú ert að keyra útgáfu"
+
+msgid "Welcome to vortem.ai!"
+msgstr "Velkomin(n) til vortem.ai!"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "Uppsetningarhjálp Vortem.ai"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "Takk fyrir að velja vortem.ai viðbótina. Þessi hjálp mun aðstoða þig við að setja upp verslunina þína á fljótlegan og auðveldan hátt."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "Til að nota vörusöluaðstoð Vortem þarftu AliExpress reikning. Þú getur tengt reikninginn þinn frá Stillingar → Vortem innskráning → AliExpress samþætting. Ef þú átt ekki reikning geturðu skráð þig beint þaðan."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "Til að nota vörusöluaðstoð Vortem þarftu AliExpress reikning."
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "Þú getur tengt reikninginn þinn frá Stillingar → Vortem innskráning → AliExpress samþætting."
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "Ef þú átt ekki reikning geturðu skráð þig beint þaðan."
+
+msgid "Select Language"
+msgstr "Veldu tungumál"
+
+msgid "Select Currency"
+msgstr "Veldu gjaldmiðil"
+
+msgid "Complete Setup"
+msgstr "Ljúktu við uppsetningu"
+
+msgid "What you'll get:"
+msgstr "Það sem þú færð:"
+
+msgid "Automated product synchronization"
+msgstr "Sjálfvirk samstilling vara"
+
+msgid "Order management and processing"
+msgstr "Pöntunastjórnun og vinnsla"
+
+msgid "Real-time inventory updates"
+msgstr "Birgðauppfærslur í rauntíma"
+
+msgid "Easy-to-use admin interface"
+msgstr "Notendavænt stjórnunargrind"
+
+msgid "24/7 customer support"
+msgstr "Þjónusta við viðskiptavini 24/7"
+
+msgid "Contact Support"
+msgstr "Hafðu samband við aðstoð"
+
+msgid "Import Products"
+msgstr "Flytja inn vörur"
+
+msgid "Configure Settings"
+msgstr "Stilla stillingar"
+
+msgid "Setup Complete!"
+msgstr "Uppsetning lokið!"
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "Uppsetning tekur um það bil 2-3 mínútur."
+
+msgid "Terms & Conditions"
+msgstr "Skilmálar"
+
+msgid "1. License Agreement"
+msgstr "1. Leyfissamningur"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "Með því að nota þessa viðbót samþykkir þú að fylgja öllum viðeigandi lögum og reglugerðum. Viðbótin er gefin út undir GPL v2 eða nýrra leyfi."
+
+msgid "Sign up"
+msgstr "Nýskráning"
+
+msgid "Sign up to get started"
+msgstr "Nýskráðu þig til að byrja"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "Til hamingju! vortem.ai viðbótin þín hefur verið stillt með góðum árangri."
+
+msgid "What's next?"
+msgstr "Hvað er næst á dagskrá?"
+
+msgid "Need Help?"
+msgstr "Vantar þig aðstoð?"
+
+msgid "Our support team is here to help you get started."
+msgstr "Þjónustuverið okkar er hér til að hjálpa þér að byrja."
+
+msgid "Step %1$d of %2$d"
+msgstr "Skref %1$d af %2$d"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "Ég hef lesið og samþykki %1$sskilmálana%2$s"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "Þjónustuskilmálar vortem.ai viðbótarinnar"
+
+msgid "1. authentication Agreement"
+msgstr "1. Leyfissamningur"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "Með því að nota þessa viðbót samþykkir þú að fylgja lögum. Viðbótin er veitt undir GPL v2 eða síðari leyfi."
+
+msgid "2. Data Usage"
+msgstr "2. Gagnanotkun"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "Við söfnum og vinnum gögn sem eru nauðsynleg fyrir þjónustuna, þar á meðal vöruupplýsingar, pöntunarupplýsingar og gögn viðskiptavina."
+
+msgid "3. Service Availability"
+msgstr "3. Aðgengi þjónustu"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "Við reynum okkar besta að halda þjónustunni gangandi en getum ekki ábyrgst truflunarlausa þjónustu."
+
+msgid "4. Support"
+msgstr "4. Stuðningur"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "Tæknilegur stuðningur er veittur í gegnum okkar leiðir. Svartími getur verið breytilegur."
+
+msgid "5. Updates"
+msgstr "5. Uppfærslur"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "Uppfærslur eru veittar til að bæta virkni og öryggi. Mælt er með að hafa viðbótina alltaf uppfærða."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "Sláðu inn Vortem.ai auðkenningarlykilinn þinn til að virkja viðbótina."
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "Þú finnur auðkenningarlykilinn þinn á stjórnborði Vortem.ai reikningsins þíns."
+
+msgid "Need help?"
+msgstr "Vantar þig hjálp?"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "Ljúktu við uppsetningarhjálpina til að stilla auðkenninguna þína."
+
+msgid "Vortem.ai Overview"
+msgstr "Yfirlit Vortem.ai"
+
+msgid "Vortem.ai Products"
+msgstr "Vortem.ai Vörur"
+
+msgid "Vortem.ai Settings"
+msgstr "Stillingar Vortem.ai"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "Stilla Vortem.ai hér að neðan."
+
+msgid "Saving settings and validating authentication..."
+msgstr "Vistar stillingar og staðfestir auðkenningu..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "Uppsetningu lokið - Vortem.ai viðbótin er tilbúin til notkunar!"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "Veldu tungumál fyrir viðmót viðbótarinnar. Breytingar taka gildi eftir vistun."
+
+msgid "Vortem.ai AI Resources"
+msgstr "Vortem.ai AI auðlindir"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "Aðgangur að Vortem.ai AI reikningnum þínum"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "Aðgangur að Vortem.ai AI reikningnum þínum:"
+
+msgid "Home"
+msgstr "Heim"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "Heimsækja heimasíðu Vortem.ai AI"
+
+msgid "Visit Site"
+msgstr "Skoða síðu"
+
+msgid "My Account"
+msgstr "Minn reikningur"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "Sýsla með stillingar á Vortem.ai AI reikningnum"
+
+msgid "Support"
+msgstr "Stuðningur"
+
+msgid "Get help and support from our team"
+msgstr "Fáðu hjálp frá teyminu okkar"
+
+msgid "Documentation"
+msgstr "Handbækur"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "Lesa leiðbeiningar og kennsluefni"
+
+msgid "Terms"
+msgstr "Skilmálar"
+
+msgid "Review terms and conditions"
+msgstr "Skoða skilmála"
+
+msgid "Privacy"
+msgstr "Persónuvernd"
+
+msgid "View our privacy policy"
+msgstr "Skoða persónuverndarstefnu okkar"
+
+msgid "error"
+msgstr "villa"
+
+msgid "success"
+msgstr "tókst"
+
+msgid "cancel"
+msgstr "hætta við"
+
+msgid "delete"
+msgstr "eyða"
+
+msgid "deleting"
+msgstr "eyðir..."
+
+msgid "edit"
+msgstr "breyta"
+
+msgid "close"
+msgstr "loka"
+
+msgid "confirm"
+msgstr "staðfesta"
+
+msgid "refresh"
+msgstr "endurnýja"
+
+msgid "import"
+msgstr "flytja inn"
+
+msgid "actions"
+msgstr "aðgerðir"
+
+msgid "status"
+msgstr "staða"
+
+msgid "date"
+msgstr "dagsetning"
+
+msgid "subject"
+msgstr "viðfangsefni"
+
+msgid "recipient"
+msgstr "viðtakandi"
+
+msgid "total"
+msgstr "samtals"
+
+msgid "items"
+msgstr "hlutir"
+
+msgid "customer"
+msgstr "viðskiptavinur"
+
+msgid "order"
+msgstr "pöntun"
+
+msgid "payment"
+msgstr "greiðsla"
+
+msgid "active"
+msgstr "virkt"
+
+msgid "inactive"
+msgstr "óvirkt"
+
+msgid "cards"
+msgstr "spjöld"
+
+msgid "table"
+msgstr "tafla"
+
+msgid "select"
+msgstr "velja"
+
+msgid "sent"
+msgstr "sent"
+
+msgid "left"
+msgstr "eftir"
+
+msgid "resets"
+msgstr "endurstillist"
+
+msgid "view_more"
+msgstr "skoða meira"
+
+msgid "performance"
+msgstr "árangur"
+
+msgid "insights"
+msgstr "innsýn"
+
+msgid "metrics"
+msgstr "mælikvarðar"
+
+msgid "device"
+msgstr "tæki"
+
+msgid "locale"
+msgstr "tungumálsstilling"
+
+msgid "channel"
+msgstr "rás"
+
+msgid "desktop"
+msgstr "tölva"
+
+msgid "mobile"
+msgstr "farsími"
+
+msgid "retry"
+msgstr "reyna aftur"
+
+msgid "failed"
+msgstr "mistókst"
+
+msgid "support"
+msgstr "4. Stuðningur"
+
+msgid "documentation"
+msgstr "handbækur"
+
+msgid "are_you_sure"
+msgstr "ertu viss?"
+
+msgid "clear"
+msgstr "hreinsa"
+
+msgid "preview"
+msgstr "forskoðun"
+
+msgid "send_email"
+msgstr "senda tölvupóst"
+
+msgid "recipients"
+msgstr "viðtakendur"
+
+msgid "question"
+msgstr "spurning"
+
+msgid "answer"
+msgstr "svar"
+
+msgid "category"
+msgstr "Flokkur:"
+
+msgid "category:"
+msgstr "Flokkur:"
+
+msgid "showing"
+msgstr "sýnir"
+
+msgid "faqs"
+msgstr "algengar spurningar"
+
+msgid "all_categories"
+msgstr "allir flokkar"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "Hvernig viltu búa til algengar spurningar?"
+
+msgid "Single FAQ"
+msgstr "Stök spurning"
+
+msgid "Bulk FAQs"
+msgstr "Margar spurningar í einu"
+
+msgid "no_faqs_added_yet"
+msgstr "Engum spurningum bætt við ennþá. Bættu við fyrstu spurningunni til vinstri."
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "Engum spurningum bætt við ennþá. Bættu við fyrstu spurningunni til vinstri."
+
+msgid "Added FAQs"
+msgstr "Viðbættar spurningar"
+
+msgid "created"
+msgstr "búið til"
+
+msgid "search_faqs"
+msgstr "leita í spurningum..."
+
+msgid "update_faq"
+msgstr "uppfæra spurningu"
+
+msgid "category_label"
+msgstr "Flokkur *"
+
+msgid "select_existing_category_optional"
+msgstr "Veldu flokk sem er til (valfrjálst)"
+
+msgid "create_faq"
+msgstr "búa til spurningu"
+
+msgid "delete_faq"
+msgstr "eyða spurningu"
+
+msgid "delete_category"
+msgstr "Eyða flokki"
+
+msgid "delete_category_faqs_confirm"
+msgstr "Ertu viss um að þú viljir eyða öllum spurningum í flokknum \"%s\"? Þessari aðgerð verður ekki náð aftur."
+
+msgid "category_faqs_deleted"
+msgstr "Öllum spurningum í flokknum \"%s\" hefur verið eytt."
+
+msgid "failed_to_delete_category_faqs"
+msgstr "Tókst ekki að eyða spurningum í þessum flokki. Reyndu aftur."
+
+msgid "category_id_not_found"
+msgstr "ID flokks fannst ekki."
+
+msgid "orders"
+msgstr "pantanir"
+
+msgid "search_orders_by_number_customer_name_or_email"
+msgstr "leita að pöntun eftir númeri, nafni eða netfangi..."
+
+msgid "last_updated"
+msgstr "Síðast uppfært:"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "STJÓRNBORÐ GREININGAR"
+
+msgid "Business Intelligence"
+msgstr "Viðskiptagreind"
+
+msgid "Analytics Hub"
+msgstr "Greiningarmiðstöð"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "Ítarlegar greiningar og innsýn til að styðja við gagnadrifna ákvarðanatöku"
+
+msgid "Performance Overview"
+msgstr "Yfirlit yfir árangur"
+
+msgid "Key performance indicators at a glance"
+msgstr "Helstu mælikvarðar í fljótu bragði"
+
+msgid "Analytics Insights"
+msgstr "Greiningarinnsýn"
+
+msgid "Deep dive into performance metrics"
+msgstr "Ítarleg skoðun á árangri"
+
+msgid "Customer Intelligence"
+msgstr "Viðskiptavinagreind"
+
+msgid "Understand customer behavior and trends"
+msgstr "Skilja hegðun og strauma viðskiptavina"
+
+msgid "Market Analysis"
+msgstr "Markaðsgreining"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "Ítarlegur markaðssamanburður"
+
+msgid "Data Intelligence"
+msgstr "Gagnagreind"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "Ítarlegar greiningartöflur og verðlagsinnsýn"
+
+msgid "Product"
+msgstr "Vara"
+
+msgid "Products"
+msgstr "Vörur"
+
+msgid "Average"
+msgstr "Meðaltal"
+
+msgid "No products found"
+msgstr "Engar vörur fundust"
+
+msgid "Close"
+msgstr "Loka"
+
+msgid "All KPI Products"
+msgstr "Allar KPI vörur"
+
+msgid "Top KPI Products"
+msgstr "Helstu KPI vörur"
+
+msgid "Product ID"
+msgstr "Vöru ID"
+
+msgid "Product Title"
+msgstr "Heiti vöru"
+
+msgid "Base Price"
+msgstr "Grunnverð"
+
+msgid "Low-Risk Price"
+msgstr "Lágmarksáhættuverð"
+
+msgid "Competitive Price"
+msgstr "Samkeppnishæft verð"
+
+msgid "High-Risk Price"
+msgstr "Hámarksáhættuverð"
+
+msgid "Untitled Product"
+msgstr "Nafnlaus vara"
+
+msgid "All Trend Index Products"
+msgstr "Allar Trend Index vörur"
+
+msgid "Trend Index by Product"
+msgstr "Trend Index eftir vöru"
+
+msgid "Product Name"
+msgstr "Vöruheiti"
+
+msgid "Price vs Rating"
+msgstr "Verð á móti einkunn"
+
+msgid "Price"
+msgstr "Verð"
+
+msgid "Rating"
+msgstr "Einkunn"
+
+msgid "Reviews"
+msgstr "Umsagnir"
+
+msgid "CTR"
+msgstr "CTR"
+
+msgid "CVR"
+msgstr "CVR"
+
+msgid "Average Price"
+msgstr "Meðalverð"
+
+msgid "Average Rating"
+msgstr "Meðaleinkunn"
+
+msgid "Product Count"
+msgstr "Fjöldi vara"
+
+msgid "Avg Price"
+msgstr "Meðalverð"
+
+msgid "Avg Rating"
+msgstr "Meðaleinkunn"
+
+msgid "Failed to load"
+msgstr "Tókst ekki að hlaða"
+
+msgid "products"
+msgstr "vörur"
+
+msgid "product"
+msgstr "vara"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "Trend vísitala"
+
+msgid "Profitability"
+msgstr "Arðsemi"
+
+msgid "Competition"
+msgstr "Samkeppni"
+
+msgid "Demand Stability"
+msgstr "Stöðugleiki eftirspurnar"
+
+msgid "View All"
+msgstr "Skoða allt"
+
+msgid "price rating data"
+msgstr "verð- og einkunnagögn"
+
+msgid "Total Reviews"
+msgstr "Samtals umsagnir"
+
+msgid "Avg Reviews"
+msgstr "Meðalfjöldi umsagna"
+
+msgid "Overall Sentiment"
+msgstr "Almenn upplifun"
+
+msgid "Positive"
+msgstr "Jákvætt"
+
+msgid "Neutral"
+msgstr "Hlutlaust"
+
+msgid "Negative"
+msgstr "Neikvætt"
+
+msgid "Trend Status Overview"
+msgstr "Yfirlit yfir stöðu strauma"
+
+msgid "Rising"
+msgstr "Hækkar"
+
+msgid "Stable"
+msgstr "Stöðugt"
+
+msgid "Declining"
+msgstr "Lækkar"
+
+msgid "sentiment data"
+msgstr "gögn um upplifun"
+
+msgid "trend status data"
+msgstr "gögn um stöðu strauma"
+
+msgid "Status"
+msgstr "Staða"
+
+msgid "Category"
+msgstr "Flokkur"
+
+msgid "All Categories"
+msgstr "Allir flokkar"
+
+msgid "Count"
+msgstr "Fjöldi"
+
+msgid "Percentage"
+msgstr "Prósenta"
+
+msgid "Market Comparison (by Source)"
+msgstr "Markaðssamanburður (eftir uppruna)"
+
+msgid "Market"
+msgstr "Markaður"
+
+msgid "Best seller"
+msgstr "Mest selt"
+
+msgid "Movers and shakers"
+msgstr "Vinsælt núna"
+
+msgid "New releases"
+msgstr "Nýjar útgáfur"
+
+msgid "market comparison data"
+msgstr "gögn um markaðssamanburð"
+
+msgid "Category Comparison"
+msgstr "Samanburður flokka"
+
+msgid "Category Comparison - All Data"
+msgstr "Samanburður flokka - Öll gögn"
+
+msgid "Categories"
+msgstr "Flokkar"
+
+msgid "Metrics"
+msgstr "Mælikvarðar"
+
+msgid "Avg Sold"
+msgstr "Meðalsala"
+
+msgid "Avg FPSI"
+msgstr "Meðal FPSI"
+
+msgid "N/A"
+msgstr "Á ekki við"
+
+msgid "value"
+msgstr "gildi"
+
+msgid "Unknown"
+msgstr "Óþekkt"
+
+msgid "category comparison data"
+msgstr "gögn um samanburð flokka"
+
+msgid "Amazon Device"
+msgstr "Amazon tæki"
+
+msgid "Appliances"
+msgstr "Heimilistæki"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "Listir og handavinna"
+
+msgid "Automotive"
+msgstr "Bílavörur"
+
+msgid "Baby Products"
+msgstr "Barnavörur"
+
+msgid "Baby"
+msgstr "Börn"
+
+msgid "Beauty & Personal Care"
+msgstr "Snyrtivörur og hreinlæti"
+
+msgid "Cell Phones & Accessories"
+msgstr "Farsímar og fylgihlutir"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "Fatnaður og skartgripir"
+
+msgid "Collectibles & Fine Art"
+msgstr "Safngripir og list"
+
+msgid "Electronics"
+msgstr "Rafeindatæki"
+
+msgid "Health & Household"
+msgstr "Heilsa og heimili"
+
+msgid "Home & Kitchen"
+msgstr "Heimili og eldhús"
+
+msgid "Industrial & Scientific"
+msgstr "Iðnaður og vísindi"
+
+msgid "Musical Instruments"
+msgstr "Hljóðfæri"
+
+msgid "No category found"
+msgstr "Enginn flokkur fannst"
+
+msgid "Office Products"
+msgstr "Skrifstofuvörur"
+
+msgid "Patio, Lawn & Garden"
+msgstr "Garðurinn"
+
+msgid "Safety & Security"
+msgstr "Öryggi"
+
+msgid "Tools & Home Improvement"
+msgstr "Verkfæri og viðhald"
+
+msgid "Toys & Games"
+msgstr "Leikföng og leikir"
+
+msgid "Suggested Pricing"
+msgstr "Ráðlagt verð"
+
+msgid "All Suggested Pricing"
+msgstr "Öll ráðlögð verð"
+
+msgid "suggested pricing data"
+msgstr "gögn um ráðlagt verð"
+
+msgid "Search products..."
+msgstr "Leita að vörum..."
+
+msgid "Search products or categories..."
+msgstr "Leita að vörum eða flokkum..."
+
+msgid "Insights"
+msgstr "Innsýn"
+
+msgid "Performance insights for"
+msgstr "Árangursinnsýn fyrir"
+
+msgid "your website"
+msgstr "vefsíðuna þína"
+
+msgid "Desktop"
+msgstr "Skrifborð"
+
+msgid "Mobile"
+msgstr "Farsími"
+
+msgid "Refresh"
+msgstr "Endurnýja"
+
+msgid "Loading..."
+msgstr "Hleður..."
+
+msgid "Core Web Vitals"
+msgstr "Vefgrunnur (Core Web Vitals)"
+
+msgid "Performance Audits"
+msgstr "Árangursúttektir"
+
+msgid "View More"
+msgstr "Skoða meira"
+
+msgid "Performance Insights"
+msgstr "Árangursinnsýn"
+
+msgid "Analysis Configuration"
+msgstr "Stillingar greiningar"
+
+msgid "Device"
+msgstr "Tæki"
+
+msgid "Locale"
+msgstr "Tungumálsstilling"
+
+msgid "Channel"
+msgstr "Rás"
+
+msgid "Loading Insights data..."
+msgstr "Hleður innsýnargögnum..."
+
+msgid "Error Loading Insights Data"
+msgstr "Villa við að hlaða innsýnargögnum"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "Villa kom upp við að sækja innsýnargögn."
+
+msgid "Retry"
+msgstr "Reyna aftur"
+
+msgid "No Insights Data Available"
+msgstr "Engin innsýnargögn tiltæk"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "Engin gögn um árangursgreiningu tiltæk."
+
+msgid "Last analyzed:"
+msgstr "Síðast greint:"
+
+msgid "Performance"
+msgstr "Afköst"
+
+msgid "Accessibility"
+msgstr "Aðgengi"
+
+msgid "Best Practices"
+msgstr "Bestu starfsvenjur"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "No performance metrics available"
+msgstr "Engir mælikvarðar árangurs tiltækir"
+
+msgid "No audit data available"
+msgstr "Engin gögn úr úttekt tiltæk"
+
+msgid "No audits available"
+msgstr "Engar úttektir tiltækar"
+
+msgid "View Less"
+msgstr "Skoða minna"
+
+msgid "more"
+msgstr "meira"
+
+msgid "No insights available"
+msgstr "Engin innsýn tiltæk"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "Engin vandamál fundust. Síðan þín stendur sig vel!"
+
+msgid "Wasted:"
+msgstr "Sóun:"
+
+msgid "Initializing..."
+msgstr "Frumstillir..."
+
+msgid "Connecting to server..."
+msgstr "Tengist netþjóni..."
+
+msgid "Fetching insights data..."
+msgstr "Sækir innsýnargögn..."
+
+msgid "Analyzing performance metrics..."
+msgstr "Greinir árangursmælikvarða..."
+
+msgid "Processing audits and insights..."
+msgstr "Vinnur úr úttektum..."
+
+msgid "Finalizing results..."
+msgstr "Gengur frá niðurstöðum..."
+
+msgid "Complete!"
+msgstr "Lokið!"
+
+msgid "Failed to load Insights data"
+msgstr "Tókst ekki að hlaða innsýnargögnum"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "Tókst ekki að hlaða gögnum. Athugaðu tenginguna."
+
+msgid "No data available"
+msgstr "Engin gögn tiltæk"
+
+msgid "Excellent"
+msgstr "Frábært"
+
+msgid "Needs Improvement"
+msgstr "Þarfnast úrbóta"
+
+msgid "Poor"
+msgstr "Lélegt"
+
+msgid "Unknown error"
+msgstr "Óþekkt villa"
+
+msgid "Email Marketing"
+msgstr "Tölvupóstmarkaðssetning"
+
+msgid "Manage, send, and track your emails"
+msgstr "Sýsla með, senda og rekja tölvupósta"
+
+msgid "Emails"
+msgstr "Tölvupóstar"
+
+msgid "Lists"
+msgstr "Listar"
+
+msgid "Create Email"
+msgstr "Búa til tölvupóst"
+
+msgid "Search emails..."
+msgstr "Leita í tölvupóstum..."
+
+msgid "Cards"
+msgstr "Spjöld"
+
+msgid "Table"
+msgstr "Tafla"
+
+msgid "Select"
+msgstr "Velja"
+
+msgid "Delete"
+msgstr "Eyða"
+
+msgid "Recipient"
+msgstr "Viðtakandi"
+
+msgid "Subject"
+msgstr "Viðfangsefni"
+
+msgid "Created"
+msgstr "Búið til"
+
+msgid "Actions"
+msgstr "Aðgerðir"
+
+msgid "Email Lists"
+msgstr "Netfangslistar"
+
+msgid "Manage, send, and track your email lists"
+msgstr "Sýsla með og senda á netfangslista"
+
+msgid "Create Email List"
+msgstr "Búa til netfangslista"
+
+msgid "Search lists..."
+msgstr "Leita í listum..."
+
+msgid "Download Template"
+msgstr "Sækja sniðmát"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "Sækja email-recipient.xlsx sniðmát"
+
+msgid "Upload Template"
+msgstr "Hlaða upp sniðmáti"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "Hlaða upp email-recipient.xlsx skrá"
+
+msgid "Recipients"
+msgstr "Viðtakendur"
+
+msgid "Confirm Action"
+msgstr "Staðfesta aðgerð"
+
+msgid "Are you sure you want to proceed?"
+msgstr "Ertu viss um að þú viljir halda áfram?"
+
+msgid "Cancel"
+msgstr "Hætta við"
+
+msgid "Confirm"
+msgstr "Staðfesta"
+
+msgid "List Subject"
+msgstr "Heiti lista"
+
+msgid "Subject for all recipients"
+msgstr "Viðfangsefni fyrir alla viðtakendur"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "Sláðu inn netfang og ýttu á Enter"
+
+msgid "Add"
+msgstr "Bæta við"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "Sláðu inn eitt netfang í einu."
+
+msgid "Email Body (optional HTML)"
+msgstr "Innihald tölvupósts (valfrjálst HTML)"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "Þú getur notað ritilinn eða textaham til að líma inn HTML."
+
+msgid "Send"
+msgstr "Senda"
+
+msgid "Preview"
+msgstr "Forskoðun"
+
+msgid "Clear"
+msgstr "Hreinsa"
+
+msgid "Create New Email"
+msgstr "Búa til nýjan tölvupóst"
+
+msgid "Your subject"
+msgstr "Þitt viðfangsefni"
+
+msgid "Email Body"
+msgstr "Innihald tölvupósts"
+
+msgid "Send Email"
+msgstr "Senda tölvupóst"
+
+msgid "Email Sent"
+msgstr "Tölvupóstur sendur"
+
+msgid "Your email has been sent successfully."
+msgstr "Tölvupósturinn þinn hefur verið sendur."
+
+msgid "OK"
+msgstr "Í lagi"
+
+msgid "Total"
+msgstr "Samtals"
+
+msgid "Sent"
+msgstr "Sent"
+
+msgid "Read"
+msgstr "Lesið"
+
+msgid "Revision"
+msgstr "Endurskoðun"
+
+msgid "Sent Emails"
+msgstr "Sendir tölvupóstar"
+
+msgid "Export Excel"
+msgstr "Flytja út í Excel"
+
+msgid "Updated"
+msgstr "Uppfært"
+
+msgid "Failed"
+msgstr "Mistókst"
+
+msgid "Pending"
+msgstr "Í bið"
+
+msgid "Show"
+msgstr "Sýna"
+
+msgid "Edit"
+msgstr "Breyta"
+
+msgid "Update & Send"
+msgstr "Uppfæra og senda"
+
+msgid "Sending..."
+msgstr "Sendir..."
+
+msgid "Edit Email"
+msgstr "Breyta tölvupósti"
+
+msgid "Exit Select"
+msgstr "Hætta vali"
+
+msgid "To:"
+msgstr "Til:"
+
+msgid "Created:"
+msgstr "Búið til:"
+
+msgid "Error"
+msgstr "Villa"
+
+msgid "Success"
+msgstr "Tókst"
+
+msgid "Update Email List"
+msgstr "Uppfæra netfangslista"
+
+msgid "status_sent"
+msgstr "sent"
+
+msgid "status_failed"
+msgstr "mistókst"
+
+msgid "status_pending"
+msgstr "í bið"
+
+msgid "SENT"
+msgstr "SENT"
+
+msgid "Sent:"
+msgstr "Sent:"
+
+msgid "Failed:"
+msgstr "Mistókst:"
+
+msgid "Pending:"
+msgstr "Í bið:"
+
+msgid "Email sent"
+msgstr "Tölvupóstur sendur"
+
+msgid "Successfully sent"
+msgstr "Sent með góðum árangri"
+
+msgid "email(s)"
+msgstr "tölvupóstur/póstar"
+
+msgid "Your email list has been sent successfully."
+msgstr "Netfangslistinn þinn hefur verið sendur."
+
+msgid "FAILED"
+msgstr "MISTÓKST"
+
+msgid "PENDING"
+msgstr "Í BIÐ"
+
+msgid "Total Lists"
+msgstr "Samtals listar"
+
+msgid "Total Recipients"
+msgstr "Samtals viðtakendur"
+
+msgid "create_email_list"
+msgstr "búa til netfangslista"
+
+msgid "add"
+msgstr "bæta við"
+
+msgid "send"
+msgstr "senda"
+
+msgid "ok"
+msgstr "í lagi"
+
+msgid "security"
+msgstr "öryggi"
+
+msgid "welcome"
+msgstr "velkomin(n)"
+
+msgid "of"
+msgstr "af"
+
+msgid "previous"
+msgstr "Fyrra"
+
+msgid "next"
+msgstr "Næsta"
+
+msgid "home"
+msgstr "Heim"
+
+msgid "terms"
+msgstr "Skilmálar"
+
+msgid "Active"
+msgstr "Virkt"
+
+msgid "Not Set"
+msgstr "Ekki stillt"
+
+msgid "Import"
+msgstr "Flytja inn"
+
+msgid "Importing..."
+msgstr "Flytur inn..."
+
+msgid "Deleting..."
+msgstr "Eyðir..."
+
+msgid "Already Imported"
+msgstr "Þegar innflutt"
+
+msgid "Product deleted successfully"
+msgstr "Vöru eytt með góðum árangri"
+
+msgid "NEW"
+msgstr "NÝTT"
+
+msgid "Added"
+msgstr "Bætt við"
+
+msgid "Exists"
+msgstr "Er til"
+
+msgid "Showing"
+msgstr "Sýnir"
+
+msgid "Previous"
+msgstr "Fyrra"
+
+msgid "Next"
+msgstr "Næsta"
+
+msgid "Processing..."
+msgstr "Vinnur..."
+
+msgid "Please wait while we import your product"
+msgstr "Vinsamlegast bíddu á meðan við flytjum inn vöruna þína"
+
+msgid "Importing product as draft..."
+msgstr "Flytur inn vöru sem uppkast..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "Þetta mun búa til vöruna í WooCommerce"
+
+msgid "Importing product with SEO optimization..."
+msgstr "Flyt inn vöru með SEO-þróun..."
+
+msgid "Checking product status..."
+msgstr "Athugar stöðu vöru..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "Bíddu á meðan við athugum hvort varan sé þegar til"
+
+msgid "Loading products..."
+msgstr "Hleður vörum..."
+
+msgid "Overview"
+msgstr "Yfirlit"
+
+msgid "Business Overview"
+msgstr "Viðskiptayfirlit"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "Fylgstu með árangri viðbótarinnar og sýslaðu með reksturinn á einu stjórnborði"
+
+msgid "Total Products"
+msgstr "Samtals vörur"
+
+msgid "Quick Actions"
+msgstr "Flýtiaðgerðir"
+
+msgid "Analytics Dashboard"
+msgstr "Stjórnborð greiningar"
+
+msgid "Analytics Overview"
+msgstr "Yfirlit greiningar"
+
+msgid "Quick insights into your business performance"
+msgstr "Fljótleg innsýn í reksturinn þinn"
+
+msgid "View Full Analytics"
+msgstr "Skoða allar greiningar"
+
+msgid "Overall Sentiment distribution"
+msgstr "Dreifing almennrar upplifunar"
+
+msgid "Trend Status distribution"
+msgstr "Dreifing trend-stöðu"
+
+msgid "Analytics"
+msgstr "Greining"
+
+msgid "BI Analytics Hub"
+msgstr "Viðskiptagreind (BI Hub)"
+
+msgid "Settings"
+msgstr "Stillingar"
+
+msgid "No orders found"
+msgstr "Engar pantanir fundust"
+
+msgid "Total Orders"
+msgstr "Samtals pantanir"
+
+msgid "Current Page"
+msgstr "Núverandi síða"
+
+msgid "Orders Per Page"
+msgstr "Pantanir á síðu"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "Leita að pöntun eftir númeri, nafni eða netfangi..."
+
+msgid "Loading orders..."
+msgstr "Hleður pöntunum..."
+
+msgid "Page"
+msgstr "Síða"
+
+msgid "WooCommerce Analytics"
+msgstr "WooCommerce greining"
+
+msgid "WordPress Analytics"
+msgstr "WordPress greining"
+
+msgid "Clear Cache"
+msgstr "Hreinsa skyndiminni"
+
+msgid "Export CSV"
+msgstr "Flytja út CSV"
+
+msgid "Last updated:"
+msgstr "Síðast uppfært:"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "Tókst ekki að hlaða greiningargögnum. Endurnýjaðu síðuna."
+
+msgid "No data available to export"
+msgstr "Engin gögn til útflutnings"
+
+msgid "Orders Today"
+msgstr "Pantanir í dag"
+
+msgid "Total Revenue"
+msgstr "Heildartekjur"
+
+msgid "Revenue Today"
+msgstr "Tekjur í dag"
+
+msgid "Revenue (30 Days)"
+msgstr "Tekjur (30 dagar)"
+
+msgid "Avg Order Value"
+msgstr "Meðalgildi pöntunar"
+
+msgid "Pending Orders"
+msgstr "Bíðandi pantanir"
+
+msgid "Failed Orders"
+msgstr "Misheppnaðar pantanir"
+
+msgid "Cart Abandonment"
+msgstr "Vörur skilnar eftir í körfu"
+
+msgid "Customers (30 Days)"
+msgstr "Viðskiptavinir (30 dagar)"
+
+msgid "Top Seller (30 Days)"
+msgstr "Mest selt (30 dagar)"
+
+msgid "Total Users"
+msgstr "Samtals notendur"
+
+msgid "Users Today"
+msgstr "Notendur í dag"
+
+msgid "Total Comments"
+msgstr "Samtals athugasemdir"
+
+msgid "Total Views"
+msgstr "Samtals flettingar"
+
+msgid "Pending payment"
+msgstr "Bíður greiðslu"
+
+msgid "Processing"
+msgstr "Í vinnslu"
+
+msgid "On hold"
+msgstr "Í bið"
+
+msgid "Completed"
+msgstr "Lokið"
+
+msgid "Cancelled"
+msgstr "Hætt við"
+
+msgid "Draft"
+msgstr "Uppkast"
+
+msgid "Revenue Overview"
+msgstr "Tekjuyfirlit"
+
+msgid "Orders Status"
+msgstr "Staða pantana"
+
+msgid "WordPress Activity"
+msgstr "WordPress virkni"
+
+msgid "Revenue"
+msgstr "Tekjur"
+
+msgid "WordPress Metrics"
+msgstr "WordPress mælikvarðar"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "Vörur á síðu mega ekki vera fleiri en 100."
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "Vörur á síðu verða að vera að minnsta kosti 1."
+
+msgid "Settings saved successfully!"
+msgstr "Stillingar vistaðar!"
+
+msgid "Please enter a authentication key before testing."
+msgstr "Vinsamlegast sláðu inn leyfislykil áður en prófað er."
+
+msgid "more..."
+msgstr "meira..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "Skyndiminni greiningar hreinsað!"
+
+msgid "No products to import. Please sync products first."
+msgstr "Engar vörur til innflutnings. Samstilltu vörur fyrst."
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "Innflutningi lokið! %d vörur fluttar inn, %d mistókust."
+
+msgid "Import failed: %s"
+msgstr "Innflutningur mistókst: %s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "API próf lokið! Skoðaðu debug.log fyrir nánari upplýsingar."
+
+msgid "API Test Failed: %s"
+msgstr "API próf mistókst: %s"
+
+msgid "Database structure validated and fixed:"
+msgstr "Gagnagrunnsskipulag staðfest og lagað:"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "Gagnagrunnsskipulag er í lagi."
+
+msgid "Database validation issues:"
+msgstr "Vandamál við staðfestingu gagnagrunns:"
+
+msgid "Database validation failed: %s"
+msgstr "Staðfesting gagnagrunns mistókst: %s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "Vortem leyfið þitt er virkt með %s áætlun."
+
+msgid "Validated on: %s"
+msgstr "Staðfest þann: %s"
+
+msgid "Import failed. Please try again."
+msgstr "Innflutningur mistókst. Reyndu aftur."
+
+msgid "Please select a bulk action."
+msgstr "Vinsamlegast veldu hóp-aðgerð."
+
+msgid "Please select at least one product."
+msgstr "Vinsamlegast veldu að minnsta kosti eina vöru."
+
+msgid "Bulk action failed. Please try again."
+msgstr "Hóp-aðgerð mistókst. Reyndu aftur."
+
+msgid "Failed to trash product. Please try again."
+msgstr "Tókst ekki að eyða vöru. Reyndu aftur."
+
+msgid "Failed to restore product. Please try again."
+msgstr "Tókst ekki að endurheimta vöru. Reyndu aftur."
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "Tókst ekki að flytja inn sem uppkast. Reyndu aftur."
+
+msgid "Failed to get product details."
+msgstr "Tókst ekki að sækja upplýsingar um vöru."
+
+msgid "Delete failed. Please try again."
+msgstr "Eyðing mistókst. Reyndu aftur."
+
+msgid "FAQ Management"
+msgstr "Stjórnun algengra spurninga"
+
+msgid "Manage your frequently asked questions"
+msgstr "Sýsla með algengar spurningar"
+
+msgid "Search FAQs..."
+msgstr "Leita í spurningum..."
+
+msgid "Card View"
+msgstr "Spjaldsýn"
+
+msgid "Table View"
+msgstr "Töflusýn"
+
+msgid "Refresh FAQs"
+msgstr "Endurnýja spurningar"
+
+msgid "Create New FAQ"
+msgstr "Búa til nýja spurningu"
+
+msgid "Total FAQs"
+msgstr "Samtals spurningar"
+
+msgid "Active FAQs"
+msgstr "Virkar spurningar"
+
+msgid "Page Status"
+msgstr "Staða síðu"
+
+msgid "Question"
+msgstr "Spurning"
+
+msgid "Answer"
+msgstr "Svar"
+
+msgid "No FAQs yet"
+msgstr "Engar spurningar ennþá"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "Byrjaðu að búa til spurningar"
+
+msgid "Create Your First FAQ"
+msgstr "Búa til fyrstu spurninguna"
+
+msgid "Loading FAQs..."
+msgstr "Hleður spurningum..."
+
+msgid "Update FAQ"
+msgstr "Uppfæra spurningu"
+
+msgid "Question *"
+msgstr "Spurning *"
+
+msgid "Enter your question here..."
+msgstr "Sláðu inn spurninguna hér..."
+
+msgid "Answer *"
+msgstr "Svar *"
+
+msgid "Enter the answer here..."
+msgstr "Sláðu inn svarið hér..."
+
+msgid "Create FAQ"
+msgstr "Búa til spurningu"
+
+msgid "FAQ Details"
+msgstr "Upplýsingar um spurningu"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Answer:"
+msgstr "Svar:"
+
+msgid "View Details"
+msgstr "Skoða upplýsingar"
+
+msgid "Edit FAQ"
+msgstr "Breyta spurningu"
+
+msgid "Creating..."
+msgstr "Býr til..."
+
+msgid "Updating..."
+msgstr "Uppfærir..."
+
+msgid "Question is required"
+msgstr "Spurning er nauðsynleg"
+
+msgid "Answer is required"
+msgstr "Svar er nauðsynlegt"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "Svar verður að vera að minnsta kosti 10 stafir"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "Spurningin \"%s\" hefur verið búin til"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "Spurningin \"%s\" hefur verið uppfærð"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "Spurningunni \"%s\" hefur verið eytt"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "Ertu viss um að þú viljir eyða \"%s\"?"
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "Tókst ekki að hlaða spurningum."
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "Tókst ekki að vista spurningu."
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "Tókst ekki að eyða spurningu."
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "Auðkenning nauðsynleg. Athugaðu lykilinn þinn."
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "Leyfislykill vantar. Stilltu lykilinn í Vortem stillingum."
+
+msgid "Security"
+msgstr "Öryggi"
+
+msgid "Search plugins..."
+msgstr "Leita í viðbótum..."
+
+msgid "Last Modified"
+msgstr "Síðast breytt"
+
+msgid "Inactive"
+msgstr "Óvirkt"
+
+msgid "WordPress Core"
+msgstr "WordPress kjarni"
+
+msgid "Themes"
+msgstr "Þemu"
+
+msgid "Plugins"
+msgstr "Viðbætur"
+
+msgid "Version"
+msgstr "Útgáfa"
+
+msgid "Author"
+msgstr "Höfundur"
+
+msgid "Description"
+msgstr "Lýsing"
+
+msgid "File"
+msgstr "Skrá"
+
+msgid "Plugin URI"
+msgstr "URI viðbótar"
+
+msgid "Requires WP Version"
+msgstr "Krefst WP-útgáfu"
+
+msgid "Requires PHP"
+msgstr "Krefst PHP"
+
+msgid "Read more"
+msgstr "Lesa meira"
+
+msgid "Stylesheet"
+msgstr "Stíllblað"
+
+msgid "Theme URI"
+msgstr "URI þema"
+
+msgid "Type"
+msgstr "Tegund"
+
+msgid "Name"
+msgstr "Nafn"
+
+msgid "All"
+msgstr "Allt"
+
+msgid "Vulnerabilities"
+msgstr "Öryggisgöll"
+
+msgid "Checking..."
+msgstr "Athuga..."
+
+msgid "Save Changes"
+msgstr "Vista breytingar"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "Sláðu inn Vortem.ai leyfislykilinn til að virkja viðbótina."
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "Fjöldi vara á hverri síðu. Sjálfgefið: 16."
+
+msgid "Products per page must be at least 1"
+msgstr "Vörur á síðu verða að vera að minnsta kosti 1"
+
+msgid "Products per page cannot exceed 100"
+msgstr "Vörur á síðu mega ekki vera fleiri en 100"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "Þú ert að nálgast daglega tölvupósttakmörk þín (%s). Takmörkin endurstillast á morgun."
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "Þú hefur náð daglegum tölvupósttakmörkum þínum. Takmörkin endurstillast á morgun."
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "Þú ert að nálgast daglega innflutningskvóta þinn (%s). Kvótinn endurstillast á morgun."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "Þú hefur náð daglegum innflutningskvóta þínum. Kvótinn endurstillast á morgun."
+
+msgid "Search plugins and themes..."
+msgstr "Leita í viðbótum og þemum..."
+
+msgid "Loading security scan results..."
+msgstr "Hleður niðurstöðum öryggisskönnunar..."
+
+msgid "published"
+msgstr "birt"
+
+msgid "Published"
+msgstr "Birt"
+
+msgid "references"
+msgstr "tilvísanir"
+
+msgid "References"
+msgstr "Tilvísanir"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "Ef þetta er virkt verða vöruvídeó sjálfkrafa sett í vörulýsinguna."
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "Sækja myndbönd fyrir Vortem Clothes, Vortem Cosmetic og xstore þemu"
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "Ef þetta er óvirkt verða vídeó ekki sótt fyrir þessi þemu til að spara pláss."
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "Til að nota þessa síðu verður þú að slá inn leyfi í stillingum og staðfesta það."
+
+msgid "Configure your plugin settings and preferences"
+msgstr "Stilla stillingar og kjörstillingar viðbótarinnar"
+
+msgid "Products Per Page"
+msgstr "Vörur á Síðu"
+
+msgid "Language"
+msgstr "Tungumál"
+
+msgid "Currency"
+msgstr "Gjaldmiðill"
+
+msgid "Update Currency"
+msgstr "Uppfæra Gjaldmiðil"
+
+msgid "Loading currencies..."
+msgstr "Hleð gjaldmiðlum..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "Veldu gjaldmiðilstýpu fyrir viðbótina og smelltu á \"Uppfæra Gjaldmiðil\" til að vista breytingar."
+
+msgid "Currency updated successfully!"
+msgstr "Gjaldmiðill uppfærður með góðum árangri!"
+
+msgid "Video Settings"
+msgstr "Myndbandsstillingar"
+
+msgid "Video Download for Excluded Themes"
+msgstr "Myndbandsniðurhal fyrir Útilokaðar Þemu"
+
+msgid "AliExpress Integration"
+msgstr "AliExpress Samþætting"
+
+msgid "Add video to product description"
+msgstr "Bæta myndbandi við vörulýsingu"
+
+msgid "To get a authentication, visit"
+msgstr "Til að fá leyfi, heimsæktu"
+
+msgid "Products Pages"
+msgstr "Vörusíður"
+
+msgid "Analytics Pages"
+msgstr "Greiningarsíður"
+
+msgid "sales"
+msgstr "sala"
+
+msgid "Loading trend products..."
+msgstr "Hleður trend vörum..."
+
+msgid "Loading TikTok products..."
+msgstr "Hleður TikTok vörum..."
+
+msgid "Error loading TikTok products:"
+msgstr "Villa við að hlaða TikTok vörum:"
+
+msgid "Failed to load TikTok products:"
+msgstr "Tókst ekki að hlaða TikTok vörum:"
+
+msgid "Loading Kinguin products..."
+msgstr "Hleður vörum frá Kinguin..."
+
+msgid "No Kinguin products found."
+msgstr "Engar Kinguin vörur fundust."
+
+msgid "Failed to load Kinguin products:"
+msgstr "Tókst ekki að hlaða vörum frá Kinguin:"
+
+msgid "Error loading Kinguin products:"
+msgstr "Villa við að hlaða vörum frá Kinguin:"
+
+msgid "View on Amazon"
+msgstr "Skoða á Amazon"
+
+msgid "View on Kinguin"
+msgstr "Skoða á Kinguin"
+
+msgid "Release:"
+msgstr "Útgáfa:"
+
+msgid "Price N/A"
+msgstr "Verð ekki tiltækt"
+
+msgid "In Stock"
+msgstr "Til á lager"
+
+msgid "Sentiment"
+msgstr "Upplifun (Sentiment)"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "Vörur sem eiga minna en 10 stykki eftir á lager"
+
+msgid "Total Pages"
+msgstr "Samtals síður"
+
+msgid "Total Posts"
+msgstr "Samtals færslur"
+
+msgid "Refetch"
+msgstr "Sækja aftur"
+
+msgid "AliExpress"
+msgstr "AliExpress"
+
+msgid "Connect to AliExpress"
+msgstr "Tengjast AliExpress"
+
+msgid "Disconnect AliExpress"
+msgstr "Aftengja AliExpress"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "Ertu viss um að þú viljir aftengja AliExpress reikninginn þinn?"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "Tengdu AliExpress reikninginn þinn til að virkja afgreiðslu pantana."
+
+msgid "Checking connection status..."
+msgstr "Athugar stöðu tengingar..."
+
+msgid "Connected"
+msgstr "Tengt"
+
+msgid "Not connected"
+msgstr "Ekki tengt"
+
+msgid "Error checking status"
+msgstr "Villa við að athuga stöðu"
+
+msgid "Connecting..."
+msgstr "Tengist..."
+
+msgid "Disconnecting..."
+msgstr "Aftengist..."
+
+msgid "Error connecting to AliExpress"
+msgstr "Villa við að tengjast AliExpress"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "Villa við að aftengja AliExpress reikning"
+
+msgid "Failed to disconnect"
+msgstr "Tókst ekki að aftengja"
+
+msgid "Failed to connect to AliExpress"
+msgstr "Tókst ekki að tengjast AliExpress"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "Tenging við AliExpress tókst!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "Símanúmer er nauðsynlegt fyrir pantanir á AliExpress."
+
+msgid "Expires:"
+msgstr "Rennur út:"
+
+msgid "Disconnect"
+msgstr "Aftengja"
+
+msgid "Select Import Method"
+msgstr "Veldu innflutningsleið"
+
+msgid "Choose how you want to import this product:"
+msgstr "Veldu hvernig þú vilt flytja inn þessa vöru:"
+
+msgid "Normal Import"
+msgstr "Venjulegur innflutningur"
+
+msgid "Import product with original title and description"
+msgstr "Flytja inn vöru með upprunalegum titli og lýsingu"
+
+msgid "SEO Import"
+msgstr "SEO innflutningur"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "Flytja inn með leitarvélabættum (SEO) titli og lýsingu"
+
+msgid "SEO Import Completed"
+msgstr "SEO Innflutningur Lokið"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "Eftirfarandi SEO-bætur hafa verið notaðar:"
+
+msgid "Keyphrase"
+msgstr "Lykilorð"
+
+msgid "SEO Title"
+msgstr "SEO Titill"
+
+msgid "SEO Description"
+msgstr "SEO Lýsing"
+
+msgid "Meta Description"
+msgstr "Meta Lýsing"
+
+msgid "Tags"
+msgstr "Merki"
+
+msgid "Yoast SEO Title"
+msgstr "Yoast SEO Titill"
+
+msgid "Headings"
+msgstr "Fyrirsagnir"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO er ekki uppsett. Til að nota SEO innflutningsvalkostinn verður þú að setja það upp og virkja það."
+
+msgid "Email subject must be at least 16 characters"
+msgstr "Efni tölvupósts verður að vera að minnsta kosti 16 stafir"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "Efni tölvupósts má ekki vera meira en 256 stafir"
+
+msgid "Email body must be at least 128 characters"
+msgstr "Innihald tölvupósts verður að vera að minnsta kosti 128 stafir"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "Innihald tölvupósts má ekki vera meira en 8196 stafir"
+
+msgid "All Imported Products"
+msgstr "Öll innflutt vörur"
+
+msgid "Refresh Products"
+msgstr "Endurnýja vörur"
+
+msgid "Show All Products"
+msgstr "Sýna allar vörur"
+
+msgid "Show All Added Products"
+msgstr "Sýna allar bættar vörur"
+
+msgid "Top Products Kinguin"
+msgstr "Toppvörur Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "Trendvörur Amazon"
+
+msgid "Top Products AliExpress"
+msgstr "Toppvörur AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "Stjórna og skoða vörubirgðir þínar"
+
+msgid "Security Overview"
+msgstr "Öryggis yfirlit"
+
+msgid "Security Scan Results"
+msgstr "Öryggis skönnunarniðurstöður"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "Fylgjast með og skoða allar uppsettar WordPress viðbætur og þemu"
+
+msgid "Total Plugins"
+msgstr "Heildar viðbætur"
+
+msgid "Active Plugins"
+msgstr "Virkar viðbætur"
+
+msgid "Inactive Plugins"
+msgstr "Óvirkar viðbætur"
+
+msgid "Total Themes"
+msgstr "Heildar þemu"
+
+msgid "Active Themes"
+msgstr "Virk þemu"
+
+msgid "Inactive Themes"
+msgstr "Óvirk þemu"
+
+msgid "Sort by:"
+msgstr "Raða eftir:"
+
+msgid "Filter by Status:"
+msgstr "Sía eftir stöðu:"
+
+msgid "Sort by Date"
+msgstr "Raða eftir dagsetningu"
+
+msgid "View and manage your store orders"
+msgstr "Skoða og stjórna pöntunum verslunarinnar þinnar"
+
+msgid "Start Date"
+msgstr "Upphafsdagur"
+
+msgid "End Date"
+msgstr "Lokadagur"
+
+msgid "All Statuses"
+msgstr "Allir staðir"
+
+msgid "Navigation"
+msgstr "Flakk"
+
+msgid "Shop Analytics"
+msgstr "Verslunargreining"
+
+msgid "Traffic Analytics"
+msgstr "Umferðargreining"
+
+msgid "Search currencies..."
+msgstr "Leita að gjaldmiðlum..."
+
+msgid "Search by country or currency code"
+msgstr "Leita eftir landi eða gjaldmiðlakóða"
+
+msgid "Popularity"
+msgstr "Vinsældir"
+
+msgid "Impressions"
+msgstr "Sýningar"
+
+msgid "Engagement"
+msgstr "Aðild"
+
+msgid "Videos"
+msgstr "Myndbönd"
+
+msgid "# Hashtags"
+msgstr "# Hashtags"
+
+msgid "View Rate (6s)"
+msgstr "Skoðunartíðni (6s)"
+
+msgid "Cost"
+msgstr "Kostnaður"
+
+msgid "Avg. Time on Site"
+msgstr "Meðaltími á vefsíðunni"
+
+msgid "Unique Visitors"
+msgstr "Einstakir gestir"
+
+msgid "Visits"
+msgstr "Heimsóknir"
+
+msgid "Top Pages"
+msgstr "Vinsælustu síðurnar"
+
+msgid "Top Page Titles"
+msgstr "Vinsælustu síðutitlarnir"
+
+msgid "Cities"
+msgstr "Borgir"
+
+msgid "Countries"
+msgstr "Lönd"
+
+msgid "Exit Pages"
+msgstr "Útgangssíður"
+
+msgid "Entry Pages"
+msgstr "Inngangssíður"
+
+msgid "Real-time Visits"
+msgstr "Heimsóknir í rauntíma"
+
+msgid "Bounce Rate"
+msgstr "Hækkunarhlutfall"
+
+msgid "Today"
+msgstr "Í dag"
+
+msgid "Yesterday"
+msgstr "Í gær"
+
+msgid "Last 7 Days"
+msgstr "Síðustu 7 dagarnir"
+
+msgid "Last 30 Days"
+msgstr "Síðustu 30 dagarnir"
+
+msgid "First Contentful Paint"
+msgstr "Fyrsta Efnis Málun"
+
+msgid "Total Size"
+msgstr "Heildarstærð"
+
+msgid "Requests"
+msgstr "Beiðnir"
+
+msgid "Page Load"
+msgstr "Hleðsla Síðu"
+
+msgid "Last updated: %s"
+msgstr "Síðast uppfært: %s"
+
+msgid "Live"
+msgstr "Beint"
+
+msgid "Quick Insights"
+msgstr "Fljótlegar Innlegg"
+
+msgid "Config"
+msgstr "Stillingar"
+
+msgid "Total Vulnerabilities"
+msgstr "Heild Veikleika"
+
+msgid "CVSS Score:"
+msgstr "CVSS Einkunn:"
+
+msgid "Published:"
+msgstr "Birt:"
+
+msgid "Last Modified:"
+msgstr "Síðast breytt:"
+
+msgid "References:"
+msgstr "Tilvísanir:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "Your WordPress core is secure!"
+msgstr "WordPress kjarninn þinn er öruggur!"
+
+msgid "View All Vulnerabilities"
+msgstr "Skoða Allar Veikleikar"
+
+msgid "CRITICAL"
+msgstr "ALVARLEGT"
+
+msgid "HIGH"
+msgstr "HÁTT"
+
+msgid "MEDIUM"
+msgstr "MIÐLUNGS"
+
+msgid "LOW"
+msgstr "LÁGT"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "Aðgerð er mælt með. Vinsamlegast skoðaðu og uppfærðu áhrifadótt hluti."
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "Öll viðbæturnar, sniðmátin og WordPress kjarninn eru öruggir og uppfærðir."
+
+msgid "High severity vulnerabilities found"
+msgstr "Veikleikar með mikilli alvarleika stigum fundust"
+
+msgid "Last updated: Loading..."
+msgstr "Síðast uppfært: Hleður..."
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "Yfirferð mælt með. Fylgstu með og uppfærðu áhrifadótt hluti þegar mögulegt er."
+
+msgid "Some vulnerabilities found"
+msgstr "Nokkrir veikleikar fundust"
+
+msgid "Trend Products TikTok"
+msgstr "Trend vörur TikTok"
+
+msgid "Your site is secure!"
+msgstr "Síðan þín er örugg!"
+
+msgid "failed_to_load_insights_error"
+msgstr "Villa við að hlaða innsýnargögnum"
+
+msgid "failed_to_refetch"
+msgstr "Endurheimt mistókst"
+
+msgid "no_category"
+msgstr "Engin flokkur"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "Vinnsla SEO hagræðingar: Lykilsetning, SEO titill, SEO lýsing, Meta lýsing, Merki, Yoast SEO titill og Fyrirsagnir"
+
+msgid "Search themes..."
+msgstr "Leita sniðmáta..."
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+
+msgid "AUTHOR"
+msgstr "HÖFUNDUR"
+
+msgid "Across all plugins, themes & core"
+msgstr "Yfir öll viðbætur, sniðmát og kjarna"
+
+msgid "Address as soon as possible"
+msgstr "Leysa eins fljótt og mögulegt er"
+
+msgid "All Security Issues"
+msgstr "Öll Öryggismál"
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "Greina WordPress uppsetningu þína fyrir öryggisveikleika"
+
+msgid "Attention required"
+msgstr "Uppmärksamhet krävs"
+
+msgid "Component Type"
+msgstr "Tegund Íhlutar"
+
+msgid "Core"
+msgstr "Kjarni"
+
+msgid "Core WordPress files"
+msgstr "WordPress kjarnaskrár"
+
+msgid "Critical"
+msgstr "Alvarlegt"
+
+msgid "Critical Severity"
+msgstr "Alvarleg Alvarleikastig"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "Alvarlegir veikleikar fundust!"
+
+msgid "Date"
+msgstr "Dagsetning"
+
+msgid "Delete FAQ"
+msgstr "Eyða FAQ"
+
+msgid "Filter by:"
+msgstr "Sía eftir:"
+
+msgid "High"
+msgstr "Hátt"
+
+msgid "High Severity"
+msgstr "Hátt Alvarleikastig"
+
+msgid "High severity vulnerabilities detected"
+msgstr "Veikleikar með mikilli alvarleika stigum fundust"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "Strax aðgerð er krafist. Vinsamlegast uppfærðu eða fjarlægðu áhrifadótt hluti eins fljótt og mögulegt er."
+
+msgid "Items Requiring Attention"
+msgstr "Hluti sem Krefjast Athygli"
+
+msgid "Items without vulnerabilities"
+msgstr "Hluti án veikleika"
+
+msgid "Low"
+msgstr "Lágt"
+
+msgid "Low Severity"
+msgstr "Lágt Alvarleikastig"
+
+msgid "Low severity vulnerabilities detected"
+msgstr "Veikleikar með lágu alvarleika stigum fundust"
+
+msgid "Medium"
+msgstr "Miðlungs"
+
+msgid "Medium Severity"
+msgstr "Miðlungs Alvarleikastig"
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "Veikleikar með miðlungs alvarleika stigum fundust"
+
+msgid "Monitor & track"
+msgstr "Fylgjast með og fylgjast með"
+
+msgid "Monitor and plan fix"
+msgstr "Fylgjast með og skipuleggja lagfæringu"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "Fylgstu með þessum málum og skipuleggja lagfæringar þegar það er hentugt."
+
+msgid "Next →"
+msgstr "Næsta →"
+
+msgid "No items at risk"
+msgstr "Engir hluti í hættu"
+
+msgid "No known vulnerabilities detected"
+msgstr "Engir þekktir veikleikar fundust"
+
+msgid "No plugins found"
+msgstr "Engar viðbætur fundust"
+
+msgid "No recent vulnerabilities"
+msgstr "Engir nýlegir veikleikar"
+
+msgid "No themes found"
+msgstr "Engin sniðmát fundust"
+
+msgid "No vulnerabilities found"
+msgstr "Engir veikleikar fundust"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "Engir veikleikar fundust í viðbótum"
+
+msgid "No vulnerabilities found in themes"
+msgstr "Engir veikleikar fundust í sniðmátum"
+
+msgid "Number of Vulnerabilities"
+msgstr "Fjöldi Veikleika"
+
+msgid "Plan to address"
+msgstr "Áætlun um að takast á við"
+
+msgid "Please review and address these issues soon."
+msgstr "Vinsamlegast skoðaðu og taktu á við þessi mál fljótt."
+
+msgid "REQUIRES PHP"
+msgstr "KRÆFUR PHP"
+
+msgid "REQUIRES WP"
+msgstr "KRÆFUR WP"
+
+msgid "Read less"
+msgstr "Lestu minna"
+
+msgid "Recent Vulnerabilities"
+msgstr "Nýlegir Veikleikar"
+
+msgid "Refunded"
+msgstr "Endurgreitt"
+
+msgid "Requires immediate action"
+msgstr "Krefur strax aðgerða"
+
+msgid "Requires immediate attention"
+msgstr "Krefur strax athygli"
+
+msgid "Scanning..."
+msgstr "Skannar..."
+
+msgid "Schedule for review"
+msgstr "Áætla fyrir yfirferð"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "Áætla tíma til að skoða og laga þessi mál."
+
+msgid "Secure Items"
+msgstr "Öruggir Hluti"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "Öryggisveikleikar fundust í WordPress útgáfu. Mælt er með að uppfæra í nýjustu útgáfuna."
+
+msgid "Should be fixed soon"
+msgstr "Ætti að vera lagað fljótt"
+
+msgid "Third-party plugins installed"
+msgstr "Viðbætur þriðja aðila uppsettar"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "Reyndu að stilla síur eða leitarskilyrði"
+
+msgid "Unknown Plugin"
+msgstr "Óþekkt Viðbót"
+
+msgid "Unknown Theme"
+msgstr "Óþekkt Sniðmát"
+
+msgid "VERSION"
+msgstr "ÚTGÁFA"
+
+msgid "View Page"
+msgstr "Skoða Síðu"
+
+msgid "Vortem Logo"
+msgstr "Vortem Merki"
+
+msgid "Vulnerabilities by Type"
+msgstr "Veikleikar eftir Tegund"
+
+msgid "Vulnerability"
+msgstr "Veikleiki"
+
+msgid "Vulnerability Details"
+msgstr "Nánari Upplýsingar um Veikleika"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "Dreifing Veikleika eftir Alvarleikastigi"
+
+msgid "WordPress Vulnerability"
+msgstr "WordPress Veikleiki"
+
+msgid "WordPress themes"
+msgstr "WordPress sniðmát"
+
+msgid "Your WP Core is Secure"
+msgstr "WP kjarninn þinn er Öruggur"
+
+msgid "Your plugins are secure!"
+msgstr "Viðbæturnar þínar eru öruggar!"
+
+msgid "Your site is secure"
+msgstr "Síðan þín er örugg"
+
+msgid "Your themes are secure!"
+msgstr "Sniðmátin þín eru örugg!"
+
+msgid "answer:"
+msgstr "Svar:"
+
+msgid "bulk_faqs_created"
+msgstr "%d FAQ voru búin til"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "Mistókst að búa til FAQ. Vinsamlegast reyndu aftur."
+
+msgid "faq"
+msgstr "FAQ"
+
+msgid "no_faqs_to_create"
+msgstr "Vinsamlegast bættu við að minnsta kosti einu FAQ áður en þú býrð til."
+
+msgid "of all vulnerabilities"
+msgstr "af öllum veikleikum"
+
+msgid "of installed items affected"
+msgstr "af uppsettum hlutum sem hafa verið áhrif"
+
+msgid "of items are clean"
+msgstr "hluta eru hreinn"
+
+msgid "of total"
+msgstr "af heildinni"
+
+msgid "question:"
+msgstr "Spurning:"
+
+msgid "remove"
+msgstr "Fjarlægja"
+
+msgid "vulnerabilities"
+msgstr "veikleikar"
+
+msgid "vulnerabilities found"
+msgstr "veikleikar fundust"
+
+msgid "← Previous"
+msgstr "← Fyrri"
+
+msgid "Filter by Severity:"
+msgstr "Sía eftir alvarleika:"
+
+msgid "All Severities"
+msgstr "Allir alvarleikastig"
+
+msgid "Let's Get You Started"
+msgstr "Byrjum"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "Ljúktu uppsetningunni á um 2 mínútum"
+
+msgid "Quick Setup"
+msgstr "Fljótleg uppsetning"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "Byrjaðu á mínútum með leiðbeindri uppsetningarferlinu okkar"
+
+msgid "Secure & Reliable"
+msgstr "Öruggt og áreiðanlegt"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "Öryggi á fyrirtækisstigi innbyggt í hvert íhlut"
+
+msgid "Optimized Performance"
+msgstr "Bætt afkastageta"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "Mjög hratt og bætt fyrir WordPress umhverfi"
+
+msgid "Next Step"
+msgstr "Næsta skref"
+
+msgid "Initial Configuration"
+msgstr "Upphafleg uppsetning"
+
+msgid "Set your default language and currency preferences"
+msgstr "Stilltu sjálfgefnu tungumála- og gjaldmiðlastillingarnar þínar"
+
+msgid "Please review and accept our terms to continue"
+msgstr "Vinsamlegast skoðaðu og samþykktu skilmálana okkar til að halda áfram"
+
+msgid "1. Service Availability"
+msgstr "1. Framboð þjónustu"
+
+msgid "2. Support"
+msgstr "2. Stuðningur"
+
+msgid "3. Updates"
+msgstr "3. Uppfærslur"
+
+msgid "I accept the Terms & Conditions"
+msgstr "Ég samþykki skilmálana og skilyrðin"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "Með því að merkja þennan reit staðfestir þú að þú hafir lesið og samþykkt að vera bundinn af þessum skilmálum og skilyrðum."
+
+msgid "Installation Complete!"
+msgstr "Uppsetning lokið!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "Viðbótin þín hefur verið stillt með góðum árangri og er tilbúin til notkunar. Þú getur nú byrjað að nota alla eiginleikana."
+
+msgid "Configuration Summary"
+msgstr "Uppsetningaryfirlit"
+
+msgid "Language:"
+msgstr "Tungumál:"
+
+msgid "Currency:"
+msgstr "Gjaldmiðill:"
+
+msgid "Terms Accepted:"
+msgstr "Skilmálar samþykktir:"
+
+msgid "Yes"
+msgstr "Já"
+
+msgid "Go to Dashboard"
+msgstr "Farðu á stjórnborðið"
+
+msgid "Go to Analytics page"
+msgstr "Fara á greiningarsíðu"
+
+msgid "Go to Products page"
+msgstr "Fara á vörusíðu"
+
+msgid "Go to Matomo Analytics page"
+msgstr "Fara á Matomo Analytics-síðu"
+
+msgid "Restart Wizard"
+msgstr "Endurræsa leiðbeiningar"
+
+msgid "Restart"
+msgstr "Endurræsa"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "Þetta mun endurstilla uppsetningarferlið. Ertu viss?"
+
+msgid "Confirm Restart"
+msgstr "Staðfesta endurræsingu"
+
+msgid "Back"
+msgstr "Til baka"
+
+msgid "Welcome"
+msgstr "Velkomin"
+
+msgid "Configuration"
+msgstr "Uppsetning"
+
+msgid "Complete"
+msgstr "Lokið"
+
+msgid "Insufficient permissions"
+msgstr "Ófullnægjandi heimildir"
+
+msgid "Language parameter is required"
+msgstr "Tungumálaparameter er nauðsynlegur"
+
+msgid "Translation manager not available"
+msgstr "Þýðingastjóri er ekki tiltækur"
+
+msgid "Unsupported language"
+msgstr "Óstudd tungumál"
+
+msgid "Language changed successfully"
+msgstr "Tungumál var breytt með góðum árangri"
+
+msgid "Failed to change language"
+msgstr "Mistókst að breyta tungumáli"
+
+msgid "Currency parameter is required"
+msgstr "Gjaldmiðilsparameter er nauðsynlegur"
+
+msgid "Unsupported currency"
+msgstr "Óstuddur gjaldmiðill"
+
+msgid "Currency changed successfully"
+msgstr "Gjaldmiðill var breytt með góðum árangri"
+
+msgid "Loading"
+msgstr "Hleður"
+
+msgid "Search..."
+msgstr "Leita..."
+
+msgid "Search Language"
+msgstr "Leita að tungumáli"
+
+msgid "No languages found"
+msgstr "Engin tungumál fundust"
+
+msgid "No currencies found"
+msgstr "Engir gjaldmiðlar fundust"
+
+msgid "Failed to load currencies"
+msgstr "Mistókst að hlaða gjaldmiðlum"
+
+msgid "Error loading currencies"
+msgstr "Villa við að hlaða gjaldmiðlum"
+
+msgid "Failed to restart wizard"
+msgstr "Mistókst að endurræsa leiðbeinanda"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "Villa kom upp við að endurræsa leiðbeinanda. Vinsamlegast reyndu aftur."
+
+msgid "Please complete the current step before proceeding."
+msgstr "Vinsamlegast ljúktu við núverandi skrefi áður en þú heldur áfram."
+
+msgid "Please wait for authentication to complete."
+msgstr "Vinsamlegast bíddu eftir að auðkenning ljúki."
+
+msgid "Please accept the terms and conditions."
+msgstr "Vinsamlegast samþykktu skilmála og skilyrði."
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "Vinsamlegast samþykktu skilmála og skilyrði áður en þú heldur áfram."
+
+msgid "Please complete authentication first."
+msgstr "Vinsamlegast ljúktu við auðkenningu fyrst."
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "Vinsamlegast samþykktu skilmála og skilyrði áður en þú lýkur uppsetningu."
+
+msgid "Failed to complete setup"
+msgstr "Mistókst að ljúka uppsetningu"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "Villa kom upp við að ljúka uppsetningu. Vinsamlegast reyndu aftur."
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "Setutákn fannst ekki. Vinsamlegast ljúktu við auðkenningu fyrst."
+
+msgid "An error occurred while switching language"
+msgstr "Villa kom upp við að skipta um tungumál"
+
+msgid "An error occurred while switching currency"
+msgstr "Villa kom upp við að skipta um gjaldmiðil"
+
+msgid "Last updated: %1$s • Live"
+msgstr "Síðast uppfært: %1$s • Beint"
+
+msgid "Last 30 days"
+msgstr "Síðustu 30 dagar"
+
+msgid "Traffic Overview"
+msgstr "Yfirlit umferðar"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "Matomo greining – síðustu 30 dagar"
+
+msgid "Today's Focus"
+msgstr "Fókus dagsins"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "Yfirlit Vortem.ai viðbótar"
+
+msgid "Read More"
+msgstr "Lesa meira"
+
+msgid "Check your dashboard regularly"
+msgstr "Athugaðu yfirlitsskjáinn reglulega"
+
+msgid "View Analytics"
+msgstr "Skoða greiningu"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem viðurkennt sem efsta AI vettvangur 2026"
+
+msgid "Order Statistics"
+msgstr "Tölfræði pantana"
+
+msgid "Today's Orders Completed"
+msgstr "Pantanir lokið í dag"
+
+msgid "Total Orders Completed"
+msgstr "Heildarfjöldi lokiðra pantana"
+
+msgid "Imported Products"
+msgstr "Innfluttar vörur"
+
+msgid "Recent Activity"
+msgstr "Nýleg virkni"
+
+msgid "Overview dashboard loaded"
+msgstr "Yfirlitsskjár hlaðið"
+
+msgid "Just now"
+msgstr "Rétt í þessu"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "Þú getur stjórnað vörum, greiningu og tölvupóstmarkaðssetningu héðan"
+
+msgid "Ready"
+msgstr "Tilbúið"
+
+msgid "Configure plugin settings and API keys"
+msgstr "Stilltu viðbótastillingar og API lykla"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "Vortem.ai viðbót er tilbúin. Þú getur stjórnað vörum, greiningu og tölvupóstmarkaðssetningu héðan."
+
+msgid "Vortem.ai official website"
+msgstr "Opinber vefsíða Vortem.ai"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "Sigla, læra og stjórna reikningnum þínum"
+
+msgid "Quick Access"
+msgstr "Flýtiaðgangur"
+
+msgid "Return to dashboard home"
+msgstr "Til baka á yfirlitsskjá"
+
+msgid "Go to Home"
+msgstr "Á heimasíðu"
+
+msgid "Profile, settings, and preferences"
+msgstr "Prófíll, stillingar og kjörstillingar"
+
+msgid "Help & Learning"
+msgstr "Hjálp og náms"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "Fáðu hjálp, sendu miða eða hafðu samband við þjónustu"
+
+msgid "Get Support"
+msgstr "Fáðu stuðning"
+
+msgid "Developer & user guides"
+msgstr "Leiðbeiningar fyrir þróunaraðila og notendur"
+
+msgid "Read Docs"
+msgstr "Lestu skjöl"
+
+msgid "Legal & Policies"
+msgstr "Lögleg og stefnur"
+
+msgid "Terms of Service"
+msgstr "Skilmálar þjónustu"
+
+msgid "Usage terms and conditions"
+msgstr "Notkunarskilmálar"
+
+msgid "View"
+msgstr "Skoða"
+
+msgid "Privacy Policy"
+msgstr "Meðferð persónuupplýsinga"
+
+msgid "Data protection and privacy"
+msgstr "Vernd gagna og næði"
+
+msgid "Navigation to vortem wordpress"
+msgstr "Leiðsögn til Vortem WordPress"
+
+msgid "Access key features and settings"
+msgstr "Aðgangur að lykilaðgerðum og stillingum"
+
+msgid "Manage catalog and inventory"
+msgstr "Stjórna vörulista og birgðum"
+
+msgid "Business insights and metrics"
+msgstr "Viðskiptainnsýn og mælingar"
+
+msgid "Growth & Intelligence"
+msgstr "Vöxtur og gáfa"
+
+msgid "Campaigns and automation"
+msgstr "Herferðir og sjálfvirkni"
+
+msgid "AI-powered recommendations"
+msgstr "AI knúin tillögur"
+
+msgid "Manage orders and shipments"
+msgstr "Stjórna pöntunum og sendingum"
+
+msgid "System"
+msgstr "Kerfi"
+
+msgid "Knowledge base editor"
+msgstr "Ritstjóri þekkingargrunns"
+
+msgid "Access control and monitoring"
+msgstr "Aðgangsstýring og eftirlit"
+
+msgid "System configuration"
+msgstr "Kerfisuppsetning"
+
+msgid "Emails Sent"
+msgstr "Sendir tölvupóstar"
+
+msgid "Orders"
+msgstr "Pantanir"
+
+msgid "Total products"
+msgstr "Heildarfjöldi vara"
+
+msgid "Imported via plugin"
+msgstr "Innflutt með viðbót"
+
+msgid "Other products"
+msgstr "Aðrar vörur"
+
+msgid "Manage"
+msgstr "Stjórna"
+
+msgid "bounce"
+msgstr "hækkun"
+
+
+msgid "Dashboard"
+msgstr "Stjórnborð"
+
+msgid "Plugin"
+msgstr "Viðbót"
+
+msgid "External"
+msgstr "Ytri"
+
+msgid "Navigation to vortem WordPress"
+msgstr "Leiðsögn að vortem WordPress"
+
+msgid "Commerce"
+msgstr "Verslun"
+
+msgid "Timeline"
+msgstr "Tímalína"
+
+msgid "Security Center"
+msgstr "Öryggismiðstöð"
+
+msgid "Display"
+msgstr "Birting"
+
+msgid "How products and currency are presented in your store."
+msgstr "Hvernig vörur og gjaldmiðill eru sýndar í verslun þinni."
+
+msgid "Products per page"
+msgstr "Vörur á síðu"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "Sjálfgefið: 16. Svið: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "Gjaldmiðill notaður í verðlagningu viðbótarinnar. Smelltu á \"Uppfæra\" til að vista val þitt."
+
+msgid "Media"
+msgstr "Margmiðlun"
+
+msgid "Control how product videos are imported and attached."
+msgstr "Stjórnaðu hvernig vörumyndskeið eru flutt inn og hengd við."
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "Þegar virkjað, eru vörumyndskeið sjálfkrafa bætt við lýsinguna. Slökktu til að stjórna myndskeiðum handvirkt."
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "Þegar slökkt er á, eru myndskeið ekki sótt fyrir Vortem Clothes, Vortem Cosmetic og xstore þemu — sparar geymslupláss."
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "Sækja myndskeið fyrir Vortem og xstore þemu"
+
+msgid "Integrations"
+msgstr "Samþættingar"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "Tengdu ytri reikninga til að víkka innkaup og afhendingu."
+
+msgid "Update"
+msgstr "Uppfæra"
+
+msgid "Last updated"
+msgstr "Síðast uppfært"
+
+msgid "Setup"
+msgstr "Uppsetning"
+
+msgid "Let's get you started"
+msgstr "Byrjum"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "Ljúktu við uppsetningu á um 2 mínútum."
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "Vöruinnflutnings eiginleikar Vortem krefjast AliExpress reiknings."
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "Þú tengir hann síðar undir Stillingar → Vortem → AliExpress samþætting. Enginn reikningur ennþá? Þú getur líka skráð þig þaðan."
+
+msgid "Up and running in minutes."
+msgstr "Í gangi á nokkrum mínútum."
+
+msgid "Built with WordPress security best practices."
+msgstr "Byggt með öryggisvenjum WordPress að leiðarljósi."
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "Létt og stillt fyrir WordPress."
+
+msgid "Store basics"
+msgstr "Grunnur verslunar"
+
+msgid "Pick your store currency"
+msgstr "Veldu gjaldmiðil verslunar"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "Þetta sjá viðskiptavinir við greiðslu. Hægt er að breyta síðar."
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "Notað á vörukortum, í körfu og við greiðslu."
+
+msgid "Almost there"
+msgstr "Næstum klárt"
+
+msgid "Review and accept"
+msgstr "Yfirfara og samþykkja"
+
+msgid "Read the full Terms"
+msgstr "Lesa skilmálana að fullu"
+
+msgid "You agree to be bound by these terms."
+msgstr "Þú samþykkir að vera bundinn þessum skilmálum."
+
+msgid "I consent to data processing"
+msgstr "Ég veiti samþykki fyrir vinnslu gagna"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "Ég skil og samþykki að þessi viðbót sendi gögn vefsíðu minnar (vefslóð, útgáfa WordPress, útgáfa viðbótar, gjaldmiðilsval, WooCommerce vörugögn við innflutning, sendingarupplýsingar við meðhöndlun pantana og lýsigögn viðbóta/eða þema þegar öryggiseiginleikar eru notaðir) á netþjóna vortem.ai (https://c.vortem.ai) til vinnslu, greiningar og þjónustu. Engin gögn eru send fyrr en þú veitir skýrt samþykki, og viðbótin virkar enn ef þú hafnar (eiginleikar sem byggja á vortem.ai verða þá ekki tiltækir). Að senda yfirlit yfir uppsettar viðbætur/þemu til að leita að veikleikum fylgir sama mynstri og Wordfence, Patchstack, WPScan og Jetpack Protect."
+
+msgid "All done"
+msgstr "Lokið"
+
+msgid "You're all set!"
+msgstr "Allt klappar og kallar!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem er stillt og tilbúið. Tengdu AliExpress í Stillingum þegar þú ert til."
+
+msgid "Accepted"
+msgstr "Samþykkt"
+
+msgid "Consented"
+msgstr "Samþykki veitt"
+
+msgid "Data processing"
+msgstr "Vinnsla gagna"
+
+msgid "Meta Title"
+msgstr "Lýsingartitill"
+
+msgid "Order"
+msgstr "Pöntun"
+
+msgid "Customer"
+msgstr "Viðskiptavinur"
+
+msgid "Items"
+msgstr "Línur"
+
+msgid "Payment"
+msgstr "Greiðsla"

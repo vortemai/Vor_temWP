@@ -1,0 +1,13 @@
+/**
+ * WordPress admin: remove default #wpcontent side padding (typically 20px) next to the admin menu.
+ * LTR: core uses padding-left; RTL: core uses padding-right.
+ *
+ * @package VortemAI
+ */
+body.wp-admin:not(.rtl) #wpcontent {
+	padding-left: 0 !important;
+}
+
+body.wp-admin.rtl #wpcontent {
+	padding-right: 0 !important;
+}

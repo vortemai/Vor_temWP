@@ -1,0 +1,1349 @@
+/**
+ * Vortem Setup Wizard - Split Panel Design
+ *
+ * Layout: persistent left rail (brand + vertical step nav) + right pane (step content).
+ * Visual language: teal palette, rounded card, soft shadows, motion respects
+ * prefers-reduced-motion.
+ */
+
+/* ============================================================
+   1. Tokens
+   ============================================================ */
+
+:root {
+	--vortem-primary: #0E626B;
+	--vortem-primary-hover: #0B4F55;
+	--vortem-secondary: #4D9E7B;
+	--vortem-accent: #52B2BB;
+	--vortem-success: #08B83B;
+	--vortem-danger: #DC2266;
+
+	--vortem-bg-gradient-start: rgba(82, 178, 187, 0.20);
+	--vortem-bg-gradient-mid:   rgba(77, 158, 123, 0.10);
+	--vortem-bg-gradient-end:   rgba(14,  98, 107, 0.20);
+
+	--vortem-rail-grad: linear-gradient(160deg, #0E626B 0%, #1B7A7F 55%, #4D9E7B 100%);
+
+	--vortem-text-primary: #111827;
+	--vortem-text-secondary: #4B5563;
+	--vortem-text-muted: #6B7280;
+	--vortem-bg-white: #ffffff;
+	--vortem-bg-soft: #F9FAFB;
+	--vortem-bg-soft-hover: #F0F6FC;
+
+	--vortem-border-color: #E5E7EB;
+	--vortem-border-color-medium: #D1D5DB;
+
+	--vortem-radius-card: 20px;
+	--vortem-radius-pill: 12px;
+	--vortem-radius-sm: 8px;
+
+	--vortem-shadow-sm: 0 1px 2px rgba(17, 24, 39, .04);
+	--vortem-shadow-md: 0 6px 16px -6px rgba(17, 24, 39, .12);
+	--vortem-shadow-card: 0 24px 48px -16px rgba(14, 98, 107, .22);
+
+	--vortem-focus-ring: 0 0 0 2px var(--vortem-bg-white), 0 0 0 4px rgba(14, 98, 107, .55);
+}
+
+/* ============================================================
+   2. WordPress admin host overrides
+   ============================================================ */
+
+body.wp-admin.admin_page_vortem-setup-wizard {
+	background: linear-gradient(135deg, var(--vortem-bg-gradient-start), var(--vortem-bg-gradient-mid), var(--vortem-bg-gradient-end)) !important;
+	background-attachment: fixed !important;
+	background-size: 100% 100% !important;
+	min-height: 100vh;
+}
+
+body.wp-admin.admin_page_vortem-setup-wizard #wpwrap,
+body.wp-admin.admin_page_vortem-setup-wizard #wpcontent,
+body.wp-admin.admin_page_vortem-setup-wizard #wpbody,
+body.wp-admin.admin_page_vortem-setup-wizard #wpbody-content {
+	background: transparent !important;
+	min-height: 100vh;
+}
+
+body.wp-admin.admin_page_vortem-setup-wizard #wpcontent {
+	margin-left: 0 !important;
+	padding: 0 !important;
+}
+
+body.wp-admin.admin_page_vortem-setup-wizard #wpbody {
+	min-height: 0 !important;
+	padding: 0 !important;
+	flex: 0 0 auto !important;
+}
+
+body.wp-admin.admin_page_vortem-setup-wizard #wpbody-content {
+	padding-top: 0 !important;
+	margin-top: 0 !important;
+	float: none !important;
+	width: 100% !important;
+}
+
+body.wp-admin.admin_page_vortem-setup-wizard #wpfooter {
+	display: none !important;
+}
+
+/* Hide stray notices inside the wizard */
+.vortem-wizard-container .notice,
+.vortem-wizard-container .vortem-plugin-notice,
+.vortem-wizard-container .vortem-custom-notice,
+.vortem-wizard-container .vortem-notice,
+.vortem-wizard-container .vortem-auto-validation-notice,
+.vortem-wizard-container .vortem-auto-fetch-notice {
+	display: none !important;
+}
+
+/* ============================================================
+   3. Container & card shell
+   ============================================================ */
+
+.vortem-wizard-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	padding: 32px 20px;
+	box-sizing: border-box;
+}
+
+.vortem-wizard-card {
+	width: 100%;
+	max-width: 980px;
+	background: var(--vortem-bg-white);
+	border-radius: var(--vortem-radius-card);
+	box-shadow: var(--vortem-shadow-card);
+	overflow: hidden;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	color: var(--vortem-text-primary);
+}
+
+.vortem-wizard-card.vortem-wizard-split {
+	display: grid;
+	grid-template-columns: 264px 1fr;
+	min-height: 560px;
+}
+
+/* ============================================================
+   4. Left rail
+   ============================================================ */
+
+.wizard-rail {
+	position: relative;
+	background: var(--vortem-rail-grad);
+	color: #fff;
+	padding: 28px 22px;
+	display: flex;
+	flex-direction: column;
+	gap: 22px;
+	overflow: hidden;
+}
+
+.wizard-rail-orb {
+	position: absolute;
+	right: -42px;
+	bottom: -42px;
+	width: 160px;
+	height: 160px;
+	border-radius: 50%;
+	background: rgba(255, 255, 255, .08);
+	pointer-events: none;
+	filter: blur(2px);
+}
+
+.wizard-rail-brand {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.wizard-rail-logo {
+	width: 36px;
+	height: 36px;
+	border-radius: 9px;
+	background: rgba(255, 255, 255, .18);
+	display: grid;
+	place-items: center;
+	overflow: hidden;
+	flex-shrink: 0;
+}
+
+.wizard-rail-logo img {
+	max-width: 24px;
+	max-height: 24px;
+	display: block;
+	filter: brightness(0) invert(1);
+}
+
+.wizard-rail-wordmark {
+	font-size: 15px;
+	font-weight: 700;
+	letter-spacing: -0.01em;
+	color: #fff;
+}
+
+.wizard-rail-counter {
+	display: flex;
+	flex-direction: column;
+	gap: 3px;
+}
+
+.wizard-rail-counter-eyebrow {
+	font-size: 10px;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.10em;
+	color: rgba(255, 255, 255, .65);
+}
+
+.wizard-rail-counter-value {
+	font-size: 13px;
+	font-weight: 600;
+	color: #fff;
+}
+
+/* Vertical step list */
+.wizard-rail-steps {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
+}
+
+.wizard-rail-step {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	padding: 10px 8px;
+	border-radius: var(--vortem-radius-sm);
+	font-size: 13px;
+	line-height: 1.2;
+	transition: background-color 160ms ease, color 160ms ease;
+}
+
+.wizard-rail-step.is-pending {
+	color: rgba(255, 255, 255, .55);
+}
+
+.wizard-rail-step.is-done {
+	color: rgba(255, 255, 255, .92);
+}
+
+.wizard-rail-step.is-active {
+	background: rgba(255, 255, 255, .14);
+	color: #fff;
+}
+
+.wizard-rail-step-indicator {
+	flex: 0 0 22px;
+	width: 22px;
+	height: 22px;
+	border-radius: 50%;
+	display: grid;
+	place-items: center;
+	font-size: 11px;
+	font-weight: 600;
+	background: rgba(255, 255, 255, .15);
+	color: rgba(255, 255, 255, .85);
+	transition: background-color 200ms ease, color 200ms ease, transform 200ms ease;
+}
+
+.wizard-rail-step.is-active .wizard-rail-step-indicator {
+	background: #fff;
+	color: var(--vortem-primary);
+}
+
+.wizard-rail-step.is-done .wizard-rail-step-indicator {
+	background: #fff;
+	color: var(--vortem-primary);
+	transform: scale(1);
+	animation: vortem-rail-pop 220ms ease;
+}
+
+@keyframes vortem-rail-pop {
+	from { transform: scale(0.7); }
+	to   { transform: scale(1); }
+}
+
+.wizard-rail-step-label {
+	font-weight: 500;
+}
+
+.wizard-rail-footer {
+	margin-top: auto;
+	padding-top: 12px;
+}
+
+.wizard-rail-link {
+	display: inline-flex;
+	align-items: center;
+	gap: 7px;
+	background: transparent;
+	border: 0;
+	padding: 6px 8px;
+	margin: 0 -8px;
+	color: rgba(255, 255, 255, .8);
+	font: inherit;
+	font-size: 12px;
+	font-weight: 500;
+	text-decoration: none;
+	cursor: pointer;
+	border-radius: var(--vortem-radius-sm);
+	transition: background-color 160ms ease, color 160ms ease;
+}
+
+.wizard-rail-link:hover,
+.wizard-rail-link:focus-visible {
+	background: rgba(255, 255, 255, .12);
+	color: #fff;
+	outline: none;
+}
+
+.wizard-rail-link:focus-visible {
+	box-shadow: 0 0 0 2px rgba(255, 255, 255, .85);
+}
+
+/* ============================================================
+   5. Right pane
+   ============================================================ */
+
+.wizard-pane {
+	padding: 40px 44px;
+	display: flex;
+	flex-direction: column;
+	min-width: 0;
+}
+
+.wizard-content-wrapper {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	min-width: 0;
+}
+
+.step-content {
+	display: flex;
+	flex-direction: column;
+	gap: 14px;
+	flex: 1;
+	min-width: 0;
+	animation: vortem-pane-in 200ms ease both;
+}
+
+@keyframes vortem-pane-in {
+	from { opacity: 0; transform: translateY(4px); }
+	to   { opacity: 1; transform: translateY(0); }
+}
+
+.step-header {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	margin-bottom: 4px;
+}
+
+.step-eyebrow {
+	font-size: 11px;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.10em;
+	color: var(--vortem-primary);
+}
+
+.step-title {
+	font-size: 24px;
+	line-height: 1.2;
+	font-weight: 700;
+	margin: 0;
+	color: var(--vortem-text-primary);
+}
+
+.step-subtitle {
+	font-size: 14px;
+	line-height: 1.5;
+	margin: 0;
+	color: var(--vortem-text-muted);
+}
+
+/* Navigation row */
+.wizard-navigation {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 12px;
+	margin-top: auto;
+	padding-top: 24px;
+}
+
+.wizard-nav-left,
+.wizard-nav-right {
+	display: flex;
+	gap: 8px;
+}
+
+/* ============================================================
+   6. Buttons (shared)
+   ============================================================ */
+
+.wizard-button {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+	font-family: inherit;
+	font-size: 13px;
+	font-weight: 600;
+	line-height: 1;
+	padding: 11px 18px;
+	border-radius: var(--vortem-radius-sm);
+	border: 1px solid transparent;
+	cursor: pointer;
+	background: transparent;
+	color: var(--vortem-text-primary);
+	transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease, transform 100ms ease, opacity 160ms ease;
+}
+
+.wizard-button:focus-visible {
+	outline: none;
+	box-shadow: var(--vortem-focus-ring);
+}
+
+.wizard-button:hover { transform: translateY(-1px); }
+.wizard-button:active { transform: translateY(0); }
+
+.wizard-button-primary {
+	background: var(--vortem-primary);
+	color: #fff;
+	border-color: var(--vortem-primary);
+}
+
+.wizard-button-primary:hover {
+	background: var(--vortem-primary-hover);
+	border-color: var(--vortem-primary-hover);
+	color: #fff;
+}
+
+.wizard-button-secondary {
+	background: var(--vortem-bg-white);
+	color: var(--vortem-text-primary);
+	border-color: var(--vortem-border-color);
+}
+
+.wizard-button-secondary:hover {
+	background: var(--vortem-bg-soft);
+	border-color: var(--vortem-border-color-medium);
+	color: var(--vortem-text-primary);
+}
+
+.wizard-button[disabled],
+.wizard-button.disabled {
+	opacity: 0.45;
+	cursor: not-allowed;
+	transform: none;
+	pointer-events: none;
+}
+
+/* Shake when user tries to advance step 3 without consents */
+.wizard-button.is-shaking {
+	animation: vortem-shake 360ms cubic-bezier(.36, .07, .19, .97);
+}
+
+@keyframes vortem-shake {
+	10%, 90% { transform: translateX(-2px); }
+	20%, 80% { transform: translateX(3px); }
+	30%, 50%, 70% { transform: translateX(-4px); }
+	40%, 60% { transform: translateX(4px); }
+}
+
+/* ============================================================
+   7. Welcome step
+   ============================================================ */
+
+.setup-info-green {
+	display: flex;
+	gap: 12px;
+	align-items: flex-start;
+	background: #ECFDF5;
+	border-left: 3px solid var(--vortem-secondary);
+	padding: 14px 16px;
+	border-radius: 0 var(--vortem-radius-sm) var(--vortem-radius-sm) 0;
+	color: #065F46;
+}
+
+.setup-info-icon {
+	color: var(--vortem-secondary);
+	flex: 0 0 18px;
+	margin-top: 1px;
+}
+
+.setup-info-text { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.setup-info-text p { margin: 0; font-size: 13px; line-height: 1.5; }
+.setup-info-bold { font-weight: 600; color: #065F46; }
+
+.welcome-features-grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 12px;
+	margin-top: 4px;
+}
+
+.welcome-feature-card {
+	background: var(--vortem-bg-white);
+	border: 1px solid var(--vortem-border-color);
+	border-radius: var(--vortem-radius-pill);
+	padding: 16px;
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.welcome-feature-card:hover {
+	transform: translateY(-2px);
+	border-color: rgba(14, 98, 107, .35);
+	box-shadow: var(--vortem-shadow-md);
+}
+
+.welcome-feature-icon {
+	width: 32px;
+	height: 32px;
+	border-radius: 9px;
+	background: rgba(82, 178, 187, .15);
+	color: var(--vortem-primary);
+	display: grid;
+	place-items: center;
+	transition: background-color 180ms ease;
+}
+
+.welcome-feature-card:hover .welcome-feature-icon {
+	background: rgba(14, 98, 107, .15);
+}
+
+.welcome-feature-title {
+	margin: 0;
+	font-size: 13px;
+	font-weight: 600;
+	color: var(--vortem-text-primary);
+}
+
+.welcome-feature-description {
+	margin: 0;
+	font-size: 12px;
+	line-height: 1.45;
+	color: var(--vortem-text-muted);
+}
+
+/* ============================================================
+   8. Configuration step
+   ============================================================ */
+
+.configuration-form {
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+	max-width: 460px;
+}
+
+.configuration-field {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.configuration-label {
+	display: inline-flex;
+	align-items: center;
+	gap: 7px;
+	font-size: 12px;
+	font-weight: 600;
+	color: var(--vortem-text-primary);
+}
+
+.vortem-wizard-icon {
+	display: inline-grid;
+	place-items: center;
+	width: 22px;
+	height: 22px;
+	border-radius: 6px;
+	background: rgba(14, 98, 107, .08);
+	color: var(--vortem-primary);
+	flex-shrink: 0;
+}
+
+.configuration-helper {
+	display: flex;
+	align-items: flex-start;
+	gap: 8px;
+	margin: 4px 0 0;
+	font-size: 12px;
+	line-height: 1.5;
+	color: var(--vortem-text-muted);
+}
+
+.configuration-helper-bullet {
+	color: var(--vortem-primary);
+	font-weight: 700;
+	line-height: 1;
+}
+
+/* Currency pill (closed state) */
+.vortem-custom-currency-select {
+	position: relative;
+	width: 100%;
+}
+
+.vortem-currency-select-display {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+	padding: 14px 16px;
+	background: var(--vortem-bg-soft);
+	border: 1px solid var(--vortem-border-color);
+	border-radius: var(--vortem-radius-pill);
+	cursor: pointer;
+	transition: border-color 160ms ease, background-color 160ms ease, box-shadow 160ms ease;
+	min-height: 56px;
+	box-sizing: border-box;
+}
+
+.vortem-currency-select-display:hover {
+	background: var(--vortem-bg-white);
+	border-color: var(--vortem-border-color-medium);
+}
+
+.vortem-custom-currency-select:focus-within .vortem-currency-select-display,
+.vortem-currency-select-display.active {
+	background: var(--vortem-bg-white);
+	border-color: var(--vortem-primary);
+	box-shadow: 0 0 0 3px rgba(14, 98, 107, .12);
+}
+
+.vortem-currency-flag-placeholder {
+	flex: 0 0 28px;
+	width: 28px;
+	height: 28px;
+	border-radius: 50%;
+	background: rgba(14, 98, 107, .08);
+	display: grid;
+	place-items: center;
+	overflow: hidden;
+}
+
+.vortem-currency-flag-placeholder .vortem-currency-flag-container,
+.vortem-currency-flag-placeholder .vortem-currency-flag {
+	width: 100%;
+	height: 100%;
+	display: grid;
+	place-items: center;
+}
+
+.vortem-currency-flag-placeholder .vortem-currency-flag-svg svg,
+.vortem-currency-flag-placeholder svg {
+	width: 28px;
+	height: 28px;
+	display: block;
+}
+
+.vortem-currency-text {
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
+	flex: 1;
+	min-width: 0;
+}
+
+.vortem-currency-text .currency-line-1 {
+	font-size: 13px;
+	font-weight: 600;
+	color: var(--vortem-text-primary);
+	line-height: 1.2;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.vortem-currency-text .currency-line-2 {
+	font-size: 11px;
+	font-weight: 400;
+	color: var(--vortem-text-muted);
+	line-height: 1.2;
+}
+
+.vortem-currency-chevron {
+	color: var(--vortem-text-muted);
+	transition: transform 200ms ease;
+	flex-shrink: 0;
+}
+
+.vortem-currency-select-display.active .vortem-currency-chevron {
+	transform: rotate(180deg);
+}
+
+/* Currency dropdown (open state) */
+.vortem-currency-select-dropdown {
+	position: absolute;
+	top: calc(100% + 6px);
+	left: 0;
+	right: 0;
+	background: var(--vortem-bg-white);
+	border: 1px solid var(--vortem-border-color);
+	border-radius: var(--vortem-radius-pill);
+	box-shadow: 0 12px 32px -8px rgba(17, 24, 39, .18);
+	max-height: 320px;
+	overflow: hidden;
+	display: none;
+	z-index: 100;
+	opacity: 0;
+	transform: translateY(-4px);
+	transition: opacity 140ms ease, transform 140ms ease;
+}
+
+.vortem-currency-select-dropdown.show {
+	display: flex;
+	flex-direction: column;
+	opacity: 1;
+	transform: translateY(0);
+}
+
+.vortem-currency-loading {
+	padding: 18px;
+	text-align: center;
+	font-size: 12px;
+	color: var(--vortem-text-muted);
+}
+
+.vortem-currency-dropdown-list {
+	overflow-y: auto;
+	padding: 6px;
+	display: flex;
+	flex-direction: column;
+}
+
+.vortem-currency-search-wrapper {
+	position: sticky;
+	top: 0;
+	background: var(--vortem-bg-white);
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	padding: 8px 10px;
+	border-bottom: 1px solid var(--vortem-border-color);
+	margin: -6px -6px 6px;
+	z-index: 1;
+}
+
+.vortem-currency-search-wrapper .dashicons {
+	color: var(--vortem-text-muted);
+	font-size: 16px;
+	width: 16px;
+	height: 16px;
+}
+
+.vortem-currency-search-input {
+	flex: 1;
+	border: 0;
+	background: transparent;
+	font-size: 13px;
+	color: var(--vortem-text-primary);
+	outline: none;
+	padding: 4px 0;
+}
+
+.vortem-currency-search-input::placeholder { color: var(--vortem-text-muted); }
+
+.vortem-currency-group {
+	display: flex;
+	flex-direction: column;
+}
+
+.vortem-currency-group-header {
+	font-size: 10px;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	color: var(--vortem-text-muted);
+	padding: 8px 10px 4px;
+}
+
+.vortem-currency-option {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	padding: 8px 10px;
+	border-radius: var(--vortem-radius-sm);
+	cursor: pointer;
+	transition: background-color 120ms ease;
+}
+
+.vortem-currency-option:hover {
+	background: var(--vortem-bg-soft);
+}
+
+.vortem-currency-option .vortem-currency-flag,
+.vortem-currency-option .vortem-currency-flag-container {
+	width: 24px;
+	height: 24px;
+	border-radius: 50%;
+	overflow: hidden;
+	display: grid;
+	place-items: center;
+	background: var(--vortem-bg-soft);
+	flex-shrink: 0;
+}
+
+.vortem-currency-option svg {
+	width: 24px;
+	height: 24px;
+	display: block;
+}
+
+.vortem-currency-option .vortem-currency-name {
+	flex: 1;
+	font-size: 13px;
+	color: var(--vortem-text-primary);
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.vortem-currency-option .vortem-currency-code {
+	color: var(--vortem-text-muted);
+	font-size: 12px;
+	margin-left: 4px;
+}
+
+.vortem-currency-option.selected {
+	background: rgba(14, 98, 107, .06);
+}
+
+.vortem-currency-option .dashicons-yes {
+	color: var(--vortem-primary);
+	font-size: 16px;
+	width: 16px;
+	height: 16px;
+}
+
+.vortem-currency-no-results {
+	padding: 16px;
+	text-align: center;
+	font-size: 12px;
+	color: var(--vortem-text-muted);
+}
+
+.vortem-currency-loading-dots {
+	display: inline-block;
+	margin-left: 2px;
+}
+
+.vortem-currency-loading-dots span {
+	display: inline-block;
+	animation: vortem-dot-bounce 1.2s infinite ease-in-out both;
+}
+
+.vortem-currency-loading-dots span:nth-child(2) { animation-delay: .15s; }
+.vortem-currency-loading-dots span:nth-child(3) { animation-delay: .30s; }
+
+@keyframes vortem-dot-bounce {
+	0%, 80%, 100% { opacity: .25; }
+	40%           { opacity: 1; }
+}
+
+/* ============================================================
+   9. Terms step
+   ============================================================ */
+
+.terms-content-box {
+	position: relative;
+	background: var(--vortem-bg-soft);
+	border: 1px solid var(--vortem-border-color);
+	border-radius: var(--vortem-radius-pill);
+	padding: 14px 16px;
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+}
+
+.terms-scroll {
+	max-height: 200px;
+	overflow-y: auto;
+	padding-right: 4px;
+	position: relative;
+	mask-image: linear-gradient(to bottom, #000 calc(100% - 28px), transparent 100%);
+	-webkit-mask-image: linear-gradient(to bottom, #000 calc(100% - 28px), transparent 100%);
+}
+
+.terms-scroll:focus-visible {
+	outline: 2px solid var(--vortem-primary);
+	outline-offset: 2px;
+	border-radius: 6px;
+}
+
+.terms-section + .terms-section { margin-top: 12px; }
+
+.terms-section-title {
+	font-size: 12px;
+	font-weight: 600;
+	margin: 0 0 4px;
+	color: var(--vortem-text-primary);
+}
+
+.terms-section-text {
+	font-size: 12px;
+	line-height: 1.5;
+	margin: 0;
+	color: var(--vortem-text-muted);
+}
+
+.terms-readmore {
+	display: inline-flex;
+	align-items: center;
+	gap: 5px;
+	font-size: 11px;
+	font-weight: 600;
+	color: var(--vortem-primary);
+	text-decoration: none;
+	margin-top: 4px;
+	align-self: flex-start;
+	padding: 4px 0;
+}
+
+.terms-readmore:hover { color: var(--vortem-primary-hover); }
+.terms-readmore:focus-visible { outline: 2px solid var(--vortem-primary); outline-offset: 2px; border-radius: 4px; }
+
+.terms-consent-stack {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.terms-checkbox-label {
+	display: grid;
+	grid-template-columns: auto 1fr;
+	align-items: flex-start;
+	gap: 12px;
+	padding: 12px 14px;
+	background: var(--vortem-bg-white);
+	border: 1px solid var(--vortem-border-color);
+	border-radius: var(--vortem-radius-pill);
+	cursor: pointer;
+	transition: border-color 160ms ease, background-color 160ms ease, box-shadow 160ms ease;
+}
+
+.terms-checkbox-label:hover {
+	border-color: var(--vortem-border-color-medium);
+}
+
+.terms-checkbox-label:has(input:checked),
+.terms-checkbox-label.is-checked {
+	border-color: var(--vortem-primary);
+	background: rgba(14, 98, 107, .04);
+	box-shadow: 0 0 0 1px rgba(14, 98, 107, .15) inset;
+}
+
+.terms-checkbox-input {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	margin: -1px;
+	padding: 0;
+	overflow: hidden;
+	clip: rect(0,0,0,0);
+	white-space: nowrap;
+	border: 0;
+}
+
+.terms-checkbox-custom {
+	width: 18px;
+	height: 18px;
+	border-radius: 5px;
+	border: 1.5px solid var(--vortem-border-color-medium);
+	background: var(--vortem-bg-white);
+	display: grid;
+	place-items: center;
+	margin-top: 1px;
+	transition: background-color 160ms ease, border-color 160ms ease;
+	flex-shrink: 0;
+	position: relative;
+}
+
+.terms-checkbox-custom::after {
+	content: "";
+	width: 9px;
+	height: 5px;
+	border-left: 2px solid #fff;
+	border-bottom: 2px solid #fff;
+	transform: rotate(-45deg) scale(0);
+	transform-origin: center;
+	transition: transform 160ms ease;
+	margin-bottom: 2px;
+}
+
+.terms-checkbox-input:checked ~ .terms-checkbox-custom {
+	background: var(--vortem-primary);
+	border-color: var(--vortem-primary);
+}
+
+.terms-checkbox-input:checked ~ .terms-checkbox-custom::after {
+	transform: rotate(-45deg) scale(1);
+}
+
+.terms-checkbox-input:focus-visible ~ .terms-checkbox-custom {
+	box-shadow: 0 0 0 3px rgba(14, 98, 107, .25);
+	outline: none;
+}
+
+.terms-checkbox-text {
+	display: flex;
+	flex-direction: column;
+	gap: 3px;
+	min-width: 0;
+}
+
+.terms-checkbox-title {
+	font-size: 13px;
+	font-weight: 600;
+	color: var(--vortem-text-primary);
+	margin: 0;
+}
+
+.terms-checkbox-description,
+.terms-checkbox-description p {
+	font-size: 12px;
+	line-height: 1.5;
+	color: var(--vortem-text-muted);
+	margin: 0;
+}
+
+.terms-checkbox-link {
+	color: var(--vortem-primary);
+	text-decoration: underline;
+	font-weight: 600;
+}
+
+.terms-checkbox-link:hover { color: var(--vortem-primary-hover); }
+
+/* Pulse a red ring around an unchecked consent row when user tries to advance */
+.terms-checkbox-label.is-invalid {
+	animation: vortem-invalid-pulse 700ms ease;
+}
+
+@keyframes vortem-invalid-pulse {
+	0%   { box-shadow: 0 0 0 0 rgba(220, 34, 102, 0); }
+	30%  { box-shadow: 0 0 0 3px rgba(220, 34, 102, .35); border-color: var(--vortem-danger); }
+	100% { box-shadow: 0 0 0 0 rgba(220, 34, 102, 0); }
+}
+
+/* ============================================================
+   10. Complete step
+   ============================================================ */
+
+.complete-step {
+	align-items: center;
+	text-align: center;
+	gap: 12px;
+	flex: 1;
+	justify-content: center;
+}
+
+.complete-burst {
+	width: 72px;
+	height: 72px;
+	border-radius: 50%;
+	background: linear-gradient(135deg, #4D9E7B 0%, #08B83B 100%);
+	color: #fff;
+	display: grid;
+	place-items: center;
+	box-shadow: 0 16px 32px -10px rgba(8, 184, 59, .45);
+	animation: vortem-burst 480ms cubic-bezier(.18, .89, .32, 1.28) both;
+	position: relative;
+}
+
+.complete-burst::after {
+	content: "";
+	position: absolute;
+	inset: -6px;
+	border-radius: 50%;
+	border: 2px solid rgba(8, 184, 59, .35);
+	animation: vortem-burst-ring 700ms ease-out both;
+}
+
+@keyframes vortem-burst {
+	from { transform: scale(0.6); opacity: 0; }
+	to   { transform: scale(1);   opacity: 1; }
+}
+
+@keyframes vortem-burst-ring {
+	from { transform: scale(0.85); opacity: 0.7; }
+	to   { transform: scale(1.25); opacity: 0; }
+}
+
+.complete-title {
+	margin: 4px 0 0;
+}
+
+.complete-description {
+	max-width: 440px;
+	margin: 0;
+}
+
+.complete-summary {
+	width: 100%;
+	max-width: 440px;
+	background: var(--vortem-bg-soft);
+	border: 1px solid var(--vortem-border-color);
+	border-radius: var(--vortem-radius-pill);
+	padding: 14px 16px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	margin-top: 6px;
+}
+
+.complete-summary-item {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 12px;
+	font-size: 13px;
+}
+
+.complete-summary-label {
+	color: var(--vortem-text-muted);
+	font-weight: 500;
+}
+
+.complete-summary-value {
+	color: var(--vortem-text-primary);
+	font-weight: 600;
+	display: inline-flex;
+	align-items: center;
+	gap: 5px;
+}
+
+.complete-summary-success {
+	color: var(--vortem-success);
+}
+
+.complete-actions {
+	display: flex;
+	gap: 10px;
+	width: 100%;
+	max-width: 440px;
+	margin-top: 6px;
+}
+
+.complete-button {
+	flex: 1;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+	font-family: inherit;
+	font-size: 13px;
+	font-weight: 600;
+	line-height: 1;
+	padding: 12px 18px;
+	border-radius: var(--vortem-radius-sm);
+	border: 1px solid transparent;
+	text-decoration: none;
+	cursor: pointer;
+	transition: background-color 160ms ease, border-color 160ms ease, transform 100ms ease;
+}
+
+.complete-button:hover { transform: translateY(-1px); }
+
+.complete-button-primary {
+	background: var(--vortem-primary);
+	color: #fff;
+	border-color: var(--vortem-primary);
+}
+.complete-button-primary:hover {
+	background: var(--vortem-primary-hover);
+	border-color: var(--vortem-primary-hover);
+	color: #fff;
+}
+
+.complete-button-secondary {
+	background: var(--vortem-bg-white);
+	color: var(--vortem-text-primary);
+	border-color: var(--vortem-border-color);
+}
+.complete-button-secondary:hover {
+	background: var(--vortem-bg-soft);
+	border-color: var(--vortem-border-color-medium);
+	color: var(--vortem-text-primary);
+}
+
+.complete-button:focus-visible {
+	outline: none;
+	box-shadow: var(--vortem-focus-ring);
+}
+
+/* ============================================================
+   11. Restart wizard modal
+   ============================================================ */
+
+.vortem-wizard-modal {
+	position: fixed;
+	inset: 0;
+	z-index: 99999;
+}
+
+.vortem-wizard-modal-overlay {
+	position: absolute;
+	inset: 0;
+	background: rgba(17, 24, 39, .35);
+	backdrop-filter: blur(2px);
+}
+
+.vortem-wizard-modal-content {
+	position: absolute;
+	width: min(420px, calc(100% - 40px));
+	background: var(--vortem-bg-white);
+	border-radius: var(--vortem-radius-card);
+	box-shadow: var(--vortem-shadow-card);
+	overflow: hidden;
+	animation: vortem-modal-in 200ms ease both;
+}
+
+@keyframes vortem-modal-in {
+	from { opacity: 0; transform: translate(-50%, calc(-50% + 12px)); }
+	to   { opacity: 1; transform: translate(-50%, -50%); }
+}
+
+.vortem-wizard-modal-header {
+	padding: 18px 22px 8px;
+}
+
+.vortem-wizard-modal-title {
+	margin: 0;
+	font-size: 16px;
+	font-weight: 700;
+	color: var(--vortem-text-primary);
+}
+
+.vortem-wizard-modal-body {
+	padding: 4px 22px 18px;
+}
+
+.vortem-wizard-modal-body p {
+	margin: 0;
+	font-size: 13px;
+	line-height: 1.5;
+	color: var(--vortem-text-muted);
+}
+
+.vortem-wizard-modal-footer {
+	display: flex;
+	justify-content: flex-end;
+	gap: 8px;
+	padding: 14px 22px;
+	border-top: 1px solid var(--vortem-border-color);
+	background: var(--vortem-bg-soft);
+}
+
+/* ============================================================
+   12. RTL
+   ============================================================ */
+
+.vortem-wizard-card.vortem-wizard-rtl {
+	direction: rtl;
+}
+
+.vortem-wizard-card.vortem-wizard-rtl.vortem-wizard-split {
+	grid-template-columns: 264px 1fr;
+}
+
+.vortem-wizard-card.vortem-wizard-rtl .wizard-rail-orb {
+	left: -42px;
+	right: auto;
+}
+
+.vortem-wizard-card.vortem-wizard-rtl .setup-info-green {
+	border-left: 0;
+	border-right: 3px solid var(--vortem-secondary);
+	border-radius: var(--vortem-radius-sm) 0 0 var(--vortem-radius-sm);
+}
+
+/* Mirror chevrons in nav buttons */
+.vortem-wizard-card.vortem-wizard-rtl .wizard-button svg,
+.vortem-wizard-card.vortem-wizard-rtl .complete-button svg,
+.vortem-wizard-card.vortem-wizard-rtl .terms-readmore svg {
+	transform: scaleX(-1);
+}
+
+/* ============================================================
+   13. Responsive
+   ============================================================ */
+
+@media (max-width: 960px) {
+	.vortem-wizard-card.vortem-wizard-split {
+		grid-template-columns: 1fr;
+		min-height: auto;
+	}
+
+	.wizard-rail {
+		padding: 20px 22px;
+		gap: 14px;
+	}
+
+	.wizard-rail-orb { display: none; }
+
+	.wizard-rail-counter { display: none; }
+
+	.wizard-rail-steps {
+		flex-direction: row;
+		gap: 4px;
+		overflow-x: auto;
+	}
+
+	.wizard-rail-step {
+		flex: 1 0 auto;
+		gap: 6px;
+		padding: 8px 10px;
+	}
+
+	.wizard-rail-step-label {
+		font-size: 11px;
+	}
+
+	.wizard-rail-footer { display: none; }
+
+	.wizard-pane { padding: 28px 24px; }
+
+	.welcome-features-grid {
+		grid-template-columns: 1fr;
+	}
+
+	.complete-actions { flex-direction: column; }
+}
+
+@media (max-width: 600px) {
+	.vortem-wizard-container { padding: 16px 12px; }
+	.wizard-pane { padding: 22px 18px; }
+	.step-title { font-size: 20px; }
+	.wizard-rail-step-label { display: none; }
+}
+
+/* ============================================================
+   14. Reduced motion
+   ============================================================ */
+
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after {
+		animation-duration: 0.001ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.001ms !important;
+		scroll-behavior: auto !important;
+	}
+
+	.complete-burst::after { display: none; }
+	.wizard-button:hover,
+	.complete-button:hover,
+	.welcome-feature-card:hover { transform: none; }
+}

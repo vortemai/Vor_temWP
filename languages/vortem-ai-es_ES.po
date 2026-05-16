@@ -1,0 +1,3012 @@
+# Translation of Vortem AI in es_ES
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "requiere que WooCommerce esté instalado y activado."
+
+msgid "or higher. You are running version"
+msgstr "o superior. Estás ejecutando la versión"
+
+msgid "Welcome to vortem.ai!"
+msgstr "¡Bienvenido a vortem.ai!"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "Asistente de configuración de Vortem.ai"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "Gracias por elegir el plugin vortem.ai. Este asistente te ayudará a configurar tu tienda de ecommerce rápida y fácilmente."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "Para usar los servicios de venta de productos de Vortem, necesitas una cuenta de AliExpress. Puedes conectar tu cuenta desde Configuración → Inicio de sesión de Vortem → Integración de AliExpress. Si no tienes una cuenta, puedes registrarte directamente desde allí."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "Para usar los servicios de venta de productos de Vortem, necesitas una cuenta de AliExpress."
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "Puedes conectar tu cuenta desde Configuración → Inicio de sesión de Vortem → Integración de AliExpress."
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "Si no tienes una cuenta, puedes registrarte directamente desde allí."
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "La configuración tomará aproximadamente 2-3 minutos."
+
+msgid "Select Language"
+msgstr "Seleccionar idioma"
+
+msgid "Select Currency"
+msgstr "Seleccionar moneda"
+
+msgid "Complete Setup"
+msgstr "Completar configuración"
+
+msgid "What you'll get:"
+msgstr "Lo que obtendrás:"
+
+msgid "Automated product synchronization"
+msgstr "Sincronización automática de productos"
+
+msgid "Order management and processing"
+msgstr "Gestión y procesamiento de pedidos"
+
+msgid "Real-time inventory updates"
+msgstr "Actualizaciones de inventario en tiempo real"
+
+msgid "Easy-to-use admin interface"
+msgstr "Interfaz de administración fácil de usar"
+
+msgid "24/7 customer support"
+msgstr "Soporte al cliente 24/7"
+
+msgid "Contact Support"
+msgstr "Contactar soporte"
+
+msgid "Import Products"
+msgstr "Importar productos"
+
+msgid "Configure Settings"
+msgstr "Configurar ajustes"
+
+msgid "Setup Complete!"
+msgstr "¡Configuración completa!"
+
+msgid "Terms & Conditions"
+msgstr "Términos y Condiciones"
+
+msgid "1. License Agreement"
+msgstr "1. Acuerdo de Licencia"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "Al usar este plugin, aceptas cumplir con todas las leyes y regulaciones aplicables. El plugin se proporciona bajo la licencia GPL v2 o posterior."
+
+msgid "Sign up"
+msgstr "Registrarse"
+
+msgid "Sign up to get started"
+msgstr "Regístrate para comenzar"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "¡Felicitaciones! Tu plugin vortem.ai ha sido configurado exitosamente."
+
+msgid "What's next?"
+msgstr "¿Qué sigue?"
+
+msgid "Need Help?"
+msgstr "¿Necesitas ayuda?"
+
+msgid "Our support team is here to help you get started."
+msgstr "Nuestro equipo de soporte está aquí para ayudarte a comenzar."
+
+msgid "Step %1$d of %2$d"
+msgstr "Paso %1$d de %2$d"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "He leído y acepto los %1$sTérminos y Condiciones%2$s"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "Términos de servicio del plugin vortem.ai"
+
+msgid "1. authentication Agreement"
+msgstr "1. Acuerdo de Licencia"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "Al usar este plugin, aceptas cumplir con todas las leyes y regulaciones aplicables. El plugin se proporciona bajo la licencia GPL v2 o posterior."
+
+msgid "2. Data Usage"
+msgstr "2. Uso de Datos"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "Recopilamos y procesamos los datos necesarios para el funcionamiento del servicio de ecommerce, incluida la información del producto, los detalles del pedido y los datos del cliente. Todos los datos se manejan de acuerdo con nuestra política de privacidad."
+
+msgid "3. Service Availability"
+msgstr "3. Disponibilidad del Servicio"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "Si bien nos esforzamos por mantener una alta disponibilidad del servicio, no podemos garantizar un servicio ininterrumpido. Nos reservamos el derecho de realizar mantenimiento y actualizaciones según sea necesario."
+
+msgid "4. Support"
+msgstr "4. Soporte"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "El soporte técnico se proporciona a través de nuestros canales de soporte. Los tiempos de respuesta pueden variar según la complejidad del problema."
+
+msgid "5. Updates"
+msgstr "5. Actualizaciones"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "Se proporcionan actualizaciones del plugin para mejorar la funcionalidad y la seguridad. Se recomienda mantener el plugin actualizado a la última versión."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "Ingresa tu clave de licencia de Vortem.ai para activar el plugin y acceder a todas las funciones."
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "Puedes encontrar tu clave de licencia en el panel de tu cuenta de Vortem.ai."
+
+msgid "Need help?"
+msgstr "¿Necesitas ayuda?"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "Completa el asistente de configuración para configurar tu autenticación y comenzar."
+
+msgid "Vortem.ai Overview"
+msgstr "Resumen de Vortem.ai"
+
+msgid "Vortem.ai Products"
+msgstr "Productos Vortem.ai"
+
+msgid "Vortem.ai Settings"
+msgstr "Configuración de Vortem.ai"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "Configura tus ajustes de Vortem.ai a continuación."
+
+msgid "Saving settings and validating authentication..."
+msgstr "Guardando configuración y validando licencia..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "Configuración completa - ¡Tu plugin Vortem.ai está listo para usar!"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "Selecciona el idioma para la interfaz del plugin. Los cambios surtirán efecto después de guardar."
+
+msgid "Vortem.ai AI Resources"
+msgstr "Recursos de IA de Vortem.ai"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "Accede a tu cuenta y recursos de IA de Vortem.ai"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "Accede a tu cuenta y recursos de IA de Vortem.ai:"
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "Visita la página de inicio de Vortem.ai AI"
+
+msgid "Visit Site"
+msgstr "Visitar sitio"
+
+msgid "My Account"
+msgstr "Mi Cuenta"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "Administra la configuración de tu cuenta de Vortem.ai AI"
+
+msgid "Support"
+msgstr "Soporte"
+
+msgid "Get help and support from our team"
+msgstr "Obtén ayuda y soporte de nuestro equipo"
+
+msgid "Documentation"
+msgstr "Documentación"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "Lee guías y tutoriales completos"
+
+msgid "Terms"
+msgstr "Términos"
+
+msgid "Review terms and conditions"
+msgstr "Revisar términos y condiciones"
+
+msgid "Privacy"
+msgstr "Privacidad"
+
+msgid "View our privacy policy"
+msgstr "Ver nuestra política de privacidad"
+
+msgid "error"
+msgstr "error"
+
+msgid "success"
+msgstr "éxito"
+
+msgid "cancel"
+msgstr "cancelar"
+
+msgid "delete"
+msgstr "eliminar"
+
+msgid "deleting"
+msgstr "eliminando..."
+
+msgid "edit"
+msgstr "editar"
+
+msgid "close"
+msgstr "cerrar"
+
+msgid "confirm"
+msgstr "confirmar"
+
+msgid "refresh"
+msgstr "actualizar"
+
+msgid "import"
+msgstr "importar"
+
+msgid "actions"
+msgstr "acciones"
+
+msgid "status"
+msgstr "estado"
+
+msgid "date"
+msgstr "fecha"
+
+msgid "subject"
+msgstr "asunto"
+
+msgid "recipient"
+msgstr "destinatario"
+
+msgid "total"
+msgstr "total"
+
+msgid "items"
+msgstr "artículos"
+
+msgid "customer"
+msgstr "cliente"
+
+msgid "order"
+msgstr "pedido"
+
+msgid "payment"
+msgstr "pago"
+
+msgid "active"
+msgstr "activo"
+
+msgid "inactive"
+msgstr "inactivo"
+
+msgid "cards"
+msgstr "tarjetas"
+
+msgid "table"
+msgstr "tabla"
+
+msgid "select"
+msgstr "seleccionar"
+
+msgid "sent"
+msgstr "enviado"
+
+msgid "left"
+msgstr "quedan"
+
+msgid "resets"
+msgstr "se restablece"
+
+msgid "view_more"
+msgstr "ver más"
+
+msgid "performance"
+msgstr "rendimiento"
+
+msgid "insights"
+msgstr "percepciones"
+
+msgid "metrics"
+msgstr "métricas"
+
+msgid "device"
+msgstr "dispositivo"
+
+msgid "locale"
+msgstr "configuración regional"
+
+msgid "channel"
+msgstr "canal"
+
+msgid "desktop"
+msgstr "escritorio"
+
+msgid "mobile"
+msgstr "móvil"
+
+msgid "retry"
+msgstr "reintentar"
+
+msgid "failed"
+msgstr "fallido"
+
+msgid "support"
+msgstr "4. soporte"
+
+msgid "documentation"
+msgstr "documentación"
+
+msgid "are_you_sure"
+msgstr "¿estás seguro?"
+
+msgid "clear"
+msgstr "borrar"
+
+msgid "preview"
+msgstr "vista previa"
+
+msgid "send_email"
+msgstr "enviar correo"
+
+msgid "recipients"
+msgstr "destinatarios"
+
+msgid "question"
+msgstr "pregunta"
+
+msgid "question:"
+msgstr "Pregunta:"
+
+msgid "answer"
+msgstr "respuesta"
+
+msgid "answer:"
+msgstr "Respuesta:"
+
+msgid "category"
+msgstr "Categoría:"
+
+msgid "category:"
+msgstr "Categoría:"
+
+msgid "showing"
+msgstr "Mostrando"
+
+msgid "faqs"
+msgstr "preguntas frecuentes"
+
+msgid "all_categories"
+msgstr "Todas las categorías"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "¿Cómo le gustaría crear las preguntas frecuentes?"
+
+msgid "Single FAQ"
+msgstr "Pregunta frecuente única"
+
+msgid "Bulk FAQs"
+msgstr "Preguntas frecuentes múltiples"
+
+msgid "no_faqs_added_yet"
+msgstr "Aún no se han agregado preguntas frecuentes. Agregue su primera pregunta frecuente a la izquierda."
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "Aún no se han agregado preguntas frecuentes. Agregue su primera pregunta frecuente a la izquierda."
+
+msgid "Added FAQs"
+msgstr "Preguntas frecuentes agregadas"
+
+msgid "faq"
+msgstr "Pregunta frecuente"
+
+msgid "remove"
+msgstr "Eliminar"
+
+msgid "no_faqs_to_create"
+msgstr "Por favor agregue al menos una pregunta frecuente antes de crear."
+
+msgid "bulk_faqs_created"
+msgstr "Se han creado %d preguntas frecuentes exitosamente"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "Error al crear las preguntas frecuentes. Por favor intente nuevamente."
+
+msgid "created"
+msgstr "creado"
+
+msgid "search_faqs"
+msgstr "buscar preguntas frecuentes..."
+
+msgid "update_faq"
+msgstr "actualizar pregunta frecuente"
+
+msgid "category_label"
+msgstr "Categoría *"
+
+msgid "select_existing_category_optional"
+msgstr "Seleccionar categoría existente (opcional)"
+
+msgid "create_faq"
+msgstr "crear pregunta frecuente"
+
+msgid "delete_faq"
+msgstr "eliminar pregunta frecuente"
+
+msgid "delete_category"
+msgstr "Eliminar categoría"
+
+msgid "delete_category_faqs_confirm"
+msgstr "¿Está seguro de que desea eliminar todas las preguntas frecuentes en la categoría \"%s\"? Esta acción no se puede deshacer."
+
+msgid "category_faqs_deleted"
+msgstr "Se han eliminado todas las preguntas frecuentes en la categoría \"%s\"."
+
+msgid "failed_to_delete_category_faqs"
+msgstr "Error al eliminar las preguntas frecuentes de esta categoría. Por favor intenta de nuevo."
+
+msgid "category_id_not_found"
+msgstr "ID de categoría no encontrado para la categoría seleccionada."
+
+msgid "orders"
+msgstr "pedidos"
+
+msgid "search_orders_by_number_customer_name_or_email"
+msgstr "buscar pedidos por número, nombre del cliente o correo electrónico..."
+
+msgid "last_updated"
+msgstr "Última actualización:"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "PANEL DE ANÁLISIS"
+
+msgid "Business Intelligence"
+msgstr "Inteligencia de Negocios"
+
+msgid "Analytics Hub"
+msgstr "Centro de Análisis"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "Análisis completo y percepciones impulsadas por inteligencia de datos avanzada para la toma de decisiones basada en datos"
+
+msgid "Performance Overview"
+msgstr "Resumen de Rendimiento"
+
+msgid "Key performance indicators at a glance"
+msgstr "Indicadores clave de rendimiento de un vistazo"
+
+msgid "Analytics Insights"
+msgstr "Percepciones Analíticas"
+
+msgid "Deep dive into performance metrics"
+msgstr "Profundización en métricas de rendimiento"
+
+msgid "Customer Intelligence"
+msgstr "Inteligencia del Cliente"
+
+msgid "Understand customer behavior and trends"
+msgstr "Comprender el comportamiento y las tendencias del cliente"
+
+msgid "Market Analysis"
+msgstr "Análisis de Mercado"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "Comparación de mercado completa y percepciones de categoría"
+
+msgid "Data Intelligence"
+msgstr "Inteligencia de Datos"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "Tablas analíticas detalladas y percepciones de precios"
+
+msgid "Product"
+msgstr "Producto"
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "Average"
+msgstr "Promedio"
+
+msgid "No products found"
+msgstr "No se encontraron productos"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "All KPI Products"
+msgstr "Todos los productos KPI"
+
+msgid "Top KPI Products"
+msgstr "Mejores productos KPI"
+
+msgid "Product ID"
+msgstr "ID del producto"
+
+msgid "Product Title"
+msgstr "Título del producto"
+
+msgid "Base Price"
+msgstr "Precio base"
+
+msgid "Low-Risk Price"
+msgstr "Precio de bajo riesgo"
+
+msgid "Competitive Price"
+msgstr "Precio competitivo"
+
+msgid "High-Risk Price"
+msgstr "Precio de alto riesgo"
+
+msgid "Untitled Product"
+msgstr "Producto sin título"
+
+msgid "All Trend Index Products"
+msgstr "Todos los productos del índice de tendencias"
+
+msgid "Trend Index by Product"
+msgstr "Índice de tendencias por producto"
+
+msgid "Product Name"
+msgstr "Nombre del producto"
+
+msgid "Price vs Rating"
+msgstr "Precio vs Calificación"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Rating"
+msgstr "Calificación"
+
+msgid "Reviews"
+msgstr "Reseñas"
+
+msgid "CTR"
+msgstr "CTR"
+
+msgid "CVR"
+msgstr "CVR"
+
+msgid "Average Price"
+msgstr "Precio promedio"
+
+msgid "Average Rating"
+msgstr "Calificación promedio"
+
+msgid "Product Count"
+msgstr "Recuento de productos"
+
+msgid "Avg Price"
+msgstr "Precio prom."
+
+msgid "Avg Rating"
+msgstr "Calif. prom."
+
+msgid "Failed to load"
+msgstr "Error al cargar"
+
+msgid "products"
+msgstr "productos"
+
+msgid "product"
+msgstr "producto"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "Índice de tendencias"
+
+msgid "Profitability"
+msgstr "Rentabilidad"
+
+msgid "Competition"
+msgstr "Competencia"
+
+msgid "Demand Stability"
+msgstr "Estabilidad de la demanda"
+
+msgid "View All"
+msgstr "Ver todo"
+
+msgid "price rating data"
+msgstr "datos de calificación de precios"
+
+msgid "Total Reviews"
+msgstr "Total de reseñas"
+
+msgid "Avg Reviews"
+msgstr "Promedio de reseñas"
+
+msgid "Overall Sentiment"
+msgstr "Sentimiento general"
+
+msgid "Positive"
+msgstr "Positivo"
+
+msgid "Neutral"
+msgstr "Neutral"
+
+msgid "Negative"
+msgstr "Negativo"
+
+msgid "Trend Status Overview"
+msgstr "Resumen del estado de la tendencia"
+
+msgid "Rising"
+msgstr "En alza"
+
+msgid "Stable"
+msgstr "Estable"
+
+msgid "Declining"
+msgstr "En declive"
+
+msgid "sentiment data"
+msgstr "datos de sentimiento"
+
+msgid "trend status data"
+msgstr "datos de estado de tendencia"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+msgid "Count"
+msgstr "Cuenta"
+
+msgid "Percentage"
+msgstr "Porcentaje"
+
+msgid "Market Comparison (by Source)"
+msgstr "Comparación de mercado (por fuente)"
+
+msgid "Market"
+msgstr "Mercado"
+
+msgid "Best seller"
+msgstr "Más vendido"
+
+msgid "Movers and shakers"
+msgstr "Agitadores y promotores"
+
+msgid "New releases"
+msgstr "Nuevos lanzamientos"
+
+msgid "market comparison data"
+msgstr "datos de comparación de mercado"
+
+msgid "Category Comparison"
+msgstr "Comparación de categorías"
+
+msgid "Category Comparison - All Data"
+msgstr "Comparación de categorías - Todos los datos"
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Metrics"
+msgstr "Métricas"
+
+msgid "Avg Sold"
+msgstr "Prom. vendido"
+
+msgid "Avg FPSI"
+msgstr "Prom. FPSI"
+
+msgid "N/A"
+msgstr "N/D"
+
+msgid "value"
+msgstr "valor"
+
+msgid "Unknown"
+msgstr "Desconocido"
+
+msgid "category comparison data"
+msgstr "datos de comparación de categorías"
+
+msgid "Amazon Device"
+msgstr "Dispositivo Amazon"
+
+msgid "Appliances"
+msgstr "Electrodomésticos"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "Artes, manualidades y costura"
+
+msgid "Automotive"
+msgstr "Automotriz"
+
+msgid "Baby Products"
+msgstr "Productos para bebés"
+
+msgid "Baby"
+msgstr "Bebé"
+
+msgid "Beauty & Personal Care"
+msgstr "Belleza y cuidado personal"
+
+msgid "Cell Phones & Accessories"
+msgstr "Celulares y accesorios"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "Ropa, zapatos y joyería"
+
+msgid "Collectibles & Fine Art"
+msgstr "Coleccionables y bellas artes"
+
+msgid "Electronics"
+msgstr "Electrónica"
+
+msgid "Health & Household"
+msgstr "Salud y hogar"
+
+msgid "Home & Kitchen"
+msgstr "Hogar y cocina"
+
+msgid "Industrial & Scientific"
+msgstr "Industrial y científico"
+
+msgid "Musical Instruments"
+msgstr "Instrumentos musicales"
+
+msgid "No category found"
+msgstr "No se encontró categoría"
+
+msgid "Office Products"
+msgstr "Productos de oficina"
+
+msgid "Patio, Lawn & Garden"
+msgstr "Patio, césped y jardín"
+
+msgid "Safety & Security"
+msgstr "Seguridad y protección"
+
+msgid "Tools & Home Improvement"
+msgstr "Herramientas y mejoras del hogar"
+
+msgid "Toys & Games"
+msgstr "Juguetes y juegos"
+
+msgid "Suggested Pricing"
+msgstr "Precios sugeridos"
+
+msgid "All Suggested Pricing"
+msgstr "Todos los precios sugeridos"
+
+msgid "suggested pricing data"
+msgstr "datos de precios sugeridos"
+
+msgid "Search products..."
+msgstr "Buscar productos..."
+
+msgid "Search products or categories..."
+msgstr "Buscar productos o categorías..."
+
+msgid "Insights"
+msgstr "Insights"
+
+msgid "Performance insights for"
+msgstr "Percepciones de rendimiento para"
+
+msgid "your website"
+msgstr "tu sitio web"
+
+msgid "Desktop"
+msgstr "Escritorio"
+
+msgid "Mobile"
+msgstr "Móvil"
+
+msgid "Refresh"
+msgstr "Actualizar"
+
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgid "Core Web Vitals"
+msgstr "Core Web Vitals"
+
+msgid "Performance Audits"
+msgstr "Auditorías de rendimiento"
+
+msgid "View More"
+msgstr "Ver más"
+
+msgid "Performance Insights"
+msgstr "Percepciones de rendimiento"
+
+msgid "Analysis Configuration"
+msgstr "Configuración de análisis"
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Locale"
+msgstr "Configuración regional"
+
+msgid "Channel"
+msgstr "Canal"
+
+msgid "Loading Insights data..."
+msgstr "Cargando datos de percepciones..."
+
+msgid "Error Loading Insights Data"
+msgstr "Error al cargar datos de percepciones"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "Ocurrió un error al obtener datos de análisis de percepciones."
+
+msgid "Retry"
+msgstr "Reintentar"
+
+msgid "No Insights Data Available"
+msgstr "No hay datos de percepciones disponibles"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "No hay datos de análisis de rendimiento disponibles. Esto podría significar que el análisis aún no se ha ejecutado o que hubo un error al obtener los datos."
+
+msgid "Last analyzed:"
+msgstr "Último análisis:"
+
+msgid "Performance"
+msgstr "Rendimiento"
+
+msgid "Accessibility"
+msgstr "Accesibilidad"
+
+msgid "Best Practices"
+msgstr "Mejores prácticas"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "No performance metrics available"
+msgstr "No hay métricas de rendimiento disponibles"
+
+msgid "No audit data available"
+msgstr "No hay datos de auditoría disponibles"
+
+msgid "No audits available"
+msgstr "No hay auditorías disponibles"
+
+msgid "View Less"
+msgstr "Ver menos"
+
+msgid "more"
+msgstr "más"
+
+msgid "No insights available"
+msgstr "No hay percepciones disponibles"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "No se detectaron problemas de rendimiento. ¡Tu sitio está funcionando bien!"
+
+msgid "Wasted:"
+msgstr "Desperdiciado:"
+
+msgid "Initializing..."
+msgstr "Inicializando..."
+
+msgid "Connecting to server..."
+msgstr "Conectando al servidor..."
+
+msgid "Fetching insights data..."
+msgstr "Obteniendo datos de percepciones..."
+
+msgid "Analyzing performance metrics..."
+msgstr "Analizando métricas de rendimiento..."
+
+msgid "Processing audits and insights..."
+msgstr "Procesando auditorías y percepciones..."
+
+msgid "Finalizing results..."
+msgstr "Finalizando resultados..."
+
+msgid "Complete!"
+msgstr "¡Completado!"
+
+msgid "Failed to load Insights data"
+msgstr "Error al cargar datos de percepciones"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "Error al cargar datos de percepciones. Por favor, verifica tu conexión e intenta de nuevo."
+
+msgid "No data available"
+msgstr "Sin datos disponibles"
+
+msgid "Excellent"
+msgstr "Excelente"
+
+msgid "Needs Improvement"
+msgstr "Necesita mejorar"
+
+msgid "Poor"
+msgstr "Pobre"
+
+msgid "Unknown error"
+msgstr "Error desconocido"
+
+msgid "Email Marketing"
+msgstr "Marketing por email"
+
+msgid "Manage, send, and track your emails"
+msgstr "Administra, envía y rastrea tus correos electrónicos"
+
+msgid "Emails"
+msgstr "Correos"
+
+msgid "Lists"
+msgstr "Listas"
+
+msgid "Create Email"
+msgstr "Crear correo"
+
+msgid "Search emails..."
+msgstr "Buscar correos..."
+
+msgid "Cards"
+msgstr "Tarjetas"
+
+msgid "Table"
+msgstr "Tabla"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Recipient"
+msgstr "Destinatario"
+
+msgid "Subject"
+msgstr "Asunto"
+
+msgid "Created"
+msgstr "Creado"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Email Lists"
+msgstr "Listas de correo"
+
+msgid "Manage, send, and track your email lists"
+msgstr "Administra, envía y rastrea tus listas de correo"
+
+msgid "Create Email List"
+msgstr "Crear lista de correo"
+
+msgid "Search lists..."
+msgstr "Buscar listas..."
+
+msgid "Download Template"
+msgstr "Descargar plantilla"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "Descargar plantilla de destinatario de correo.xlsx"
+
+msgid "Upload Template"
+msgstr "Subir plantilla"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "Subir archivo de destinatario de correo.xlsx"
+
+msgid "Recipients"
+msgstr "Destinatarios"
+
+msgid "Confirm Action"
+msgstr "Confirmar acción"
+
+msgid "Are you sure you want to proceed?"
+msgstr "¿Estás seguro de que deseas continuar?"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Confirm"
+msgstr "Confirmar"
+
+msgid "List Subject"
+msgstr "Asunto de la lista"
+
+msgid "Subject for all recipients"
+msgstr "Asunto para todos los destinatarios"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "Ingresa la dirección de correo electrónico y presiona Enter o haz clic en Agregar"
+
+msgid "Add"
+msgstr "Agregar"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "Ingresa las direcciones de correo electrónico una a la vez. Haz clic en la X en una etiqueta para eliminarla."
+
+msgid "Email Body (optional HTML)"
+msgstr "Cuerpo del correo (HTML opcional)"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "Puedes usar el editor visual o cambiar al modo de texto para pegar HTML."
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Preview"
+msgstr "Vista previa"
+
+msgid "Clear"
+msgstr "Borrar"
+
+msgid "Create New Email"
+msgstr "Crear nuevo correo"
+
+msgid "Your subject"
+msgstr "Tu asunto"
+
+msgid "Email Body"
+msgstr "Cuerpo del correo"
+
+msgid "Send Email"
+msgstr "Enviar correo"
+
+msgid "Email Sent"
+msgstr "Correo enviado"
+
+msgid "Your email has been sent successfully."
+msgstr "Tu correo electrónico ha sido enviado con éxito."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Sent"
+msgstr "Enviado"
+
+msgid "Read"
+msgstr "Leído"
+
+msgid "Revision"
+msgstr "Revisión"
+
+msgid "Sent Emails"
+msgstr "Correos enviados"
+
+msgid "Export Excel"
+msgstr "Exportar a Excel"
+
+msgid "Updated"
+msgstr "Actualizado"
+
+msgid "Failed"
+msgstr "Fallido"
+
+msgid "Pending"
+msgstr "Pendiente"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Update & Send"
+msgstr "Actualizar y enviar"
+
+msgid "Sending..."
+msgstr "Enviando..."
+
+msgid "Edit Email"
+msgstr "Editar correo"
+
+msgid "Exit Select"
+msgstr "Salir de selección"
+
+msgid "To:"
+msgstr "Para:"
+
+msgid "Created:"
+msgstr "Creado:"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Success"
+msgstr "Éxito"
+
+msgid "Update Email List"
+msgstr "Actualizar lista de correo"
+
+msgid "status_sent"
+msgstr "enviado"
+
+msgid "status_failed"
+msgstr "fallido"
+
+msgid "status_pending"
+msgstr "pendiente"
+
+msgid "SENT"
+msgstr "ENVIADO"
+
+msgid "Sent:"
+msgstr "Enviado:"
+
+msgid "Failed:"
+msgstr "Fallido:"
+
+msgid "Pending:"
+msgstr "Pendiente:"
+
+msgid "Email sent"
+msgstr "Correo enviado"
+
+msgid "Successfully sent"
+msgstr "Enviado con éxito"
+
+msgid "email(s)"
+msgstr "correo(s)"
+
+msgid "Your email list has been sent successfully."
+msgstr "Tu lista de correo ha sido enviada con éxito."
+
+msgid "FAILED"
+msgstr "FALLIDO"
+
+msgid "PENDING"
+msgstr "PENDIENTE"
+
+msgid "Total Lists"
+msgstr "Total de listas"
+
+msgid "Total Recipients"
+msgstr "Total de destinatarios"
+
+msgid "manage_send_and_track_your_email_lists"
+msgstr "administra, envía y rastrea tus listas de correo"
+
+msgid "create_email_list"
+msgstr "crear lista de correo"
+
+msgid "add"
+msgstr "agregar"
+
+msgid "send"
+msgstr "enviar"
+
+msgid "ok"
+msgstr "ok"
+
+msgid "security"
+msgstr "seguridad"
+
+msgid "welcome"
+msgstr "bienvenido"
+
+msgid "of"
+msgstr "de"
+
+msgid "by_using_this_plugin"
+msgstr "al usar este plugin, aceptas cumplir con todas las leyes y regulaciones aplicables. el plugin se proporciona bajo la licencia gpl v2 o posterior."
+
+msgid "we_collect_and_process"
+msgstr "recopilamos y procesamos los datos necesarios para el funcionamiento del servicio de ecommerce, incluida la información del producto, los detalles del pedido y los datos del cliente. todos los datos se manejan de acuerdo con nuestra política de privacidad."
+
+msgid "while_we_strive"
+msgstr "si bien nos esforzamos por mantener una alta disponibilidad del servicio, no podemos garantizar un servicio ininterrumpido. nos reservamos el derecho de realizar mantenimiento y actualizaciones según sea necesario."
+
+msgid "previous"
+msgstr "anterior"
+
+msgid "next"
+msgstr "siguiente"
+
+msgid "home"
+msgstr "inicio"
+
+msgid "terms"
+msgstr "términos"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Not Set"
+msgstr "No establecido"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Importar"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Eliminar"
+
+msgid "Importing..."
+msgstr "Importando..."
+
+msgid "Deleting..."
+msgstr "Eliminando..."
+
+msgid "Already Imported"
+msgstr "Ya importado"
+
+msgid "Product deleted successfully"
+msgstr "Producto eliminado con éxito"
+
+msgid "NEW"
+msgstr "NUEVO"
+
+msgid "Added"
+msgstr "Agregado"
+
+msgid "Exists"
+msgstr "Existe"
+
+msgid "Showing"
+msgstr "Mostrando"
+
+msgid "← Previous"
+msgstr "← Anterior"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next →"
+msgstr "Siguiente →"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Processing..."
+msgstr "Procesando..."
+
+msgid "Please wait while we import your product"
+msgstr "Por favor, espera mientras importamos tu producto"
+
+msgid "Importing product as draft..."
+msgstr "Importando producto como borrador..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "Esto creará el producto en WooCommerce"
+
+msgid "Importing product with SEO optimization..."
+msgstr "Importando producto con optimización SEO..."
+
+msgid "Checking product status..."
+msgstr "Verificando estado del producto..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "Por favor, espera mientras verificamos si el producto existe"
+
+msgid "Loading products..."
+msgstr "Cargando productos..."
+
+msgid "Overview"
+msgstr "Resumen"
+
+msgid "Business Overview"
+msgstr "Resumen de negocios"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "Monitorea el rendimiento de tu plugin, sigue las métricas clave y administra tus operaciones desde un solo panel"
+
+msgid "Total Products"
+msgstr "Total de productos"
+
+msgid "Quick Actions"
+msgstr "Acciones rápidas"
+
+msgid "Analytics Dashboard"
+msgstr "Panel de análisis"
+
+msgid "Analytics Overview"
+msgstr "Resumen de análisis"
+
+msgid "Quick insights into your business performance"
+msgstr "Percepciones rápidas sobre el rendimiento de tu negocio"
+
+msgid "View Full Analytics"
+msgstr "Ver análisis completo"
+
+msgid "Overall Sentiment distribution"
+msgstr "Distribución del sentimiento general"
+
+msgid "Trend Status distribution"
+msgstr "Distribución del estado de la tendencia"
+
+msgid "Analytics"
+msgstr "Análisis"
+
+msgid "BI Analytics Hub"
+msgstr "Centro de análisis de Inteligencia de Negocios"
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "No orders found"
+msgstr "No se encontraron pedidos"
+
+msgid "Total Orders"
+msgstr "Total de pedidos"
+
+msgid "Current Page"
+msgstr "Página actual"
+
+msgid "Orders Per Page"
+msgstr "Pedidos por página"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "Buscar pedidos por número, nombre del cliente o correo electrónico..."
+
+msgid "Loading orders..."
+msgstr "Cargando pedidos..."
+
+msgid "Page"
+msgstr "Página"
+
+msgid "WooCommerce Analytics"
+msgstr "Análisis de WooCommerce"
+
+msgid "WordPress Analytics"
+msgstr "Análisis de WordPress"
+
+msgid "Clear Cache"
+msgstr "Borrar caché"
+
+msgid "Export CSV"
+msgstr "Exportar CSV"
+
+msgid "Last updated:"
+msgstr "Última actualización:"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "Error al cargar datos de análisis. Por favor actualiza la página."
+
+msgid "No data available to export"
+msgstr "No hay datos disponibles para exportar"
+
+msgid "Orders Today"
+msgstr "Pedidos hoy"
+
+msgid "Total Revenue"
+msgstr "Ingresos totales"
+
+msgid "Revenue Today"
+msgstr "Ingresos de hoy"
+
+msgid "Revenue (30 Days)"
+msgstr "Ingresos (30 días)"
+
+msgid "Avg Order Value"
+msgstr "Valor promedio del pedido"
+
+msgid "Pending Orders"
+msgstr "Pedidos pendientes"
+
+msgid "Failed Orders"
+msgstr "Pedidos fallidos"
+
+msgid "Cart Abandonment"
+msgstr "Abandono del carrito"
+
+msgid "Customers (30 Days)"
+msgstr "Clientes (30 días)"
+
+msgid "Top Seller (30 Days)"
+msgstr "Más vendido (30 días)"
+
+msgid "Total Users"
+msgstr "Total de usuarios"
+
+msgid "Users Today"
+msgstr "Usuarios hoy"
+
+msgid "Total Comments"
+msgstr "Total de comentarios"
+
+msgid "Total Views"
+msgstr "Total de vistas"
+
+msgid "Refunded"
+msgstr "Reembolsado"
+
+msgid "Pending payment"
+msgstr "Pago pendiente"
+
+msgid "Processing"
+msgstr "Procesando"
+
+msgid "On hold"
+msgstr "En espera"
+
+msgid "Completed"
+msgstr "Completado"
+
+msgid "Cancelled"
+msgstr "Cancelado"
+
+msgid "Draft"
+msgstr "Borrador"
+
+msgid "Revenue Overview"
+msgstr "Resumen de ingresos"
+
+msgid "Orders Status"
+msgstr "Estado de los pedidos"
+
+msgid "WordPress Activity"
+msgstr "Actividad de WordPress"
+
+msgid "Revenue"
+msgstr "Ingresos"
+
+msgid "WordPress Metrics"
+msgstr "Métricas de WordPress"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "Los productos por página no pueden exceder 100. Por favor ingresa un valor entre 1 y 100."
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "Los productos por página deben ser al menos 1. Por favor ingresa un valor válido."
+
+msgid "Settings saved successfully!"
+msgstr "¡Configuración guardada con éxito!"
+
+msgid "Please enter a authentication key before testing."
+msgstr "Por favor ingresa una clave de licencia antes de probar."
+
+msgid "more..."
+msgstr "más..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "¡Caché de análisis borrado con éxito!"
+
+msgid "No products to import. Please sync products first."
+msgstr "No hay productos para importar. Por favor sincroniza los productos primero."
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "¡Importación completada! %d productos importados, %d fallidos."
+
+msgid "Import failed: %s"
+msgstr "Importación fallida: %s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "¡Prueba de API completada! Revisa debug.log para registros detallados. Todos los puntos finales probados con éxito."
+
+msgid "API Test Failed: %s"
+msgstr "Prueba de API fallida: %s"
+
+msgid "Database structure validated and fixed:"
+msgstr "Estructura de base de datos validada y corregida:"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "La estructura de la base de datos es válida. No se necesitan correcciones."
+
+msgid "Database validation issues:"
+msgstr "Problemas de validación de base de datos:"
+
+msgid "Database validation failed: %s"
+msgstr "Validación de base de datos fallida: %s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "Tu licencia Vortem está activa con el plan %s."
+
+msgid "Validated on: %s"
+msgstr "Validada el: %s"
+
+msgid "Import failed. Please try again."
+msgstr "Importación fallida. Por favor intenta de nuevo."
+
+msgid "Please select a bulk action."
+msgstr "Por favor selecciona una acción por lotes."
+
+msgid "Please select at least one product."
+msgstr "Por favor selecciona al menos un producto."
+
+msgid "Bulk action failed. Please try again."
+msgstr "Acción por lotes fallida. Por favor intenta de nuevo."
+
+msgid "Failed to trash product. Please try again."
+msgstr "Error al mover producto a la papelera. Por favor intenta de nuevo."
+
+msgid "Failed to restore product. Please try again."
+msgstr "Error al restaurar producto. Por favor intenta de nuevo."
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "Error al importar producto como borrador. Por favor intenta de nuevo."
+
+msgid "Failed to get product details."
+msgstr "Error al obtener detalles del producto."
+
+msgid "Delete failed. Please try again."
+msgstr "Eliminación fallida. Por favor intenta de nuevo."
+
+msgid "FAQ Management"
+msgstr "Gestión de FAQ"
+
+msgid "Manage your frequently asked questions"
+msgstr "Administra tus preguntas frecuentes"
+
+msgid "Search FAQs..."
+msgstr "Buscar preguntas frecuentes..."
+
+msgid "Card View"
+msgstr "Vista de Tarjetas"
+
+msgid "Table View"
+msgstr "Vista de Tabla"
+
+msgid "Refresh FAQs"
+msgstr "Actualizar preguntas frecuentes"
+
+msgid "Create New FAQ"
+msgstr "Crear nueva pregunta frecuente"
+
+msgid "Total FAQs"
+msgstr "Total de preguntas frecuentes"
+
+msgid "Active FAQs"
+msgstr "Preguntas frecuentes activas"
+
+msgid "Page Status"
+msgstr "Estado de la página"
+
+msgid "Question"
+msgstr "Pregunta"
+
+msgid "No FAQs yet"
+msgstr "Aún no hay preguntas frecuentes"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "Comienza a crear preguntas frecuentes para construir tu base de conocimientos"
+
+msgid "Create Your First FAQ"
+msgstr "Crea tu primera pregunta frecuente"
+
+msgid "Loading FAQs..."
+msgstr "Cargando preguntas frecuentes..."
+
+msgid "Update FAQ"
+msgstr "Actualizar pregunta frecuente"
+
+msgid "Question *"
+msgstr "Pregunta *"
+
+msgid "Enter your question here..."
+msgstr "Ingresa tu pregunta aquí..."
+
+msgid "Answer *"
+msgstr "Respuesta *"
+
+msgid "Enter the answer here..."
+msgstr "Ingresa la respuesta aquí..."
+
+msgid "Create FAQ"
+msgstr "Crear pregunta frecuente"
+
+msgid "FAQ Details"
+msgstr "Detalles de la pregunta frecuente"
+
+msgid "Answer"
+msgstr "Respuesta"
+
+msgid "Delete FAQ"
+msgstr "Eliminar pregunta frecuente"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Answer:"
+msgstr "Respuesta:"
+
+msgid "View Details"
+msgstr "Ver detalles"
+
+msgid "Edit FAQ"
+msgstr "Editar pregunta frecuente"
+
+msgid "Creating..."
+msgstr "Creando..."
+
+msgid "Updating..."
+msgstr "Actualizando..."
+
+msgid "Question is required"
+msgstr "La pregunta es obligatoria"
+
+msgid "Answer is required"
+msgstr "La respuesta es obligatoria"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "La respuesta debe tener al menos 10 caracteres"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "La pregunta frecuente \"%s\" ha sido creada"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "La pregunta frecuente \"%s\" ha sido actualizada"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "La pregunta frecuente \"%s\" ha sido eliminada"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "¿Estás seguro de que deseas eliminar \"%s\"? Esta acción no se puede deshacer."
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "Error al cargar preguntas frecuentes. Por favor intenta de nuevo."
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "Error al guardar pregunta frecuente. Por favor intenta de nuevo."
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "Error al eliminar pregunta frecuente. Por favor intenta de nuevo."
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "Autenticación requerida. Por favor verifica tu clave de licencia."
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "La clave de licencia es obligatoria. Por favor configura tu clave de licencia en los ajustes de Vortem."
+
+msgid "Security"
+msgstr "Seguridad"
+
+msgid "Search plugins..."
+msgstr "Buscar plugins..."
+
+msgid "Last Modified"
+msgstr "Última Modificación"
+
+msgid "Inactive"
+msgstr "Inactivo"
+
+msgid "WordPress Core"
+msgstr "Núcleo de WordPress"
+
+msgid "Themes"
+msgstr "Temas"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Version"
+msgstr "Versión"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "File"
+msgstr "Archivo"
+
+msgid "Plugin URI"
+msgstr "URI del Plugin"
+
+msgid "Requires WP Version"
+msgstr "Requiere Versión WP"
+
+msgid "Requires PHP"
+msgstr "Requiere PHP"
+
+msgid "Read more"
+msgstr "Leer más"
+
+msgid "Stylesheet"
+msgstr "Hoja de Estilos"
+
+msgid "Theme URI"
+msgstr "URI del Tema"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "Vulnerabilities"
+msgstr "Vulnerabilidades"
+
+msgid "Checking..."
+msgstr "Verificando..."
+
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "Configura los ajustes y preferencias de tu plugin"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "Ingresa tu clave de licencia de Vortem.ai para activar las funciones del plugin. Haz clic en \"Validación de Licencia\" para validar tu clave."
+
+msgid "Products Per Page"
+msgstr "Productos por Página"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Update Currency"
+msgstr "Actualizar Moneda"
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "Número de productos a mostrar por página. Predeterminado: 16."
+
+msgid "Products per page must be at least 1"
+msgstr "Los productos por página deben ser al menos 1"
+
+msgid "Products per page cannot exceed 100"
+msgstr "Los productos por página no pueden exceder 100"
+
+msgid "Loading currencies..."
+msgstr "Cargando monedas..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "Selecciona el tipo de moneda para el plugin y haz clic en \"Actualizar Moneda\" para guardar los cambios."
+
+msgid "Currency updated successfully!"
+msgstr "¡Moneda actualizada con éxito!"
+
+msgid "Video Settings"
+msgstr "Configuración de Video"
+
+msgid "Video Download for Excluded Themes"
+msgstr "Descarga de Video para Temas Excluidos"
+
+msgid "AliExpress Integration"
+msgstr "Integración AliExpress"
+
+msgid "Add video to product description"
+msgstr "Agregar video a la descripción del producto"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "Descargar videos para los temas Vortem Clothes, Vortem Cosmetic y xstore"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "Te estás acercando a tu límite diario de correo (%s). El límite se restablece mañana."
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "Has alcanzado tu límite diario de correo. El límite se restablecerá mañana."
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "Te estás acercando a tu cuota diaria de importación de productos (%s). La cuota se restablece mañana."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "Has alcanzado tu cuota diaria de importación de productos. La cuota se restablecerá mañana."
+
+msgid "Search plugins and themes..."
+msgstr "Buscar plugins y temas..."
+
+msgid "Loading security scan results..."
+msgstr "Cargando resultados del escaneo de seguridad..."
+
+msgid "published"
+msgstr "publicado"
+
+msgid "Published"
+msgstr "Publicado"
+
+msgid "references"
+msgstr "referencias"
+
+msgid "References"
+msgstr "Referencias"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "Cuando está habilitado, los videos del producto se agregarán automáticamente a la descripción del producto. Cuando está deshabilitado, los videos no se descargarán en absoluto. Desactive esto si prefiere manejar los videos manualmente."
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "Cuando está deshabilitado, los videos no se descargarán ni se agregarán a la biblioteca de medios para los temas Vortem Clothes, Vortem Cosmetic y xstore. Esto ahorra espacio de almacenamiento."
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "Para usar esta página, debe ingresar la licencia en la configuración en la sección authentication Key y luego hacer clic en el botón \"authentication validation\"."
+
+msgid "To get a authentication, visit"
+msgstr "Para obtener una licencia, visite"
+
+msgid "Products Pages"
+msgstr "Páginas de Productos"
+
+msgid "Analytics Pages"
+msgstr "Páginas de Análisis"
+
+msgid "sales"
+msgstr "ventas"
+
+msgid "Loading trend products..."
+msgstr "Cargando productos en tendencia..."
+
+msgid "Loading TikTok products..."
+msgstr "Cargando productos de TikTok..."
+
+msgid "Error loading TikTok products:"
+msgstr "Error al cargar productos de TikTok:"
+
+msgid "Failed to load TikTok products:"
+msgstr "Error al cargar productos de TikTok:"
+
+msgid "Loading Kinguin products..."
+msgstr "Cargando productos de Kinguin..."
+
+msgid "No Kinguin products found."
+msgstr "No se encontraron productos de Kinguin."
+
+msgid "Failed to load Kinguin products:"
+msgstr "Error al cargar productos de Kinguin:"
+
+msgid "Error loading Kinguin products:"
+msgstr "Error al cargar productos de Kinguin:"
+
+msgid "View on Amazon"
+msgstr "Ver en Amazon"
+
+msgid "View on Kinguin"
+msgstr "Ver en Kinguin"
+
+msgid "Release:"
+msgstr "Lanzamiento:"
+
+msgid "Price N/A"
+msgstr "Precio no disponible"
+
+msgid "In Stock"
+msgstr "En Stock"
+
+msgid "Sentiment"
+msgstr "Sentimiento"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "Artículos con stock bajo menos de 10 piezas"
+
+msgid "Total Pages"
+msgstr "Total de Páginas"
+
+msgid "Total Posts"
+msgstr "Total de Publicaciones"
+
+msgid "Refetch"
+msgstr "Volver a Obtener"
+
+msgid "AliExpress"
+msgstr "AliExpress"
+
+msgid "Connect to AliExpress"
+msgstr "Conectar con AliExpress"
+
+msgid "Disconnect AliExpress"
+msgstr "Desconectar AliExpress"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "¿Está seguro de que desea desconectar su cuenta de AliExpress?"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "Conecte su cuenta de AliExpress para habilitar el cumplimiento de pedidos y las funciones de dropshipping."
+
+msgid "Checking connection status..."
+msgstr "Comprobando el estado de la conexión..."
+
+msgid "Connected"
+msgstr "Conectado"
+
+msgid "Not connected"
+msgstr "No conectado"
+
+msgid "Error checking status"
+msgstr "Error al comprobar el estado"
+
+msgid "Connecting..."
+msgstr "Conectando..."
+
+msgid "Disconnecting..."
+msgstr "Desconectando..."
+
+msgid "Error connecting to AliExpress"
+msgstr "Error al conectar con AliExpress"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "Error al desconectar la cuenta de AliExpress"
+
+msgid "Failed to disconnect"
+msgstr "Error al desconectar"
+
+msgid "Failed to connect to AliExpress"
+msgstr "Error al conectar con AliExpress"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "¡Conectado exitosamente a AliExpress!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "Para la creación de pedidos en AliExpress, se requiere el número de teléfono."
+
+msgid "Expires:"
+msgstr "Expira:"
+
+msgid "Disconnect"
+msgstr "Desconectar"
+
+msgid "Select Import Method"
+msgstr "Seleccionar Método de Importación"
+
+msgid "Choose how you want to import this product:"
+msgstr "Elige cómo quieres importar este producto:"
+
+msgid "Normal Import"
+msgstr "Importación Normal"
+
+msgid "Import product with original title and description"
+msgstr "Importar producto con título y descripción originales"
+
+msgid "SEO Import"
+msgstr "Importación SEO"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "Importar con título, descripción y etiquetas optimizadas para SEO"
+
+msgid "SEO Import Completed"
+msgstr "Importación SEO Completada"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "Se han aplicado las siguientes optimizaciones SEO:"
+
+msgid "Keyphrase"
+msgstr "Frase Clave"
+
+msgid "SEO Title"
+msgstr "Título SEO"
+
+msgid "SEO Description"
+msgstr "Descripción SEO"
+
+msgid "Meta Description"
+msgstr "Meta Descripción"
+
+msgid "Tags"
+msgstr "Etiquetas"
+
+msgid "Yoast SEO Title"
+msgstr "Título SEO de Yoast"
+
+msgid "Headings"
+msgstr "Encabezados"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO no está instalado. Para usar la opción de importación SEO, debe instalarlo y activarlo."
+
+msgid "Email subject must be at least 16 characters"
+msgstr "El asunto del correo debe tener al menos 16 caracteres"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "El asunto del correo no debe exceder 256 caracteres"
+
+msgid "Email body must be at least 128 characters"
+msgstr "El cuerpo del correo debe tener al menos 128 caracteres"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "El cuerpo del correo no debe exceder 8196 caracteres"
+
+msgid "All Imported Products"
+msgstr "Todos los productos importados"
+
+msgid "Refresh Products"
+msgstr "Actualizar productos"
+
+msgid "Show All Products"
+msgstr "Mostrar todos los productos"
+
+msgid "Show All Added Products"
+msgstr "Mostrar todos los productos añadidos"
+
+msgid "Top Products Kinguin"
+msgstr "Productos destacados Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "Productos en tendencia Amazon"
+
+msgid "Top Products AliExpress"
+msgstr "Productos destacados AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "Gestionar y ver tu inventario de productos"
+
+msgid "Security Overview"
+msgstr "Resumen de seguridad"
+
+msgid "Security Scan Results"
+msgstr "Resultados del escaneo de seguridad"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "Monitorear e inspeccionar todos los plugins y temas de WordPress instalados"
+
+msgid "Total Plugins"
+msgstr "Total de plugins"
+
+msgid "Active Plugins"
+msgstr "Plugins activos"
+
+msgid "Inactive Plugins"
+msgstr "Plugins inactivos"
+
+msgid "Total Themes"
+msgstr "Total de temas"
+
+msgid "Active Themes"
+msgstr "Temas activos"
+
+msgid "Inactive Themes"
+msgstr "Temas inactivos"
+
+msgid "Sort by:"
+msgstr "Ordenar por:"
+
+msgid "Filter by Status:"
+msgstr "Filtrar por estado:"
+
+msgid "Sort by Date"
+msgstr "Ordenar por fecha"
+
+msgid "View and manage your store orders"
+msgstr "Ver y gestionar los pedidos de tu tienda"
+
+msgid "Start Date"
+msgstr "Fecha de inicio"
+
+msgid "End Date"
+msgstr "Fecha de fin"
+
+msgid "All Statuses"
+msgstr "Todos los estados"
+
+msgid "Navigation"
+msgstr "Navegación"
+
+msgid "Shop Analytics"
+msgstr "Análisis de tienda"
+
+msgid "Traffic Analytics"
+msgstr "Análisis de tráfico"
+
+msgid "Search currencies..."
+msgstr "Buscar monedas..."
+
+msgid "Search by country or currency code"
+msgstr "Buscar por país o código de moneda"
+
+msgid "Popularity"
+msgstr "Popularidad"
+
+msgid "Impressions"
+msgstr "Impresiones"
+
+msgid "Engagement"
+msgstr "Compromiso"
+
+msgid "Videos"
+msgstr "Videos"
+
+msgid "# Hashtags"
+msgstr "# Hashtags"
+
+msgid "View Rate (6s)"
+msgstr "Tasa de visualización (6s)"
+
+msgid "Cost"
+msgstr "Costo"
+
+msgid "Avg. Time on Site"
+msgstr "Tiempo promedio en el sitio"
+
+msgid "Unique Visitors"
+msgstr "Visitantes únicos"
+
+msgid "Visits"
+msgstr "Visitas"
+
+msgid "Top Pages"
+msgstr "Páginas principales"
+
+msgid "Top Page Titles"
+msgstr "Títulos de páginas principales"
+
+msgid "Cities"
+msgstr "Ciudades"
+
+msgid "Countries"
+msgstr "Países"
+
+msgid "Exit Pages"
+msgstr "Páginas de salida"
+
+msgid "Entry Pages"
+msgstr "Páginas de entrada"
+
+msgid "Real-time Visits"
+msgstr "Visitas en tiempo real"
+
+msgid "Bounce Rate"
+msgstr "Tasa de rebote"
+
+msgid "Today"
+msgstr "Hoy"
+
+msgid "Yesterday"
+msgstr "Ayer"
+
+msgid "Last 7 Days"
+msgstr "Últimos 7 días"
+
+msgid "Last 30 Days"
+msgstr "Últimos 30 días"
+
+msgid "First Contentful Paint"
+msgstr "Primera Pintura de Contenido"
+
+msgid "Total Size"
+msgstr "Tamaño Total"
+
+msgid "Requests"
+msgstr "Solicitudes"
+
+msgid "Page Load"
+msgstr "Carga de Página"
+
+msgid "Last updated: %s"
+msgstr "Última actualización: %s"
+
+msgid "Live"
+msgstr "En Vivo"
+
+msgid "Quick Insights"
+msgstr "Información Rápida"
+
+msgid "Config"
+msgstr "Configuración"
+
+msgid "Vortem Logo"
+msgstr "Logo de Vortem"
+
+msgid "Core"
+msgstr "Núcleo"
+
+msgid "Filter by:"
+msgstr "Filtrar por:"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Total Vulnerabilities"
+msgstr "Total de vulnerabilidades"
+
+msgid "Critical"
+msgstr "Crítico"
+
+msgid "High"
+msgstr "Alto"
+
+msgid "Medium"
+msgstr "Medio"
+
+msgid "Low"
+msgstr "Bajo"
+
+msgid "Secure Items"
+msgstr "Elementos seguros"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "Distribución de vulnerabilidades por gravedad"
+
+msgid "Vulnerabilities by Type"
+msgstr "Vulnerabilidades por tipo"
+
+msgid "Scanning..."
+msgstr "Escaneando..."
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "Analizando su instalación de WordPress en busca de vulnerabilidades de seguridad"
+
+msgid "Items Requiring Attention"
+msgstr "Elementos que requieren atención"
+
+msgid "No items at risk"
+msgstr "No hay elementos en riesgo"
+
+msgid "Recent Vulnerabilities"
+msgstr "Vulnerabilidades recientes"
+
+msgid "No recent vulnerabilities"
+msgstr "No hay vulnerabilidades recientes"
+
+msgid "No plugins found"
+msgstr "No se encontraron plugins"
+
+msgid "No themes found"
+msgstr "No se encontraron temas"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "Intente ajustar sus filtros o términos de búsqueda"
+
+msgid "WordPress Vulnerability"
+msgstr "Vulnerabilidad de WordPress"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "Se detectaron vulnerabilidades de seguridad en la versión de WordPress. Se recomienda actualizar a la última versión."
+
+msgid "Vulnerability Details"
+msgstr "Detalles de la vulnerabilidad"
+
+msgid "Vulnerability"
+msgstr "Vulnerabilidad"
+
+msgid "vulnerabilities"
+msgstr "vulnerabilidades"
+
+msgid "Read less"
+msgstr "Leer menos"
+
+msgid "Your site is secure"
+msgstr "Su sitio es seguro"
+
+msgid "No known vulnerabilities detected"
+msgstr "No se detectaron vulnerabilidades conocidas"
+
+msgid "Attention required"
+msgstr "Atención requerida"
+
+msgid "vulnerabilities found"
+msgstr "vulnerabilidades encontradas"
+
+msgid "Your plugins are secure!"
+msgstr "¡Sus plugins son seguros!"
+
+msgid "Your themes are secure!"
+msgstr "¡Sus temas son seguros!"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "No se encontraron vulnerabilidades en plugins"
+
+msgid "No vulnerabilities found in themes"
+msgstr "No se encontraron vulnerabilidades en temas"
+
+msgid "Your WP Core is Secure"
+msgstr "Su núcleo de WP es seguro"
+
+msgid "Unknown Plugin"
+msgstr "Plugin desconocido"
+
+msgid "Unknown Theme"
+msgstr "Tema desconocido"
+
+msgid "Requires immediate attention"
+msgstr "Requiere atención inmediata"
+
+msgid "Address as soon as possible"
+msgstr "Abordar lo antes posible"
+
+msgid "Schedule for review"
+msgstr "Programar para revisión"
+
+msgid "Monitor and plan fix"
+msgstr "Monitorear y planificar corrección"
+
+msgid "No vulnerabilities found"
+msgstr "No se encontraron vulnerabilidades"
+
+msgid "All Security Issues"
+msgstr "Todos los problemas de seguridad"
+
+msgid "Across all plugins, themes & core"
+msgstr "En todos los plugins, temas y núcleo"
+
+msgid "of installed items affected"
+msgstr "de elementos instalados afectados"
+
+msgid "Critical Severity"
+msgstr "Gravedad crítica"
+
+msgid "Requires immediate action"
+msgstr "Requiere acción inmediata"
+
+msgid "of all vulnerabilities"
+msgstr "de todas las vulnerabilidades"
+
+msgid "High Severity"
+msgstr "Gravedad alta"
+
+msgid "Should be fixed soon"
+msgstr "Debería corregirse pronto"
+
+msgid "Medium Severity"
+msgstr "Gravedad media"
+
+msgid "Plan to address"
+msgstr "Planear abordar"
+
+msgid "Low Severity"
+msgstr "Gravedad baja"
+
+msgid "Monitor & track"
+msgstr "Monitorear y rastrear"
+
+msgid "Items without vulnerabilities"
+msgstr "Elementos sin vulnerabilidades"
+
+msgid "of items are clean"
+msgstr "de elementos están limpios"
+
+msgid "Third-party plugins installed"
+msgstr "Plugins de terceros instalados"
+
+msgid "WordPress themes"
+msgstr "Temas de WordPress"
+
+msgid "Core WordPress files"
+msgstr "Archivos del núcleo de WordPress"
+
+msgid "Component Type"
+msgstr "Tipo de componente"
+
+msgid "Number of Vulnerabilities"
+msgstr "Número de vulnerabilidades"
+
+msgid "of total"
+msgstr "del total"
+
+msgid "VERSION"
+msgstr "VERSIÓN"
+
+msgid "AUTHOR"
+msgstr "AUTOR"
+
+msgid "REQUIRES WP"
+msgstr "REQUIERE WP"
+
+msgid "REQUIRES PHP"
+msgstr "REQUIERE PHP"
+
+msgid "View Page"
+msgstr "Ver página"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "¡Vulnerabilidades críticas detectadas!"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "Se requiere acción inmediata. Por favor actualice o elimine los elementos afectados lo antes posible."
+
+msgid "High severity vulnerabilities detected"
+msgstr "Vulnerabilidades de gravedad alta detectadas"
+
+msgid "Please review and address these issues soon."
+msgstr "Por favor revise y aborde estos problemas pronto."
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "Vulnerabilidades de gravedad media detectadas"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "Programe tiempo para revisar y corregir estos problemas."
+
+msgid "Low severity vulnerabilities detected"
+msgstr "Vulnerabilidades de gravedad baja detectadas"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "Monitoree estos problemas y planifique correcciones cuando sea conveniente."
+
+msgid "Your WordPress core is secure!"
+msgstr "¡Su núcleo de WordPress es seguro!"
+
+msgid "CVSS Score:"
+msgstr "Puntuación CVSS:"
+
+msgid "Published:"
+msgstr "Publicado:"
+
+msgid "Last Modified:"
+msgstr "Última modificación:"
+
+msgid "References:"
+msgstr "Referencias:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "View All Vulnerabilities"
+msgstr "Ver Todas las Vulnerabilidades"
+
+msgid "CRITICAL"
+msgstr "CRÍTICO"
+
+msgid "HIGH"
+msgstr "ALTO"
+
+msgid "MEDIUM"
+msgstr "MEDIO"
+
+msgid "LOW"
+msgstr "BAJO"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "Se recomienda tomar medidas. Por favor, revise y actualice los elementos afectados."
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "Todos sus complementos, temas y el núcleo de WordPress están seguros y actualizados."
+
+msgid "High severity vulnerabilities found"
+msgstr "Se encontraron vulnerabilidades de alta gravedad"
+
+msgid "Last updated: Loading..."
+msgstr "Última actualización: Cargando..."
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "Revisión recomendada. Monitoree y actualice los elementos afectados cuando sea posible."
+
+msgid "Some vulnerabilities found"
+msgstr "Se encontraron algunas vulnerabilidades"
+
+msgid "Trend Products TikTok"
+msgstr "Productos de tendencia TikTok"
+
+msgid "Your site is secure!"
+msgstr "¡Su sitio está seguro!"
+
+msgid "failed_to_load_insights_error"
+msgstr "Error al cargar datos de análisis"
+
+msgid "failed_to_refetch"
+msgstr "Error al volver a obtener"
+
+msgid "no_category"
+msgstr "Sin categoría"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "Procesando optimizaciones SEO: Frase clave, Título SEO, Descripción SEO, Meta Descripción, Etiquetas, Título Yoast SEO y Encabezados"
+
+msgid "Search themes..."
+msgstr "Buscar temas..."
+
+msgid "Filter by Severity:"
+msgstr "Filtrar por severidad:"
+
+msgid "All Severities"
+msgstr "Todas las severidades"
+
+msgid "Let's Get You Started"
+msgstr "Empecemos"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "Complete la configuración en aproximadamente 2 minutos"
+
+msgid "Quick Setup"
+msgstr "Configuración rápida"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "Póngase en marcha en minutos con nuestro proceso de instalación guiado"
+
+msgid "Secure & Reliable"
+msgstr "Seguro y confiable"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "Seguridad de nivel empresarial integrada en cada componente"
+
+msgid "Optimized Performance"
+msgstr "Rendimiento optimizado"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "Ultra rápido y optimizado para entornos WordPress"
+
+msgid "Next Step"
+msgstr "Siguiente paso"
+
+msgid "Initial Configuration"
+msgstr "Configuración inicial"
+
+msgid "Set your default language and currency preferences"
+msgstr "Establezca sus preferencias de idioma y moneda predeterminadas"
+
+msgid "Please review and accept our terms to continue"
+msgstr "Por favor, revise y acepte nuestros términos para continuar"
+
+msgid "1. Service Availability"
+msgstr "1. Disponibilidad del servicio"
+
+msgid "2. Support"
+msgstr "2. Soporte"
+
+msgid "3. Updates"
+msgstr "3. Actualizaciones"
+
+msgid "I accept the Terms & Conditions"
+msgstr "Acepto los Términos y Condiciones"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "Al marcar esta casilla, reconoce que ha leído y acepta estar sujeto a estos términos y condiciones."
+
+msgid "Installation Complete!"
+msgstr "¡Instalación completada!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "Su complemento ha sido configurado exitosamente y está listo para usar. Ahora puede comenzar a usar todas las funciones."
+
+msgid "Configuration Summary"
+msgstr "Resumen de configuración"
+
+msgid "Language:"
+msgstr "Idioma:"
+
+msgid "Currency:"
+msgstr "Moneda:"
+
+msgid "Terms Accepted:"
+msgstr "Términos aceptados:"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "Go to Dashboard"
+msgstr "Ir al panel de control"
+
+msgid "Go to Analytics page"
+msgstr "Ir a la página de análisis"
+
+msgid "Go to Products page"
+msgstr "Ir a la página de productos"
+
+msgid "Go to Matomo Analytics page"
+msgstr "Ir a la página Matomo Analytics"
+
+msgid "Restart Wizard"
+msgstr "Reiniciar asistente"
+
+msgid "Restart"
+msgstr "Reiniciar"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "Esto restablecerá el proceso de configuración. ¿Estás seguro?"
+
+msgid "Confirm Restart"
+msgstr "Confirmar reinicio"
+
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Welcome"
+msgstr "Bienvenido"
+
+msgid "Configuration"
+msgstr "Configuración"
+
+msgid "Complete"
+msgstr "Completado"
+
+msgid "Insufficient permissions"
+msgstr "Permisos insuficientes"
+
+msgid "Language parameter is required"
+msgstr "El parámetro de idioma es obligatorio"
+
+msgid "Translation manager not available"
+msgstr "Administrador de traducciones no disponible"
+
+msgid "Unsupported language"
+msgstr "Idioma no compatible"
+
+msgid "Language changed successfully"
+msgstr "Idioma cambiado exitosamente"
+
+msgid "Failed to change language"
+msgstr "Error al cambiar el idioma"
+
+msgid "Currency parameter is required"
+msgstr "El parámetro de moneda es obligatorio"
+
+msgid "Unsupported currency"
+msgstr "Moneda no compatible"
+
+msgid "Currency changed successfully"
+msgstr "Moneda cambiada exitosamente"
+
+msgid "Loading"
+msgstr "Cargando"
+
+msgid "Search..."
+msgstr "Buscar..."
+
+msgid "Search Language"
+msgstr "Buscar idioma"
+
+msgid "No languages found"
+msgstr "No se encontraron idiomas"
+
+msgid "No currencies found"
+msgstr "No se encontraron monedas"
+
+msgid "Failed to load currencies"
+msgstr "Error al cargar las monedas"
+
+msgid "Error loading currencies"
+msgstr "Error al cargar las monedas"
+
+msgid "Failed to restart wizard"
+msgstr "Error al reiniciar el asistente"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "Ocurrió un error al reiniciar el asistente. Por favor, inténtelo de nuevo."
+
+msgid "Please complete the current step before proceeding."
+msgstr "Por favor, complete el paso actual antes de continuar."
+
+msgid "Please wait for authentication to complete."
+msgstr "Por favor, espere a que se complete la autenticación."
+
+msgid "Please accept the terms and conditions."
+msgstr "Por favor, acepte los términos y condiciones."
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "Por favor, acepte los términos y condiciones antes de continuar."
+
+msgid "Please complete authentication first."
+msgstr "Por favor, complete primero la autenticación."
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "Por favor, acepte los términos y condiciones antes de completar la configuración."
+
+msgid "Failed to complete setup"
+msgstr "Error al completar la configuración"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "Ocurrió un error al completar la configuración. Por favor, inténtelo de nuevo."
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "Token de sesión no encontrado. Por favor, complete primero la autenticación."
+
+msgid "An error occurred while switching language"
+msgstr "Ocurrió un error al cambiar el idioma"
+
+msgid "An error occurred while switching currency"
+msgstr "Ocurrió un error al cambiar la moneda"
+
+msgid "Last updated: %1$s • Live"
+msgstr "Última actualización: %1$s • En vivo"
+
+msgid "Last 30 days"
+msgstr "Últimos 30 días"
+
+msgid "Traffic Overview"
+msgstr "Resumen de tráfico"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "Analíticas Matomo – últimos 30 días"
+
+msgid "Today's Focus"
+msgstr "Enfoque de hoy"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "Resumen del plugin Vortem.ai"
+
+msgid "Read More"
+msgstr "Leer más"
+
+msgid "Check your dashboard regularly"
+msgstr "Revise su panel con regularidad"
+
+msgid "View Analytics"
+msgstr "Ver analíticas"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem reconocida como plataforma de IA líder 2026"
+
+msgid "Order Statistics"
+msgstr "Estadísticas de pedidos"
+
+msgid "Today's Orders Completed"
+msgstr "Pedidos completados hoy"
+
+msgid "Total Orders Completed"
+msgstr "Total de pedidos completados"
+
+msgid "Imported Products"
+msgstr "Productos importados"
+
+msgid "Recent Activity"
+msgstr "Actividad reciente"
+
+msgid "Overview dashboard loaded"
+msgstr "Panel de resumen cargado"
+
+msgid "Just now"
+msgstr "Ahora mismo"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "Puede gestionar productos, analíticas y marketing por email desde aquí"
+
+msgid "Ready"
+msgstr "Listo"
+
+msgid "Configure plugin settings and API keys"
+msgstr "Configurar ajustes del plugin y claves API"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "El plugin Vortem.ai está listo. Puede gestionar productos, analíticas y marketing por email desde aquí."
+
+msgid "Vortem.ai official website"
+msgstr "Sitio web oficial de Vortem.ai"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "Navegar, aprender y gestionar su cuenta"
+
+msgid "Quick Access"
+msgstr "Acceso rápido"
+
+msgid "Return to dashboard home"
+msgstr "Volver al inicio del panel"
+
+msgid "Go to Home"
+msgstr "Ir al inicio"
+
+msgid "Profile, settings, and preferences"
+msgstr "Perfil, ajustes y preferencias"
+
+msgid "Help & Learning"
+msgstr "Ayuda y aprendizaje"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "Obtener ayuda, enviar tickets o contactar soporte"
+
+msgid "Get Support"
+msgstr "Obtener soporte"
+
+msgid "Developer & user guides"
+msgstr "Guías para desarrolladores y usuarios"
+
+msgid "Read Docs"
+msgstr "Leer documentación"
+
+msgid "Legal & Policies"
+msgstr "Legal y políticas"
+
+msgid "Terms of Service"
+msgstr "Términos del servicio"
+
+msgid "Usage terms and conditions"
+msgstr "Términos y condiciones de uso"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+msgid "Data protection and privacy"
+msgstr "Protección de datos y privacidad"
+
+msgid "Navigation to vortem wordpress"
+msgstr "Navegación a Vortem WordPress"
+
+msgid "Access key features and settings"
+msgstr "Acceder a funciones y ajustes clave"
+
+msgid "Manage catalog and inventory"
+msgstr "Gestionar catálogo e inventario"
+
+msgid "Business insights and metrics"
+msgstr "Métricas e insights de negocio"
+
+msgid "Growth & Intelligence"
+msgstr "Crecimiento e inteligencia"
+
+msgid "Campaigns and automation"
+msgstr "Campañas y automatización"
+
+msgid "AI-powered recommendations"
+msgstr "Recomendaciones con IA"
+
+msgid "Manage orders and shipments"
+msgstr "Gestionar pedidos y envíos"
+
+msgid "System"
+msgstr "Sistema"
+
+msgid "Knowledge base editor"
+msgstr "Editor de base de conocimiento"
+
+msgid "Access control and monitoring"
+msgstr "Control de acceso y supervisión"
+
+msgid "System configuration"
+msgstr "Configuración del sistema"
+
+msgid "Emails Sent"
+msgstr "Emails enviados"
+
+msgid "Orders"
+msgstr "Pedidos"
+
+msgid "Total products"
+msgstr "Total de productos"
+
+msgid "Imported via plugin"
+msgstr "Importado vía plugin"
+
+msgid "Other products"
+msgstr "Otros productos"
+
+msgid "Manage"
+msgstr "Gestionar"
+
+msgid "bounce"
+msgstr "rebote"
+
+
+msgid "Dashboard"
+msgstr "Escritorio"
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "External"
+msgstr "Externo"
+
+msgid "Navigation to vortem WordPress"
+msgstr "Navegación a vortem WordPress"
+
+msgid "Commerce"
+msgstr "Comercio"
+
+msgid "Timeline"
+msgstr "Línea de tiempo"
+
+msgid "Security Center"
+msgstr "Centro de seguridad"
+
+msgid "Display"
+msgstr "Visualización"
+
+msgid "How products and currency are presented in your store."
+msgstr "Cómo se presentan los productos y la moneda en tu tienda."
+
+msgid "Products per page"
+msgstr "Productos por página"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "Predeterminado: 16. Rango: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "Moneda utilizada en los precios del plugin. Haz clic en \"Actualizar\" para guardar tu selección."
+
+msgid "Media"
+msgstr "Medios"
+
+msgid "Control how product videos are imported and attached."
+msgstr "Controla cómo se importan y adjuntan los vídeos de los productos."
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "Cuando está activado, los vídeos de los productos se añaden automáticamente a la descripción. Desactiva para gestionar los vídeos manualmente."
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "Cuando está desactivado, los vídeos no se descargan para los temas Vortem Clothes, Vortem Cosmetic y xstore — ahorra espacio de almacenamiento."
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "Descargar vídeos para los temas Vortem y xstore"
+
+msgid "Integrations"
+msgstr "Integraciones"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "Conecta cuentas externas para ampliar el abastecimiento y la entrega."
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Last updated"
+msgstr "Última actualización"
+
+msgid "Setup"
+msgstr "Configuración"
+
+msgid "Let's get you started"
+msgstr "Empecemos"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "Completa la configuración en unos 2 minutos."
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "Las funciones de importación de productos de Vortem requieren una cuenta de AliExpress."
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "La conectarás más tarde en Ajustes → Vortem → Integración con AliExpress. ¿Aún no tienes cuenta? También puedes registrarte desde ahí."
+
+msgid "Up and running in minutes."
+msgstr "En marcha en minutos."
+
+msgid "Built with WordPress security best practices."
+msgstr "Creado siguiendo las mejores prácticas de seguridad de WordPress."
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "Ligero y optimizado para WordPress."
+
+msgid "Store basics"
+msgstr "Datos básicos de la tienda"
+
+msgid "Pick your store currency"
+msgstr "Elige la moneda de tu tienda"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "Esto es lo que tus clientes ven al pagar. Puedes cambiarlo más tarde."
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "Se usa en fichas de producto, carrito y pago."
+
+msgid "Almost there"
+msgstr "Casi listo"
+
+msgid "Review and accept"
+msgstr "Revisar y aceptar"
+
+msgid "Read the full Terms"
+msgstr "Leer los Términos completos"
+
+msgid "You agree to be bound by these terms."
+msgstr "Aceptas quedar vinculado por estos términos."
+
+msgid "I consent to data processing"
+msgstr "Doy mi consentimiento para el tratamiento de datos"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "Entiendo y acepto que este plugin envía los datos de mi sitio (URL del sitio, versión de WordPress, versión del plugin, preferencia de moneda, datos de productos de WooCommerce al importar, información de envío al procesar pedidos y metadatos de plugins/temas al usar las funciones de seguridad) a los servidores de vortem.ai (https://c.vortem.ai) para procesamiento, analítica y prestación del servicio. No se envían datos antes de que des su consentimiento explícito, y el plugin sigue siendo funcional si rechaza (las funciones que dependen de vortem.ai simplemente no estarán disponibles). Enviar un inventario de plugins/temas instalados para buscar vulnerabilidades sigue el mismo patrón que Wordfence, Patchstack, WPScan y Jetpack Protect."
+
+msgid "All done"
+msgstr "Listo"
+
+msgid "You're all set!"
+msgstr "¡Todo listo!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem está configurado y listo. Conecta AliExpress desde Ajustes cuando quieras."
+
+msgid "Accepted"
+msgstr "Aceptado"
+
+msgid "Consented"
+msgstr "Consentido"
+
+msgid "Data processing"
+msgstr "Tratamiento de datos"
+
+msgid "Meta Title"
+msgstr "Meta título"
+
+msgid "Order"
+msgstr "Pedido"
+
+msgid "Customer"
+msgstr "Cliente"
+
+msgid "Items"
+msgstr "Artículos"
+
+msgid "Payment"
+msgstr "Pago"

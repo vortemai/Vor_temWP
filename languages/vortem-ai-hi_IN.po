@@ -1,0 +1,3024 @@
+# Translation of Vortem AI in hi_IN
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "error"
+msgstr "त्रुटि"
+
+msgid "success"
+msgstr "सफल"
+
+msgid "cancel"
+msgstr "रद्द करें"
+
+msgid "delete"
+msgstr "हटाएं"
+
+msgid "deleting"
+msgstr "हटाया जा रहा है..."
+
+msgid "edit"
+msgstr "संपादित करें"
+
+msgid "close"
+msgstr "बंद करें"
+
+msgid "confirm"
+msgstr "पुष्टि करें"
+
+msgid "refresh"
+msgstr "रिफ्रेश"
+
+msgid "import"
+msgstr "आयात (Import)"
+
+msgid "actions"
+msgstr "क्रियाएं"
+
+msgid "status"
+msgstr "स्थिति"
+
+msgid "date"
+msgstr "दिनांक"
+
+msgid "subject"
+msgstr "विषय"
+
+msgid "recipient"
+msgstr "प्राप्तकर्ता"
+
+msgid "total"
+msgstr "कुल"
+
+msgid "items"
+msgstr "आइटम"
+
+msgid "customer"
+msgstr "ग्राहक"
+
+msgid "order"
+msgstr "ऑर्डर"
+
+msgid "payment"
+msgstr "भुगतान"
+
+msgid "active"
+msgstr "सक्रिय"
+
+msgid "inactive"
+msgstr "निष्क्रिय"
+
+msgid "cards"
+msgstr "कार्ड"
+
+msgid "table"
+msgstr "तालिका"
+
+msgid "select"
+msgstr "चुनें"
+
+msgid "sent"
+msgstr "भेजा गया"
+
+msgid "left"
+msgstr "बचा हुआ"
+
+msgid "resets"
+msgstr "रीसेट होता है"
+
+msgid "view_more"
+msgstr "अधिक देखें"
+
+msgid "performance"
+msgstr "प्रदर्शन"
+
+msgid "insights"
+msgstr "इनसाइट्स"
+
+msgid "metrics"
+msgstr "मेट्रिक्स"
+
+msgid "device"
+msgstr "डिवाइस"
+
+msgid "locale"
+msgstr "लोकेल (Locale)"
+
+msgid "channel"
+msgstr "चैनल"
+
+msgid "desktop"
+msgstr "डेस्कटॉप"
+
+msgid "mobile"
+msgstr "मोबाइल"
+
+msgid "retry"
+msgstr "पुनः प्रयास करें"
+
+msgid "failed"
+msgstr "विफल"
+
+msgid "support"
+msgstr "4. सहायता"
+
+msgid "documentation"
+msgstr "दस्तावेज़ीकरण"
+
+msgid "are_you_sure"
+msgstr "क्या आप सुनिश्चित हैं?"
+
+msgid "clear"
+msgstr "साफ़ करें"
+
+msgid "preview"
+msgstr "पूर्वावलोकन"
+
+msgid "send_email"
+msgstr "ईमेल भेजें"
+
+msgid "recipients"
+msgstr "प्राप्तकर्ता"
+
+msgid "question"
+msgstr "प्रश्न"
+
+msgid "question:"
+msgstr "प्रश्न:"
+
+msgid "answer"
+msgstr "उत्तर"
+
+msgid "answer:"
+msgstr "उत्तर:"
+
+msgid "category"
+msgstr "श्रेणी:"
+
+msgid "category:"
+msgstr "श्रेणी:"
+
+msgid "all_categories"
+msgstr "सभी श्रेणियाँ"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "आप अक्सर पूछे जाने वाले प्रश्न कैसे बनाना चाहेंगे?"
+
+msgid "Single FAQ"
+msgstr "एकल अक्सर पूछा जाने वाला प्रश्न"
+
+msgid "Bulk FAQs"
+msgstr "एकाधिक अक्सर पूछे जाने वाले प्रश्न"
+
+msgid "showing"
+msgstr "दिखाया जा रहा है"
+
+msgid "faqs"
+msgstr "अक्सर पूछे जाने वाले प्रश्न"
+
+msgid "no_faqs_added_yet"
+msgstr "अभी तक कोई अक्सर पूछा जाने वाला प्रश्न नहीं जोड़ा गया। बाईं ओर अपना पहला अक्सर पूछा जाने वाला प्रश्न जोड़ें।"
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "अभी तक कोई अक्सर पूछा जाने वाला प्रश्न नहीं जोड़ा गया। बाईं ओर अपना पहला अक्सर पूछा जाने वाला प्रश्न जोड़ें।"
+
+msgid "Added FAQs"
+msgstr "जोड़े गए अक्सर पूछे जाने वाले प्रश्न"
+
+msgid "faq"
+msgstr "अक्सर पूछा जाने वाला प्रश्न"
+
+msgid "remove"
+msgstr "हटाएं"
+
+msgid "no_faqs_to_create"
+msgstr "बनाने से पहले कृपया कम से कम एक अक्सर पूछा जाने वाला प्रश्न जोड़ें।"
+
+msgid "bulk_faqs_created"
+msgstr "%d अक्सर पूछे जाने वाले प्रश्न सफलतापूर्वक बनाए गए हैं"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "अक्सर पूछे जाने वाले प्रश्न बनाने में विफल। कृपया पुन: प्रयास करें।"
+
+msgid "created"
+msgstr "बनाया गया"
+
+msgid "search_faqs"
+msgstr "अक्सर पूछे जाने वाले प्रश्न खोजें..."
+
+msgid "update_faq"
+msgstr "अक्सर पूछा जाने वाला प्रश्न अपडेट करें"
+
+msgid "category_label"
+msgstr "श्रेणी *"
+
+msgid "select_existing_category_optional"
+msgstr "मौजूदा श्रेणी चुनें (वैकल्पिक)"
+
+msgid "create_faq"
+msgstr "अक्सर पूछा जाने वाला प्रश्न बनाएं"
+
+msgid "delete_faq"
+msgstr "अक्सर पूछा जाने वाला प्रश्न हटाएं"
+
+msgid "delete_category"
+msgstr "श्रेणी हटाएं"
+
+msgid "delete_category_faqs_confirm"
+msgstr "क्या आप वाकई श्रेणी \"%s\" में सभी अक्सर पूछे जाने वाले प्रश्नों को हटाना चाहते हैं? यह कार्रवाई पूर्ववत नहीं की जा सकती।"
+
+msgid "category_faqs_deleted"
+msgstr "श्रेणी \"%s\" में सभी अक्सर पूछे जाने वाले प्रश्न हटा दिए गए हैं।"
+
+msgid "failed_to_delete_category_faqs"
+msgstr "इस श्रेणी के लिए अक्सर पूछे जाने वाले प्रश्नों को हटाने में विफल। कृपया पुन: प्रयास करें।"
+
+msgid "category_id_not_found"
+msgstr "चयनित श्रेणी के लिए श्रेणी ID नहीं मिला।"
+
+msgid "orders"
+msgstr "ऑर्डर"
+
+msgid "search_orders_by_number_customer_name_or_email"
+msgstr "नंबर, ग्राहक का नाम, या ईमेल द्वारा ऑर्डर खोजें..."
+
+msgid "last_updated"
+msgstr "अंतिम अपडेट:"
+
+msgid "no_performance_analysis_data_is_available"
+msgstr "कोई प्रदर्शन विश्लेषण डेटा उपलब्ध नहीं है। इसका मतलब यह हो सकता है कि विश्लेषण अभी तक नहीं चलाया गया है, या डेटा प्राप्त करने में कोई त्रुटि थी।"
+
+msgid "manage_send_and_track"
+msgstr "अपने ईमेल प्रबंधित करें, भेजें और ट्रैक करें"
+
+msgid "emails"
+msgstr "ईमेल"
+
+msgid "lists"
+msgstr "सूचियाँ"
+
+msgid "manage_send_and_track_your_email_lists"
+msgstr "अपनी ईमेल सूचियों को प्रबंधित करें, भेजें और ट्रैक करें"
+
+msgid "create_email_list"
+msgstr "ईमेल सूची बनाएं"
+
+msgid "add"
+msgstr "जोड़ें"
+
+msgid "send"
+msgstr "भेजें"
+
+msgid "ok"
+msgstr "ठीक है"
+
+msgid "security"
+msgstr "सुरक्षा"
+
+msgid "welcome"
+msgstr "स्वागत है"
+
+msgid "of"
+msgstr "का"
+
+msgid "by_using_this_plugin"
+msgstr "इस प्लगइन का उपयोग करके, आप सभी लागू कानूनों और नियमों का पालन करने के लिए सहमत हैं। प्लगइन GPL v2 या बाद के लाइसेंस के तहत प्रदान किया गया है।"
+
+msgid "we_collect_and_process"
+msgstr "हम सेवा के संचालन के लिए आवश्यक डेटा एकत्र और संसाधित करते हैं, जिसमें उत्पाद जानकारी, ऑर्डर विवरण और ग्राहक डेटा शामिल है। सभी डेटा हमारी गोपनीयता नीति के अनुसार नियंत्रित किया जाता है।"
+
+msgid "while_we_strive"
+msgstr "हालांकि हम उच्च सेवा उपलब्धता बनाए रखने का प्रयास करते हैं, हम निर्बाध सेवा की गारंटी नहीं दे सकते। हम आवश्यकतानुसार रखरखाव और अपडेट करने का अधिकार सुरक्षित रखते हैं।"
+
+msgid "previous"
+msgstr "पिछला"
+
+msgid "next"
+msgstr "अगला"
+
+msgid "home"
+msgstr "होम"
+
+msgid "terms"
+msgstr "शर्तें"
+
+msgid "Terms"
+msgstr "शर्तें"
+
+msgid "Review terms and conditions"
+msgstr "नियम और शर्तों की समीक्षा करें"
+
+msgid "Privacy"
+msgstr "गोपनीयता"
+
+msgid "View our privacy policy"
+msgstr "हमारी गोपनीयता नीति देखें"
+
+msgid "Search plugins and themes..."
+msgstr "प्लगइन्स और थीम्स खोजें..."
+
+msgid "Loading security scan results..."
+msgstr "सुरक्षा स्कैन परिणाम लोड हो रहे हैं..."
+
+msgid "published"
+msgstr "प्रकाशित"
+
+msgid "Published"
+msgstr "प्रकाशित"
+
+msgid "references"
+msgstr "संदर्भ"
+
+msgid "References"
+msgstr "संदर्भ"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "सक्षम होने पर, उत्पाद वीडियो स्वचालित रूप से उत्पाद विवरण में जोड़ दिए जाएंगे। निष्क्रिय होने पर, वीडियो बिल्कुल भी डाउनलोड नहीं होंगे। यदि आप वीडियो को मैन्युअल रूप से संभालना पसंद करते हैं तो इसे अक्षम करें।"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "Vortem Clothes, Vortem Cosmetic, और xstore थीम्स के लिए वीडियो डाउनलोड करें"
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "अक्षम होने पर, Vortem Clothes, Vortem Cosmetic, और xstore थीम्स के लिए वीडियो डाउनलोड नहीं किए जाएंगे और न ही मीडिया लाइब्रेरी में जोड़े जाएंगे। इससे स्टोरेज स्पेस की बचत होती है।"
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "इस पेज का उपयोग करने के लिए, आपको सेटिंग्स में लाइसेंस कुंजी अनुभाग में लाइसेंस दर्ज करना होगा और फिर \"लाइसेंस सत्यापन\" बटन पर क्लिक करना होगा।"
+
+msgid "To get a authentication, visit"
+msgstr "लाइसेंस प्राप्त करने के लिए, यहां जाएं"
+
+msgid "Products Pages"
+msgstr "उत्पाद पेज"
+
+msgid "Analytics Pages"
+msgstr "एनालिटिक्स पेज"
+
+msgid "sales"
+msgstr "बिक्री"
+
+msgid "Loading trend products..."
+msgstr "ट्रेंड उत्पाद लोड हो रहे हैं..."
+
+msgid "Loading TikTok products..."
+msgstr "TikTok उत्पाद लोड हो रहे हैं..."
+
+msgid "Error loading TikTok products:"
+msgstr "TikTok उत्पाद लोड करते समय त्रुटि:"
+
+msgid "Failed to load TikTok products:"
+msgstr "TikTok उत्पाद लोड करने में विफल:"
+
+msgid "Loading Kinguin products..."
+msgstr "Kinguin उत्पाद लोड हो रहे हैं..."
+
+msgid "No Kinguin products found."
+msgstr "कोई Kinguin उत्पाद नहीं मिला।"
+
+msgid "Failed to load Kinguin products:"
+msgstr "Kinguin उत्पाद लोड करने में विफल:"
+
+msgid "Error loading Kinguin products:"
+msgstr "Kinguin उत्पाद लोड करते समय त्रुटि:"
+
+msgid "View on Amazon"
+msgstr "Amazon पर देखें"
+
+msgid "View on Kinguin"
+msgstr "Kinguin पर देखें"
+
+msgid "Release:"
+msgstr "रिलीज़:"
+
+msgid "Price N/A"
+msgstr "कीमत उपलब्ध नहीं"
+
+msgid "Previous"
+msgstr "पिछला"
+
+msgid "Next"
+msgstr "अगला"
+
+msgid "In Stock"
+msgstr "स्टॉक में"
+
+msgid "Sentiment"
+msgstr "भावना"
+
+msgid "Showing"
+msgstr "प्रदर्शित"
+
+msgid "products"
+msgstr "उत्पाद"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "कम स्टॉक वाली वस्तुएं 10 से कम"
+
+msgid "Total Pages"
+msgstr "कुल पृष्ठ"
+
+msgid "Total Posts"
+msgstr "कुल पोस्ट"
+
+msgid "Performance"
+msgstr "प्रदर्शन"
+
+msgid "Refetch"
+msgstr "पुनः प्राप्त करें"
+
+msgid "Terms & Conditions"
+msgstr "नियम और शर्तें"
+
+msgid "1. License Agreement"
+msgstr "1. लाइसेंस समझौता"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "इस प्लगइन का उपयोग करके, आप सभी लागू कानूनों और नियमों का पालन करने के लिए सहमत हैं। यह प्लगइन GPL v2 या बाद के लाइसेंस के तहत प्रदान किया गया है।"
+
+msgid "Sign up"
+msgstr "साइन अप करें"
+
+msgid "Sign up to get started"
+msgstr "शुरू करने के लिए साइन अप करें"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "बधाई हो! आपका vortem.ai प्लगइन सफलतापूर्वक कॉन्फ़िगर किया गया है।"
+
+msgid "What's next?"
+msgstr "अगला क्या है?"
+
+msgid "Need Help?"
+msgstr "मदद चाहिए?"
+
+msgid "Our support team is here to help you get started."
+msgstr "हमारी सहायता टीम आपको शुरुआत करने में मदद करने के लिए यहां है।"
+
+msgid "Step %1$d of %2$d"
+msgstr "चरण %1$d / %2$d"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "मैंने %1$sनियम और शर्तें%2$s पढ़ी हैं और उनसे सहमत हूं"
+
+msgid "AliExpress"
+msgstr "अलीएक्सप्रेस"
+
+msgid "Connect to AliExpress"
+msgstr "अलीएक्सप्रेस से कनेक्ट करें"
+
+msgid "Disconnect AliExpress"
+msgstr "अलीएक्सप्रेस डिस्कनेक्ट करें"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "क्या आप वाकई अपना अलीएक्सप्रेस खाता डिस्कनेक्ट करना चाहते हैं?"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "ऑर्डर पूर्ति और ड्रॉपशीपिंग सुविधाओं को सक्षम करने के लिए अपना अलीएक्सप्रेस खाता कनेक्ट करें।"
+
+msgid "Checking connection status..."
+msgstr "कनेक्शन स्थिति जाँच रहा है..."
+
+msgid "Connected"
+msgstr "कनेक्टेड"
+
+msgid "Not connected"
+msgstr "कनेक्ट नहीं है"
+
+msgid "Error checking status"
+msgstr "स्थिति जाँचने में त्रुटि"
+
+msgid "Connecting..."
+msgstr "कनेक्ट हो रहा है..."
+
+msgid "Disconnecting..."
+msgstr "डिस्कनेक्ट हो रहा है..."
+
+msgid "Error connecting to AliExpress"
+msgstr "अलीएक्सप्रेस से कनेक्ट करने में त्रुटि"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "अलीएक्सप्रेस खाता डिस्कनेक्ट करने में त्रुटि"
+
+msgid "Failed to disconnect"
+msgstr "डिस्कनेक्ट करने में विफल"
+
+msgid "Failed to connect to AliExpress"
+msgstr "अलीएक्सप्रेस से कनेक्ट करने में विफल"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "अलीएक्सप्रेस से सफलतापूर्वक कनेक्ट हो गया!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "अलीएक्सप्रेस ऑर्डर बनाने के लिए, फ़ोन नंबर आवश्यक है।"
+
+msgid "Expires:"
+msgstr "समाप्त होता है:"
+
+msgid "Disconnect"
+msgstr "डिस्कनेक्ट करें"
+
+msgid "Select Import Method"
+msgstr "आयात विधि चुनें"
+
+msgid "Choose how you want to import this product:"
+msgstr "चुनें कि आप इस उत्पाद को कैसे आयात करना चाहते हैं:"
+
+msgid "Normal Import"
+msgstr "सामान्य आयात"
+
+msgid "Import product with original title and description"
+msgstr "मूल शीर्षक और विवरण के साथ उत्पाद आयात करें"
+
+msgid "SEO Import"
+msgstr "SEO आयात"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "SEO-अनुकूलित शीर्षक, विवरण और टैग के साथ आयात करें"
+
+msgid "SEO Import Completed"
+msgstr "SEO आयात पूर्ण"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "निम्नलिखित SEO अनुकूलन लागू किए गए हैं:"
+
+msgid "Keyphrase"
+msgstr "मुख्य वाक्यांश"
+
+msgid "SEO Title"
+msgstr "SEO शीर्षक"
+
+msgid "SEO Description"
+msgstr "SEO विवरण"
+
+msgid "Meta Description"
+msgstr "मेटा विवरण"
+
+msgid "Tags"
+msgstr "टैग"
+
+msgid "Yoast SEO Title"
+msgstr "Yoast SEO शीर्षक"
+
+msgid "Headings"
+msgstr "शीर्षक"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO स्थापित नहीं है। SEO आयात विकल्प का उपयोग करने के लिए, आपको इसे स्थापित और सक्रिय करना होगा।"
+
+msgid "Email subject must be at least 16 characters"
+msgstr "ईमेल विषय कम से कम 16 वर्ण का होना चाहिए"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "ईमेल विषय 256 वर्ण से अधिक नहीं होना चाहिए"
+
+msgid "Email body must be at least 128 characters"
+msgstr "ईमेल सामग्री कम से कम 128 वर्ण की होनी चाहिए"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "ईमेल सामग्री 8196 वर्ण से अधिक नहीं होनी चाहिए"
+
+msgid "All Imported Products"
+msgstr "सभी आयातित उत्पाद"
+
+msgid "Refresh Products"
+msgstr "उत्पाद ताज़ा करें"
+
+msgid "Show All Products"
+msgstr "सभी उत्पाद दिखाएं"
+
+msgid "Show All Added Products"
+msgstr "सभी जोड़े गए उत्पाद दिखाएं"
+
+msgid "Top Products Kinguin"
+msgstr "शीर्ष उत्पाद Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "ट्रेंड उत्पाद Amazon"
+
+msgid "Top Products AliExpress"
+msgstr "शीर्ष उत्पाद AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "अपने उत्पाद सूची का प्रबंधन और देखें"
+
+msgid "Security Overview"
+msgstr "सुरक्षा अवलोकन"
+
+msgid "Security Scan Results"
+msgstr "सुरक्षा स्कैन परिणाम"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "सभी स्थापित WordPress प्लगइन्स और थीम की निगरानी और निरीक्षण करें"
+
+msgid "Total Plugins"
+msgstr "कुल प्लगइन्स"
+
+msgid "Active Plugins"
+msgstr "सक्रिय प्लगइन्स"
+
+msgid "Inactive Plugins"
+msgstr "निष्क्रिय प्लगइन्स"
+
+msgid "Total Themes"
+msgstr "कुल थीम"
+
+msgid "Active Themes"
+msgstr "सक्रिय थीम"
+
+msgid "Inactive Themes"
+msgstr "निष्क्रिय थीम"
+
+msgid "Sort by:"
+msgstr "क्रमबद्ध करें:"
+
+msgid "Filter by Status:"
+msgstr "स्थिति से फ़िल्टर करें:"
+
+msgid "Sort by Date"
+msgstr "तारीख के अनुसार क्रमबद्ध करें"
+
+msgid "View and manage your store orders"
+msgstr "अपने स्टोर के ऑर्डर देखें और प्रबंधित करें"
+
+msgid "Start Date"
+msgstr "प्रारंभ तिथि"
+
+msgid "End Date"
+msgstr "समाप्ति तिथि"
+
+msgid "All Statuses"
+msgstr "सभी स्थितियां"
+
+msgid "Page Status"
+msgstr "पृष्ठ स्थिति"
+
+msgid "Security"
+msgstr "सुरक्षा"
+
+msgid "Search plugins..."
+msgstr "प्लगइन खोजें..."
+
+msgid "Last Modified"
+msgstr "अंतिम संशोधन"
+
+msgid "Active"
+msgstr "सक्रिय"
+
+msgid "Inactive"
+msgstr "निष्क्रिय"
+
+msgid "WordPress Core"
+msgstr "WordPress कोर"
+
+msgid "Themes"
+msgstr "थीम"
+
+msgid "Plugins"
+msgstr "प्लगइन"
+
+msgid "Version"
+msgstr "संस्करण"
+
+msgid "Author"
+msgstr "लेखक"
+
+msgid "Description"
+msgstr "विवरण"
+
+msgid "File"
+msgstr "फ़ाइल"
+
+msgid "Plugin URI"
+msgstr "प्लगइन URI"
+
+msgid "Requires WP Version"
+msgstr "WP संस्करण आवश्यक"
+
+msgid "Requires PHP"
+msgstr "PHP आवश्यक"
+
+msgid "Read more"
+msgstr "और पढ़ें"
+
+msgid "Stylesheet"
+msgstr "स्टाइलशीट"
+
+msgid "Theme URI"
+msgstr "थीम URI"
+
+msgid "Type"
+msgstr "प्रकार"
+
+msgid "Status"
+msgstr "स्थिति"
+
+msgid "Name"
+msgstr "नाम"
+
+msgid "All"
+msgstr "सभी"
+
+msgid "Vulnerabilities"
+msgstr "भेद्यताएं"
+
+msgid "Checking..."
+msgstr "जांच की जा रही है..."
+
+msgid "Vortem.ai Settings"
+msgstr "Vortem.ai सेटिंग्स"
+
+msgid "Save Changes"
+msgstr "परिवर्तन सहेजें"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "अपनी प्लगइन सेटिंग्स और प्राथमिकताएं कॉन्फ़िगर करें"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "प्लगइन सुविधाओं को सक्रिय करने के लिए अपना Vortem.ai लाइसेंस कुंजी दर्ज करें। अपनी कुंजी को सत्यापित करने के लिए \"लाइसेंस सत्यापन\" पर क्लिक करें।"
+
+msgid "Products Per Page"
+msgstr "प्रति पृष्ठ उत्पाद"
+
+msgid "Language"
+msgstr "भाषा"
+
+msgid "Currency"
+msgstr "मुद्रा"
+
+msgid "Update Currency"
+msgstr "मुद्रा अपडेट करें"
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "प्रति पृष्ठ प्रदर्शित करने के लिए उत्पादों की संख्या। डिफ़ॉल्ट: 16।"
+
+msgid "Products per page must be at least 1"
+msgstr "प्रति पृष्ठ उत्पाद कम से कम 1 होना चाहिए"
+
+msgid "Products per page cannot exceed 100"
+msgstr "प्रति पृष्ठ उत्पाद 100 से अधिक नहीं हो सकते"
+
+msgid "Loading currencies..."
+msgstr "मुद्राएं लोड हो रही हैं..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "प्लगइन के लिए मुद्रा प्रकार चुनें और परिवर्तन सहेजने के लिए \"मुद्रा अपडेट करें\" पर क्लिक करें।"
+
+msgid "Currency updated successfully!"
+msgstr "मुद्रा सफलतापूर्वक अपडेट हो गई!"
+
+msgid "Video Settings"
+msgstr "वीडियो सेटिंग्स"
+
+msgid "Video Download for Excluded Themes"
+msgstr "बहिष्कृत थीम के लिए वीडियो डाउनलोड"
+
+msgid "AliExpress Integration"
+msgstr "AliExpress एकीकरण"
+
+msgid "Add video to product description"
+msgstr "उत्पाद विवरण में वीडियो जोड़ें"
+
+msgid "Navigation"
+msgstr "नेविगेशन"
+
+msgid "Shop Analytics"
+msgstr "दुकान विश्लेषण"
+
+msgid "Traffic Analytics"
+msgstr "ट्रैफिक विश्लेषण"
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "Vortem की उत्पाद बिक्री सेवाओं का उपयोग करने के लिए, आपको एक AliExpress खाते की आवश्यकता है। आप सेटिंग्स → Vortem लॉगिन → AliExpress एकीकरण से अपना खाता कनेक्ट कर सकते हैं। यदि आपके पास खाता नहीं है, तो आप वहां से सीधे साइन अप कर सकते हैं।"
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "Vortem की उत्पाद बिक्री सेवाओं का उपयोग करने के लिए, आपको एक AliExpress खाते की आवश्यकता है।"
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "आप सेटिंग्स → Vortem लॉगिन → AliExpress एकीकरण से अपना खाता कनेक्ट कर सकते हैं।"
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "यदि आपके पास खाता नहीं है, तो आप वहां से सीधे साइन अप कर सकते हैं।"
+
+msgid "Select Language"
+msgstr "भाषा चुनें"
+
+msgid "Select Currency"
+msgstr "मुद्रा चुनें"
+
+msgid "Complete Setup"
+msgstr "सेटअप पूरा करें"
+
+msgid "What you'll get:"
+msgstr "आपको क्या मिलेगा:"
+
+msgid "Automated product synchronization"
+msgstr "स्वचालित उत्पाद सिंक्रनाइज़ेशन"
+
+msgid "Order management and processing"
+msgstr "ऑर्डर प्रबंधन और प्रसंस्करण"
+
+msgid "Real-time inventory updates"
+msgstr "रीयल-टाइम इन्वेंटरी अपडेट"
+
+msgid "Easy-to-use admin interface"
+msgstr "उपयोग में आसान व्यवस्थापक इंटरफ़ेस"
+
+msgid "24/7 customer support"
+msgstr "24/7 ग्राहक सहायता"
+
+msgid "Contact Support"
+msgstr "सहायता से संपर्क करें"
+
+msgid "Import Products"
+msgstr "उत्पाद आयात करें"
+
+msgid "Configure Settings"
+msgstr "सेटिंग्स कॉन्फ़िगर करें"
+
+msgid "Setup Complete!"
+msgstr "सेटअप पूर्ण!"
+
+msgid "Search currencies..."
+msgstr "मुद्राएं खोजें..."
+
+msgid "Search by country or currency code"
+msgstr "देश या मुद्रा कोड से खोजें"
+
+msgid "Popularity"
+msgstr "लोकप्रियता"
+
+msgid "Impressions"
+msgstr "इंप्रेशन"
+
+msgid "Engagement"
+msgstr "सगाई"
+
+msgid "Videos"
+msgstr "वीडियो"
+
+msgid "# Hashtags"
+msgstr "# हैशटैग"
+
+msgid "View Rate (6s)"
+msgstr "दृश्य दर (6s)"
+
+msgid "Cost"
+msgstr "लागत"
+
+msgid "Avg. Time on Site"
+msgstr "साइट पर औसत समय"
+
+msgid "Unique Visitors"
+msgstr "अनूठे आगंतुक"
+
+msgid "Visits"
+msgstr "विज़िट"
+
+msgid "Top Pages"
+msgstr "शीर्ष पृष्ठ"
+
+msgid "Top Page Titles"
+msgstr "शीर्ष पृष्ठ शीर्षक"
+
+msgid "Cities"
+msgstr "शहर"
+
+msgid "Countries"
+msgstr "देश"
+
+msgid "Exit Pages"
+msgstr "एग्ज़िट पृष्ठ"
+
+msgid "Entry Pages"
+msgstr "एंट्री पृष्ठ"
+
+msgid "Real-time Visits"
+msgstr "रियल-टाइम विज़िट"
+
+msgid "Bounce Rate"
+msgstr "बाउंस दर"
+
+msgid "Today"
+msgstr "आज"
+
+msgid "Yesterday"
+msgstr "कल"
+
+msgid "Last 7 Days"
+msgstr "पिछले 7 दिन"
+
+msgid "Last 30 Days"
+msgstr "पिछले 30 दिन"
+
+msgid "First Contentful Paint"
+msgstr "पहली सामग्री पेंट"
+
+msgid "Total Size"
+msgstr "कुल आकार"
+
+msgid "Requests"
+msgstr "अनुरोध"
+
+msgid "Page Load"
+msgstr "पृष्ठ लोड"
+
+msgid "Last updated: %s"
+msgstr "अंतिम अपडेट: %s"
+
+msgid "Live"
+msgstr "लाइव"
+
+msgid "Desktop"
+msgstr "डेस्कटॉप"
+
+msgid "Mobile"
+msgstr "मोबाइल"
+
+msgid "Quick Insights"
+msgstr "त्वरित अंतर्दृष्टि"
+
+msgid "Config"
+msgstr "कॉन्फ़िग"
+
+msgid "Total Vulnerabilities"
+msgstr "कुल भेद्यताएं"
+
+msgid "CVSS Score:"
+msgstr "CVSS स्कोर:"
+
+msgid "Published:"
+msgstr "प्रकाशित:"
+
+msgid "Last Modified:"
+msgstr "अंतिम संशोधित:"
+
+msgid "References:"
+msgstr "संदर्भ:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "Your WordPress core is secure!"
+msgstr "आपका WordPress कोर सुरक्षित है!"
+
+msgid "View All Vulnerabilities"
+msgstr "सभी कमजोरियां देखें"
+
+msgid "CRITICAL"
+msgstr "गंभीर"
+
+msgid "HIGH"
+msgstr "उच्च"
+
+msgid "MEDIUM"
+msgstr "मध्यम"
+
+msgid "LOW"
+msgstr "निम्न"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "कार्रवाई की सिफारिश की जाती है। कृपया प्रभावित आइटमों की समीक्षा करें और अपडेट करें।"
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "आपके सभी प्लगइन्स, थीम और WordPress कोर सुरक्षित और अप-टू-डेट हैं।"
+
+msgid "High severity vulnerabilities found"
+msgstr "उच्च गंभीरता की भेद्यताएं मिलीं"
+
+msgid "Last updated: Loading..."
+msgstr "अंतिम अपडेट: लोड हो रहा है..."
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "समीक्षा की सिफारिश की गई है। जब संभव हो तो प्रभावित आइटमों की निगरानी करें और अपडेट करें।"
+
+msgid "Some vulnerabilities found"
+msgstr "कुछ भेद्यताएं मिलीं"
+
+msgid "Trend Products TikTok"
+msgstr "ट्रेंड उत्पाद TikTok"
+
+msgid "Your site is secure!"
+msgstr "आपकी साइट सुरक्षित है!"
+
+msgid "failed_to_load_insights_error"
+msgstr "इनसाइट डेटा लोड करने में त्रुटि"
+
+msgid "failed_to_refetch"
+msgstr "पुनः प्राप्त करने में विफल"
+
+msgid "no_category"
+msgstr "कोई श्रेणी नहीं"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "SEO अनुकूलन संसाधित कर रहा है: कीफ्रेज़, SEO शीर्षक, SEO विवरण, मेटा विवरण, टैग, Yoast SEO शीर्षक और शीर्षक"
+
+msgid "Search themes..."
+msgstr "थीम खोजें..."
+
+msgid "1. authentication Agreement"
+msgstr "1. प्रमाणीकरण समझौता"
+
+msgid "2. Data Usage"
+msgstr "2. डेटा उपयोग"
+
+msgid "3. Service Availability"
+msgstr "3. सेवा उपलब्धता"
+
+msgid "4. Support"
+msgstr "4. समर्थन"
+
+msgid "5. Updates"
+msgstr "5. अपडेट"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "ANALYTICS DASHBOARD"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+
+msgid "API Test Failed: %s"
+msgstr "API Test Failed: %s"
+
+msgid "AUTHOR"
+msgstr "AUTHOR"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "Access your Vortem.ai AI account and resources"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "Access your Vortem.ai AI account and resources:"
+
+msgid "Accessibility"
+msgstr "Accessibility"
+
+msgid "Across all plugins, themes & core"
+msgstr "सभी प्लगइन्स, थीम और कोर में"
+
+msgid "Actions"
+msgstr "क्रियाएं"
+
+msgid "Active FAQs"
+msgstr "सक्रिय अक्सर पूछे जाने वाले प्रश्न"
+
+msgid "Add"
+msgstr "जोड़ें"
+
+msgid "Added"
+msgstr "जोड़ा गया"
+
+msgid "Address as soon as possible"
+msgstr "जितनी जल्दी हो सके संबोधित करें"
+
+msgid "All Categories"
+msgstr "सभी श्रेणियाँ"
+
+msgid "All KPI Products"
+msgstr "सभी KPI उत्पाद"
+
+msgid "All Security Issues"
+msgstr "सभी सुरक्षा मुद्दे"
+
+msgid "All Suggested Pricing"
+msgstr "सभी सुझाए गए मूल्य"
+
+msgid "All Trend Index Products"
+msgstr "सभी ट्रेंड इंडेक्स उत्पाद"
+
+msgid "Already Imported"
+msgstr "पहले से आयातित"
+
+msgid "Amazon Device"
+msgstr "Amazon डिवाइस"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "इनसाइट्स विश्लेषण डेटा प्राप्त करते समय एक त्रुटि हुई।"
+
+msgid "Analysis Configuration"
+msgstr "विश्लेषण कॉन्फ़िगरेशन"
+
+msgid "Analytics"
+msgstr "विश्लेषण"
+
+msgid "Analytics Dashboard"
+msgstr "विश्लेषण डैशबोर्ड"
+
+msgid "Analytics Hub"
+msgstr "विश्लेषण हब"
+
+msgid "Analytics Insights"
+msgstr "विश्लेषण अंतर्दृष्टि"
+
+msgid "Analytics Overview"
+msgstr "विश्लेषण अवलोकन"
+
+msgid "Analytics cache cleared successfully!"
+msgstr "विश्लेषण कैश सफलतापूर्वक साफ़ किया गया!"
+
+msgid "Analyzing performance metrics..."
+msgstr "प्रदर्शन मेट्रिक्स का विश्लेषण कर रहा है..."
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "सुरक्षा भेद्यताओं के लिए आपकी WordPress स्थापना का विश्लेषण कर रहा है"
+
+msgid "Answer"
+msgstr "उत्तर"
+
+msgid "Answer *"
+msgstr "उत्तर *"
+
+msgid "Answer is required"
+msgstr "उत्तर आवश्यक है"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "उत्तर कम से कम 10 वर्ण लंबा होना चाहिए"
+
+msgid "Answer:"
+msgstr "उत्तर:"
+
+msgid "Appliances"
+msgstr "उपकरण"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "क्या आप वाकई \"%s\" को हटाना चाहते हैं? यह कार्रवाई पूर्ववत नहीं की जा सकती।"
+
+msgid "Are you sure you want to proceed?"
+msgstr "क्या आप वाकई आगे बढ़ना चाहते हैं?"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "कला, शिल्प और सिलाई"
+
+msgid "Attention required"
+msgstr "ध्यान आवश्यक"
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "प्रमाणीकरण आवश्यक है। कृपया अपनी प्रमाणीकरण कुंजी जांचें।"
+
+msgid "Automotive"
+msgstr "ऑटोमोटिव"
+
+msgid "Average"
+msgstr "औसत"
+
+msgid "Average Price"
+msgstr "औसत मूल्य"
+
+msgid "Average Rating"
+msgstr "औसत रेटिंग"
+
+msgid "Avg FPSI"
+msgstr "औसत FPSI"
+
+msgid "Avg Order Value"
+msgstr "औसत ऑर्डर मूल्य"
+
+msgid "Avg Price"
+msgstr "औसत मूल्य"
+
+msgid "Avg Rating"
+msgstr "औसत रेटिंग"
+
+msgid "Avg Reviews"
+msgstr "औसत समीक्षाएं"
+
+msgid "Avg Sold"
+msgstr "औसत बिक्री"
+
+msgid "BI Analytics Hub"
+msgstr "BI विश्लेषण हब"
+
+msgid "Baby"
+msgstr "बेबी"
+
+msgid "Baby Products"
+msgstr "बेबी उत्पाद"
+
+msgid "Base Price"
+msgstr "आधार मूल्य"
+
+msgid "Beauty & Personal Care"
+msgstr "सौंदर्य और व्यक्तिगत देखभाल"
+
+msgid "Best Practices"
+msgstr "सर्वोत्तम अभ्यास"
+
+msgid "Best seller"
+msgstr "सर्वश्रेष्ठ विक्रेता"
+
+msgid "Bulk action failed. Please try again."
+msgstr "बल्क एक्शन विफल। कृपया पुन: प्रयास करें।"
+
+msgid "Business Intelligence"
+msgstr "व्यापार बुद्धिमत्ता"
+
+msgid "Business Overview"
+msgstr "व्यापार अवलोकन"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "इस प्लगइन का उपयोग करके, आप सभी लागू कानूनों और नियमों का पालन करने के लिए सहमत हैं। प्लगइन GPL v2 या बाद के प्रमाणीकरण के तहत प्रदान किया गया है।"
+
+msgid "CTR"
+msgstr "CTR"
+
+msgid "CVR"
+msgstr "CVR"
+
+msgid "Cancel"
+msgstr "रद्द करें"
+
+msgid "Cancelled"
+msgstr "रद्द"
+
+msgid "Card View"
+msgstr "कार्ड दृश्य"
+
+msgid "Cards"
+msgstr "कार्ड"
+
+msgid "Cart Abandonment"
+msgstr "कार्ट परित्याग"
+
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+msgid "Category"
+msgstr "श्रेणी"
+
+msgid "Category Comparison"
+msgstr "श्रेणी तुलना"
+
+msgid "Category Comparison - All Data"
+msgstr "श्रेणी तुलना - सभी डेटा"
+
+msgid "Cell Phones & Accessories"
+msgstr "सेल फोन और एक्सेसरीज"
+
+msgid "Channel"
+msgstr "चैनल"
+
+msgid "Checking product status..."
+msgstr "उत्पाद स्थिति जांच रहा है..."
+
+msgid "Clear"
+msgstr "साफ़ करें"
+
+msgid "Clear Cache"
+msgstr "कैश साफ़ करें"
+
+msgid "Close"
+msgstr "बंद करें"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "कपड़े, जूते और गहने"
+
+msgid "Collectibles & Fine Art"
+msgstr "संग्रहणीय और ललित कला"
+
+msgid "Competition"
+msgstr "प्रतियोगिता"
+
+msgid "Competitive Price"
+msgstr "प्रतिस्पर्धी मूल्य"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "अपने प्रमाणीकरण को कॉन्फ़िगर करने और शुरू करने के लिए सेटअप विज़ार्ड पूरा करें।"
+
+msgid "Complete!"
+msgstr "पूर्ण!"
+
+msgid "Completed"
+msgstr "पूर्ण"
+
+msgid "Component Type"
+msgstr "घटक प्रकार"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "डेटा-संचालित निर्णय लेने के लिए उन्नत डेटा बुद्धिमत्ता द्वारा संचालित व्यापक विश्लेषण और अंतर्दृष्टि"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "व्यापक बाजार तुलना और श्रेणी अंतर्दृष्टि"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "नीचे अपनी Vortem.ai सेटिंग्स कॉन्फ़िगर करें।"
+
+msgid "Confirm"
+msgstr "पुष्टि करें"
+
+msgid "Confirm Action"
+msgstr "कार्रवाई की पुष्टि करें"
+
+msgid "Connecting to server..."
+msgstr "सर्वर से कनेक्ट हो रहा है..."
+
+msgid "Core"
+msgstr "कोर"
+
+msgid "Core Web Vitals"
+msgstr "कोर वेब वाइटल्स"
+
+msgid "Core WordPress files"
+msgstr "कोर WordPress फ़ाइलें"
+
+msgid "Count"
+msgstr "गिनती"
+
+msgid "Create Email"
+msgstr "ईमेल बनाएं"
+
+msgid "Create Email List"
+msgstr "ईमेल सूची बनाएं"
+
+msgid "Create FAQ"
+msgstr "FAQ बनाएं"
+
+msgid "Create New Email"
+msgstr "नया ईमेल बनाएं"
+
+msgid "Create New FAQ"
+msgstr "नया FAQ बनाएं"
+
+msgid "Create Your First FAQ"
+msgstr "अपना पहला FAQ बनाएं"
+
+msgid "Created"
+msgstr "बनाया गया"
+
+msgid "Created:"
+msgstr "बनाया गया:"
+
+msgid "Creating..."
+msgstr "बना रहा है..."
+
+msgid "Critical"
+msgstr "गंभीर"
+
+msgid "Critical Severity"
+msgstr "गंभीर गंभीरता"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "गंभीर भेद्यताएं पाई गईं!"
+
+msgid "Current Page"
+msgstr "वर्तमान पृष्ठ"
+
+msgid "Customer Intelligence"
+msgstr "ग्राहक बुद्धिमत्ता"
+
+msgid "Customers (30 Days)"
+msgstr "ग्राहक (30 दिन)"
+
+msgid "Data Intelligence"
+msgstr "डेटा बुद्धिमत्ता"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "डेटाबेस संरचना वैध है। किसी सुधार की आवश्यकता नहीं है।"
+
+msgid "Database structure validated and fixed:"
+msgstr "डेटाबेस संरचना सत्यापित और ठीक की गई:"
+
+msgid "Database validation failed: %s"
+msgstr "डेटाबेस सत्यापन विफल: %s"
+
+msgid "Database validation issues:"
+msgstr "डेटाबेस सत्यापन मुद्दे:"
+
+msgid "Date"
+msgstr "दिनांक"
+
+msgid "Declining"
+msgstr "गिरावट"
+
+msgid "Deep dive into performance metrics"
+msgstr "प्रदर्शन मेट्रिक्स में गहराई से जानें"
+
+msgid "Delete"
+msgstr "हटाएं"
+
+msgid "Delete FAQ"
+msgstr "FAQ हटाएं"
+
+msgid "Delete failed. Please try again."
+msgstr "हटाना विफल। कृपया पुन: प्रयास करें।"
+
+msgid "Deleting..."
+msgstr "हटाया जा रहा है..."
+
+msgid "Demand Stability"
+msgstr "मांग स्थिरता"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "विस्तृत विश्लेषण तालिकाएं और मूल्य अंतर्दृष्टि"
+
+msgid "Device"
+msgstr "डिवाइस"
+
+msgid "Documentation"
+msgstr "दस्तावेज़ीकरण"
+
+msgid "Download Template"
+msgstr "टेम्प्लेट डाउनलोड करें"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "email-recipient.xlsx टेम्प्लेट डाउनलोड करें"
+
+msgid "Draft"
+msgstr "ड्राफ्ट"
+
+msgid "Edit"
+msgstr "संपादित करें"
+
+msgid "Edit Email"
+msgstr "ईमेल संपादित करें"
+
+msgid "Edit FAQ"
+msgstr "FAQ संपादित करें"
+
+msgid "Electronics"
+msgstr "इलेक्ट्रॉनिक्स"
+
+msgid "Email Body"
+msgstr "ईमेल बॉडी"
+
+msgid "Email Body (optional HTML)"
+msgstr "ईमेल बॉडी (वैकल्पिक HTML)"
+
+msgid "Email Lists"
+msgstr "ईमेल सूचियाँ"
+
+msgid "Email Marketing"
+msgstr "ईमेल मार्केटिंग"
+
+msgid "Email Sent"
+msgstr "ईमेल भेजा गया"
+
+msgid "Email sent"
+msgstr "ईमेल भेजा गया"
+
+msgid "Emails"
+msgstr "ईमेल"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "ईमेल पता दर्ज करें और Enter दबाएं या Add पर क्लिक करें"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "एक समय में एक ईमेल पता दर्ज करें। इसे हटाने के लिए टैग पर X पर क्लिक करें।"
+
+msgid "Enter the answer here..."
+msgstr "उत्तर यहाँ दर्ज करें..."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "प्लगइन को सक्रिय करने और सभी सुविधाओं तक पहुंचने के लिए अपनी Vortem.ai प्रमाणीकरण कुंजी दर्ज करें।"
+
+msgid "Enter your question here..."
+msgstr "अपना प्रश्न यहाँ दर्ज करें..."
+
+msgid "Error"
+msgstr "त्रुटि"
+
+msgid "Error Loading Insights Data"
+msgstr "इनसाइट्स डेटा लोड करने में त्रुटि"
+
+msgid "Excellent"
+msgstr "उत्कृष्ट"
+
+msgid "Exists"
+msgstr "मौजूद है"
+
+msgid "Exit Select"
+msgstr "चयन से बाहर निकलें"
+
+msgid "Export CSV"
+msgstr "CSV निर्यात करें"
+
+msgid "Export Excel"
+msgstr "Excel निर्यात करें"
+
+msgid "FAILED"
+msgstr "विफल"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "FAQ \"%s\" बनाया गया है"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "FAQ \"%s\" हटा दिया गया है"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "FAQ \"%s\" अपडेट किया गया है"
+
+msgid "FAQ Details"
+msgstr "FAQ विवरण"
+
+msgid "FAQ Management"
+msgstr "FAQ प्रबंधन"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Failed"
+msgstr "विफल"
+
+msgid "Failed Orders"
+msgstr "विफल ऑर्डर"
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "FAQ हटाने में विफल। कृपया पुन: प्रयास करें।"
+
+msgid "Failed to get product details."
+msgstr "उत्पाद विवरण प्राप्त करने में विफल।"
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "उत्पाद को ड्राफ्ट के रूप में आयात करने में विफल। कृपया पुन: प्रयास करें।"
+
+msgid "Failed to load"
+msgstr "लोड करने में विफल"
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "FAQ लोड करने में विफल। कृपया पुन: प्रयास करें।"
+
+msgid "Failed to load Insights data"
+msgstr "इनसाइट्स डेटा लोड करने में विफल"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "इनसाइट्स डेटा लोड करने में विफल। कृपया अपना कनेक्शन जांचें और पुन: प्रयास करें।"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "विश्लेषण डेटा लोड करने में विफल। कृपया पृष्ठ को रीफ्रेश करें।"
+
+msgid "Failed to restore product. Please try again."
+msgstr "उत्पाद को पुनर्स्थापित करने में विफल। कृपया पुन: प्रयास करें।"
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "FAQ सहेजने में विफल। कृपया पुन: प्रयास करें।"
+
+msgid "Failed to trash product. Please try again."
+msgstr "उत्पाद को ट्रैश में डालने में विफल। कृपया पुन: प्रयास करें।"
+
+msgid "Failed:"
+msgstr "विफल:"
+
+msgid "Fetching insights data..."
+msgstr "इनसाइट्स डेटा प्राप्त कर रहा है..."
+
+msgid "Filter by:"
+msgstr "द्वारा फ़िल्टर करें:"
+
+msgid "Finalizing results..."
+msgstr "परिणाम अंतिम रूप दे रहा है..."
+
+msgid "Get help and support from our team"
+msgstr "हमारी टीम से सहायता और समर्थन प्राप्त करें"
+
+msgid "Health & Household"
+msgstr "स्वास्थ्य और घरेलू"
+
+msgid "High"
+msgstr "उच्च"
+
+msgid "High Severity"
+msgstr "उच्च गंभीरता"
+
+msgid "High severity vulnerabilities detected"
+msgstr "उच्च गंभीरता की भेद्यताएं पाई गईं"
+
+msgid "High-Risk Price"
+msgstr "उच्च-जोखिम मूल्य"
+
+msgid "Home"
+msgstr "होम"
+
+msgid "Home & Kitchen"
+msgstr "होम और किचन"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "तत्काल कार्रवाई आवश्यक है। कृपया प्रभावित आइटमों को जितनी जल्दी हो सके अपडेट या हटाएं।"
+
+msgid "Import"
+msgstr "आयात"
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "आयात पूर्ण! %d उत्पाद आयात किए गए, %d विफल।"
+
+msgid "Import failed. Please try again."
+msgstr "आयात विफल। कृपया पुन: प्रयास करें।"
+
+msgid "Import failed: %s"
+msgstr "आयात विफल: %s"
+
+msgid "Importing product as draft..."
+msgstr "उत्पाद को ड्राफ्ट के रूप में आयात कर रहा है..."
+
+msgid "Importing product with SEO optimization..."
+msgstr "SEO अनुकूलन के साथ उत्पाद आयात कर रहा है..."
+
+msgid "Importing..."
+msgstr "आयात किया जा रहा है..."
+
+msgid "Industrial & Scientific"
+msgstr "औद्योगिक और वैज्ञानिक"
+
+msgid "Initializing..."
+msgstr "आरंभ कर रहा है..."
+
+msgid "Insights"
+msgstr "अंतर्दृष्टि"
+
+msgid "Items Requiring Attention"
+msgstr "ध्यान देने योग्य आइटम"
+
+msgid "Items without vulnerabilities"
+msgstr "भेद्यताओं के बिना आइटम"
+
+msgid "Key performance indicators at a glance"
+msgstr "एक नज़र में प्रमुख प्रदर्शन संकेतक"
+
+msgid "Last analyzed:"
+msgstr "अंतिम विश्लेषण:"
+
+msgid "Last updated:"
+msgstr "अंतिम अपडेट:"
+
+msgid "List Subject"
+msgstr "सूची विषय"
+
+msgid "Lists"
+msgstr "सूचियाँ"
+
+msgid "Loading FAQs..."
+msgstr "FAQ लोड हो रहे हैं..."
+
+msgid "Loading Insights data..."
+msgstr "इनसाइट्स डेटा लोड हो रहा है..."
+
+msgid "Loading orders..."
+msgstr "ऑर्डर लोड हो रहे हैं..."
+
+msgid "Loading products..."
+msgstr "उत्पाद लोड हो रहे हैं..."
+
+msgid "Loading..."
+msgstr "लोड हो रहा है..."
+
+msgid "Locale"
+msgstr "लोकेल"
+
+msgid "Low"
+msgstr "निम्न"
+
+msgid "Low Severity"
+msgstr "निम्न गंभीरता"
+
+msgid "Low severity vulnerabilities detected"
+msgstr "निम्न गंभीरता की भेद्यताएं पाई गईं"
+
+msgid "Low-Risk Price"
+msgstr "निम्न-जोखिम मूल्य"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "अपनी Vortem.ai AI खाता सेटिंग्स प्रबंधित करें"
+
+msgid "Manage your frequently asked questions"
+msgstr "अपने अक्सर पूछे जाने वाले प्रश्न प्रबंधित करें"
+
+msgid "Manage, send, and track your email lists"
+msgstr "अपनी ईमेल सूचियों को प्रबंधित करें, भेजें और ट्रैक करें"
+
+msgid "Manage, send, and track your emails"
+msgstr "अपने ईमेल प्रबंधित करें, भेजें और ट्रैक करें"
+
+msgid "Market"
+msgstr "बाजार"
+
+msgid "Market Analysis"
+msgstr "बाजार विश्लेषण"
+
+msgid "Market Comparison (by Source)"
+msgstr "बाजार तुलना (स्रोत द्वारा)"
+
+msgid "Medium"
+msgstr "मध्यम"
+
+msgid "Medium Severity"
+msgstr "मध्यम गंभीरता"
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "मध्यम गंभीरता की भेद्यताएं पाई गईं"
+
+msgid "Metrics"
+msgstr "मेट्रिक्स"
+
+msgid "Monitor & track"
+msgstr "निगरानी और ट्रैक करें"
+
+msgid "Monitor and plan fix"
+msgstr "निगरानी करें और सुधार की योजना बनाएं"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "इन मुद्दों की निगरानी करें और सुविधाजनक समय पर सुधार की योजना बनाएं।"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "अपने प्लगइन प्रदर्शन की निगरानी करें, प्रमुख मेट्रिक्स ट्रैक करें, और एक ही डैशबोर्ड से अपने संचालन प्रबंधित करें"
+
+msgid "Movers and shakers"
+msgstr "गतिशील और प्रभावशाली"
+
+msgid "Musical Instruments"
+msgstr "संगीत वाद्ययंत्र"
+
+msgid "My Account"
+msgstr "मेरा खाता"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "NEW"
+msgstr "नया"
+
+msgid "Need help?"
+msgstr "मदद चाहिए?"
+
+msgid "Needs Improvement"
+msgstr "सुधार की आवश्यकता"
+
+msgid "Negative"
+msgstr "नकारात्मक"
+
+msgid "Neutral"
+msgstr "तटस्थ"
+
+msgid "New releases"
+msgstr "नई रिलीज़"
+
+msgid "Next →"
+msgstr "अगला →"
+
+msgid "No FAQs yet"
+msgstr "अभी तक कोई FAQ नहीं"
+
+msgid "No Insights Data Available"
+msgstr "कोई इनसाइट्स डेटा उपलब्ध नहीं"
+
+msgid "No audit data available"
+msgstr "कोई ऑडिट डेटा उपलब्ध नहीं"
+
+msgid "No audits available"
+msgstr "कोई ऑडिट उपलब्ध नहीं"
+
+msgid "No category found"
+msgstr "कोई श्रेणी नहीं मिली"
+
+msgid "No data available"
+msgstr "कोई डेटा उपलब्ध नहीं"
+
+msgid "No data available to export"
+msgstr "निर्यात के लिए कोई डेटा उपलब्ध नहीं"
+
+msgid "No insights available"
+msgstr "कोई अंतर्दृष्टि उपलब्ध नहीं"
+
+msgid "No items at risk"
+msgstr "जोखिम में कोई आइटम नहीं"
+
+msgid "No known vulnerabilities detected"
+msgstr "कोई ज्ञात भेद्यता पाई नहीं गई"
+
+msgid "No orders found"
+msgstr "कोई ऑर्डर नहीं मिला"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "कोई प्रदर्शन विश्लेषण डेटा उपलब्ध नहीं है। इसका मतलब यह हो सकता है कि विश्लेषण अभी तक नहीं चलाया गया है, या डेटा प्राप्त करने में कोई त्रुटि थी।"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "कोई प्रदर्शन समस्या पाई नहीं गई। आपकी साइट अच्छा प्रदर्शन कर रही है!"
+
+msgid "No performance metrics available"
+msgstr "कोई प्रदर्शन मेट्रिक्स उपलब्ध नहीं"
+
+msgid "No plugins found"
+msgstr "कोई प्लगइन नहीं मिला"
+
+msgid "No products found"
+msgstr "कोई उत्पाद नहीं मिला"
+
+msgid "No products to import. Please sync products first."
+msgstr "आयात के लिए कोई उत्पाद नहीं। कृपया पहले उत्पादों को सिंक करें।"
+
+msgid "No recent vulnerabilities"
+msgstr "कोई हाल की भेद्यता नहीं"
+
+msgid "No themes found"
+msgstr "कोई थीम नहीं मिली"
+
+msgid "No vulnerabilities found"
+msgstr "कोई भेद्यता नहीं मिली"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "प्लगइन्स में कोई भेद्यता नहीं मिली"
+
+msgid "No vulnerabilities found in themes"
+msgstr "थीम्स में कोई भेद्यता नहीं मिली"
+
+msgid "Not Set"
+msgstr "सेट नहीं"
+
+msgid "Number of Vulnerabilities"
+msgstr "भेद्यताओं की संख्या"
+
+msgid "OK"
+msgstr "ठीक है"
+
+msgid "Office Products"
+msgstr "ऑफिस उत्पाद"
+
+msgid "On hold"
+msgstr "रोक दिया गया"
+
+msgid "Orders Per Page"
+msgstr "प्रति पृष्ठ ऑर्डर"
+
+msgid "Orders Status"
+msgstr "ऑर्डर स्थिति"
+
+msgid "Orders Today"
+msgstr "आज के ऑर्डर"
+
+msgid "Overall Sentiment"
+msgstr "समग्र भावना"
+
+msgid "Overall Sentiment distribution"
+msgstr "समग्र भावना वितरण"
+
+msgid "Overview"
+msgstr "अवलोकन"
+
+msgid "PENDING"
+msgstr "लंबित"
+
+msgid "Page"
+msgstr "पृष्ठ"
+
+msgid "Patio, Lawn & Garden"
+msgstr "पेटियो, लॉन और गार्डन"
+
+msgid "Pending"
+msgstr "लंबित"
+
+msgid "Pending Orders"
+msgstr "लंबित ऑर्डर"
+
+msgid "Pending payment"
+msgstr "लंबित भुगतान"
+
+msgid "Pending:"
+msgstr "लंबित:"
+
+msgid "Percentage"
+msgstr "प्रतिशत"
+
+msgid "Performance Audits"
+msgstr "प्रदर्शन ऑडिट"
+
+msgid "Performance Insights"
+msgstr "प्रदर्शन अंतर्दृष्टि"
+
+msgid "Performance Overview"
+msgstr "प्रदर्शन अवलोकन"
+
+msgid "Performance insights for"
+msgstr "के लिए प्रदर्शन अंतर्दृष्टि"
+
+msgid "Plan to address"
+msgstr "संबोधित करने की योजना"
+
+msgid "Please enter a authentication key before testing."
+msgstr "परीक्षण से पहले कृपया एक प्रमाणीकरण कुंजी दर्ज करें।"
+
+msgid "Please review and address these issues soon."
+msgstr "कृपया जल्द ही इन मुद्दों की समीक्षा करें और संबोधित करें।"
+
+msgid "Please select a bulk action."
+msgstr "कृपया एक बल्क एक्शन चुनें।"
+
+msgid "Please select at least one product."
+msgstr "कृपया कम से कम एक उत्पाद चुनें।"
+
+msgid "Please wait while we check if the product exists"
+msgstr "कृपया प्रतीक्षा करें जब हम जांचते हैं कि उत्पाद मौजूद है या नहीं"
+
+msgid "Please wait while we import your product"
+msgstr "कृपया प्रतीक्षा करें जब हम आपका उत्पाद आयात करते हैं"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "कार्यक्षमता और सुरक्षा में सुधार के लिए प्लगइन अपडेट प्रदान किए जाते हैं। प्लगइन को नवीनतम संस्करण में अपडेट रखने की सिफारिश की जाती है।"
+
+msgid "Poor"
+msgstr "खराब"
+
+msgid "Positive"
+msgstr "सकारात्मक"
+
+msgid "Preview"
+msgstr "पूर्वावलोकन"
+
+msgid "Price"
+msgstr "मूल्य"
+
+msgid "Price vs Rating"
+msgstr "मूल्य बनाम रेटिंग"
+
+msgid "Processing"
+msgstr "प्रसंस्करण"
+
+msgid "Processing audits and insights..."
+msgstr "ऑडिट और अंतर्दृष्टि प्रसंस्करण..."
+
+msgid "Processing..."
+msgstr "प्रसंस्करण..."
+
+msgid "Product"
+msgstr "उत्पाद"
+
+msgid "Products"
+msgstr "उत्पाद"
+
+msgid "Product Count"
+msgstr "उत्पाद गिनती"
+
+msgid "Product ID"
+msgstr "उत्पाद ID"
+
+msgid "Product Name"
+msgstr "उत्पाद नाम"
+
+msgid "Product Title"
+msgstr "उत्पाद शीर्षक"
+
+msgid "Product deleted successfully"
+msgstr "उत्पाद सफलतापूर्वक हटा दिया गया"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "प्रति पृष्ठ उत्पाद 100 से अधिक नहीं हो सकते। कृपया 1 और 100 के बीच एक मान दर्ज करें।"
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "प्रति पृष्ठ उत्पाद कम से कम 1 होना चाहिए। कृपया एक वैध मान दर्ज करें।"
+
+msgid "Profitability"
+msgstr "लाभप्रदता"
+
+msgid "Question"
+msgstr "प्रश्न"
+
+msgid "Question *"
+msgstr "प्रश्न *"
+
+msgid "Question is required"
+msgstr "प्रश्न आवश्यक है"
+
+msgid "Quick Actions"
+msgstr "Quick Actions"
+
+msgid "Quick insights into your business performance"
+msgstr "Quick insights into your business performance"
+
+msgid "REQUIRES PHP"
+msgstr "REQUIRES PHP"
+
+msgid "REQUIRES WP"
+msgstr "REQUIRES WP"
+
+msgid "Rating"
+msgstr "Rating"
+
+msgid "Read"
+msgstr "Read"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "Read comprehensive guides and tutorials"
+
+msgid "Read less"
+msgstr "Read less"
+
+msgid "Recent Vulnerabilities"
+msgstr "Recent Vulnerabilities"
+
+msgid "Recipient"
+msgstr "Recipient"
+
+msgid "Recipients"
+msgstr "Recipients"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Refresh FAQs"
+msgstr "Refresh FAQs"
+
+msgid "Refunded"
+msgstr "Refunded"
+
+msgid "Requires immediate action"
+msgstr "Requires immediate action"
+
+msgid "Requires immediate attention"
+msgstr "Requires immediate attention"
+
+msgid "Retry"
+msgstr "Retry"
+
+msgid "Revenue"
+msgstr "Revenue"
+
+msgid "Revenue (30 Days)"
+msgstr "राजस्व (30 दिन)"
+
+msgid "Revenue Overview"
+msgstr "Revenue Overview"
+
+msgid "Revenue Today"
+msgstr "आज का राजस्व"
+
+msgid "Reviews"
+msgstr "Reviews"
+
+msgid "Revision"
+msgstr "Revision"
+
+msgid "Rising"
+msgstr "Rising"
+
+msgid "SENT"
+msgstr "SENT"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Safety & Security"
+msgstr "Safety & Security"
+
+msgid "Saving settings and validating authentication..."
+msgstr "Saving settings and validating authentication..."
+
+msgid "Scanning..."
+msgstr "Scanning..."
+
+msgid "Schedule for review"
+msgstr "Schedule for review"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "Schedule time to review and fix these issues."
+
+msgid "Search FAQs..."
+msgstr "Search FAQs..."
+
+msgid "Search emails..."
+msgstr "Search emails..."
+
+msgid "Search lists..."
+msgstr "Search lists..."
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "Search orders by number, customer name, or email..."
+
+msgid "Search products or categories..."
+msgstr "Search products or categories..."
+
+msgid "Search products..."
+msgstr "Search products..."
+
+msgid "Secure Items"
+msgstr "Secure Items"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+
+msgid "Select"
+msgstr "Select"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "Select the language for the plugin interface. Changes will take effect after saving."
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Send Email"
+msgstr "Send Email"
+
+msgid "Sending..."
+msgstr "Sending..."
+
+msgid "Sent"
+msgstr "Sent"
+
+msgid "Sent Emails"
+msgstr "Sent Emails"
+
+msgid "Sent:"
+msgstr "Sent:"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Settings saved successfully!"
+msgstr "Settings saved successfully!"
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "Setup Complete - Your Vortem.ai plugin is ready to use!"
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "Setup will take approximately 2-3 minutes."
+
+msgid "Should be fixed soon"
+msgstr "Should be fixed soon"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "Stable"
+msgstr "Stable"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "Start creating FAQs to build your knowledge base"
+
+msgid "Subject"
+msgstr "Subject"
+
+msgid "Subject for all recipients"
+msgstr "Subject for all recipients"
+
+msgid "Success"
+msgstr "Success"
+
+msgid "Successfully sent"
+msgstr "Successfully sent"
+
+msgid "Suggested Pricing"
+msgstr "Suggested Pricing"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Table"
+msgstr "Table"
+
+msgid "Table View"
+msgstr "Table View"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+
+msgid "Third-party plugins installed"
+msgstr "Third-party plugins installed"
+
+msgid "This will create the product in WooCommerce"
+msgstr "This will create the product in WooCommerce"
+
+msgid "To:"
+msgstr "To:"
+
+msgid "Tools & Home Improvement"
+msgstr "Tools & Home Improvement"
+
+msgid "Top KPI Products"
+msgstr "Top KPI Products"
+
+msgid "Top Seller (30 Days)"
+msgstr "Top Seller (30 Days)"
+
+msgid "Total"
+msgstr "कुल"
+
+msgid "Total Comments"
+msgstr "Total Comments"
+
+msgid "Total FAQs"
+msgstr "Total FAQs"
+
+msgid "Total Lists"
+msgstr "Total Lists"
+
+msgid "Total Orders"
+msgstr "Total Orders"
+
+msgid "Total Products"
+msgstr "Total Products"
+
+msgid "Total Recipients"
+msgstr "Total Recipients"
+
+msgid "Total Revenue"
+msgstr "कुल राजस्व"
+
+msgid "Total Reviews"
+msgstr "Total Reviews"
+
+msgid "Total Users"
+msgstr "Total Users"
+
+msgid "Total Views"
+msgstr "Total Views"
+
+msgid "Toys & Games"
+msgstr "Toys & Games"
+
+msgid "Trend Index"
+msgstr "Trend Index"
+
+msgid "Trend Index by Product"
+msgstr "Trend Index by Product"
+
+msgid "Trend Status Overview"
+msgstr "ट्रेंड स्थिति अवलोकन"
+
+msgid "Trend Status distribution"
+msgstr "ट्रेंड स्थिति वितरण"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "अपने फ़िल्टर या खोज शब्दों को समायोजित करने का प्रयास करें"
+
+msgid "Understand customer behavior and trends"
+msgstr "ग्राहक व्यवहार और रुझानों को समझें"
+
+msgid "Unknown"
+msgstr "अज्ञात"
+
+msgid "Unknown Plugin"
+msgstr "अज्ञात प्लगइन"
+
+msgid "Unknown Theme"
+msgstr "अज्ञात थीम"
+
+msgid "Unknown error"
+msgstr "अज्ञात त्रुटि"
+
+msgid "Untitled Product"
+msgstr "बिना शीर्षक उत्पाद"
+
+msgid "Update & Send"
+msgstr "अपडेट करें और भेजें"
+
+msgid "Update Email List"
+msgstr "Update Email List"
+
+msgid "Update FAQ"
+msgstr "Update FAQ"
+
+msgid "Updated"
+msgstr "Updated"
+
+msgid "Updating..."
+msgstr "Updating..."
+
+msgid "Upload Template"
+msgstr "Upload Template"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "Upload email-recipient.xlsx file"
+
+msgid "Users Today"
+msgstr "Users Today"
+
+msgid "VERSION"
+msgstr "VERSION"
+
+msgid "Validated on: %s"
+msgstr "Validated on: %s"
+
+msgid "View All"
+msgstr "View All"
+
+msgid "View Details"
+msgstr "विवरण देखें"
+
+msgid "View Full Analytics"
+msgstr "पूर्ण विश्लेषण देखें"
+
+msgid "View Less"
+msgstr "कम देखें"
+
+msgid "View More"
+msgstr "अधिक देखें"
+
+msgid "View Page"
+msgstr "पृष्ठ देखें"
+
+msgid "Visit Site"
+msgstr "साइट पर जाएं"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "Vortem.ai AI होमपेज पर जाएं"
+
+msgid "Vortem Logo"
+msgstr "Vortem लोगो"
+
+msgid "Vortem.ai AI Resources"
+msgstr "Vortem.ai AI संसाधन"
+
+msgid "Vortem.ai Overview"
+msgstr "Vortem.ai अवलोकन"
+
+msgid "Vortem.ai Products"
+msgstr "Vortem.ai उत्पाद"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "Vortem.ai सेटअप विज़ार्ड"
+
+msgid "Vulnerabilities by Type"
+msgstr "प्रकार के अनुसार भेद्यताएं"
+
+msgid "Vulnerability"
+msgstr "भेद्यता"
+
+msgid "Vulnerability Details"
+msgstr "भेद्यता विवरण"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "गंभीरता के अनुसार भेद्यता वितरण"
+
+msgid "Wasted:"
+msgstr "बर्बाद:"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "हम सेवा के संचालन के लिए आवश्यक डेटा एकत्र और संसाधित करते हैं, जिसमें उत्पाद जानकारी, ऑर्डर विवरण और ग्राहक डेटा शामिल है। सभी डेटा हमारी गोपनीयता नीति के अनुसार संभाला जाता है।"
+
+msgid "Welcome to vortem.ai!"
+msgstr "vortem.ai में आपका स्वागत है!"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "जबकि हम उच्च सेवा उपलब्धता बनाए रखने का प्रयास करते हैं, हम निर्बाध सेवा की गारंटी नहीं दे सकते। हम आवश्यकतानुसार रखरखाव और अपडेट करने का अधिकार सुरक्षित रखते हैं।"
+
+msgid "WooCommerce Analytics"
+msgstr "WooCommerce विश्लेषण"
+
+msgid "WordPress Activity"
+msgstr "WordPress गतिविधि"
+
+msgid "WordPress Analytics"
+msgstr "WordPress विश्लेषण"
+
+msgid "WordPress Metrics"
+msgstr "WordPress मेट्रिक्स"
+
+msgid "WordPress Vulnerability"
+msgstr "WordPress भेद्यता"
+
+msgid "WordPress themes"
+msgstr "WordPress थीम"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "आप अपनी दैनिक ईमेल सीमा (%s) के करीब पहुंच रहे हैं। सीमा कल रीसेट होगी।"
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "आप अपनी दैनिक उत्पाद आयात कोटा (%s) के करीब पहुंच रहे हैं। कोटा कल रीसेट होगा।"
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "आप अपनी प्रमाणीकरण कुंजी अपने Vortem.ai खाता डैशबोर्ड में पा सकते हैं।"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "आप दृश्य संपादक का उपयोग कर सकते हैं या HTML पेस्ट करने के लिए टेक्स्ट मोड पर स्विच कर सकते हैं।"
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "You have reached your daily email limit. The limit will reset tomorrow."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "You have reached your daily product import quota. The quota will reset tomorrow."
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "Your Vortem authentication is active with %s plan."
+
+msgid "Your WP Core is Secure"
+msgstr "Your WP Core is Secure"
+
+msgid "Your email has been sent successfully."
+msgstr "Your email has been sent successfully."
+
+msgid "Your email list has been sent successfully."
+msgstr "Your email list has been sent successfully."
+
+msgid "Your plugins are secure!"
+msgstr "Your plugins are secure!"
+
+msgid "Your site is secure"
+msgstr "Your site is secure"
+
+msgid "Your subject"
+msgstr "Your subject"
+
+msgid "Your themes are secure!"
+msgstr "Your themes are secure!"
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "प्रमाणीकरण कुंजी आवश्यक है। कृपया Vortem सेटिंग्स में अपनी प्रमाणीकरण कुंजी कॉन्फ़िगर करें।"
+
+msgid "category comparison data"
+msgstr "श्रेणी तुलना डेटा"
+
+msgid "email(s)"
+msgstr "ईमेल"
+
+msgid "market comparison data"
+msgstr "बाजार तुलना डेटा"
+
+msgid "more"
+msgstr "अधिक"
+
+msgid "more..."
+msgstr "अधिक..."
+
+msgid "of all vulnerabilities"
+msgstr "सभी भेद्यताओं में से"
+
+msgid "of installed items affected"
+msgstr "स्थापित आइटम प्रभावित"
+
+msgid "of items are clean"
+msgstr "आइटम साफ हैं"
+
+msgid "of total"
+msgstr "कुल में से"
+
+msgid "or higher. You are running version"
+msgstr "या उच्चतर। आप संस्करण चला रहे हैं"
+
+msgid "price rating data"
+msgstr "मूल्य रेटिंग डेटा"
+
+msgid "product"
+msgstr "उत्पाद"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "WooCommerce स्थापित और सक्रिय होना आवश्यक है।"
+
+msgid "sentiment data"
+msgstr "भावना डेटा"
+
+msgid "status_failed"
+msgstr "स्थिति_विफल"
+
+msgid "status_pending"
+msgstr "स्थिति_लंबित"
+
+msgid "status_sent"
+msgstr "स्थिति_भेजा_गया"
+
+msgid "suggested pricing data"
+msgstr "सुझाए गए मूल्य डेटा"
+
+msgid "trend status data"
+msgstr "ट्रेंड स्थिति डेटा"
+
+msgid "value"
+msgstr "मूल्य"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "vortem.ai प्लगइन सेवा की शर्तें"
+
+msgid "vulnerabilities"
+msgstr "भेद्यताएं"
+
+msgid "vulnerabilities found"
+msgstr "भेद्यताएं पाई गईं"
+
+msgid "your website"
+msgstr "आपकी वेबसाइट"
+
+msgid "← Previous"
+msgstr "← पिछला"
+
+msgid "Filter by Severity:"
+msgstr "गंभीरता से फ़िल्टर करें:"
+
+msgid "All Severities"
+msgstr "सभी गंभीरताएं"
+
+msgid "Let's Get You Started"
+msgstr "चलिए शुरू करते हैं"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "लगभग 2 मिनट में सेटअप पूरा करें"
+
+msgid "Quick Setup"
+msgstr "त्वरित सेटअप"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "हमारी निर्देशित स्थापना प्रक्रिया के साथ मिनटों में शुरू करें"
+
+msgid "Secure & Reliable"
+msgstr "सुरक्षित और विश्वसनीय"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "प्रत्येक घटक में निर्मित उद्यम-स्तरीय सुरक्षा"
+
+msgid "Optimized Performance"
+msgstr "अनुकूलित प्रदर्शन"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "अत्यंत तेज़ और WordPress वातावरण के लिए अनुकूलित"
+
+msgid "Next Step"
+msgstr "अगला कदम"
+
+msgid "Initial Configuration"
+msgstr "प्रारंभिक कॉन्फ़िगरेशन"
+
+msgid "Set your default language and currency preferences"
+msgstr "अपनी डिफ़ॉल्ट भाषा और मुद्रा प्राथमिकताएं सेट करें"
+
+msgid "Please review and accept our terms to continue"
+msgstr "कृपया जारी रखने के लिए हमारी शर्तों की समीक्षा करें और स्वीकार करें"
+
+msgid "1. Service Availability"
+msgstr "1. सेवा उपलब्धता"
+
+msgid "2. Support"
+msgstr "2. सहायता"
+
+msgid "3. Updates"
+msgstr "3. अपडेट"
+
+msgid "I accept the Terms & Conditions"
+msgstr "मैं नियम और शर्तें स्वीकार करता हूं"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "इस बॉक्स को चेक करके, आप स्वीकार करते हैं कि आपने इन नियमों और शर्तों को पढ़ा है और इनसे बाध्य होने के लिए सहमत हैं।"
+
+msgid "Installation Complete!"
+msgstr "स्थापना पूर्ण!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "आपका प्लगइन सफलतापूर्वक कॉन्फ़िगर किया गया है और उपयोग के लिए तैयार है। अब आप सभी सुविधाओं का उपयोग शुरू कर सकते हैं।"
+
+msgid "Configuration Summary"
+msgstr "कॉन्फ़िगरेशन सारांश"
+
+msgid "Language:"
+msgstr "भाषा:"
+
+msgid "Currency:"
+msgstr "मुद्रा:"
+
+msgid "Terms Accepted:"
+msgstr "शर्तें स्वीकार की गईं:"
+
+msgid "Yes"
+msgstr "हाँ"
+
+msgid "Go to Dashboard"
+msgstr "डैशबोर्ड पर जाएं"
+
+msgid "Go to Analytics page"
+msgstr "विश्लेषण पृष्ठ पर जाएं"
+
+msgid "Go to Products page"
+msgstr "उत्पाद पृष्ठ पर जाएं"
+
+msgid "Go to Matomo Analytics page"
+msgstr "Matomo विश्लेषण पृष्ठ पर जाएं"
+
+msgid "Restart Wizard"
+msgstr "विज़ार्ड को पुनः आरंभ करें"
+
+msgid "Restart"
+msgstr "पुनः आरंभ करें"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "यह सेटअप प्रक्रिया को रीसेट कर देगा। क्या आप निश्चित हैं?"
+
+msgid "Confirm Restart"
+msgstr "पुनः आरंभ की पुष्टि करें"
+
+msgid "Back"
+msgstr "वापस"
+
+msgid "Welcome"
+msgstr "स्वागत है"
+
+msgid "Configuration"
+msgstr "कॉन्फ़िगरेशन"
+
+msgid "Complete"
+msgstr "पूर्ण"
+
+msgid "Insufficient permissions"
+msgstr "अपर्याप्त अनुमतियां"
+
+msgid "Language parameter is required"
+msgstr "भाषा पैरामीटर आवश्यक है"
+
+msgid "Translation manager not available"
+msgstr "अनुवाद प्रबंधक उपलब्ध नहीं है"
+
+msgid "Unsupported language"
+msgstr "असमर्थित भाषा"
+
+msgid "Language changed successfully"
+msgstr "भाषा सफलतापूर्वक बदल गई"
+
+msgid "Failed to change language"
+msgstr "भाषा बदलने में विफल"
+
+msgid "Currency parameter is required"
+msgstr "मुद्रा पैरामीटर आवश्यक है"
+
+msgid "Unsupported currency"
+msgstr "असमर्थित मुद्रा"
+
+msgid "Currency changed successfully"
+msgstr "मुद्रा सफलतापूर्वक बदल गई"
+
+msgid "Loading"
+msgstr "लोड हो रहा है"
+
+msgid "Search..."
+msgstr "खोजें..."
+
+msgid "Search Language"
+msgstr "भाषा खोजें"
+
+msgid "No languages found"
+msgstr "कोई भाषा नहीं मिली"
+
+msgid "No currencies found"
+msgstr "कोई मुद्रा नहीं मिली"
+
+msgid "Failed to load currencies"
+msgstr "मुद्राएं लोड करने में विफल"
+
+msgid "Error loading currencies"
+msgstr "मुद्राएं लोड करने में त्रुटि"
+
+msgid "Failed to restart wizard"
+msgstr "विज़ार्ड पुनः आरंभ करने में विफल"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "विज़ार्ड पुनः आरंभ करते समय एक त्रुटि हुई। कृपया पुनः प्रयास करें।"
+
+msgid "Please complete the current step before proceeding."
+msgstr "कृपया आगे बढ़ने से पहले वर्तमान चरण पूरा करें।"
+
+msgid "Please wait for authentication to complete."
+msgstr "कृपया प्रमाणीकरण पूरा होने तक प्रतीक्षा करें।"
+
+msgid "Please accept the terms and conditions."
+msgstr "कृपया नियम और शर्तें स्वीकार करें।"
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "कृपया आगे बढ़ने से पहले नियम और शर्तें स्वीकार करें।"
+
+msgid "Please complete authentication first."
+msgstr "कृपया पहले प्रमाणीकरण पूरा करें।"
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "कृपया सेटअप पूरा करने से पहले नियम और शर्तें स्वीकार करें।"
+
+msgid "Failed to complete setup"
+msgstr "सेटअप पूरा करने में विफल"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "सेटअप पूरा करते समय एक त्रुटि हुई। कृपया पुनः प्रयास करें।"
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "सत्र टोकन नहीं मिला। कृपया पहले प्रमाणीकरण पूरा करें।"
+
+msgid "An error occurred while switching language"
+msgstr "भाषा बदलते समय एक त्रुटि हुई"
+
+msgid "An error occurred while switching currency"
+msgstr "मुद्रा बदलते समय एक त्रुटि हुई"
+
+msgid "Last updated: %1$s • Live"
+msgstr "अंतिम अपडेट: %1$s • लाइव"
+
+msgid "Last 30 days"
+msgstr "पिछले 30 दिन"
+
+msgid "Traffic Overview"
+msgstr "ट्रैफ़िक अवलोकन"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "Matomo एनालिटिक्स – पिछले 30 दिन"
+
+msgid "Today's Focus"
+msgstr "आज का फोकस"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "Vortem.ai प्लगइन अवलोकन"
+
+msgid "Read More"
+msgstr "और पढ़ें"
+
+msgid "Check your dashboard regularly"
+msgstr "अपना डैशबोर्ड नियमित जाँचें"
+
+msgid "View Analytics"
+msgstr "एनालिटिक्स देखें"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem को 2026 का शीर्ष AI प्लेटफ़ॉर्म माना गया"
+
+msgid "Order Statistics"
+msgstr "ऑर्डर आंकड़े"
+
+msgid "Today's Orders Completed"
+msgstr "आज पूर्ण ऑर्डर"
+
+msgid "Total Orders Completed"
+msgstr "कुल पूर्ण ऑर्डर"
+
+msgid "Imported Products"
+msgstr "आयातित उत्पाद"
+
+msgid "Recent Activity"
+msgstr "हाल की गतिविधि"
+
+msgid "Overview dashboard loaded"
+msgstr "अवलोकन डैशबोर्ड लोड हुआ"
+
+msgid "Just now"
+msgstr "अभी"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "आप यहाँ से उत्पाद, एनालिटिक्स और ईमेल मार्केटिंग प्रबंधित कर सकते हैं"
+
+msgid "Ready"
+msgstr "तैयार"
+
+msgid "Configure plugin settings and API keys"
+msgstr "प्लगइन सेटिंग्स और API कुंजी कॉन्फ़िगर करें"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "Vortem.ai प्लगइन तैयार है। आप यहाँ से उत्पाद, एनालिटिक्स और ईमेल मार्केटिंग प्रबंधित कर सकते हैं।"
+
+msgid "Vortem.ai official website"
+msgstr "Vortem.ai आधिकारिक वेबसाइट"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "नेविगेट करें, सीखें और अपना खाता प्रबंधित करें"
+
+msgid "Quick Access"
+msgstr "त्वरित पहुँच"
+
+msgid "Return to dashboard home"
+msgstr "डैशबोर्ड होम पर वापस"
+
+msgid "Go to Home"
+msgstr "होम पर जाएं"
+
+msgid "Profile, settings, and preferences"
+msgstr "प्रोफ़ाइल, सेटिंग्स और प्राथमिकताएं"
+
+msgid "Help & Learning"
+msgstr "सहायता और सीखना"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "सहायता लें, टिकट जमा करें या सपोर्ट से संपर्क करें"
+
+msgid "Get Support"
+msgstr "सपोर्ट प्राप्त करें"
+
+msgid "Developer & user guides"
+msgstr "डेवलपर और उपयोगकर्ता गाइड"
+
+msgid "Read Docs"
+msgstr "दस्तावेज़ पढ़ें"
+
+msgid "Legal & Policies"
+msgstr "कानूनी और नीतियां"
+
+msgid "Terms of Service"
+msgstr "सेवा की शर्तें"
+
+msgid "Usage terms and conditions"
+msgstr "उपयोग की शर्तें"
+
+msgid "View"
+msgstr "देखें"
+
+msgid "Privacy Policy"
+msgstr "गोपनीयता नीति"
+
+msgid "Data protection and privacy"
+msgstr "डेटा सुरक्षा और गोपनीयता"
+
+msgid "Navigation to vortem wordpress"
+msgstr "Vortem WordPress पर नेविगेशन"
+
+msgid "Access key features and settings"
+msgstr "मुख्य सुविधाओं और सेटिंग्स तक पहुँच"
+
+msgid "Manage catalog and inventory"
+msgstr "कैटलॉग और इन्वेंटरी प्रबंधित करें"
+
+msgid "Business insights and metrics"
+msgstr "व्यावसायिक अंतर्दृष्टि और मेट्रिक्स"
+
+msgid "Growth & Intelligence"
+msgstr "विकास और इंटेलिजेंस"
+
+msgid "Campaigns and automation"
+msgstr "अभियान और ऑटोमेशन"
+
+msgid "AI-powered recommendations"
+msgstr "AI-संचालित सिफारिशें"
+
+msgid "Manage orders and shipments"
+msgstr "ऑर्डर और शिपमेंट प्रबंधित करें"
+
+msgid "System"
+msgstr "सिस्टम"
+
+msgid "Knowledge base editor"
+msgstr "नॉलेज बेस संपादक"
+
+msgid "Access control and monitoring"
+msgstr "एक्सेस कंट्रोल और मॉनिटरिंग"
+
+msgid "System configuration"
+msgstr "सिस्टम कॉन्फ़िगरेशन"
+
+msgid "Emails Sent"
+msgstr "भेजे गए ईमेल"
+
+msgid "Orders"
+msgstr "ऑर्डर"
+
+msgid "Total products"
+msgstr "कुल उत्पाद"
+
+msgid "Imported via plugin"
+msgstr "प्लगइन के माध्यम से आयातित"
+
+msgid "Other products"
+msgstr "अन्य उत्पाद"
+
+msgid "Manage"
+msgstr "प्रबंधित करें"
+
+msgid "bounce"
+msgstr "बाउंस"
+
+
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+msgid "Plugin"
+msgstr "प्लगइन"
+
+msgid "External"
+msgstr "बाहरी"
+
+msgid "Navigation to vortem WordPress"
+msgstr "vortem WordPress पर नेविगेशन"
+
+msgid "Commerce"
+msgstr "वाणिज्य"
+
+msgid "Timeline"
+msgstr "टाइमलाइन"
+
+msgid "Security Center"
+msgstr "सुरक्षा केंद्र"
+
+msgid "Display"
+msgstr "प्रदर्शन"
+
+msgid "How products and currency are presented in your store."
+msgstr "आपके स्टोर में उत्पाद और मुद्रा कैसे प्रस्तुत किए जाते हैं।"
+
+msgid "Products per page"
+msgstr "प्रति पृष्ठ उत्पाद"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "डिफ़ॉल्ट: 16. सीमा: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "प्लगइन मूल्य निर्धारण में उपयोग की गई मुद्रा। अपना चयन सहेजने के लिए \"अपडेट\" पर क्लिक करें।"
+
+msgid "Media"
+msgstr "मीडिया"
+
+msgid "Control how product videos are imported and attached."
+msgstr "नियंत्रित करें कि उत्पाद वीडियो कैसे आयात और संलग्न किए जाते हैं।"
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "सक्षम होने पर उत्पाद वीडियो स्वचालित रूप से विवरण में जुड़ जाते हैं। वीडियो को मैन्युअल रूप से संभालने के लिए अक्षम करें।"
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "अक्षम होने पर Vortem Clothes, Vortem Cosmetic और xstore थीम के लिए वीडियो डाउनलोड नहीं होते — संग्रहण स्थान बचाता है।"
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "Vortem और xstore थीम के लिए वीडियो डाउनलोड करें"
+
+msgid "Integrations"
+msgstr "एकीकरण"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "सोर्सिंग और पूर्ति का विस्तार करने के लिए बाहरी खातों को कनेक्ट करें।"
+
+msgid "Update"
+msgstr "अपडेट"
+
+msgid "Last updated"
+msgstr "अंतिम अपडेट"
+
+msgid "Setup"
+msgstr "सेटअप"
+
+msgid "Let's get you started"
+msgstr "शुरू करें"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "लगभग 2 मिनट में सेटअप पूरा करें।"
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "Vortem की उत्पाद आयात सुविधाओं के लिए AliExpress खाता चाहिए।"
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "आप इसे बाद में सेटिंग्स → Vortem → AliExpress एकीकरण में जोड़ेंगे। खाता नहीं? वहीं से साइन अप भी कर सकते हैं।"
+
+msgid "Up and running in minutes."
+msgstr "कुछ ही मिनटों में तैयार।"
+
+msgid "Built with WordPress security best practices."
+msgstr "WordPress सुरक्षा सर्वोत्तम अभ्यासों के अनुसार बनाया गया।"
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "हल्का और WordPress के लिए अनुकूलित।"
+
+msgid "Store basics"
+msgstr "स्टोर की मूल बातें"
+
+msgid "Pick your store currency"
+msgstr "अपनी स्टोर मुद्रा चुनें"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "चेकआउट पर आपके ग्राहक यही देखते हैं। आप इसे बाद में बदल सकते हैं।"
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "उत्पाद कार्ड, कार्ट और चेकआउट पर उपयोग होता है।"
+
+msgid "Almost there"
+msgstr "लगभग हो गया"
+
+msgid "Review and accept"
+msgstr "समीक्षा करें और स्वीकार करें"
+
+msgid "Read the full Terms"
+msgstr "पूर्ण नियम पढ़ें"
+
+msgid "You agree to be bound by these terms."
+msgstr "आप इन नियमों से बाध्य होने के लिए सहमत हैं।"
+
+msgid "I consent to data processing"
+msgstr "मैं डेटा प्रसंस्करण के लिए सहमति देता/देती हूँ"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "मैं समझता/समझती हूँ और सहमत हूँ कि यह प्लगइन मेरे साइट डेटा (साइट URL, WordPress संस्करण, प्लगइन संस्करण, मुद्रा वरीयता, उत्पाद आयात करते समय WooCommerce उत्पाद डेटा, ऑर्डर प्रसंस्करण पर शिपिंग जानकारी, और सुरक्षा सुविधाओं का उपयोग करते समय प्लगइन/थीम मेटाडेटा) को vortem.ai सर्वर (https://c.vortem.ai) पर प्रसंस्करण, विश्लेषण और सेवा वितरण के लिए भेजता है। आपके स्पष्ट सहमति से पहले कोई डेटा नहीं भेजा जाता, और यदि आप अस्वीकार करते हैं तो प्लगइन कार्यात्मक रहता है (vortem.ai पर निर्भर सुविधाएँ उपलब्ध नहीं होंगी)। स्थापित प्लगइन/थीम की सूची भेजकर कमजोरी खोजने का तरीका Wordfence, Patchstack, WPScan और Jetpack Protect जैसा ही है।"
+
+msgid "All done"
+msgstr "पूरा हुआ"
+
+msgid "You're all set!"
+msgstr "सब तैयार है!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem कॉन्फ़िगर हो गया है। जब चाहें सेटिंग्स से AliExpress कनेक्ट करें।"
+
+msgid "Accepted"
+msgstr "स्वीकृत"
+
+msgid "Consented"
+msgstr "सहमति दी गई"
+
+msgid "Data processing"
+msgstr "डेटा प्रसंस्करण"
+
+msgid "Meta Title"
+msgstr "मेटा शीर्षक"
+
+msgid "Order"
+msgstr "ऑर्डर"
+
+msgid "Customer"
+msgstr "ग्राहक"
+
+msgid "Items"
+msgstr "आइटम"
+
+msgid "Payment"
+msgstr "भुगतान"

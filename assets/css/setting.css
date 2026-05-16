@@ -1,0 +1,1402 @@
+/* ============================================
+   Vortem.ai Settings Page - Modern Minimal Design
+   ============================================ */
+
+/* ============================================================
+   Workspace wrapper & scoped design tokens
+   ============================================================ */
+
+.settings-workspace-wrap {
+	--set-primary: #0E626B;
+	--set-primary-hover: #0B4F55;
+	--set-secondary: #4D9E7B;
+	--set-accent: #52B2BB;
+	--set-rail-grad: linear-gradient(160deg, #0E626B 0%, #1B7A7F 55%, #4D9E7B 100%);
+	--set-bg-page: linear-gradient(135deg, rgba(82, 178, 187, 0.08), rgba(77, 158, 123, 0.04), rgba(14, 98, 107, 0.08));
+
+	position: relative;
+	min-height: calc(100vh - 32px);
+	background: var(--set-bg-page);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: #111827;
+	line-height: 1.5;
+}
+
+.settings-workspace-wrap * {
+	box-sizing: border-box;
+}
+
+/* Background orbs */
+.settings-bg-orb {
+	position: absolute;
+	border-radius: 50%;
+	filter: blur(80px);
+	pointer-events: none;
+	z-index: 0;
+}
+
+.settings-bg-orb-1 {
+	top: -100px;
+	inset-inline-end: -80px;
+	width: 360px;
+	height: 360px;
+	background: rgba(82, 178, 187, .12);
+}
+
+.settings-bg-orb-2 {
+	bottom: -60px;
+	inset-inline-start: -60px;
+	width: 280px;
+	height: 280px;
+	background: rgba(77, 158, 123, .10);
+}
+
+/* ============================================================
+   Hero header (teal gradient, matching overview)
+   ============================================================ */
+
+.settings-hero {
+	position: relative;
+	background: var(--set-rail-grad);
+	color: #fff;
+	overflow: hidden;
+	z-index: 1;
+}
+
+.settings-hero-inner {
+	max-width: 1400px;
+	margin: 0 auto;
+	padding: 24px 32px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 16px;
+	position: relative;
+	z-index: 1;
+}
+
+.settings-hero-orb {
+	position: absolute;
+	inset-inline-end: -40px;
+	bottom: -40px;
+	width: 160px;
+	height: 160px;
+	border-radius: 50%;
+	background: rgba(255, 255, 255, .08);
+	pointer-events: none;
+	filter: blur(2px);
+}
+
+.settings-hero-left {
+	display: flex;
+	align-items: center;
+	gap: 14px;
+}
+
+.settings-hero-logo {
+	width: 42px;
+	height: 42px;
+	border-radius: 10px;
+	background: rgba(255, 255, 255, .18);
+	display: grid;
+	place-items: center;
+	overflow: hidden;
+	flex-shrink: 0;
+}
+
+.settings-hero-logo-img {
+	max-width: 28px;
+	max-height: 28px;
+	display: block;
+	filter: brightness(0) invert(1);
+}
+
+.settings-hero-text {
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
+}
+
+.settings-hero-eyebrow {
+	font-size: 10px;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.10em;
+	color: rgba(255, 255, 255, .65);
+}
+
+.settings-hero-title {
+	font-size: 22px;
+	font-weight: 700;
+	margin: 0;
+	color: #fff;
+	line-height: 1.2;
+}
+
+.settings-hero-right {
+	display: flex;
+	align-items: center;
+	gap: 16px;
+}
+
+.settings-hero-live-badge {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	padding: 5px 12px;
+	background: rgba(255, 255, 255, .14);
+	border-radius: 20px;
+	font-size: 12px;
+	font-weight: 600;
+	color: #fff;
+}
+
+.settings-hero-live-dot {
+	width: 7px;
+	height: 7px;
+	border-radius: 50%;
+	background: #4ADE80;
+	animation: set-pulse 2s ease-in-out infinite;
+}
+
+@keyframes set-pulse {
+	0%, 100% { opacity: 1; }
+	50% { opacity: .45; }
+}
+
+.settings-hero-date {
+	font-size: 13px;
+	font-weight: 500;
+	color: rgba(255, 255, 255, .75);
+}
+
+/* ============================================================
+   Main content area
+   ============================================================ */
+
+.settings-main {
+	position: relative;
+	z-index: 1;
+	max-width: 1400px;
+	margin: 0 auto;
+	padding: 28px 32px 40px;
+}
+
+/* ============================================================
+   Hero responsive
+   ============================================================ */
+
+@media (max-width: 600px) {
+	.settings-hero-inner {
+		flex-direction: column;
+		align-items: flex-start;
+		padding: 18px 16px;
+	}
+
+	.settings-hero-date {
+		display: none;
+	}
+
+	.settings-main {
+		padding: 16px 12px 32px;
+	}
+}
+
+/* Custom Notices - Modern Design */
+.settings-main .vortem-custom-notice {
+    margin-bottom: 24px !important;
+    padding: 16px 20px !important;
+    border-radius: 12px !important;
+    border-left: 4px solid !important;
+    background: #ffffff !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05) !important;
+    animation: slideIn 0.3s ease-out !important;
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.settings-main .vortem-notice-info {
+    border-left-color: #0E626B !important;
+    background: linear-gradient(90deg, rgba(14, 98, 107, 0.05) 0%, #ffffff 100%) !important;
+}
+
+.settings-main .vortem-notice-success {
+    border-left-color: #10b981 !important;
+    background: linear-gradient(90deg, rgba(16, 185, 129, 0.05) 0%, #ffffff 100%) !important;
+}
+
+.settings-main .vortem-notice-error {
+    border-left-color: #ef4444 !important;
+    background: linear-gradient(90deg, rgba(239, 68, 68, 0.05) 0%, #ffffff 100%) !important;
+}
+
+/* Form Table - Modern Card Design */
+.settings-main .form-table {
+    background: #ffffff !important;
+    border: none !important;
+    border-radius: 16px !important;
+    padding: 0 !important;
+    margin: 0 0 32px 0 !important;
+    overflow: hidden !important;
+}
+
+.settings-main .form-table tr {
+    border-bottom: 1px solid #f1f3f5 !important;
+    transition: background-color 0.2s ease !important;
+}
+
+.settings-main .form-table tr:last-child {
+    border-bottom: none !important;
+}
+
+.settings-main .form-table tr:hover {
+    background-color: #f8f9fa !important;
+}
+
+.settings-main .form-table th {
+    background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%) !important;
+    border: none !important;
+    padding: 24px 32px !important;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+    color: #1a202c !important;
+    width: 200px !important;
+    vertical-align: top !important;
+}
+
+.settings-main .form-table td {
+    padding: 24px 32px !important;
+    border: none !important;
+    background: transparent !important;
+}
+
+/* Description Text */
+.settings-main .description {
+    margin-top: 12px !important;
+    font-size: 13px !important;
+    color: #64748b !important;
+    line-height: 1.6 !important;
+}
+
+.vortem-settings-description {
+    margin-top: 12px !important;
+    font-size: 13px !important;
+    color: #64748b !important;
+    line-height: 1.6 !important;
+}
+
+/* ============================================
+   Session Token Container - Modern Design
+   (Legacy CSS: class names use 'license' for backward compatibility)
+   ============================================ */
+
+.vortem-license-container {
+    display: flex !important;
+    align-items: flex-start !important;
+    justify-content: flex-start !important;
+    gap: 12px !important;
+    width: 100% !important;
+    flex-wrap: nowrap !important;
+}
+
+/* First row: Input and Change License button side by side */
+.vortem-license-container > .vortem-license-input-wrapper {
+    flex: 1 1 auto !important;
+}
+
+.vortem-license-container > .vortem-license-button-wrapper {
+    flex: 0 0 auto !important;
+    align-self: flex-start !important;
+}
+
+/* When wrapping on smaller screens, stack vertically */
+@media (max-width: 768px) {
+    .vortem-license-container {
+        flex-wrap: wrap !important;
+    }
+}
+
+/* License Input Wrapper - Modern Input Design */
+.vortem-license-input-wrapper {
+    position: relative !important;
+    display: flex !important;
+    flex: 1 1 auto !important;
+    min-width: 280px !important;
+    max-width: 400px !important;
+    justify-content: flex-start !important;
+    align-items: center !important;
+    border: 2px solid #e2e8f0 !important;
+    border-radius: 12px !important;
+    padding: 0 !important;
+    background: #ffffff !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04) !important;
+}
+
+.vortem-license-input-wrapper:hover {
+    border-color: #cbd5e1 !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06) !important;
+}
+
+.vortem-license-input-wrapper:focus-within {
+    border-color: #0E626B !important;
+    box-shadow: 0 0 0 4px rgba(14, 98, 107, 0.1), 0 4px 12px rgba(14, 98, 107, 0.15) !important;
+    transform: translateY(-1px) !important;
+}
+
+/* Session Token Input (Legacy ID: vortem_license_key for backward compatibility) */
+#vortem_license_key {
+    padding: 14px 48px 14px 16px !important;
+    width: 100% !important;
+    height: auto !important;
+    min-height: 48px !important;
+    box-sizing: border-box !important;
+    flex: 1 1 auto !important;
+    border: none !important;
+    outline: none !important;
+    background: transparent !important;
+    font-size: 15px !important;
+    color: #1a202c !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+    letter-spacing: 0.5px !important;
+}
+
+#vortem_license_key::placeholder {
+    color: #94a3b8 !important;
+    letter-spacing: normal !important;
+}
+
+#vortem_license_key:focus {
+    border: none !important;
+    outline: none !important;
+}
+
+#vortem_license_key:disabled {
+    background: #f8f9fa !important;
+    color: #64748b !important;
+    cursor: not-allowed !important;
+}
+
+/* Session Token Visibility Toggle Button (Legacy ID for backward compatibility) */
+#toggle-license-visibility {
+    position: absolute !important;
+    right: 12px !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    cursor: pointer !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 32px !important;
+    height: 32px !important;
+    z-index: 10 !important;
+    color: #64748b !important;
+    transition: all 0.2s ease !important;
+    border-radius: 8px !important;
+    background: transparent !important;
+}
+
+#toggle-license-visibility:hover:not(:disabled) {
+    color: #0E626B !important;
+    background: rgba(14, 98, 107, 0.1) !important;
+    transform: translateY(-50%) scale(1.1) !important;
+}
+
+#toggle-license-visibility:active:not(:disabled) {
+    transform: translateY(-50%) scale(0.95) !important;
+}
+
+#toggle-license-visibility svg {
+    vertical-align: middle !important;
+    width: 18px !important;
+    height: 18px !important;
+}
+
+/* Eye Icon */
+#eye-icon {
+    display: block !important;
+    color: inherit !important;
+}
+
+/* Eye Off Icon */
+#eye-off-icon {
+    display: none !important;
+    color: inherit !important;
+}
+
+/* License Button Wrapper */
+.vortem-license-button-wrapper {
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 12px !important;
+    align-items: flex-start !important;
+    justify-content: flex-start !important;
+}
+
+/* Change License button - positioned at top to align with input */
+#change-license {
+    margin-top: 0 !important;
+}
+
+/* Change License Button - Positioned next to input */
+#change-license {
+    min-width: 155px !important;
+    height: 60px !important;
+    box-sizing: border-box !important;
+    padding: 0 24px !important;
+    background: #ffffff !important;
+    border: 2px solid #e2e8f0 !important;
+    border-radius: 12px !important;
+    color: #475569 !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    cursor: pointer !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04) !important;
+    text-transform: none !important;
+    letter-spacing: 0.3px !important;
+    white-space: nowrap !important;
+}
+
+#change-license:hover {
+    background: #f8f9fa !important;
+    border-color: #cbd5e1 !important;
+    color: #334155 !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08) !important;
+    transform: translateY(-2px) !important;
+}
+
+#change-license:active {
+    transform: translateY(0) !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04) !important;
+}
+
+/* License Validation Button - Modern Primary Button */
+#validate-license {
+    min-width: 155px !important;
+    height: 60px !important;
+    box-sizing: border-box !important;
+    padding: 0 24px !important;
+    background: linear-gradient(135deg, #0E626B 0%, #1B7A7F 100%) !important;
+    border: none !important;
+    border-radius: 12px !important;
+    color: #ffffff !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    cursor: pointer !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 0 4px 12px rgba(14, 98, 107, 0.3) !important;
+    text-transform: none !important;
+    letter-spacing: 0.3px !important;
+}
+
+#validate-license:hover {
+    background: linear-gradient(135deg, #1B7A7F 0%, #0B4F55 100%) !important;
+    box-shadow: 0 6px 16px rgba(14, 98, 107, 0.4) !important;
+    transform: translateY(-2px) !important;
+}
+
+#validate-license:active {
+    transform: translateY(0) !important;
+    box-shadow: 0 2px 8px rgba(14, 98, 107, 0.3) !important;
+}
+
+#validate-license:disabled {
+    opacity: 0.6 !important;
+    cursor: not-allowed !important;
+    transform: none !important;
+}
+
+/* Currency Button Wrapper */
+.vortem-currency-button-wrapper {
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 12px !important;
+    align-items: flex-start !important;
+    justify-content: flex-start !important;
+}
+
+/* Update Currency Button - Modern Primary Button (Same as validate-license) */
+#vortem-update-currency {
+    min-width: 155px !important;
+    height: 60px !important;
+    box-sizing: border-box !important;
+    padding: 0 24px !important;
+    background: linear-gradient(135deg, #0E626B 0%, #1B7A7F 100%) !important;
+    border: none !important;
+    border-radius: 12px !important;
+    color: #ffffff !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    cursor: pointer !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 0 4px 12px rgba(14, 98, 107, 0.3) !important;
+    text-transform: none !important;
+    letter-spacing: 0.3px !important;
+}
+
+#vortem-update-currency:hover {
+    background: linear-gradient(135deg, #1B7A7F 0%, #0B4F55 100%) !important;
+    box-shadow: 0 6px 16px rgba(14, 98, 107, 0.4) !important;
+    transform: translateY(-2px) !important;
+}
+
+#vortem-update-currency:active {
+    transform: translateY(0) !important;
+    box-shadow: 0 2px 8px rgba(14, 98, 107, 0.3) !important;
+}
+
+#vortem-update-currency:disabled {
+    background: #e2e8f0 !important;
+    color: #94a3b8 !important;
+    cursor: not-allowed !important;
+    transform: none !important;
+    box-shadow: none !important;
+    opacity: 1 !important;
+}
+
+#vortem-update-currency:disabled:hover {
+    background: #e2e8f0 !important;
+    color: #94a3b8 !important;
+    box-shadow: none !important;
+    transform: none !important;
+}
+
+
+/* ============================================
+   Form Inputs - Modern Design
+   ============================================ */
+
+/* Number Input - Products Per Page */
+input[name="vortem_products_per_page"] {
+    padding: 12px 16px !important;
+    border: 2px solid #e2e8f0 !important;
+    border-radius: 12px !important;
+    background: #ffffff !important;
+    font-size: 15px !important;
+    color: #1a202c !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04) !important;
+    width: 120px !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+}
+
+input[name="vortem_products_per_page"]:hover {
+    border-color: #cbd5e1 !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06) !important;
+}
+
+input[name="vortem_products_per_page"]:focus {
+    border-color: #0E626B !important;
+    box-shadow: 0 0 0 4px rgba(14, 98, 107, 0.1), 0 4px 12px rgba(14, 98, 107, 0.15) !important;
+    outline: none !important;
+}
+
+/* Products Per Page Validation Styles */
+input[name="vortem_products_per_page"].error {
+    border-color: #ef4444 !important;
+    box-shadow: 0 0 0 4px rgba(239, 68, 68, 0.1), 0 4px 12px rgba(239, 68, 68, 0.15) !important;
+    animation: shake 0.4s ease-in-out !important;
+}
+
+@keyframes shake {
+    0%, 100% {
+        transform: translateX(0);
+    }
+    25% {
+        transform: translateX(-8px);
+    }
+    75% {
+        transform: translateX(8px);
+    }
+}
+
+input[name="vortem_products_per_page"].valid {
+    border-color: #10b981 !important;
+    box-shadow: 0 0 0 4px rgba(16, 185, 129, 0.1), 0 4px 12px rgba(16, 185, 129, 0.15) !important;
+}
+
+/* Settings Language Dropdown */
+.vortem-settings-language-dropdown-wrapper {
+    position: relative;
+    display: inline-block;
+    max-width: 400px;
+    width: 100%;
+}
+
+.vortem-settings-language-button {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    padding: 12px 16px;
+    border: 2px solid #e2e8f0;
+    border-radius: 12px;
+    background: #ffffff;
+    font-size: 15px;
+    color: #1a202c;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    cursor: pointer;
+    text-align: left;
+}
+
+.vortem-settings-language-button:hover {
+    border-color: #cbd5e1;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
+}
+
+.vortem-settings-language-button[aria-expanded="true"] {
+    border-color: #0E626B;
+    box-shadow: 0 0 0 4px rgba(14, 98, 107, 0.1), 0 4px 12px rgba(14, 98, 107, 0.15);
+}
+
+.vortem-settings-language-button[aria-expanded="true"] .vortem-settings-language-arrow {
+    transform: rotate(180deg);
+}
+
+.vortem-settings-language-flag-button {
+    flex-shrink: 0;
+    width: 24px;
+    height: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vortem-settings-language-flag-button .vortem-settings-language-flag-svg {
+    width: 24px;
+    height: 18px;
+    object-fit: cover;
+    border-radius: 2px;
+    display: block;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.vortem-settings-language-flag-button .vortem-settings-language-flag-emoji {
+    font-size: 18px;
+    line-height: 1;
+}
+
+.vortem-settings-language-text {
+    flex: 1;
+    text-align: left;
+}
+
+.vortem-settings-language-arrow {
+    flex-shrink: 0;
+    width: 12px;
+    height: 12px;
+    color: #64748b;
+    transition: transform 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vortem-settings-language-dropdown {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    right: 0;
+    max-height: 420px;
+    background: #ffffff;
+    border: 2px solid #e2e8f0;
+    border-radius: 12px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+    z-index: 1000;
+    overflow-y: auto;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transform: translateY(-10px);
+    transition: opacity 0.2s ease, visibility 0.2s ease, transform 0.2s ease, pointer-events 0.2s ease;
+}
+
+.vortem-settings-language-dropdown.active {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transform: translateY(0);
+}
+
+/* Settings language continent tabs */
+.vortem-settings-language-tabs {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    border-bottom: 1px solid #f1f5f9;
+    position: sticky;
+    top: 0;
+    background: #ffffff;
+    z-index: 2;
+}
+
+.vortem-settings-language-tab {
+    flex: 1;
+    padding: 10px 12px;
+    background: transparent;
+    border: none;
+    border-right: 1px solid #f1f5f9;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #64748b;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.vortem-settings-language-tab:last-child {
+    border-right: none;
+}
+
+.vortem-settings-language-tab:hover {
+    background-color: #f1f5f9;
+}
+
+.vortem-settings-language-tab.active {
+    background-color: #e0f2fe;
+    color: #0369a1;
+}
+
+.vortem-settings-language-tab-panel {
+    display: none;
+}
+
+.vortem-settings-language-tab-panel.active {
+    display: block;
+}
+
+.vortem-settings-language-option {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    padding: 12px 16px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #f0f0f1;
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+    text-align: left;
+    font-size: 15px;
+    color: #1a202c;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.vortem-settings-language-option:last-child {
+    border-bottom: none;
+}
+
+.vortem-settings-language-option:hover {
+    background-color: #f0f6fc;
+}
+
+.vortem-settings-language-option.active {
+    background-color: #f0f6fc;
+    color: #007acc;
+    font-weight: 500;
+}
+
+.vortem-settings-language-flag {
+    flex-shrink: 0;
+    width: 24px;
+    height: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vortem-settings-language-flag .vortem-settings-language-flag-svg {
+    width: 24px;
+    height: 18px;
+    object-fit: cover;
+    border-radius: 2px;
+    display: block;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.vortem-settings-language-flag .vortem-settings-language-flag-emoji {
+    font-size: 20px;
+    line-height: 1;
+}
+
+.vortem-settings-language-name {
+    flex: 1;
+    text-align: left;
+}
+
+.vortem-settings-language-option .dashicons-yes {
+    flex-shrink: 0;
+    font-size: 18px;
+    width: 18px;
+    height: 18px;
+    line-height: 1;
+    color: #007acc;
+}
+
+/* Select Dropdown - Currency */
+select[name="vortem_currency"] {
+    padding: 12px 40px 12px 16px !important;
+    border: 2px solid #e2e8f0 !important;
+    border-radius: 12px !important;
+    background: #ffffff !important;
+    font-size: 15px !important;
+    color: #1a202c !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04) !important;
+    width: 100% !important;
+    max-width: 400px !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+    appearance: none !important;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%2364748b' d='M6 9L1 4h10z'/%3E%3C/svg%3E") !important;
+    background-repeat: no-repeat !important;
+    background-position: right 16px center !important;
+    background-size: 12px !important;
+}
+
+select[name="vortem_currency"]:hover {
+    border-color: #cbd5e1 !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06) !important;
+}
+
+select[name="vortem_currency"]:focus {
+    border-color: #0E626B !important;
+    box-shadow: 0 0 0 4px rgba(14, 98, 107, 0.1), 0 4px 12px rgba(14, 98, 107, 0.15) !important;
+    outline: none !important;
+}
+
+/* ============================================
+   Submit Button - Modern Design
+   ============================================ */
+
+.settings-main .submit {
+    margin-top: 32px !important;
+    padding: 0 !important;
+    border: none !important;
+    background: transparent !important;
+}
+
+.settings-main .submit .button-primary {
+    padding: 14px 32px !important;
+    height: auto !important;
+    min-height: 48px !important;
+    background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%) !important;
+    border: none !important;
+    border-radius: 12px !important;
+    color: #ffffff !important;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    cursor: pointer !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 0 4px 16px rgba(59, 130, 246, 0.4) !important;
+    text-transform: none !important;
+    letter-spacing: 0.3px !important;
+}
+
+.settings-main .submit .button-primary:hover {
+    background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%) !important;
+    box-shadow: 0 6px 20px rgba(59, 130, 246, 0.5) !important;
+    transform: translateY(-2px) !important;
+}
+
+.settings-main .submit .button-primary:active {
+    transform: translateY(0) !important;
+    box-shadow: 0 2px 12px rgba(59, 130, 246, 0.4) !important;
+}
+
+/* ============================================
+   Toggle Switch - Modern Design
+   ============================================ */
+
+.vortem-toggle-switch {
+    position: relative !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 12px !important;
+    cursor: pointer !important;
+    user-select: none !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+}
+
+.vortem-toggle-switch input[type="checkbox"] {
+    position: absolute !important;
+    opacity: 0 !important;
+    width: 0 !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.vortem-toggle-slider {
+    position: relative !important;
+    display: inline-block !important;
+    width: 52px !important;
+    height: 28px !important;
+    background-color: #cbd5e1 !important;
+    border-radius: 28px !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+    flex-shrink: 0 !important;
+}
+
+.vortem-toggle-slider::before {
+    content: "" !important;
+    position: absolute !important;
+    height: 22px !important;
+    width: 22px !important;
+    left: 3px !important;
+    bottom: 3px !important;
+    background-color: #ffffff !important;
+    border-radius: 50% !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+}
+
+.vortem-toggle-switch input[type="checkbox"]:checked + .vortem-toggle-slider {
+    background-color: #0E626B !important;
+    box-shadow: 0 0 0 4px rgba(14, 98, 107, 0.1), inset 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+}
+
+.vortem-toggle-switch input[type="checkbox"]:checked + .vortem-toggle-slider::before {
+    transform: translateX(24px) !important;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3) !important;
+}
+
+.vortem-toggle-switch:hover .vortem-toggle-slider {
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 0 0 4px rgba(14, 98, 107, 0.05) !important;
+}
+
+.vortem-toggle-switch:hover input[type="checkbox"]:checked + .vortem-toggle-slider {
+    background-color: #1B7A7F !important;
+    box-shadow: 0 0 0 4px rgba(14, 98, 107, 0.15), inset 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+}
+
+.vortem-toggle-switch:active .vortem-toggle-slider::before {
+    width: 26px !important;
+}
+
+.vortem-toggle-switch input[type="checkbox"]:focus + .vortem-toggle-slider {
+    outline: 2px solid #0E626B !important;
+    outline-offset: 2px !important;
+}
+
+.vortem-toggle-label {
+    font-size: 15px !important;
+    font-weight: 500 !important;
+    color: #1a202c !important;
+    line-height: 1.5 !important;
+    user-select: none !important;
+}
+
+.vortem-toggle-switch:hover .vortem-toggle-label {
+    color: #0f172a !important;
+}
+
+/* ============================================
+   Responsive Design
+   ============================================ */
+
+@media (max-width: 768px) {
+    .vortem-page-wrapper {
+        margin: 20px 16px !important;
+        border-radius: 12px !important;
+    }
+
+    .settings-main {
+        padding: 32px 24px !important;
+    }
+
+    .settings-main .modern-header {
+        padding: 20px 24px !important;
+        flex-direction: column !important;
+        align-items: flex-start !important;
+    }
+
+    .settings-main .modern-header .title {
+        font-size: 24px !important;
+    }
+
+    .settings-main .form-table th,
+    .settings-main .form-table td {
+        padding: 20px 24px !important;
+        display: block !important;
+        width: 100% !important;
+    }
+
+    .settings-main .form-table th {
+        border-bottom: none !important;
+        padding-bottom: 8px !important;
+    }
+
+    .vortem-license-container {
+        flex-direction: column !important;
+    }
+
+    .vortem-license-input-wrapper {
+        max-width: 100% !important;
+        min-width: 100% !important;
+    }
+
+    .vortem-license-button-wrapper {
+        width: 100% !important;
+    }
+
+    #validate-license,
+    #change-license {
+        flex: 1 1 auto !important;
+        min-width: 0 !important;
+    }
+
+    select[name="vortem_language"],
+    select[name="vortem_currency"] {
+        max-width: 100% !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .settings-main {
+        padding: 24px 20px !important;
+    }
+
+    .settings-main .modern-header {
+        padding: 16px 20px !important;
+    }
+
+    .settings-main .modern-header .title {
+        font-size: 20px !important;
+    }
+
+    .settings-main .form-table th,
+    .settings-main .form-table td {
+        padding: 16px 20px !important;
+    }
+}
+
+/* ============================================
+   Settings Cards — Card-grouped Layout
+   ============================================ */
+
+.settings-main .vortem-settings-cards {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 20px !important;
+    margin: 0 0 24px !important;
+}
+
+.settings-main .vortem-settings-card {
+    background: #ffffff !important;
+    border: 1px solid #eef2f7 !important;
+    border-radius: 16px !important;
+    box-shadow: 0 1px 3px rgba(15, 23, 42, 0.02) !important;
+    overflow: hidden !important;
+    transition: box-shadow 0.25s ease, border-color 0.25s ease, transform 0.25s ease !important;
+}
+
+.settings-main .vortem-settings-card:hover {
+    border-color: #e2e8f0 !important;
+    box-shadow: 0 6px 20px rgba(15, 23, 42, 0.06) !important;
+    transform: translateY(-1px) !important;
+}
+
+.settings-main .vortem-settings-card-head {
+    display: flex !important;
+    align-items: center !important;
+    gap: 14px !important;
+    padding: 20px 28px !important;
+    border-bottom: 1px solid #f1f5f9 !important;
+    background: linear-gradient(180deg, #fbfcfd 0%, #ffffff 100%) !important;
+}
+
+.settings-main .vortem-settings-card-icon {
+    width: 38px !important;
+    height: 38px !important;
+    flex-shrink: 0 !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    border-radius: 10px !important;
+    background: linear-gradient(135deg, #0E626B 0%, #0B4F55 100%) !important;
+    color: #ffffff !important;
+    box-shadow: 0 2px 6px rgba(4, 68, 102, 0.18) !important;
+}
+
+.settings-main .vortem-settings-card-icon svg {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+.settings-main .vortem-settings-card-titles {
+    min-width: 0 !important;
+}
+
+.settings-main .vortem-settings-card-title {
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: 17px !important;
+    font-weight: 600 !important;
+    color: #0f172a !important;
+    letter-spacing: -0.01em !important;
+    line-height: 1.3 !important;
+}
+
+.settings-main .vortem-settings-card-sub {
+    margin: 4px 0 0 !important;
+    color: #64748b !important;
+    font-size: 13px !important;
+    line-height: 1.5 !important;
+}
+
+.settings-main .vortem-settings-card-body {
+    padding: 0 28px !important;
+}
+
+.settings-main .vortem-settings-row {
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) auto !important;
+    gap: 24px !important;
+    align-items: center !important;
+    padding: 22px 0 !important;
+    border-bottom: 1px solid #f1f5f9 !important;
+}
+
+.settings-main .vortem-settings-row:last-child {
+    border-bottom: none !important;
+}
+
+.settings-main .vortem-settings-row-meta {
+    min-width: 0 !important;
+}
+
+.settings-main .vortem-settings-row-label {
+    display: block !important;
+    margin: 0 0 4px !important;
+    font-size: 14.5px !important;
+    font-weight: 600 !important;
+    color: #1a202c !important;
+    line-height: 1.4 !important;
+}
+
+.settings-main .vortem-settings-row-help {
+    margin: 0 !important;
+    color: #64748b !important;
+    font-size: 13px !important;
+    line-height: 1.55 !important;
+    max-width: 60ch !important;
+}
+
+.settings-main .vortem-settings-row-control {
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+    justify-content: flex-end !important;
+}
+
+.settings-main .vortem-settings-num {
+    width: 96px !important;
+    padding: 8px 12px !important;
+    border: 1px solid #cbd5e1 !important;
+    border-radius: 8px !important;
+    background: #ffffff !important;
+    font-size: 14px !important;
+    color: #0f172a !important;
+    text-align: center !important;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease !important;
+}
+
+.settings-main .vortem-settings-num:focus {
+    outline: none !important;
+    border-color: #0E626B !important;
+    box-shadow: 0 0 0 3px rgba(4, 68, 102, 0.12) !important;
+}
+
+/* Currency row keeps the existing dropdown markup; just stretch & align right. */
+.settings-main .vortem-currency-row {
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+    flex-wrap: wrap !important;
+    justify-content: flex-end !important;
+}
+
+/* Integration rows — top-aligned because content can wrap. */
+.settings-main .vortem-settings-row--integration {
+    align-items: flex-start !important;
+}
+
+.settings-main .vortem-settings-integration-head {
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+    margin: 0 0 6px !important;
+    flex-wrap: wrap !important;
+}
+
+.settings-main .vortem-settings-integration-name {
+    font-size: 14.5px !important;
+    font-weight: 600 !important;
+    color: #1a202c !important;
+}
+
+.settings-main .vortem-settings-status-pill {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    padding: 3px 10px 3px 8px !important;
+    background: #f1f5f9 !important;
+    color: #475569 !important;
+    border-radius: 999px !important;
+    font-size: 12px !important;
+    font-weight: 500 !important;
+    line-height: 1.5 !important;
+}
+
+.settings-main .vortem-settings-status-detail {
+    color: #64748b !important;
+    font-size: 12.5px !important;
+    line-height: 1.5 !important;
+}
+
+.settings-main .vortem-settings-status-detail:empty {
+    display: none !important;
+}
+
+.settings-main .vortem-settings-status-dot {
+    width: 8px !important;
+    height: 8px !important;
+    border-radius: 50% !important;
+    background: #94a3b8 !important;
+    box-shadow: 0 0 0 2px rgba(148, 163, 184, 0.2) !important;
+}
+
+.settings-main .vortem-settings-status-pill.is-checking .vortem-settings-status-dot {
+    background: #94a3b8 !important;
+    animation: vortem-status-pulse 1.4s ease-in-out infinite !important;
+}
+
+.settings-main .vortem-settings-status-pill.is-connected {
+    background: rgba(16, 185, 129, 0.12) !important;
+    color: #047857 !important;
+}
+
+.settings-main .vortem-settings-status-pill.is-connected .vortem-settings-status-dot {
+    background: #10b981 !important;
+    box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.22) !important;
+    animation: none !important;
+}
+
+.settings-main .vortem-settings-status-pill.is-disconnected {
+    background: #f1f5f9 !important;
+    color: #64748b !important;
+}
+
+.settings-main .vortem-settings-status-pill.is-disconnected .vortem-settings-status-dot {
+    background: #94a3b8 !important;
+    box-shadow: 0 0 0 2px rgba(148, 163, 184, 0.18) !important;
+    animation: none !important;
+}
+
+.settings-main .vortem-settings-status-pill.is-error {
+    background: rgba(239, 68, 68, 0.1) !important;
+    color: #b91c1c !important;
+}
+
+.settings-main .vortem-settings-status-pill.is-error .vortem-settings-status-dot {
+    background: #ef4444 !important;
+    box-shadow: 0 0 0 2px rgba(239, 68, 68, 0.22) !important;
+    animation: none !important;
+}
+
+@keyframes vortem-status-pulse {
+    0%, 100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+    50% {
+        opacity: 0.45;
+        transform: scale(0.85);
+    }
+}
+
+/* Save bar (own card surface, sits below the cards). */
+.settings-main .vortem-settings-actions {
+    margin: 0 !important;
+    padding: 18px 28px !important;
+    background: #ffffff !important;
+    border: 1px solid #eef2f7 !important;
+    border-radius: 16px !important;
+    box-shadow: 0 1px 3px rgba(15, 23, 42, 0.02) !important;
+    display: flex !important;
+    justify-content: flex-end !important;
+}
+
+.settings-main .vortem-settings-actions input[type="submit"],
+.settings-main .vortem-settings-actions .button-primary {
+    padding: 8px 18px !important;
+    height: auto !important;
+    line-height: 1.4 !important;
+    font-weight: 600 !important;
+    font-size: 14px !important;
+    border-radius: 10px !important;
+    background: #0E626B !important;
+    border-color: #0E626B !important;
+    color: #ffffff !important;
+    box-shadow: 0 2px 6px rgba(4, 68, 102, 0.2) !important;
+    text-shadow: none !important;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease !important;
+}
+
+.settings-main .vortem-settings-actions input[type="submit"]:hover,
+.settings-main .vortem-settings-actions .button-primary:hover {
+    background: #0B4F55 !important;
+    border-color: #0B4F55 !important;
+    transform: translateY(-1px) !important;
+    box-shadow: 0 4px 10px rgba(4, 68, 102, 0.28) !important;
+}
+
+.settings-main .vortem-settings-actions input[type="submit"]:focus,
+.settings-main .vortem-settings-actions .button-primary:focus {
+    outline: none !important;
+    box-shadow: 0 0 0 3px rgba(4, 68, 102, 0.25), 0 2px 6px rgba(4, 68, 102, 0.2) !important;
+}
+
+@media (max-width: 768px) {
+    .settings-main .vortem-settings-card-head {
+        padding: 16px 20px !important;
+    }
+    .settings-main .vortem-settings-card-body {
+        padding: 0 20px !important;
+    }
+    .settings-main .vortem-settings-row {
+        grid-template-columns: 1fr !important;
+        gap: 14px !important;
+        padding: 18px 0 !important;
+    }
+    .settings-main .vortem-settings-row-control,
+    .settings-main .vortem-currency-row {
+        justify-content: flex-start !important;
+    }
+    .settings-main .vortem-settings-actions {
+        padding: 14px 20px !important;
+    }
+}

@@ -1,0 +1,91 @@
+/* Vortem Chatbot Widget Styles */
+
+/* FAB Button Styling */
+#vortem-chatbot-fab {
+	background-color: #044466 !important;
+	border: none;
+	border-radius: 50%;
+	width: 62px;
+	height: 62px;
+	cursor: pointer;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	z-index: 9999;
+	box-shadow: 0 4px 12px rgba(4, 68, 102, 0.3);
+	transition: all 0.3s ease;
+}
+
+#vortem-chatbot-fab:hover {
+	background-color: #055577 !important;
+	box-shadow: 0 6px 16px rgba(4, 68, 102, 0.4);
+	transform: scale(1.05);
+}
+
+#vortem-chatbot-fab:active {
+	transform: scale(0.95);
+}
+
+/* Close Icon SVG Styling */
+#vortem-chatbot-fab .close-icon {
+	stroke: #ffffff !important;
+	fill: none !important;
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	pointer-events: none;
+}
+
+#vortem-chatbot-fab .close-icon line {
+	stroke: #ffffff !important;
+	stroke-width: 2;
+}
+
+/* Tooltip Styling */
+#vortem-chatbot-tooltip {
+	position: fixed;
+	background-color: #044466;
+	color: #ffffff;
+	padding: 10px 15px;
+	border-radius: 8px;
+	font-size: 14px;
+	font-weight: 500;
+	z-index: 9999;
+	opacity: 0;
+	visibility: hidden;
+	transform: translateY(10px);
+	transition: all 0.3s ease;
+	box-shadow: 0 4px 12px rgba(4, 68, 102, 0.3);
+	max-width: 200px;
+	text-align: center;
+	pointer-events: none;
+	white-space: nowrap;
+}
+
+#vortem-chatbot-tooltip.visible {
+	opacity: 1;
+	visibility: visible;
+	transform: translateY(0);
+}
+
+/* Tooltip Arrow */
+#vortem-chatbot-tooltip::after {
+	content: '';
+	position: absolute;
+	bottom: 50%;
+	right: -8px;
+	transform: translateY(50%);
+	width: 0;
+	height: 0;
+	border-top: 8px solid transparent;
+	border-bottom: 8px solid transparent;
+	border-left: 8px solid #044466;
+}
+
+/* Chatbot Iframe Styling */
+#vortem-chatbot-iframe {
+	z-index: 9998 !important;
+}

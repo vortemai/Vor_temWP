@@ -1,0 +1,2997 @@
+# Translation of Vortem AI in uz_UZ
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uz_UZ\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "WooCommerce oʻrnatilgan va faollashtirilgan boʻlishini talab qiladi."
+
+msgid "or higher. You are running version"
+msgstr "yoki undan yuqori. Siz ishlatayotgan versiya:"
+
+msgid "Welcome to vortem.ai!"
+msgstr "vortem.ai-ga xush kelibsiz!"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "Vortem.ai sozlash ustasi"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "vortem.ai plaginini tanlaganingiz uchun tashakkur. Ushbu usta doʻkoningizni tez va oson sozlashga yordam beradi."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "Vortem mahsulotlarini sotish xizmatlaridan foydalanish uchun sizga AliExpress hisobi kerak. Hisobingizni Sozlamalar → Vortem kirish → AliExpress integratsiyasi orqali ulashingiz mumkin. Agar sizda hisob bo'lmasa, u yerdan to'g'ridan-to'g'ri ro'yxatdan o'tishingiz mumkin."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "Vortem mahsulotlarini sotish xizmatlaridan foydalanish uchun sizga AliExpress hisobi kerak."
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "Hisobingizni Sozlamalar → Vortem kirish → AliExpress integratsiyasi orqali ulashingiz mumkin."
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "Agar sizda hisob bo'lmasa, u yerdan to'g'ridan-to'g'ri ro'yxatdan o'tishingiz mumkin."
+
+msgid "Select Language"
+msgstr "Tilni tanlang"
+
+msgid "Select Currency"
+msgstr "Valyutani tanlang"
+
+msgid "Complete Setup"
+msgstr "Sozlashni yakunlang"
+
+msgid "What you'll get:"
+msgstr "Nima olasiz:"
+
+msgid "Automated product synchronization"
+msgstr "Avtomatik mahsulot sinxronizatsiyasi"
+
+msgid "Order management and processing"
+msgstr "Buyurtmalarni boshqarish va qayta ishlash"
+
+msgid "Real-time inventory updates"
+msgstr "Real vaqtda inventar yangilanishlari"
+
+msgid "Easy-to-use admin interface"
+msgstr "Foydalanish oson admin interfeysi"
+
+msgid "24/7 customer support"
+msgstr "24/7 mijozlar uchun qo'llab-quvvatlash"
+
+msgid "Contact Support"
+msgstr "Qo'llab-quvvatlash bilan bog'lanish"
+
+msgid "Import Products"
+msgstr "Mahsulotlarni import qilish"
+
+msgid "Configure Settings"
+msgstr "Sozlamalarni konfiguratsiya qilish"
+
+msgid "Setup Complete!"
+msgstr "Sozlash yakunlandi!"
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "Sozlash taxminan 2-3 daqiqa davom etadi."
+
+msgid "Terms & Conditions"
+msgstr "Foydalanish shartlari"
+
+msgid "1. License Agreement"
+msgstr "1. Litsenziya shartnomasi"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "Ushbu plagindan foydalanish orqali siz barcha amaldagi qonun va qoidalarga rioya qilishga rozilik bildirasiz. Plagin GPL v2 yoki undan keyingi litsenziya asosida taqdim etiladi."
+
+msgid "Sign up"
+msgstr "Roʻyxatdan oʻtish"
+
+msgid "Sign up to get started"
+msgstr "Boshlash uchun roʻyxatdan oʻting"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "Tabriklaymiz! vortem.ai plaginingiz muvaffaqiyatli sozlandi."
+
+msgid "What's next?"
+msgstr "Keyingi qadam nima?"
+
+msgid "Need Help?"
+msgstr "Yordam kerakmi?"
+
+msgid "Our support team is here to help you get started."
+msgstr "Bizning qoʻllab-quvvatlash jamoamiz ishni boshlashingizga yordam beradi."
+
+msgid "Step %1$d of %2$d"
+msgstr "Qadam: %1$d / %2$d"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "Men %1$sFoydalanish shartlari%2$s bilan tanishdim va roziman"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "vortem.ai plagini xizmat koʻrsatish shartlari"
+
+msgid "1. authentication Agreement"
+msgstr "1. Litsenziya shartnomasi"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "Ushbu plagindan foydalanish orqali siz barcha amaldagi qonunlarga rioya qilishga rozilik bildirasiz. Plagin GPL v2 yoki undan keyingi litsenziya asosida taqdim etiladi."
+
+msgid "2. Data Usage"
+msgstr "2. Maʼlumotlardan foydalanish"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "Biz xizmat koʻrsatish uchun zarur boʻlgan maʼlumotlarni, jumladan mahsulot maʼlumotlari, buyurtma tafsilotlari va mijozlar maʼlumotlarini yigʻamiz va qayta ishlaymiz. Barcha maʼlumotlar maxfiylik siyosatimizga muvofiq boshqariladi."
+
+msgid "3. Service Availability"
+msgstr "3. Xizmat mavjudligi"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "Biz yuqori darajadagi xizmatni taʼminlashga harakat qilsak-da, uzluksiz xizmat koʻrsatishni kafolatlay olmaymiz. Zarur boʻlganda texnik xizmat koʻrsatish va yangilash huquqini oʻzimizda saqlab qolamiz."
+
+msgid "4. Support"
+msgstr "4. Qoʻllab-quvvatlash"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "Texnik yordam bizning aloqa kanallarimiz orqali taqdim etiladi. Javob berish vaqti muammoning murakkabligiga qarab farq qilishi mumkin."
+
+msgid "5. Updates"
+msgstr "5. Yangilanishlar"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "Plagin yangilanishlari funksionallik va xavfsizlikni yaxshilash uchun taqdim etiladi. Plaginni doimo oxirgi versiyada saqlash tavsiya etiladi."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "Plaginni faollashtirish va barcha funksiyalardan foydalanish uchun Vortem.ai litsenziya kalitini kiriting."
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "Litsenziya kalitingizni Vortem.ai hisobingiz boshqaruv panelidan topishingiz mumkin."
+
+msgid "Need help?"
+msgstr "Yordam kerakmi?"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "Autentifikatsiyani sozlash va ishni boshlash uchun oʻrnatish ustasini yakunlang."
+
+msgid "Vortem.ai Overview"
+msgstr "Vortem.ai sharhi"
+
+msgid "Vortem.ai Products"
+msgstr "Vortem.ai mahsulotlari"
+
+msgid "Vortem.ai Settings"
+msgstr "Vortem.ai sozlamalari"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "Vortem.ai sozlamalarini quyida sozlang."
+
+msgid "Saving settings and validating authentication..."
+msgstr "Sozlamalar saqlanmoqda va litsenziya tekshirilmoqda..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "Sozlash tugadi - Vortem.ai plaginingiz foydalanishga tayyor!"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "Plagin interfeysi uchun tilni tanlang. Oʻzgarishlar saqlangandan soʻng kuchga kiradi."
+
+msgid "Vortem.ai AI Resources"
+msgstr "Vortem.ai AI resurslari"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "Vortem.ai AI hisobingiz va resurslaringizga kiring"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "Vortem.ai AI hisobingiz va resurslaringizga kiring:"
+
+msgid "Home"
+msgstr "Bosh sahifa"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "Vortem.ai AI bosh sahifasiga tashrif buyuring"
+
+msgid "Visit Site"
+msgstr "Saytni koʻrish"
+
+msgid "My Account"
+msgstr "Mening hisobim"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "Vortem.ai AI hisob sozlamalarini boshqaring"
+
+msgid "Support"
+msgstr "Qoʻllab-quvvatlash"
+
+msgid "Get help and support from our team"
+msgstr "Bizning jamoamizdan yordam va koʻmak oling"
+
+msgid "Documentation"
+msgstr "Hujjatlar"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "Toʻliq qoʻllanmalar va darsliklarni oʻqing"
+
+msgid "Terms"
+msgstr "Shartlar"
+
+msgid "Review terms and conditions"
+msgstr "Foydalanish shartlarini koʻrib chiqing"
+
+msgid "Privacy"
+msgstr "Maxfiylik"
+
+msgid "View our privacy policy"
+msgstr "Maxfiylik siyosatimizni koʻring"
+
+msgid "error"
+msgstr "xato"
+
+msgid "success"
+msgstr "muvaffaqiyat"
+
+msgid "cancel"
+msgstr "bekor qilish"
+
+msgid "delete"
+msgstr "oʻchirish"
+
+msgid "deleting"
+msgstr "oʻchirilmoqda..."
+
+msgid "edit"
+msgstr "tahrirlash"
+
+msgid "close"
+msgstr "yopish"
+
+msgid "confirm"
+msgstr "tasdiqlash"
+
+msgid "refresh"
+msgstr "yangilash"
+
+msgid "import"
+msgstr "import"
+
+msgid "actions"
+msgstr "harakatlar"
+
+msgid "status"
+msgstr "holat"
+
+msgid "date"
+msgstr "sana"
+
+msgid "subject"
+msgstr "mavzu"
+
+msgid "recipient"
+msgstr "qabul qiluvchi"
+
+msgid "total"
+msgstr "jami"
+
+msgid "items"
+msgstr "elementlar"
+
+msgid "customer"
+msgstr "mijoz"
+
+msgid "order"
+msgstr "buyurtma"
+
+msgid "payment"
+msgstr "toʻlov"
+
+msgid "active"
+msgstr "faol"
+
+msgid "inactive"
+msgstr "nofaol"
+
+msgid "cards"
+msgstr "kartalar"
+
+msgid "table"
+msgstr "jadval"
+
+msgid "select"
+msgstr "tanlash"
+
+msgid "sent"
+msgstr "yuborildi"
+
+msgid "left"
+msgstr "qoldi"
+
+msgid "resets"
+msgstr "yangilanadi"
+
+msgid "view_more"
+msgstr "koʻproq koʻrish"
+
+msgid "performance"
+msgstr "unumdorlik"
+
+msgid "insights"
+msgstr "tahlillar"
+
+msgid "metrics"
+msgstr "metrikalar"
+
+msgid "device"
+msgstr "qurilma"
+
+msgid "locale"
+msgstr "lokalizatsiya"
+
+msgid "channel"
+msgstr "kanal"
+
+msgid "desktop"
+msgstr "kompyuter"
+
+msgid "mobile"
+msgstr "mobil"
+
+msgid "retry"
+msgstr "qayta urinish"
+
+msgid "failed"
+msgstr "muvaffaqiyatsiz"
+
+msgid "support"
+msgstr "4. Qoʻllab-quvvatlash"
+
+msgid "documentation"
+msgstr "hujjatlar"
+
+msgid "are_you_sure"
+msgstr "ishonchingiz komilmi?"
+
+msgid "clear"
+msgstr "tozalash"
+
+msgid "preview"
+msgstr "oldindan koʻrish"
+
+msgid "send_email"
+msgstr "email yuborish"
+
+msgid "recipients"
+msgstr "qabul qiluvchilar"
+
+msgid "question"
+msgstr "savol"
+
+msgid "answer"
+msgstr "javob"
+
+msgid "category"
+msgstr "Kategoriya:"
+
+msgid "category:"
+msgstr "Kategoriya:"
+
+msgid "showing"
+msgstr "koʻrsatilmoqda"
+
+msgid "faqs"
+msgstr "Koʻp beriladigan savollar"
+
+msgid "all_categories"
+msgstr "Barcha kategoriyalar"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "Savollarni qanday yaratmoqchisiz?"
+
+msgid "Single FAQ"
+msgstr "Yagona savol"
+
+msgid "Bulk FAQs"
+msgstr "Ommaviy savollar"
+
+msgid "no_faqs_added_yet"
+msgstr "Hali savollar qoʻshilmagan. Chap tomondan birinchi savolni qoʻshing."
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "Hali savollar qoʻshilmagan. Chap tomondan birinchi savolni qoʻshing."
+
+msgid "Added FAQs"
+msgstr "Qoʻshilgan savollar"
+
+msgid "created"
+msgstr "yaratildi"
+
+msgid "search_faqs"
+msgstr "savollarni qidirish..."
+
+msgid "update_faq"
+msgstr "savolni yangilash"
+
+msgid "category_label"
+msgstr "Kategoriya *"
+
+msgid "select_existing_category_optional"
+msgstr "Mavjud kategoriyani tanlang (ixtiyoriy)"
+
+msgid "create_faq"
+msgstr "savol yaratish"
+
+msgid "delete_faq"
+msgstr "savolni oʻchirish"
+
+msgid "delete_category"
+msgstr "Kategoriyani oʻchirish"
+
+msgid "delete_category_faqs_confirm"
+msgstr "\"%s\" kategoriyasidagi barcha savollarni oʻchirib tashlamoqchimisiz? Bu amalni qaytarib boʻlmaydi."
+
+msgid "category_faqs_deleted"
+msgstr "\"%s\" kategoriyasidagi barcha savollar oʻchirildi."
+
+msgid "failed_to_delete_category_faqs"
+msgstr "Ushbu kategoriya uchun savollarni oʻchirish muvaffaqiyatsiz tugadi. Qayta urining."
+
+msgid "category_id_not_found"
+msgstr "Kategoriya ID topilmadi."
+
+msgid "orders"
+msgstr "buyurtmalar"
+
+msgid "search_orders_by_number_customer_name_or_email"
+msgstr "buyurtmalarni raqam, ism yoki email boʻyicha qidirish..."
+
+msgid "last_updated"
+msgstr "Oxirgi yangilanish:"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "TAHLIL PANELI"
+
+msgid "Business Intelligence"
+msgstr "Biznes tahlili (BI)"
+
+msgid "Analytics Hub"
+msgstr "Tahlil markazi"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "Maʼlumotlarga asoslangan qarorlar qabul qilish uchun sunʼiy intellektga asoslangan tahlillar"
+
+msgid "Performance Overview"
+msgstr "Unumdorlik sharhi"
+
+msgid "Key performance indicators at a glance"
+msgstr "Asosiy koʻrsatkichlar bir qarashda"
+
+msgid "Analytics Insights"
+msgstr "Tahliliy tushunchalar"
+
+msgid "Deep dive into performance metrics"
+msgstr "Koʻrsatkichlarni chuqur tahlil qilish"
+
+msgid "Customer Intelligence"
+msgstr "Mijozlar tahlili"
+
+msgid "Understand customer behavior and trends"
+msgstr "Mijoz xatti-harakati va trendlarini tushunish"
+
+msgid "Market Analysis"
+msgstr "Bozor tahlili"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "Bozorni har tomonlama taqqoslash"
+
+msgid "Data Intelligence"
+msgstr "Maʼlumotlar tahlili"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "Batafsil jadvallar va narx tahlillari"
+
+msgid "Product"
+msgstr "Mahsulot"
+
+msgid "Products"
+msgstr "Mahsulotlar"
+
+msgid "Average"
+msgstr "Oʻrtacha"
+
+msgid "No products found"
+msgstr "Mahsulotlar topilmadi"
+
+msgid "Close"
+msgstr "Yopish"
+
+msgid "All KPI Products"
+msgstr "Barcha KPI mahsulotlari"
+
+msgid "Top KPI Products"
+msgstr "Eng yaxshi KPI mahsulotlari"
+
+msgid "Product ID"
+msgstr "Mahsulot ID"
+
+msgid "Product Title"
+msgstr "Mahsulot nomi"
+
+msgid "Base Price"
+msgstr "Asosiy narx"
+
+msgid "Low-Risk Price"
+msgstr "Past xavfli narx"
+
+msgid "Competitive Price"
+msgstr "Raqobatbardosh narx"
+
+msgid "High-Risk Price"
+msgstr "Yuqori xavfli narx"
+
+msgid "Untitled Product"
+msgstr "Nomsiz mahsulot"
+
+msgid "All Trend Index Products"
+msgstr "Barcha trend indeksi mahsulotlari"
+
+msgid "Trend Index by Product"
+msgstr "Mahsulot boʻyicha trend indeksi"
+
+msgid "Product Name"
+msgstr "Mahsulot nomi"
+
+msgid "Price vs Rating"
+msgstr "Narx va reyting taqqoslanishi"
+
+msgid "Price"
+msgstr "Narx"
+
+msgid "Rating"
+msgstr "Reyting"
+
+msgid "Reviews"
+msgstr "Sharhlar"
+
+msgid "CTR"
+msgstr "CTR"
+
+msgid "CVR"
+msgstr "CVR"
+
+msgid "Average Price"
+msgstr "Oʻrtacha narx"
+
+msgid "Average Rating"
+msgstr "Oʻrtacha reyting"
+
+msgid "Product Count"
+msgstr "Mahsulotlar soni"
+
+msgid "Avg Price"
+msgstr "Oʻrtacha narx"
+
+msgid "Avg Rating"
+msgstr "Oʻrtacha reyting"
+
+msgid "Failed to load"
+msgstr "Yuklash muvaffaqiyatsiz"
+
+msgid "products"
+msgstr "mahsulotlar"
+
+msgid "product"
+msgstr "mahsulot"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "Trend indeksi"
+
+msgid "Profitability"
+msgstr "Rentabellik"
+
+msgid "Competition"
+msgstr "Raqobat"
+
+msgid "Demand Stability"
+msgstr "Talab barqarorligi"
+
+msgid "View All"
+msgstr "Hammasini koʻrish"
+
+msgid "price rating data"
+msgstr "narx va reyting maʼlumotlari"
+
+msgid "Total Reviews"
+msgstr "Jami sharhlar"
+
+msgid "Avg Reviews"
+msgstr "Oʻrtacha sharhlar"
+
+msgid "Overall Sentiment"
+msgstr "Umumiy kayfiyat"
+
+msgid "Positive"
+msgstr "Ijobiy"
+
+msgid "Neutral"
+msgstr "Neytral"
+
+msgid "Negative"
+msgstr "Salbiy"
+
+msgid "Trend Status Overview"
+msgstr "Trend holati sharhi"
+
+msgid "Rising"
+msgstr "Oʻsayotgan"
+
+msgid "Stable"
+msgstr "Barqaror"
+
+msgid "Declining"
+msgstr "Kamayayotgan"
+
+msgid "sentiment data"
+msgstr "kayfiyat maʼlumotlari"
+
+msgid "trend status data"
+msgstr "trend holati maʼlumotlari"
+
+msgid "Status"
+msgstr "Holati"
+
+msgid "Category"
+msgstr "Kategoriya"
+
+msgid "All Categories"
+msgstr "Barcha kategoriyalar"
+
+msgid "Count"
+msgstr "Soni"
+
+msgid "Percentage"
+msgstr "Foiz"
+
+msgid "Market Comparison (by Source)"
+msgstr "Bozorni taqqoslash (manba boʻyicha)"
+
+msgid "Market"
+msgstr "Bozor"
+
+msgid "Best seller"
+msgstr "Eng koʻp sotilgan"
+
+msgid "Movers and shakers"
+msgstr "Ommalashayotganlar"
+
+msgid "New releases"
+msgstr "Yangi mahsulotlar"
+
+msgid "market comparison data"
+msgstr "bozorni taqqoslash maʼlumotlari"
+
+msgid "Category Comparison"
+msgstr "Kategoriyalar taqqoslanishi"
+
+msgid "Category Comparison - All Data"
+msgstr "Kategoriyalar taqqoslanishi - Barcha maʼlumotlar"
+
+msgid "Categories"
+msgstr "Kategoriyalar"
+
+msgid "Metrics"
+msgstr "Metrikalar"
+
+msgid "Avg Sold"
+msgstr "Oʻrtacha sotilgan"
+
+msgid "Avg FPSI"
+msgstr "Oʻrtacha FPSI"
+
+msgid "N/A"
+msgstr "Mavjud emas"
+
+msgid "value"
+msgstr "qiymat"
+
+msgid "Unknown"
+msgstr "Nomaʼlum"
+
+msgid "category comparison data"
+msgstr "kategoriyalar taqqoslash maʼlumotlari"
+
+msgid "Amazon Device"
+msgstr "Amazon qurilmasi"
+
+msgid "Appliances"
+msgstr "Maishiy texnika"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "Sanʼat va hunarmandchilik"
+
+msgid "Automotive"
+msgstr "Avtomobillar"
+
+msgid "Baby Products"
+msgstr "Bolalar mahsulotlari"
+
+msgid "Baby"
+msgstr "Bolalar"
+
+msgid "Beauty & Personal Care"
+msgstr "Goʻzallik va parvarish"
+
+msgid "Cell Phones & Accessories"
+msgstr "Telefonlar va aksessuarlar"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "Kiyim, poyabzal va zargarlik"
+
+msgid "Collectibles & Fine Art"
+msgstr "Kolleksiya va sanʼat"
+
+msgid "Electronics"
+msgstr "Elektronika"
+
+msgid "Health & Household"
+msgstr "Salomatlik va uy-roʻzgʻor"
+
+msgid "Home & Kitchen"
+msgstr "Uy va oshxona"
+
+msgid "Industrial & Scientific"
+msgstr "Sanoat va fan"
+
+msgid "Musical Instruments"
+msgstr "Musiqa asboblari"
+
+msgid "No category found"
+msgstr "Kategoriya topilmadi"
+
+msgid "Office Products"
+msgstr "Ofis mahsulotlari"
+
+msgid "Patio, Lawn & Garden"
+msgstr "Hovli va bogʻ"
+
+msgid "Safety & Security"
+msgstr "Xavfsizlik"
+
+msgid "Tools & Home Improvement"
+msgstr "Asboblar va uy taʼmiri"
+
+msgid "Toys & Games"
+msgstr "Oʻyinchoqlar va oʻyinlar"
+
+msgid "Suggested Pricing"
+msgstr "Tavsiya etilgan narx"
+
+msgid "All Suggested Pricing"
+msgstr "Barcha tavsiya etilgan narxlar"
+
+msgid "suggested pricing data"
+msgstr "tavsiya etilgan narx maʼlumotlari"
+
+msgid "Search products..."
+msgstr "Mahsulotlarni qidirish..."
+
+msgid "Search products or categories..."
+msgstr "Mahsulot yoki kategoriyalarni qidirish..."
+
+msgid "Insights"
+msgstr "Tahlillar"
+
+msgid "Performance insights for"
+msgstr "Samaradorlik tahlillari:"
+
+msgid "your website"
+msgstr "saytingiz"
+
+msgid "Desktop"
+msgstr "Ish Stol"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Refresh"
+msgstr "Yangilash"
+
+msgid "Loading..."
+msgstr "Yuklanmoqda..."
+
+msgid "Core Web Vitals"
+msgstr "Asosiy veb koʻrsatkichlar"
+
+msgid "Performance Audits"
+msgstr "Unumdorlik auditi"
+
+msgid "View More"
+msgstr "Batafsil koʻrish"
+
+msgid "Performance Insights"
+msgstr "Unumdorlik tahlillari"
+
+msgid "Analysis Configuration"
+msgstr "Tahlil sozlamalari"
+
+msgid "Device"
+msgstr "Qurilma"
+
+msgid "Locale"
+msgstr "Til/Hudud"
+
+msgid "Channel"
+msgstr "Kanal"
+
+msgid "Loading Insights data..."
+msgstr "Tahlil maʼlumotlari yuklanmoqda..."
+
+msgid "Error Loading Insights Data"
+msgstr "Tahlil maʼlumotlarini yuklashda xato"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "Tahlil maʼlumotlarini olishda xato yuz berdi."
+
+msgid "Retry"
+msgstr "Qayta urinish"
+
+msgid "No Insights Data Available"
+msgstr "Tahlil maʼlumotlari mavjud emas"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "Tahlil maʼlumotlari mavjud emas. Ehtimol tahlil hali oʻtkazilmagan."
+
+msgid "Last analyzed:"
+msgstr "Oxirgi tahlil:"
+
+msgid "Performance"
+msgstr "Ishlash"
+
+msgid "Accessibility"
+msgstr "Foydalanish qulayligi"
+
+msgid "Best Practices"
+msgstr "Eng yaxshi amaliyotlar"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "No performance metrics available"
+msgstr "Unumdorlik koʻrsatkichlari mavjud emas"
+
+msgid "No audit data available"
+msgstr "Audit maʼlumotlari mavjud emas"
+
+msgid "No audits available"
+msgstr "Auditlar mavjud emas"
+
+msgid "View Less"
+msgstr "Kamroq koʻrish"
+
+msgid "more"
+msgstr "koʻproq"
+
+msgid "No insights available"
+msgstr "Tahlillar mavjud emas"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "Unumdorlikda muammolar aniqlanmadi. Saytingiz yaxshi ishlamoqda!"
+
+msgid "Wasted:"
+msgstr "Isrof qilindi:"
+
+msgid "Initializing..."
+msgstr "Initsializatsiya qilinmoqda..."
+
+msgid "Connecting to server..."
+msgstr "Serverga ulanmoqda..."
+
+msgid "Fetching insights data..."
+msgstr "Tahlil maʼlumotlari olinmoqda..."
+
+msgid "Analyzing performance metrics..."
+msgstr "Koʻrsatkichlar tahlil qilinmoqda..."
+
+msgid "Processing audits and insights..."
+msgstr "Audit va tahlillar qayta ishlanmoqda..."
+
+msgid "Finalizing results..."
+msgstr "Natijalar yakunlanmoqda..."
+
+msgid "Complete!"
+msgstr "Tayyor!"
+
+msgid "Failed to load Insights data"
+msgstr "Tahlil maʼlumotlarini yuklash muvaffaqiyatsiz tugadi"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "Yuklash muvaffaqiyatsiz tugadi. Aloqani tekshiring."
+
+msgid "No data available"
+msgstr "Maʼlumot yoʻq"
+
+msgid "Excellent"
+msgstr "Aʼlo"
+
+msgid "Needs Improvement"
+msgstr "Yaxshilash kerak"
+
+msgid "Poor"
+msgstr "Yomon"
+
+msgid "Unknown error"
+msgstr "Nomaʼlum xato"
+
+msgid "Email Marketing"
+msgstr "Email marketing"
+
+msgid "Manage, send, and track your emails"
+msgstr "Emailingizni boshqaring, yuboring va kuzating"
+
+msgid "Emails"
+msgstr "Emaillar"
+
+msgid "Lists"
+msgstr "Roʻyxatlar"
+
+msgid "Create Email"
+msgstr "Email yaratish"
+
+msgid "Search emails..."
+msgstr "Emaillarni qidirish..."
+
+msgid "Cards"
+msgstr "Kartalar"
+
+msgid "Table"
+msgstr "Jadval"
+
+msgid "Select"
+msgstr "Tanlash"
+
+msgid "Delete"
+msgstr "Oʻchirish"
+
+msgid "Recipient"
+msgstr "Qabul qiluvchi"
+
+msgid "Subject"
+msgstr "Mavzu"
+
+msgid "Created"
+msgstr "Yaratildi"
+
+msgid "Actions"
+msgstr "Harakatlar"
+
+msgid "Email Lists"
+msgstr "Email roʻyxatlari"
+
+msgid "Manage, send, and track your email lists"
+msgstr "Email roʻyxatlaringizni boshqaring"
+
+msgid "Create Email List"
+msgstr "Email roʻyxatini yaratish"
+
+msgid "Search lists..."
+msgstr "Roʻyxatlarni qidirish..."
+
+msgid "Download Template"
+msgstr "Shablonni yuklab olish"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "email-recipient.xlsx shablonini yuklab olish"
+
+msgid "Upload Template"
+msgstr "Shablonni yuklash"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "email-recipient.xlsx faylini yuklash"
+
+msgid "Recipients"
+msgstr "Qabul qiluvchilar"
+
+msgid "Confirm Action"
+msgstr "Harakatni tasdiqlash"
+
+msgid "Are you sure you want to proceed?"
+msgstr "Davom etishni xohlaysizmi?"
+
+msgid "Cancel"
+msgstr "Bekor qilish"
+
+msgid "Confirm"
+msgstr "Tasdiqlash"
+
+msgid "List Subject"
+msgstr "Roʻyxat mavzusi"
+
+msgid "Subject for all recipients"
+msgstr "Barcha qabul qiluvchilar uchun mavzu"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "Emailni kiriting va Enter yoki Qoʻshish tugmasini bosing"
+
+msgid "Add"
+msgstr "Qoʻshish"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "Email manzillarni birma-bir kiriting. Oʻchirish uchun X ni bosing."
+
+msgid "Email Body (optional HTML)"
+msgstr "Email matni (ixtiyoriy HTML)"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "Vizual tahrirlovchidan foydalaning yoki HTML qoʻyish uchun matn rejimiga oʻting."
+
+msgid "Send"
+msgstr "Yuborish"
+
+msgid "Preview"
+msgstr "Koʻrish"
+
+msgid "Clear"
+msgstr "Tozalash"
+
+msgid "Create New Email"
+msgstr "Yangi email yaratish"
+
+msgid "Your subject"
+msgstr "Sizning mavzuingiz"
+
+msgid "Email Body"
+msgstr "Email matni"
+
+msgid "Send Email"
+msgstr "Email yuborish"
+
+msgid "Email Sent"
+msgstr "Email yuborildi"
+
+msgid "Your email has been sent successfully."
+msgstr "Emailingiz muvaffaqiyatli yuborildi."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Total"
+msgstr "Jami"
+
+msgid "Sent"
+msgstr "Yuborilgan"
+
+msgid "Read"
+msgstr "Oʻqilgan"
+
+msgid "Revision"
+msgstr "Versiya"
+
+msgid "Sent Emails"
+msgstr "Yuborilgan emaillar"
+
+msgid "Export Excel"
+msgstr "Excel-ga eksport qilish"
+
+msgid "Updated"
+msgstr "Yangilandi"
+
+msgid "Failed"
+msgstr "Muvaffaqiyatsiz"
+
+msgid "Pending"
+msgstr "Kutilmoqda"
+
+msgid "Show"
+msgstr "Koʻrsatish"
+
+msgid "Edit"
+msgstr "Tahrirlash"
+
+msgid "Update & Send"
+msgstr "Yangilash va yuborish"
+
+msgid "Sending..."
+msgstr "Yuborilmoqda..."
+
+msgid "Edit Email"
+msgstr "Emailni tahrirlash"
+
+msgid "Exit Select"
+msgstr "Tanlashdan chiqish"
+
+msgid "To:"
+msgstr "Kimga:"
+
+msgid "Created:"
+msgstr "Yaratilgan vaqti:"
+
+msgid "Error"
+msgstr "Xato"
+
+msgid "Success"
+msgstr "Muvaffaqiyat"
+
+msgid "Update Email List"
+msgstr "Email roʻyxatini yangilash"
+
+msgid "status_sent"
+msgstr "yuborildi"
+
+msgid "status_failed"
+msgstr "muvaffaqiyatsiz"
+
+msgid "status_pending"
+msgstr "kutilmoqda"
+
+msgid "SENT"
+msgstr "YUBORILDI"
+
+msgid "Sent:"
+msgstr "Yuborilgan:"
+
+msgid "Failed:"
+msgstr "Muvaffaqiyatsiz:"
+
+msgid "Pending:"
+msgstr "Kutilmoqda:"
+
+msgid "Email sent"
+msgstr "Email yuborildi"
+
+msgid "Successfully sent"
+msgstr "Muvaffaqiyatli yuborildi"
+
+msgid "email(s)"
+msgstr "email"
+
+msgid "Your email list has been sent successfully."
+msgstr "Email roʻyxatingiz muvaffaqiyatli yuborildi."
+
+msgid "FAILED"
+msgstr "MUVAFFAQIYATSIZ"
+
+msgid "PENDING"
+msgstr "KUTILMOQDA"
+
+msgid "Total Lists"
+msgstr "Jami roʻyxatlar"
+
+msgid "Total Recipients"
+msgstr "Jami qabul qiluvchilar"
+
+msgid "create_email_list"
+msgstr "email roʻyxatini yaratish"
+
+msgid "add"
+msgstr "qoʻshish"
+
+msgid "send"
+msgstr "yuborish"
+
+msgid "ok"
+msgstr "ok"
+
+msgid "security"
+msgstr "xavfsizlik"
+
+msgid "welcome"
+msgstr "xush kelibsiz"
+
+msgid "of"
+msgstr "dan"
+
+msgid "previous"
+msgstr "Oldingi"
+
+msgid "next"
+msgstr "Keyingi"
+
+msgid "home"
+msgstr "Bosh sahifa"
+
+msgid "terms"
+msgstr "Shartlar"
+
+msgid "Active"
+msgstr "Faol"
+
+msgid "Not Set"
+msgstr "Oʻrnatilmagan"
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Importing..."
+msgstr "Import qilinmoqda..."
+
+msgid "Deleting..."
+msgstr "Oʻchirilmoqda..."
+
+msgid "Already Imported"
+msgstr "Allaqachon import qilingan"
+
+msgid "Product deleted successfully"
+msgstr "Mahsulot muvaffaqiyatli oʻchirildi"
+
+msgid "NEW"
+msgstr "YANGI"
+
+msgid "Added"
+msgstr "Qoʻshildi"
+
+msgid "Exists"
+msgstr "Mavjud"
+
+msgid "Showing"
+msgstr "Ko'rsatilmoqda"
+
+msgid "Previous"
+msgstr "Oldingi"
+
+msgid "Next"
+msgstr "Keyingi"
+
+msgid "Processing..."
+msgstr "Ishlov berilmoqda..."
+
+msgid "Please wait while we import your product"
+msgstr "Mahsulot import qilinayotganicha kuting"
+
+msgid "Importing product as draft..."
+msgstr "Mahsulot qoralama sifatida import qilinmoqda..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "Bu WooCommerce-da mahsulotni yaratadi"
+
+msgid "Importing product with SEO optimization..."
+msgstr "Mahsulotni SEO optimallashtirish bilan import qilish..."
+
+msgid "Checking product status..."
+msgstr "Mahsulot holati tekshirilmoqda..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "Mahsulot mavjudligini tekshirayotganimizda kuting"
+
+msgid "Loading products..."
+msgstr "Mahsulotlar yuklanmoqda..."
+
+msgid "Overview"
+msgstr "Sharh"
+
+msgid "Business Overview"
+msgstr "Biznes sharhi"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "Plagin ishini nazorat qiling va operatsiyalarni bitta paneldan boshqaring."
+
+msgid "Total Products"
+msgstr "Jami mahsulotlar"
+
+msgid "Quick Actions"
+msgstr "Tezkor harakatlar"
+
+msgid "Analytics Dashboard"
+msgstr "Tahlil paneli"
+
+msgid "Analytics Overview"
+msgstr "Tahliliy sharh"
+
+msgid "Quick insights into your business performance"
+msgstr "Biznesingiz haqida tezkor tushunchalar"
+
+msgid "View Full Analytics"
+msgstr "Toʻliq tahlilni koʻrish"
+
+msgid "Overall Sentiment distribution"
+msgstr "Umumiy kayfiyat taqsimoti"
+
+msgid "Trend Status distribution"
+msgstr "Trend holati taqsimoti"
+
+msgid "Analytics"
+msgstr "Tahlil"
+
+msgid "BI Analytics Hub"
+msgstr "Biznes tahlil markazi (BI Hub)"
+
+msgid "Settings"
+msgstr "Sozlamalar"
+
+msgid "No orders found"
+msgstr "Buyurtmalar topilmadi"
+
+msgid "Total Orders"
+msgstr "Jami buyurtmalar"
+
+msgid "Current Page"
+msgstr "Joriy sahifa"
+
+msgid "Orders Per Page"
+msgstr "Har bir sahifadagi buyurtmalar"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "Buyurtmani raqam, ism yoki email orqali qidirish..."
+
+msgid "Loading orders..."
+msgstr "Buyurtmalar yuklanmoqda..."
+
+msgid "Page"
+msgstr "Sahifa"
+
+msgid "WooCommerce Analytics"
+msgstr "WooCommerce tahlili"
+
+msgid "WordPress Analytics"
+msgstr "WordPress tahlili"
+
+msgid "Clear Cache"
+msgstr "Keshni tozalash"
+
+msgid "Export CSV"
+msgstr "CSV eksport"
+
+msgid "Last updated:"
+msgstr "Oxirgi yangilanish:"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "Maʼlumot yuklanmadi. Sahifani yangilang."
+
+msgid "No data available to export"
+msgstr "Eksport uchun maʼlumot yoʻq"
+
+msgid "Orders Today"
+msgstr "Bugungi buyurtmalar"
+
+msgid "Total Revenue"
+msgstr "Jami daromad"
+
+msgid "Revenue Today"
+msgstr "Bugungi daromad"
+
+msgid "Revenue (30 Days)"
+msgstr "Daromad (30 kun)"
+
+msgid "Avg Order Value"
+msgstr "O'rtacha buyurtma qiymati"
+
+msgid "Pending Orders"
+msgstr "Kutilayotgan buyurtmalar"
+
+msgid "Failed Orders"
+msgstr "Muvaffaqiyatsiz buyurtmalar"
+
+msgid "Cart Abandonment"
+msgstr "Tashlab ketilgan savatchalar"
+
+msgid "Customers (30 Days)"
+msgstr "Mijozlar (30 kun)"
+
+msgid "Top Seller (30 Days)"
+msgstr "Eng koʻp sotilgan (30 kun)"
+
+msgid "Total Users"
+msgstr "Jami foydalanuvchilar"
+
+msgid "Users Today"
+msgstr "Bugungi foydalanuvchilar"
+
+msgid "Total Comments"
+msgstr "Jami sharhlar"
+
+msgid "Total Views"
+msgstr "Jami koʻrishlar"
+
+msgid "Pending payment"
+msgstr "Toʻlov kutilmoqda"
+
+msgid "Processing"
+msgstr "Jarayonda"
+
+msgid "On hold"
+msgstr "Kutilmoqda"
+
+msgid "Completed"
+msgstr "Bajarildi"
+
+msgid "Cancelled"
+msgstr "Bekor qilindi"
+
+msgid "Draft"
+msgstr "Qoralama"
+
+msgid "Revenue Overview"
+msgstr "Tushum sharhi"
+
+msgid "Orders Status"
+msgstr "Buyurtmalar holati"
+
+msgid "WordPress Activity"
+msgstr "WordPress faolligi"
+
+msgid "Revenue"
+msgstr "Tushum"
+
+msgid "WordPress Metrics"
+msgstr "WordPress koʻrsatkichlari"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "Sahifadagi mahsulotlar 100 tadan oshmasligi kerak."
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "Sahifadagi mahsulotlar kamida 1 ta boʻlishi kerak."
+
+msgid "Settings saved successfully!"
+msgstr "Sozlamalar saqlandi!"
+
+msgid "Please enter a authentication key before testing."
+msgstr "Sinovdan oldin litsenziya kalitini kiriting."
+
+msgid "more..."
+msgstr "yana..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "Tahlil keshi tozalandi!"
+
+msgid "No products to import. Please sync products first."
+msgstr "Import uchun mahsulot yoʻq. Avval sinxronlang."
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "Import tugadi! %d ta import qilindi, %d ta xato."
+
+msgid "Import failed: %s"
+msgstr "Import xatosi: %s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "API testi tugadi! Tafsilotlar uchun debug.log-ni koʻring."
+
+msgid "API Test Failed: %s"
+msgstr "API testi muvaffaqiyatsiz: %s"
+
+msgid "Database structure validated and fixed:"
+msgstr "Maʼlumotlar bazasi tuzilishi tekshirildi va tuzatildi:"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "Baza tuzilishi toʻgʻri."
+
+msgid "Database validation issues:"
+msgstr "Baza bilan bogʻliq muammolar:"
+
+msgid "Database validation failed: %s"
+msgstr "Baza tekshiruvi muvaffaqiyatsiz: %s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "Vortem litsenziyangiz %s tarifida faol."
+
+msgid "Validated on: %s"
+msgstr "Tasdiqlandi: %s"
+
+msgid "Import failed. Please try again."
+msgstr "Import muvaffaqiyatsiz. Qayta urining."
+
+msgid "Please select a bulk action."
+msgstr "Ommaviy harakatni tanlang."
+
+msgid "Please select at least one product."
+msgstr "Kamida bitta mahsulotni tanlang."
+
+msgid "Bulk action failed. Please try again."
+msgstr "Ommaviy harakat muvaffaqiyatsiz. Qayta urining."
+
+msgid "Failed to trash product. Please try again."
+msgstr "Mahsulotni oʻchirish muvaffaqiyatsiz. Qayta urining."
+
+msgid "Failed to restore product. Please try again."
+msgstr "Mahsulotni tiklash muvaffaqiyatsiz. Qayta urining."
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "Qoralama sifatida import qilish muvaffaqiyatsiz. Qayta urining."
+
+msgid "Failed to get product details."
+msgstr "Mahsulot tafsilotlarini olish muvaffaqiyatsiz."
+
+msgid "Delete failed. Please try again."
+msgstr "Oʻchirish muvaffaqiyatsiz. Qayta urining."
+
+msgid "FAQ Management"
+msgstr "Koʻp beriladigan savollar boshqaruvi"
+
+msgid "Manage your frequently asked questions"
+msgstr "Savollaringizni boshqaring"
+
+msgid "Search FAQs..."
+msgstr "Savollarni qidirish..."
+
+msgid "Card View"
+msgstr "Kartali koʻrinish"
+
+msgid "Table View"
+msgstr "Jadval koʻrinishi"
+
+msgid "Refresh FAQs"
+msgstr "Savollarni yangilash"
+
+msgid "Create New FAQ"
+msgstr "Yangi savol yaratish"
+
+msgid "Total FAQs"
+msgstr "Jami savollar"
+
+msgid "Active FAQs"
+msgstr "Faol savollar"
+
+msgid "Page Status"
+msgstr "Sahifa holati"
+
+msgid "Question"
+msgstr "Savol"
+
+msgid "Answer"
+msgstr "Javob"
+
+msgid "No FAQs yet"
+msgstr "Hali savollar yoʻq"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "Savollar yaratishni boshlang"
+
+msgid "Create Your First FAQ"
+msgstr "Birinchi savolingizni yarating"
+
+msgid "Loading FAQs..."
+msgstr "Savollar yuklanmoqda..."
+
+msgid "Update FAQ"
+msgstr "Savolni yangilash"
+
+msgid "Question *"
+msgstr "Savol *"
+
+msgid "Enter your question here..."
+msgstr "Savolni bu yerga kiriting..."
+
+msgid "Answer *"
+msgstr "Javob *"
+
+msgid "Enter the answer here..."
+msgstr "Javobni bu yerga kiriting..."
+
+msgid "Create FAQ"
+msgstr "Savol yaratish"
+
+msgid "FAQ Details"
+msgstr "Savol tafsilotlari"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Answer:"
+msgstr "Javob:"
+
+msgid "View Details"
+msgstr "Tafsilotlarni koʻrish"
+
+msgid "Edit FAQ"
+msgstr "Savolni tahrirlash"
+
+msgid "Creating..."
+msgstr "Yaratilmoqda..."
+
+msgid "Updating..."
+msgstr "Yangilanmoqda..."
+
+msgid "Question is required"
+msgstr "Savol boʻlishi shart"
+
+msgid "Answer is required"
+msgstr "Javob boʻlishi shart"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "Javob kamida 10 ta belgidan iborat boʻlishi kerak"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "\"%s\" savoli yaratildi"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "\"%s\" savoli yangilandi"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "\"%s\" savoli oʻchirildi"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "\"%s\" ni oʻchirmoqchimisiz?"
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "Savollar yuklanmadi."
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "Savol saqlanmadi."
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "Savol oʻchirilmadi."
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "Litsenziya kerak. Kalitni tekshiring."
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "Litsenziya kaliti kerak. Uni Vortem sozlamalarida kiriting."
+
+msgid "Security"
+msgstr "Xavfsizlik"
+
+msgid "Search plugins..."
+msgstr "Plaginlarni qidirish..."
+
+msgid "Last Modified"
+msgstr "Oxirgi oʻzgarish"
+
+msgid "Inactive"
+msgstr "Nofaol"
+
+msgid "WordPress Core"
+msgstr "WordPress yadrosi"
+
+msgid "Themes"
+msgstr "Mavzular"
+
+msgid "Plugins"
+msgstr "Plaginlar"
+
+msgid "Version"
+msgstr "Versiya"
+
+msgid "Author"
+msgstr "Muallif"
+
+msgid "Description"
+msgstr "Tavsif"
+
+msgid "File"
+msgstr "Fayl"
+
+msgid "Plugin URI"
+msgstr "Plagin URI"
+
+msgid "Requires WP Version"
+msgstr "WP versiyasi talab qilinadi"
+
+msgid "Requires PHP"
+msgstr "PHP talab qilinadi"
+
+msgid "Read more"
+msgstr "Koʻproq oʻqish"
+
+msgid "Stylesheet"
+msgstr "Stil jadvali"
+
+msgid "Theme URI"
+msgstr "Mavzu URI"
+
+msgid "Type"
+msgstr "Turi"
+
+msgid "Name"
+msgstr "Nomi"
+
+msgid "All"
+msgstr "Barchasi"
+
+msgid "Vulnerabilities"
+msgstr "Xavfsizlik zaifliklari"
+
+msgid "Checking..."
+msgstr "Tekshirilmoqda..."
+
+msgid "Save Changes"
+msgstr "Oʻzgarishlarni saqlash"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "Plagin sozlamalari va afzalliklarini sozlang"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "Plagin funksiyalarini faollashtirish uchun Vortem.ai litsenziya kalitini kiriting."
+
+msgid "Products Per Page"
+msgstr "Sahifaga Mahsulotlar"
+
+msgid "Language"
+msgstr "Til"
+
+msgid "Currency"
+msgstr "Valyuta"
+
+msgid "Update Currency"
+msgstr "Valyutani Yangilash"
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "Sahifadagi mahsulotlar soni. Standart: 16."
+
+msgid "Products per page must be at least 1"
+msgstr "Sahifadagi mahsulotlar kamida 1 ta boʻlishi kerak"
+
+msgid "Products per page cannot exceed 100"
+msgstr "Sahifadagi mahsulotlar 100 tadan oshmasligi kerak"
+
+msgid "Loading currencies..."
+msgstr "Valyutalar yuklanmoqda..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "Plagin uchun valyuta turini tanlang va oʻzgarishlarni saqlash uchun \"Valyutani Yangilash\"ni bosing."
+
+msgid "Currency updated successfully!"
+msgstr "Valyuta muvaffaqiyatli yangilandi!"
+
+msgid "Video Settings"
+msgstr "Video Sozlamalari"
+
+msgid "Video Download for Excluded Themes"
+msgstr "Cheklangan Mavzular uchun Video Yuklab Olish"
+
+msgid "AliExpress Integration"
+msgstr "AliExpress Integratsiyasi"
+
+msgid "Add video to product description"
+msgstr "Mahsulot tavsifiga video qoʻshing"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "Vortem Clothes, Vortem Cosmetic va xstore mavzulari uchun videolarni yuklab oling"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "Kunlik email limitiga yaqinlashyapsiz (%s). Limit ertaga qayta tiklanadi."
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "Kunlik email limitiga yetdingiz. Limit ertaga qayta tiklanadi."
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "Kunlik mahsulot import kvotasiga yaqinlashyapsiz (%s). Kvota ertaga qayta tiklanadi."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "Kunlik mahsulot import kvotasiga yetdingiz. Kvota ertaga qayta tiklanadi."
+
+msgid "Search plugins and themes..."
+msgstr "Plagin va mavzularni qidirish..."
+
+msgid "Loading security scan results..."
+msgstr "Xavfsizlik tekshiruvi yuklanmoqda..."
+
+msgid "published"
+msgstr "nashr etildi"
+
+msgid "Published"
+msgstr "Nashr etildi"
+
+msgid "references"
+msgstr "manbalar"
+
+msgid "References"
+msgstr "Manbalar"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "Yoqilgan boʻlsa, mahsulot videolari tavsifga avtomatik qoʻshiladi."
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "Oʻchirilgan boʻlsa, bu mavzular uchun videolar joyni tejash maqsadida yuklab olinmaydi."
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "Ushbu sahifadan foydalanish uchun sozlamalarda litsenziyani kiritishingiz va tasdiqlashingiz kerak."
+
+msgid "Products Pages"
+msgstr "Mahsulot sahifalari"
+
+msgid "Analytics Pages"
+msgstr "Tahlil sahifalari"
+
+msgid "sales"
+msgstr "sotuvlar"
+
+msgid "Loading trend products..."
+msgstr "Trend mahsulotlar yuklanmoqda..."
+
+msgid "Loading TikTok products..."
+msgstr "TikTok mahsulotlari yuklanmoqda..."
+
+msgid "Error loading TikTok products:"
+msgstr "TikTok mahsulotlarini yuklashda xato:"
+
+msgid "Failed to load TikTok products:"
+msgstr "TikTok mahsulotlarini yuklash muvaffaqiyatsiz tugadi:"
+
+msgid "Loading Kinguin products..."
+msgstr "Kinguin mahsulotlari yuklanmoqda..."
+
+msgid "No Kinguin products found."
+msgstr "Kinguin mahsulotlari topilmadi."
+
+msgid "Failed to load Kinguin products:"
+msgstr "Kinguin mahsulotlarini yuklash muvaffaqiyatsiz tugadi:"
+
+msgid "Error loading Kinguin products:"
+msgstr "Kinguin mahsulotlarini yuklashda xato:"
+
+msgid "View on Amazon"
+msgstr "Amazon-da koʻrish"
+
+msgid "View on Kinguin"
+msgstr "Kinguin-da koʻrish"
+
+msgid "Release:"
+msgstr "Chiqarilgan sana:"
+
+msgid "Price N/A"
+msgstr "Narx mavjud emas"
+
+msgid "In Stock"
+msgstr "Omborda bor"
+
+msgid "Sentiment"
+msgstr "Kayfiyat (Sentiment)"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "10 tadan kam qolgan mahsulotlar"
+
+msgid "Total Pages"
+msgstr "Jami sahifalar"
+
+msgid "Total Posts"
+msgstr "Jami postlar"
+
+msgid "Refetch"
+msgstr "Qayta olish"
+
+msgid "AliExpress"
+msgstr "AliExpress"
+
+msgid "Connect to AliExpress"
+msgstr "AliExpress-ga ulanish"
+
+msgid "Disconnect AliExpress"
+msgstr "AliExpress-ni uzish"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "AliExpress hisobini uzishga ishonchingiz komilmi?"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "Dropshipping uchun AliExpress hisobingizni ulang."
+
+msgid "Checking connection status..."
+msgstr "Ulanish holati tekshirilmoqda..."
+
+msgid "Connected"
+msgstr "Ulandi"
+
+msgid "Not connected"
+msgstr "Ulanmagan"
+
+msgid "Error checking status"
+msgstr "Holatni tekshirishda xato"
+
+msgid "Connecting..."
+msgstr "Ulanmoqda..."
+
+msgid "Disconnecting..."
+msgstr "Uzilmoqda..."
+
+msgid "Error connecting to AliExpress"
+msgstr "AliExpress-ga ulanishda xato"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "AliExpress hisobini uzishda xato"
+
+msgid "Failed to disconnect"
+msgstr "Uzish muvaffaqiyatsiz tugadi"
+
+msgid "Failed to connect to AliExpress"
+msgstr "AliExpress-ga ulanish muvaffaqiyatsiz tugadi"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "AliExpress-ga muvaffaqiyatli ulandi!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "AliExpress buyurtmalari uchun telefon raqami shart."
+
+msgid "Expires:"
+msgstr "Muddati:"
+
+msgid "Disconnect"
+msgstr "Uzish"
+
+msgid "Select Import Method"
+msgstr "Import usulini tanlang"
+
+msgid "Choose how you want to import this product:"
+msgstr "Ushbu mahsulot qanday import qilinishini tanlang:"
+
+msgid "Normal Import"
+msgstr "Oddiy import"
+
+msgid "Import product with original title and description"
+msgstr "Asl nomi va tavsifi bilan import qilish"
+
+msgid "SEO Import"
+msgstr "SEO import"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "SEO uchun optimallashgan nom va tavsif bilan import qilish"
+
+msgid "SEO Import Completed"
+msgstr "SEO Import Tugallandi"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "Quyidagi SEO optimallashtirishlar qo'llandi:"
+
+msgid "Keyphrase"
+msgstr "Kalit So'z"
+
+msgid "SEO Title"
+msgstr "SEO Sarlavha"
+
+msgid "SEO Description"
+msgstr "SEO Tavsif"
+
+msgid "Meta Description"
+msgstr "Meta Tavsif"
+
+msgid "Tags"
+msgstr "Teglar"
+
+msgid "Yoast SEO Title"
+msgstr "Yoast SEO Sarlavha"
+
+msgid "Headings"
+msgstr "Sarlavhalar"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO o'rnatilmagan. SEO import opsiyasidan foydalanish uchun, uni o'rnatish va faollashtirish kerak."
+
+msgid "Email subject must be at least 16 characters"
+msgstr "Elektron pochta mavzusi kamida 16 belgi bo'lishi kerak"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "Elektron pochta mavzusi 256 belgidan oshmasligi kerak"
+
+msgid "Email body must be at least 128 characters"
+msgstr "Elektron pochta matni kamida 128 belgi bo'lishi kerak"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "Elektron pochta matni 8196 belgidan oshmasligi kerak"
+
+msgid "All Imported Products"
+msgstr "Barcha import qilingan mahsulotlar"
+
+msgid "Refresh Products"
+msgstr "Mahsulotlarni yangilash"
+
+msgid "Show All Products"
+msgstr "Barcha mahsulotlarni ko'rsatish"
+
+msgid "Show All Added Products"
+msgstr "Barcha qo'shilgan mahsulotlarni ko'rsatish"
+
+msgid "Top Products Kinguin"
+msgstr "Eng yaxshi mahsulotlar Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "Trend mahsulotlar Amazon"
+
+msgid "Top Products AliExpress"
+msgstr "Eng yaxshi mahsulotlar AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "Mahsulot inventaringizni boshqaring va ko'ring"
+
+msgid "Security Overview"
+msgstr "Xavfsizlik ko'rib chiqish"
+
+msgid "Security Scan Results"
+msgstr "Xavfsizlik skanerlash natijalari"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "O'rnatilgan barcha WordPress plaginlari va temalarini kuzatish va tekshirish"
+
+msgid "Total Plugins"
+msgstr "Jami plaginlar"
+
+msgid "Active Plugins"
+msgstr "Faol plaginlar"
+
+msgid "Inactive Plugins"
+msgstr "Nofaol plaginlar"
+
+msgid "Total Themes"
+msgstr "Jami temalar"
+
+msgid "Active Themes"
+msgstr "Faol temalar"
+
+msgid "Inactive Themes"
+msgstr "Nofaol temalar"
+
+msgid "Sort by:"
+msgstr "Saralash:"
+
+msgid "Filter by Status:"
+msgstr "Holat bo'yicha filtrlash:"
+
+msgid "Sort by Date"
+msgstr "Sanaga ko'ra saralash"
+
+msgid "View and manage your store orders"
+msgstr "Do'koningizning buyurtmalarini ko'ring va boshqaring"
+
+msgid "Start Date"
+msgstr "Boshlanish sanasi"
+
+msgid "End Date"
+msgstr "Tugash sanasi"
+
+msgid "All Statuses"
+msgstr "Barcha holatlar"
+
+msgid "Navigation"
+msgstr "Navigatsiya"
+
+msgid "Shop Analytics"
+msgstr "Doʻkon tahlili"
+
+msgid "Traffic Analytics"
+msgstr "Trafik tahlili"
+
+msgid "Search currencies..."
+msgstr "Valyutalarni qidirish..."
+
+msgid "Search by country or currency code"
+msgstr "Mamlakat yoki valyuta kodi bo'yicha qidirish"
+
+msgid "Popularity"
+msgstr "Mashhurlik"
+
+msgid "Impressions"
+msgstr "Ko'rinishlar"
+
+msgid "Engagement"
+msgstr "Faollik"
+
+msgid "Videos"
+msgstr "Videolar"
+
+msgid "# Hashtags"
+msgstr "# Xeshteglar"
+
+msgid "View Rate (6s)"
+msgstr "Ko'rish darajasi (6s)"
+
+msgid "Cost"
+msgstr "Narx"
+
+msgid "Avg. Time on Site"
+msgstr "Saytdagi o'rtacha vaqt"
+
+msgid "Visits"
+msgstr "Tashriflar"
+
+msgid "Unique Visitors"
+msgstr "Benzor tashrif buyuruvchilar"
+
+msgid "Top Pages"
+msgstr "Eng ko'p ko'rilgan sahifalar"
+
+msgid "Top Page Titles"
+msgstr "Eng ko'p ko'rilgan sahifa sarlavhalari"
+
+msgid "Cities"
+msgstr "Shaharlar"
+
+msgid "Countries"
+msgstr "Mamlakatlar"
+
+msgid "Exit Pages"
+msgstr "Chiqish sahifalari"
+
+msgid "Entry Pages"
+msgstr "Kirish sahifalari"
+
+msgid "Real-time Visits"
+msgstr "Real vaqtda tashriflar"
+
+msgid "Bounce Rate"
+msgstr "Qaytish darajasi"
+
+msgid "Today"
+msgstr "Bugun"
+
+msgid "Yesterday"
+msgstr "Kecha"
+
+msgid "Last 7 Days"
+msgstr "Oxirgi 7 kun"
+
+msgid "Last 30 Days"
+msgstr "Oxirgi 30 kun"
+
+msgid "First Contentful Paint"
+msgstr "Birinchi Kontent Bo'yash"
+
+msgid "Total Size"
+msgstr "Jami Hajm"
+
+msgid "Requests"
+msgstr "So'rovlar"
+
+msgid "Page Load"
+msgstr "Sahifa Yuklash"
+
+msgid "Last updated: %s"
+msgstr "Oxirgi yangilanish: %s"
+
+msgid "Live"
+msgstr "Jonli"
+
+msgid "Quick Insights"
+msgstr "Tezkor Tushunchalar"
+
+msgid "Config"
+msgstr "Konfiguratsiya"
+
+msgid "Total Vulnerabilities"
+msgstr "Jami Zaifliklar"
+
+msgid "CVSS Score:"
+msgstr "CVSS Ball:"
+
+msgid "Published:"
+msgstr "Nashr qilingan:"
+
+msgid "Last Modified:"
+msgstr "Oxirgi o'zgartirilgan:"
+
+msgid "References:"
+msgstr "Ma'lumotnomalar:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "View All Vulnerabilities"
+msgstr "Barcha Zaifliklarni Ko'rish"
+
+msgid "Your WordPress core is secure!"
+msgstr "Sizning WordPress yadrosi xavfsiz!"
+
+msgid "CRITICAL"
+msgstr "MUHIM"
+
+msgid "HIGH"
+msgstr "YUQORI"
+
+msgid "MEDIUM"
+msgstr "O'RTA"
+
+msgid "LOW"
+msgstr "PAST"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "Harakat tavsiya etiladi. Iltimos, ta'sirlangan elementlarni ko'rib chiqing va yangilang."
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "Barcha plaginlar, temalar va WordPress yadrosi xavfsiz va yangilangan."
+
+msgid "High severity vulnerabilities found"
+msgstr "Yuqori darajadagi zaifliklar topildi"
+
+msgid "Last updated: Loading..."
+msgstr "Oxirgi yangilanish: Yuklanmoqda..."
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "Ko'rib chiqish tavsiya etiladi. Iloji bo'lsa, ta'sirlangan elementlarni kuzatib turing va yangilang."
+
+msgid "Some vulnerabilities found"
+msgstr "Ba'zi zaifliklar topildi"
+
+msgid "Trend Products TikTok"
+msgstr "Trend mahsulotlar TikTok"
+
+msgid "Your site is secure!"
+msgstr "Sizning saytingiz xavfsiz!"
+
+msgid "failed_to_load_insights_error"
+msgstr "Tahlil ma'lumotlarini yuklashda xatolik"
+
+msgid "failed_to_refetch"
+msgstr "Qayta olish muvaffaqiyatsiz"
+
+msgid "no_category"
+msgstr "Kategoriya yo'q"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "SEO optimallashtirishlar qayta ishlanmoqda: Kalit so'z, SEO Sarlavha, SEO Tavsif, Meta Tavsif, Teglar, Yoast SEO Sarlavha va Sarlavhalar"
+
+msgid "Search themes..."
+msgstr "Temalarni qidirish..."
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+
+msgid "AUTHOR"
+msgstr "MUALLIF"
+
+msgid "Across all plugins, themes & core"
+msgstr "Barcha plaginlar, temalar va yadro bo'ylab"
+
+msgid "Address as soon as possible"
+msgstr "Iloji boricha tezroq hal qiling"
+
+msgid "All Security Issues"
+msgstr "Barcha Xavfsizlik Muammolari"
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "WordPress o'rnatilishingizni xavfsizlik zaifliklari uchun tahlil qilish"
+
+msgid "Attention required"
+msgstr "E'tibor talab qilinadi"
+
+msgid "Component Type"
+msgstr "Komponent Turi"
+
+msgid "Core"
+msgstr "Yadro"
+
+msgid "Core WordPress files"
+msgstr "Asosiy WordPress fayllari"
+
+msgid "Critical"
+msgstr "Kritik"
+
+msgid "Critical Severity"
+msgstr "Kritik Jiddiylik"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "Kritik zaifliklar aniqlandi!"
+
+msgid "Date"
+msgstr "Sana"
+
+msgid "Delete FAQ"
+msgstr "FAQ ni o'chirish"
+
+msgid "Filter by:"
+msgstr "Filtr:"
+
+msgid "High"
+msgstr "Yuqori"
+
+msgid "High Severity"
+msgstr "Yuqori Jiddiylik"
+
+msgid "High severity vulnerabilities detected"
+msgstr "Yuqori jiddiylikdagi zaifliklar aniqlandi"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "Zudlik bilan harakat talab qilinadi. Iltimos, ta'sirlangan elementlarni iloji boricha tezroq yangilang yoki olib tashlang."
+
+msgid "Items Requiring Attention"
+msgstr "E'tibor Talab Qiladigan Elementlar"
+
+msgid "Items without vulnerabilities"
+msgstr "Zaifliklarsiz elementlar"
+
+msgid "Low"
+msgstr "Past"
+
+msgid "Low Severity"
+msgstr "Past Jiddiylik"
+
+msgid "Low severity vulnerabilities detected"
+msgstr "Past jiddiylikdagi zaifliklar aniqlandi"
+
+msgid "Medium"
+msgstr "O'rta"
+
+msgid "Medium Severity"
+msgstr "O'rta Jiddiylik"
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "O'rta jiddiylikdagi zaifliklar aniqlandi"
+
+msgid "Monitor & track"
+msgstr "Kuzatish va kuzatish"
+
+msgid "Monitor and plan fix"
+msgstr "Kuzatish va tuzatishni rejalashtirish"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "Ushbu muammolarni kuzatib turing va qulay bo'lganda tuzatishlarni rejalashtiring."
+
+msgid "Next →"
+msgstr "Keyingi →"
+
+msgid "No items at risk"
+msgstr "Xavf ostidagi elementlar yo'q"
+
+msgid "No known vulnerabilities detected"
+msgstr "Ma'lum zaifliklar aniqlanmadi"
+
+msgid "No plugins found"
+msgstr "Plaginlar topilmadi"
+
+msgid "No recent vulnerabilities"
+msgstr "Yaqinda zaifliklar yo'q"
+
+msgid "No themes found"
+msgstr "Temalar topilmadi"
+
+msgid "No vulnerabilities found"
+msgstr "Zaifliklar topilmadi"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "Plaginlarda zaifliklar topilmadi"
+
+msgid "No vulnerabilities found in themes"
+msgstr "Temalarda zaifliklar topilmadi"
+
+msgid "Number of Vulnerabilities"
+msgstr "Zaifliklar Soni"
+
+msgid "Plan to address"
+msgstr "Hal qilish rejasi"
+
+msgid "Please review and address these issues soon."
+msgstr "Iltimos, ushbu muammolarni tez orada ko'rib chiqing va hal qiling."
+
+msgid "REQUIRES PHP"
+msgstr "PHP TALAB QILADI"
+
+msgid "REQUIRES WP"
+msgstr "WP TALAB QILADI"
+
+msgid "Read less"
+msgstr "Kamroq o'qish"
+
+msgid "Recent Vulnerabilities"
+msgstr "Yaqindagi Zaifliklar"
+
+msgid "Refunded"
+msgstr "Qaytarilgan"
+
+msgid "Requires immediate action"
+msgstr "Zudlik bilan harakat talab qilinadi"
+
+msgid "Requires immediate attention"
+msgstr "Zudlik bilan e'tibor talab qilinadi"
+
+msgid "Scanning..."
+msgstr "Skanerlash..."
+
+msgid "Schedule for review"
+msgstr "Ko'rib chiqish uchun rejalashtirish"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "Ushbu muammolarni ko'rib chiqish va tuzatish uchun vaqt belgilang."
+
+msgid "Secure Items"
+msgstr "Xavfsiz Elementlar"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "WordPress versiyasida xavfsizlik zaifliklari aniqlandi. Eng so'nggi versiyaga yangilash tavsiya etiladi."
+
+msgid "Should be fixed soon"
+msgstr "Tez orada tuzatilishi kerak"
+
+msgid "Third-party plugins installed"
+msgstr "Uchinchi tomon plaginlari o'rnatilgan"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "Filtrlaringizni yoki qidiruv so'zlarini sozlashga harakat qiling"
+
+msgid "Unknown Plugin"
+msgstr "Noma'lum Plagin"
+
+msgid "Unknown Theme"
+msgstr "Noma'lum Tema"
+
+msgid "VERSION"
+msgstr "VERSIYA"
+
+msgid "View Page"
+msgstr "Sahifani Ko'rish"
+
+msgid "Vortem Logo"
+msgstr "Vortem Logotipi"
+
+msgid "Vulnerabilities by Type"
+msgstr "Tur bo'yicha Zaifliklar"
+
+msgid "Vulnerability"
+msgstr "Zaiflik"
+
+msgid "Vulnerability Details"
+msgstr "Zaiflik Tafsilotlari"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "Jiddiylik bo'yicha Zaifliklar Taqsimoti"
+
+msgid "WordPress Vulnerability"
+msgstr "WordPress Zaifligi"
+
+msgid "WordPress themes"
+msgstr "WordPress temalari"
+
+msgid "Your WP Core is Secure"
+msgstr "Sizning WP Yadrosi Xavfsiz"
+
+msgid "Your plugins are secure!"
+msgstr "Sizning plaginlaringiz xavfsiz!"
+
+msgid "Your site is secure"
+msgstr "Sizning saytingiz xavfsiz"
+
+msgid "Your themes are secure!"
+msgstr "Sizning temalaringiz xavfsiz!"
+
+msgid "answer:"
+msgstr "Javob:"
+
+msgid "bulk_faqs_created"
+msgstr "%d FAQ muvaffaqiyatli yaratildi"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "FAQ yaratishda xatolik. Iltimos, qayta urinib ko'ring."
+
+msgid "faq"
+msgstr "FAQ"
+
+msgid "no_faqs_to_create"
+msgstr "Iltimos, yaratishdan oldin kamida bitta FAQ qo'shing."
+
+msgid "of all vulnerabilities"
+msgstr "barcha zaifliklardan"
+
+msgid "of installed items affected"
+msgstr "o'rnatilgan elementlar ta'sirlangan"
+
+msgid "of items are clean"
+msgstr "elementlar toza"
+
+msgid "of total"
+msgstr "jami"
+
+msgid "question:"
+msgstr "Savol:"
+
+msgid "remove"
+msgstr "O'chirish"
+
+msgid "vulnerabilities"
+msgstr "zaifliklar"
+
+msgid "vulnerabilities found"
+msgstr "zaifliklar topildi"
+
+msgid "← Previous"
+msgstr "← Oldingi"
+
+msgid "Filter by Severity:"
+msgstr "Jiddiylik bo'yicha filtrlash:"
+
+msgid "All Severities"
+msgstr "Barcha jiddiylik darajalari"
+
+msgid "Let's Get You Started"
+msgstr "Keling, boshlaymiz"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "Sozlashni taxminan 2 daqiqada yakunlang"
+
+msgid "Quick Setup"
+msgstr "Tezkor sozlash"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "Bizning yo'riqnoma o'rnatish jarayonimiz bilan daqiqalar ichida ishga tushiring"
+
+msgid "Secure & Reliable"
+msgstr "Xavfsiz va ishonchli"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "Har bir komponentga o'rnatilgan korporativ darajadagi xavfsizlik"
+
+msgid "Optimized Performance"
+msgstr "Optimallashtirilgan ishlash"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "Juda tez va WordPress muhitlari uchun optimallashtirilgan"
+
+msgid "Next Step"
+msgstr "Keyingi qadam"
+
+msgid "Initial Configuration"
+msgstr "Boshlang'ich sozlash"
+
+msgid "Set your default language and currency preferences"
+msgstr "Standart til va valyuta sozlamalarini o'rnating"
+
+msgid "Please review and accept our terms to continue"
+msgstr "Davom etish uchun iltimos, shartlarimizni ko'rib chiqing va qabul qiling"
+
+msgid "1. Service Availability"
+msgstr "1. Xizmat mavjudligi"
+
+msgid "2. Support"
+msgstr "2. Qo'llab-quvvatlash"
+
+msgid "3. Updates"
+msgstr "3. Yangilanishlar"
+
+msgid "I accept the Terms & Conditions"
+msgstr "Men Shartlar va shartlarni qabul qilaman"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "Ushbu katakchani belgilash orqali siz bu shartlarni o'qiganingizni va ularga bo'ysunishga roziligingizni tasdiqlaysiz."
+
+msgid "Installation Complete!"
+msgstr "O'rnatish yakunlandi!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "Plaginingiz muvaffaqiyatli sozlandi va foydalanishga tayyor. Endi barcha funksiyalardan foydalanishni boshlashingiz mumkin."
+
+msgid "Configuration Summary"
+msgstr "Sozlash xulosasi"
+
+msgid "Language:"
+msgstr "Til:"
+
+msgid "Currency:"
+msgstr "Valyuta:"
+
+msgid "Terms Accepted:"
+msgstr "Shartlar qabul qilindi:"
+
+msgid "Yes"
+msgstr "Ha"
+
+msgid "Go to Dashboard"
+msgstr "Boshqaruv paneliga o'ting"
+
+msgid "Go to Analytics page"
+msgstr "Tahlil sahifasiga o'ting"
+
+msgid "Go to Products page"
+msgstr "Mahsulotlar sahifasiga o'ting"
+
+msgid "Go to Matomo Analytics page"
+msgstr "Matomo Analytics sahifasiga o'ting"
+
+msgid "Restart Wizard"
+msgstr "Yordamchini qayta ishga tushiring"
+
+msgid "Restart"
+msgstr "Qayta ishga tushirish"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "Bu sozlash jarayonini qayta tiklaydi. Ishonchingiz komilmi?"
+
+msgid "Confirm Restart"
+msgstr "Qayta ishga tushirishni tasdiqlash"
+
+msgid "Back"
+msgstr "Orqaga"
+
+msgid "Welcome"
+msgstr "Xush kelibsiz"
+
+msgid "Configuration"
+msgstr "Sozlash"
+
+msgid "Complete"
+msgstr "Yakunlandi"
+
+msgid "Insufficient permissions"
+msgstr "Yetarli ruxsat yo'q"
+
+msgid "Language parameter is required"
+msgstr "Til parametri talab qilinadi"
+
+msgid "Translation manager not available"
+msgstr "Tarjima menejeri mavjud emas"
+
+msgid "Unsupported language"
+msgstr "Qo'llab-quvvatlanmaydigan til"
+
+msgid "Language changed successfully"
+msgstr "Til muvaffaqiyatli o'zgartirildi"
+
+msgid "Failed to change language"
+msgstr "Tilni o'zgartirish muvaffaqiyatsiz"
+
+msgid "Currency parameter is required"
+msgstr "Valyuta parametri talab qilinadi"
+
+msgid "Unsupported currency"
+msgstr "Qo'llab-quvvatlanmaydigan valyuta"
+
+msgid "Currency changed successfully"
+msgstr "Valyuta muvaffaqiyatli o'zgartirildi"
+
+msgid "Loading"
+msgstr "Yuklanmoqda"
+
+msgid "Search..."
+msgstr "Qidirish..."
+
+msgid "Search Language"
+msgstr "Tilni qidirish"
+
+msgid "No languages found"
+msgstr "Tillar topilmadi"
+
+msgid "No currencies found"
+msgstr "Valyutalar topilmadi"
+
+msgid "Failed to load currencies"
+msgstr "Valyutalarni yuklash muvaffaqiyatsiz"
+
+msgid "Error loading currencies"
+msgstr "Valyutalarni yuklashda xatolik"
+
+msgid "Failed to restart wizard"
+msgstr "Sehrgar ni qayta ishga tushirish muvaffaqiyatsiz"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "Sehrgar ni qayta ishga tushirishda xatolik yuz berdi. Iltimos, qayta urinib ko'ring."
+
+msgid "Please complete the current step before proceeding."
+msgstr "Iltimos, davom etishdan oldin joriy bosqichni yakunlang."
+
+msgid "Please wait for authentication to complete."
+msgstr "Iltimos, autentifikatsiya yakunlanguncha kuting."
+
+msgid "Please accept the terms and conditions."
+msgstr "Iltimos, shartlar va qoidalarni qabul qiling."
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "Iltimos, davom etishdan oldin shartlar va qoidalarni qabul qiling."
+
+msgid "Please complete authentication first."
+msgstr "Iltimos, avval autentifikatsiyani yakunlang."
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "Iltimos, sozlashni yakunlashdan oldin shartlar va qoidalarni qabul qiling."
+
+msgid "Failed to complete setup"
+msgstr "Sozlashni yakunlash muvaffaqiyatsiz"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "Sozlashni yakunlashda xatolik yuz berdi. Iltimos, qayta urinib ko'ring."
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "Sessiya tokeni topilmadi. Iltimos, avval autentifikatsiyani yakunlang."
+
+msgid "An error occurred while switching language"
+msgstr "Tilni o'zgartirishda xatolik yuz berdi"
+
+msgid "An error occurred while switching currency"
+msgstr "Valyutani o'zgartirishda xatolik yuz berdi"
+
+msgid "Last updated: %1$s • Live"
+msgstr "Oxirgi yangilanish: %1$s • Jonli"
+
+msgid "Last 30 days"
+msgstr "Oxirgi 30 kun"
+
+msgid "Traffic Overview"
+msgstr "Trafik bo'yicha umumiy ko'rinish"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "Matomo tahlili – oxirgi 30 kun"
+
+msgid "Today's Focus"
+msgstr "Bugungi fokus"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "Vortem.ai plagini bo'yicha ko'rinish"
+
+msgid "Read More"
+msgstr "Batafsil o'qish"
+
+msgid "Check your dashboard regularly"
+msgstr "Boshqaruv panelini muntazam tekshiring"
+
+msgid "View Analytics"
+msgstr "Tahlilni ko'rish"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem 2026 yilning eng yaxshi AI platformasi sifatida tan olingan"
+
+msgid "Order Statistics"
+msgstr "Buyurtma statistikasi"
+
+msgid "Today's Orders Completed"
+msgstr "Bugun bajarilgan buyurtmalar"
+
+msgid "Total Orders Completed"
+msgstr "Jami bajarilgan buyurtmalar"
+
+msgid "Imported Products"
+msgstr "Import qilingan mahsulotlar"
+
+msgid "Recent Activity"
+msgstr "So'nggi faoliyat"
+
+msgid "Overview dashboard loaded"
+msgstr "Umumiy ko'rinish paneli yuklandi"
+
+msgid "Just now"
+msgstr "Hozir"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "Siz bu yerdan mahsulotlar, tahlil va email marketingni boshqarishingiz mumkin"
+
+msgid "Ready"
+msgstr "Tayyor"
+
+msgid "Configure plugin settings and API keys"
+msgstr "Plagin sozlamalari va API kalitlarini sozlang"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "Vortem.ai plugini tayyor. Siz bu yerdan mahsulotlar, tahlil va email marketingni boshqarishingiz mumkin."
+
+msgid "Vortem.ai official website"
+msgstr "Vortem.ai rasmiy veb-sayti"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "Navigatsiya qiling, o'rganing va hisobingizni boshqaring"
+
+msgid "Quick Access"
+msgstr "Tez kirish"
+
+msgid "Return to dashboard home"
+msgstr "Boshqaruv paneli bosh sahifasiga qaytish"
+
+msgid "Go to Home"
+msgstr "Bosh sahifaga"
+
+msgid "Profile, settings, and preferences"
+msgstr "Profil, sozlamalar va imtiyozlar"
+
+msgid "Help & Learning"
+msgstr "Yordam va o'rganish"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "Yordam oling, chipta yuboring yoki qo'llab-quvvatlash bilan bog'laning"
+
+msgid "Get Support"
+msgstr "Qo'llab-quvvatlash olish"
+
+msgid "Developer & user guides"
+msgstr "Dasturchilar va foydalanuvchilar uchun qo'llanmalar"
+
+msgid "Read Docs"
+msgstr "Hujjatlarni o'qish"
+
+msgid "Legal & Policies"
+msgstr "Huquqiy va siyosatlar"
+
+msgid "Terms of Service"
+msgstr "Xizmat shartlari"
+
+msgid "Usage terms and conditions"
+msgstr "Foydalanish shartlari"
+
+msgid "View"
+msgstr "Ko'rish"
+
+msgid "Privacy Policy"
+msgstr "Maxfiylik siyosati"
+
+msgid "Data protection and privacy"
+msgstr "Ma'lumotlarni himoya qilish va maxfiylik"
+
+msgid "Navigation to vortem wordpress"
+msgstr "Vortem WordPress ga navigatsiya"
+
+msgid "Access key features and settings"
+msgstr "Asosiy xususiyatlar va sozlamalarga kirish"
+
+msgid "Manage catalog and inventory"
+msgstr "Katalog va inventarni boshqarish"
+
+msgid "Business insights and metrics"
+msgstr "Biznes tahlillari va ko'rsatkichlar"
+
+msgid "Growth & Intelligence"
+msgstr "O'sish va intellekt"
+
+msgid "Campaigns and automation"
+msgstr "Kampaniyalar va avtomatlashtirish"
+
+msgid "AI-powered recommendations"
+msgstr "AI asosidagi tavsiyalar"
+
+msgid "Manage orders and shipments"
+msgstr "Buyurtmalar va jo'natmalarni boshqarish"
+
+msgid "System"
+msgstr "Tizim"
+
+msgid "Knowledge base editor"
+msgstr "Bilim bazasi muharriri"
+
+msgid "Access control and monitoring"
+msgstr "Kirish nazorati va monitoring"
+
+msgid "System configuration"
+msgstr "Tizim konfiguratsiyasi"
+
+msgid "Emails Sent"
+msgstr "Yuborilgan emaillar"
+
+msgid "Orders"
+msgstr "Buyurtmalar"
+
+msgid "Total products"
+msgstr "Jami mahsulotlar"
+
+msgid "Imported via plugin"
+msgstr "Plagin orqali import qilingan"
+
+msgid "Other products"
+msgstr "Boshqa mahsulotlar"
+
+msgid "Manage"
+msgstr "Boshqarish"
+
+msgid "bounce"
+msgstr "qaytish"
+
+
+msgid "Dashboard"
+msgstr "Boshqaruv paneli"
+
+msgid "Plugin"
+msgstr "Plagin"
+
+msgid "External"
+msgstr "Tashqi"
+
+msgid "Navigation to vortem WordPress"
+msgstr "vortem WordPress ga navigatsiya"
+
+msgid "Commerce"
+msgstr "Tijorat"
+
+msgid "Timeline"
+msgstr "Vaqt jadvali"
+
+msgid "Security Center"
+msgstr "Xavfsizlik markazi"
+
+msgid "Display"
+msgstr "Ko'rinish"
+
+msgid "How products and currency are presented in your store."
+msgstr "Mahsulotlar va valyuta do'koningizda qanday ko'rsatiladi."
+
+msgid "Products per page"
+msgstr "Sahifadagi mahsulotlar"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "Standart: 16. Diapazon: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "Plagin narxlarida ishlatiladigan valyuta. Tanlovingizni saqlash uchun \"Yangilash\" tugmasini bosing."
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Control how product videos are imported and attached."
+msgstr "Mahsulot videolarining qanday import qilinishi va biriktirilishini boshqaring."
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "Yoqilganda, mahsulot videolari avtomatik ravishda tavsifga qo'shiladi. Videolarni qo'lda boshqarish uchun o'chiring."
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "O'chirilganda, Vortem Clothes, Vortem Cosmetic va xstore mavzulari uchun videolar yuklab olinmaydi — saqlash joyini tejaydi."
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "Vortem va xstore mavzulari uchun videolarni yuklab oling"
+
+msgid "Integrations"
+msgstr "Integratsiyalar"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "Manba va bajarish doirasini kengaytirish uchun tashqi hisoblarni ulang."
+
+msgid "Update"
+msgstr "Yangilash"
+
+msgid "Last updated"
+msgstr "Oxirgi yangilanish"
+
+msgid "Setup"
+msgstr "Sozlash"
+
+msgid "Let's get you started"
+msgstr "Keling, boshlaylik"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "Taxminan 2 daqiqada sozlashni yakunlang."
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "Vortem mahsulot import funksiyalari AliExpress hisobini talab qiladi."
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "Uni keyinroq Sozlamalar → Vortem → AliExpress integratsiyasi orqali ulaysiz. Hisob yo‘qmi? U yerdan ham ro‘yxatdan o‘tishingiz mumkin."
+
+msgid "Up and running in minutes."
+msgstr "Bir necha daqiqada ishga tayyor."
+
+msgid "Built with WordPress security best practices."
+msgstr "WordPress xavfsizligi eng yaxshi amaliyotlariga muvofiq qurilgan."
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "Yengil va WordPress uchun sozlangan."
+
+msgid "Store basics"
+msgstr "Do‘kon asoslari"
+
+msgid "Pick your store currency"
+msgstr "Do‘kon valyutasini tanlang"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "Mijozlar to‘lovda shuni ko‘radi. Keyinroq o‘zgartirish mumkin."
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "Mahsulot kartalari, savat va to‘lovda ishlatiladi."
+
+msgid "Almost there"
+msgstr "Deyarli tugadi"
+
+msgid "Review and accept"
+msgstr "Ko‘rib chiqing va qabul qiling"
+
+msgid "Read the full Terms"
+msgstr "To‘liq shartlarni o‘qing"
+
+msgid "You agree to be bound by these terms."
+msgstr "Siz ushbu shartlarga rioya qilishga rozilik bildirasiz."
+
+msgid "I consent to data processing"
+msgstr "Ma’lumotlarni qayta ishlashga roziman"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "Men tushunaman va roziman: ushbu plagin saytim ma’lumotlarini (sayt URL, WordPress versiyasi, plagin versiyasi, valyuta afzalligi, importda WooCommerce mahsulot ma’lumotlari, buyurtmalarni qayta ishlashda yetkazib berish ma’lumotlari va xavfsizlik funksiyalaridan foydalanishda plagin/tema metama’lumotlari) qayta ishlash, tahlil va xizmat ko‘rsatish uchun vortem.ai serverlariga (https://c.vortem.ai) yuboradi. Aniq roziligingizdan oldin ma’lumot yuborilmaydi, rad etsangiz ham plagin ishlaydi (vortem.ai ga bog‘liq funksiyalar mavjud bo‘lmaydi). O‘rnatilgan plagin/temalar ro‘yxatini zaiflik qidirish uchun yuborish Wordfence, Patchstack, WPScan va Jetpack Protect bilan bir xil namunani kuzatadi."
+
+msgid "All done"
+msgstr "Tugadi"
+
+msgid "You're all set!"
+msgstr "Hammasi tayyor!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem sozlangan va tayyor. Tayyor bo‘lganingizda Sozlamalardan AliExpressni ulang."
+
+msgid "Accepted"
+msgstr "Qabul qilindi"
+
+msgid "Consented"
+msgstr "Rozilik berildi"
+
+msgid "Data processing"
+msgstr "Ma’lumotlarni qayta ishlash"
+
+msgid "Meta Title"
+msgstr "Meta sarlavha"
+
+msgid "Order"
+msgstr "Buyurtma"
+
+msgid "Customer"
+msgstr "Mijoz"
+
+msgid "Items"
+msgstr "Elementlar"
+
+msgid "Payment"
+msgstr "To‘lov"

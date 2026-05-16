@@ -1,0 +1,2991 @@
+# Translation of Vortem AI in fa_IR
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "نیاز به نصب و فعال‌سازی WooCommerce دارد."
+
+msgid "or higher. You are running version"
+msgstr "یا بالاتر. شما در حال اجرای نسخه"
+
+msgid "Welcome to vortem.ai!"
+msgstr "به vortem.ai خوش آمدید!"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "راهنمای راه‌اندازی Vortem.ai"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "از انتخاب افزونه vortem.ai سپاسگزاریم. این راهنما به شما کمک می‌کند تا فروشگاه خود را سریع و آسان راه‌اندازی کنید."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "برای استفاده از خدمات فروش محصول Vortem، به یک حساب AliExpress نیاز دارید. می‌توانید حساب خود را از تنظیمات → ورود Vortem → یکپارچه‌سازی AliExpress متصل کنید. اگر حساب ندارید، می‌توانید مستقیماً از آنجا ثبت نام کنید."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "برای استفاده از خدمات فروش محصول Vortem، به یک حساب AliExpress نیاز دارید."
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "می‌توانید حساب خود را از تنظیمات → ورود Vortem → یکپارچه‌سازی AliExpress متصل کنید."
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "اگر حساب ندارید، می‌توانید مستقیماً از آنجا ثبت نام کنید."
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "راه‌اندازی حدود ۲-۳ دقیقه طول می‌کشد."
+
+msgid "Select Language"
+msgstr "انتخاب زبان"
+
+msgid "Select Currency"
+msgstr "انتخاب ارز"
+
+msgid "Complete Setup"
+msgstr "تکمیل راه‌اندازی"
+
+msgid "What you'll get:"
+msgstr "آنچه دریافت خواهید کرد:"
+
+msgid "Automated product synchronization"
+msgstr "همگام‌سازی خودکار محصولات"
+
+msgid "Order management and processing"
+msgstr "مدیریت و پردازش سفارشات"
+
+msgid "Real-time inventory updates"
+msgstr "به‌روزرسانی موجودی به‌صورت لحظه‌ای"
+
+msgid "Easy-to-use admin interface"
+msgstr "رابط مدیریتی آسان"
+
+msgid "24/7 customer support"
+msgstr "پشتیبانی مشتری ۲۴/۷"
+
+msgid "Contact Support"
+msgstr "تماس با پشتیبانی"
+
+msgid "Import Products"
+msgstr "وارد کردن محصولات"
+
+msgid "Configure Settings"
+msgstr "پیکربندی تنظیمات"
+
+msgid "Setup Complete!"
+msgstr "راه‌اندازی تکمیل شد!"
+
+msgid "Terms & Conditions"
+msgstr "شرایط و ضوابط"
+
+msgid "1. License Agreement"
+msgstr "1. قرارداد مجوز"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "با استفاده از این افزونه، شما موافقت می‌کنید که از تمام قوانین و مقررات قابل اجرا پیروی کنید. این افزونه تحت مجوز GPL v2 یا بالاتر ارائه می‌شود."
+
+msgid "Sign up"
+msgstr "ثبت نام"
+
+msgid "Sign up to get started"
+msgstr "برای شروع ثبت نام کنید"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "تبریک! افزونه vortem.ai شما با موفقیت پیکربندی شد."
+
+msgid "What's next?"
+msgstr "مرحله بعدی چیست؟"
+
+msgid "Need Help?"
+msgstr "نیاز به کمک دارید؟"
+
+msgid "Our support team is here to help you get started."
+msgstr "تیم پشتیبانی ما اینجاست تا به شما کمک کند شروع کنید."
+
+msgid "Step %1$d of %2$d"
+msgstr "مرحله %1$d از %2$d"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "من %1$sشرایط و ضوابط%2$s را خوانده‌ام و با آن موافقم"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "شرایط خدمات افزونه vortem.ai"
+
+msgid "1. authentication Agreement"
+msgstr "۱. توافق‌نامه مجوز"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "با استفاده از این افزونه، شما موافقت می‌کنید که از تمام قوانین و مقررات قابل اجرا پیروی کنید. این افزونه تحت مجوز GPL v2 یا بالاتر ارائه می‌شود."
+
+msgid "2. Data Usage"
+msgstr "۲. استفاده از داده‌ها"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "ما داده‌های لازم برای عملیات سرویس دراپ‌شیپینگ، از جمله اطلاعات محصول، جزئیات سفارش و داده‌های مشتری را جمع‌آوری و پردازش می‌کنیم. تمام داده‌ها مطابق با سیاست حفظ حریم خصوصی ما مدیریت می‌شوند."
+
+msgid "3. Service Availability"
+msgstr "۳. دسترس‌پذیری سرویس"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "در حالی که ما تلاش می‌کنیم دسترسی بالا به سرویس را حفظ کنیم، نمی‌توانیم خدمات بدون وقفه را تضمین کنیم. ما حق انجام تعمیر و نگهداری و به‌روزرسانی‌ها را در صورت نیاز برای خود محفوظ می‌داریم."
+
+msgid "4. Support"
+msgstr "۴. پشتیبانی"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "پشتیبانی فنی از طریق کانال‌های پشتیبانی ما ارائه می‌شود. زمان پاسخگویی ممکن است بر اساس پیچیدگی موضوع متفاوت باشد."
+
+msgid "5. Updates"
+msgstr "۵. به‌روزرسانی‌ها"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "به‌روزرسانی‌های افزونه برای بهبود عملکرد و امنیت ارائه می‌شوند. توصیه می‌شود افزونه را به آخرین نسخه به‌روز نگه دارید."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "برای فعال‌سازی افزونه و دسترسی به تمام ویژگی‌ها، کلید لایسنس Vortem.ai خود را وارد کنید."
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "می‌توانید کلید لایسنس خود را در پیشخوان حساب کاربری Vortem.ai خود پیدا کنید."
+
+msgid "Need help?"
+msgstr "کمک نیاز دارید؟"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "برای پیکربندی احراز هویت و شروع کار، راهنمای راه‌اندازی را تکمیل کنید."
+
+msgid "Vortem.ai Overview"
+msgstr "نمای کلی Vortem.ai"
+
+msgid "Vortem.ai Products"
+msgstr "محصولات Vortem.ai"
+
+msgid "Vortem.ai Settings"
+msgstr "تنظیمات Vortem.ai"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "تنظیمات Vortem.ai خود را در زیر پیکربندی کنید."
+
+msgid "Saving settings and validating authentication..."
+msgstr "در حال ذخیره تنظیمات و اعتبارسنجی لایسنس..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "راه‌اندازی کامل شد - افزونه Vortem.ai شما آماده استفاده است!"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "زبان رابط کاربری افزونه را انتخاب کنید. تغییرات پس از ذخیره اعمال می‌شوند."
+
+msgid "Vortem.ai AI Resources"
+msgstr "منابع هوش مصنوعی Vortem.ai"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "دسترسی به حساب و منابع هوش مصنوعی Vortem.ai"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "دسترسی به حساب و منابع هوش مصنوعی Vortem.ai:"
+
+msgid "Home"
+msgstr "خانه"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "بازدید از صفحه اصلی هوش مصنوعی Vortem.ai"
+
+msgid "Visit Site"
+msgstr "مشاهده سایت"
+
+msgid "My Account"
+msgstr "حساب من"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "مدیریت تنظیمات حساب هوش مصنوعی Vortem.ai"
+
+msgid "Support"
+msgstr "پشتیبانی"
+
+msgid "Get help and support from our team"
+msgstr "دریافت کمک و پشتیبانی از تیم ما"
+
+msgid "Documentation"
+msgstr "مستندات"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "خواندن راهنماها و آموزش‌های جامع"
+
+msgid "Terms"
+msgstr "شرایط"
+
+msgid "Review terms and conditions"
+msgstr "مرور شرایط و ضوابط"
+
+msgid "Privacy"
+msgstr "حریم خصوصی"
+
+msgid "View our privacy policy"
+msgstr "مشاهده سیاست حریم خصوصی ما"
+
+msgid "error"
+msgstr "خطا"
+
+msgid "success"
+msgstr "موفقیت"
+
+msgid "cancel"
+msgstr "لغو"
+
+msgid "delete"
+msgstr "حذف"
+
+msgid "deleting"
+msgstr "در حال حذف..."
+
+msgid "edit"
+msgstr "ویرایش"
+
+msgid "close"
+msgstr "بستن"
+
+msgid "confirm"
+msgstr "تایید"
+
+msgid "refresh"
+msgstr "تازه سازی"
+
+msgid "import"
+msgstr "درون‌ریزی"
+
+msgid "actions"
+msgstr "عملیات"
+
+msgid "status"
+msgstr "وضعیت"
+
+msgid "date"
+msgstr "تاریخ"
+
+msgid "subject"
+msgstr "موضوع"
+
+msgid "recipient"
+msgstr "گیرنده"
+
+msgid "total"
+msgstr "مجموع"
+
+msgid "items"
+msgstr "آیتم‌ها"
+
+msgid "customer"
+msgstr "مشتری"
+
+msgid "order"
+msgstr "سفارش"
+
+msgid "payment"
+msgstr "پرداخت"
+
+msgid "active"
+msgstr "فعال"
+
+msgid "inactive"
+msgstr "غیرفعال"
+
+msgid "cards"
+msgstr "کارت‌ها"
+
+msgid "table"
+msgstr "جدول"
+
+msgid "select"
+msgstr "انتخاب"
+
+msgid "sent"
+msgstr "ارسال شده"
+
+msgid "left"
+msgstr "باقی‌مانده"
+
+msgid "resets"
+msgstr "بازنشانی می‌شود"
+
+msgid "view_more"
+msgstr "مشاهده بیشتر"
+
+msgid "performance"
+msgstr "عملکرد"
+
+msgid "insights"
+msgstr "بینش‌ها"
+
+msgid "metrics"
+msgstr "متریک‌ها"
+
+msgid "device"
+msgstr "دستگاه"
+
+msgid "locale"
+msgstr "منطقه"
+
+msgid "channel"
+msgstr "کانال"
+
+msgid "desktop"
+msgstr "دسکتاپ"
+
+msgid "mobile"
+msgstr "موبایل"
+
+msgid "retry"
+msgstr "تلاش مجدد"
+
+msgid "failed"
+msgstr "ناموفق"
+
+msgid "support"
+msgstr "۴. پشتیبانی"
+
+msgid "documentation"
+msgstr "مستندات"
+
+msgid "are_you_sure"
+msgstr "آیا مطمئن هستید؟"
+
+msgid "clear"
+msgstr "پاک کردن"
+
+msgid "preview"
+msgstr "پیش‌نمایش"
+
+msgid "send_email"
+msgstr "ارسال ایمیل"
+
+msgid "recipients"
+msgstr "گیرندگان"
+
+msgid "question"
+msgstr "سوال"
+
+msgid "question:"
+msgstr "سوال:"
+
+msgid "answer"
+msgstr "پاسخ"
+
+msgid "answer:"
+msgstr "پاسخ:"
+
+msgid "category:"
+msgstr "دسته‌بندی:"
+
+msgid "category"
+msgstr "دسته‌بندی:"
+
+msgid "no_category"
+msgstr "بدون دسته‌بندی"
+
+msgid "showing"
+msgstr "در حال نمایش"
+
+msgid "faqs"
+msgstr "سؤالات متداول"
+
+msgid "all_categories"
+msgstr "همه دسته‌ها"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "چگونه می‌خواهید سوالات متداول را ایجاد کنید؟"
+
+msgid "Single FAQ"
+msgstr "سوال متداول تکی"
+
+msgid "Bulk FAQs"
+msgstr "سوالات متداول دسته‌ای"
+
+msgid "no_faqs_added_yet"
+msgstr "هنوز سوالی اضافه نشده است. اولین سوال خود را در سمت چپ اضافه کنید."
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "هنوز سوالی اضافه نشده است. اولین سوال خود را در سمت چپ اضافه کنید."
+
+msgid "Added FAQs"
+msgstr "سوالات اضافه شده"
+
+msgid "faq"
+msgstr "سوال متداول"
+
+msgid "remove"
+msgstr "حذف"
+
+msgid "no_faqs_to_create"
+msgstr "لطفاً قبل از ایجاد، حداقل یک سوال اضافه کنید."
+
+msgid "bulk_faqs_created"
+msgstr "%d سوال متداول با موفقیت ایجاد شد"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "ایجاد سوالات متداول ناموفق بود. لطفاً دوباره تلاش کنید."
+
+msgid "created"
+msgstr "ایجاد شده"
+
+msgid "search_faqs"
+msgstr "جستجوی سوالات متداول..."
+
+msgid "update_faq"
+msgstr "به‌روزرسانی سوال متداول"
+
+msgid "category_label"
+msgstr "دسته‌بندی *"
+
+msgid "select_existing_category_optional"
+msgstr "یک دسته‌بندی موجود را انتخاب کنید (اختیاری)"
+
+msgid "create_faq"
+msgstr "ایجاد سوال متداول"
+
+msgid "delete_faq"
+msgstr "حذف سوال متداول"
+
+msgid "delete_category"
+msgstr "حذف دسته‌بندی"
+
+msgid "delete_category_faqs_confirm"
+msgstr "آیا مطمئن هستید که می‌خواهید تمام سوالات متداول در دسته‌بندی \"%s\" را حذف کنید؟ این عمل قابل بازگشت نیست."
+
+msgid "category_faqs_deleted"
+msgstr "تمام سوالات متداول در دسته‌بندی \"%s\" حذف شدند."
+
+msgid "failed_to_delete_category_faqs"
+msgstr "حذف سوالات متداول این دسته‌بندی ناموفق بود. لطفاً دوباره تلاش کنید."
+
+msgid "category_id_not_found"
+msgstr "شناسه دسته‌بندی برای دسته‌بندی انتخاب شده یافت نشد."
+
+msgid "orders"
+msgstr "سفارش‌ها"
+
+msgid "last_updated"
+msgstr "آخرین به‌روزرسانی:"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "داشبورد تحلیل"
+
+msgid "Business Intelligence"
+msgstr "هوش تجاری"
+
+msgid "Analytics Hub"
+msgstr "مرکز تحلیل"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "تحلیل‌ها و بینش‌های جامع با قدرت هوش داده پیشرفته برای تصمیم‌گیری مبتنی بر داده"
+
+msgid "Performance Overview"
+msgstr "نمای کلی عملکرد"
+
+msgid "Key performance indicators at a glance"
+msgstr "شاخص‌های کلیدی عملکرد در یک نگاه"
+
+msgid "Analytics Insights"
+msgstr "بینش‌های تحلیلی"
+
+msgid "Deep dive into performance metrics"
+msgstr "بررسی عمیق متریک‌های عملکرد"
+
+msgid "Customer Intelligence"
+msgstr "هوش مشتری"
+
+msgid "Understand customer behavior and trends"
+msgstr "درک رفتار و روندهای مشتری"
+
+msgid "Market Analysis"
+msgstr "تحلیل بازار"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "مقایسه جامع بازار و بینش‌های دسته‌بندی"
+
+msgid "Data Intelligence"
+msgstr "هوش داده"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "جداول تحلیلی دقیق و بینش‌های قیمت‌گذاری"
+
+msgid "Product"
+msgstr "محصول"
+
+msgid "Products"
+msgstr "محصولات"
+
+msgid "Average"
+msgstr "میانگین"
+
+msgid "No products found"
+msgstr "هیچ محصولی یافت نشد"
+
+msgid "Close"
+msgstr "بستن"
+
+msgid "All KPI Products"
+msgstr "همه محصولات KPI"
+
+msgid "Top KPI Products"
+msgstr "محصولات برتر KPI"
+
+msgid "Product ID"
+msgstr "شناسه محصول"
+
+msgid "Product Title"
+msgstr "عنوان محصول"
+
+msgid "Base Price"
+msgstr "قیمت پایه"
+
+msgid "Low-Risk Price"
+msgstr "قیمت کم‌ریسک"
+
+msgid "Competitive Price"
+msgstr "قیمت رقابتی"
+
+msgid "High-Risk Price"
+msgstr "قیمت پرریسک"
+
+msgid "Untitled Product"
+msgstr "محصول بدون عنوان"
+
+msgid "All Trend Index Products"
+msgstr "همه محصولات شاخص روند"
+
+msgid "Trend Index by Product"
+msgstr "شاخص روند بر اساس محصول"
+
+msgid "Product Name"
+msgstr "نام محصول"
+
+msgid "Price vs Rating"
+msgstr "قیمت در مقابل امتیاز"
+
+msgid "Price"
+msgstr "قیمت"
+
+msgid "Rating"
+msgstr "امتیاز"
+
+msgid "Reviews"
+msgstr "نظرات"
+
+msgid "CTR"
+msgstr "نرخ کلیک (CTR)"
+
+msgid "CVR"
+msgstr "نرخ تبدیل (CVR)"
+
+msgid "Average Price"
+msgstr "میانگین قیمت"
+
+msgid "Average Rating"
+msgstr "میانگین امتیاز"
+
+msgid "Product Count"
+msgstr "تعداد محصول"
+
+msgid "Avg Price"
+msgstr "میانگین قیمت"
+
+msgid "Avg Rating"
+msgstr "میانگین امتیاز"
+
+msgid "Failed to load"
+msgstr "بارگذاری ناموفق"
+
+msgid "products"
+msgstr "محصولات"
+
+msgid "product"
+msgstr "محصول"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "شاخص روند"
+
+msgid "Profitability"
+msgstr "سودآوری"
+
+msgid "Competition"
+msgstr "رقابت"
+
+msgid "Demand Stability"
+msgstr "ثبات تقاضا"
+
+msgid "View All"
+msgstr "مشاهده همه"
+
+msgid "price rating data"
+msgstr "داده‌های قیمت و امتیاز"
+
+msgid "Total Reviews"
+msgstr "مجموع نظرات"
+
+msgid "Avg Reviews"
+msgstr "میانگین نظرات"
+
+msgid "Overall Sentiment"
+msgstr "احساس کلی"
+
+msgid "Positive"
+msgstr "مثبت"
+
+msgid "Neutral"
+msgstr "خنثی"
+
+msgid "Negative"
+msgstr "منفی"
+
+msgid "Trend Status Overview"
+msgstr "نمای کلی وضعیت روند"
+
+msgid "Rising"
+msgstr "در حال رشد"
+
+msgid "Stable"
+msgstr "پایدار"
+
+msgid "Declining"
+msgstr "در حال کاهش"
+
+msgid "sentiment data"
+msgstr "داده‌های احساسی"
+
+msgid "trend status data"
+msgstr "داده‌های وضعیت روند"
+
+msgid "Status"
+msgstr "وضعیت"
+
+msgid "Category"
+msgstr "دسته‌بندی"
+
+msgid "All Categories"
+msgstr "همه دسته‌بندی‌ها"
+
+msgid "Count"
+msgstr "تعداد"
+
+msgid "Percentage"
+msgstr "درصد"
+
+msgid "Market Comparison (by Source)"
+msgstr "مقایسه بازار (بر اساس منبع)"
+
+msgid "Market"
+msgstr "بازار"
+
+msgid "Best seller"
+msgstr "پرفروش‌ترین"
+
+msgid "Movers and shakers"
+msgstr "محصولات پرنوسان"
+
+msgid "New releases"
+msgstr "انتشارهای جدید"
+
+msgid "market comparison data"
+msgstr "داده‌های مقایسه بازار"
+
+msgid "Category Comparison"
+msgstr "مقایسه دسته‌بندی"
+
+msgid "Category Comparison - All Data"
+msgstr "مقایسه دسته‌بندی - همه داده‌ها"
+
+msgid "Categories"
+msgstr "دسته‌بندی‌ها"
+
+msgid "Metrics"
+msgstr "متریک‌ها"
+
+msgid "Avg Sold"
+msgstr "میانگین فروش"
+
+msgid "Avg FPSI"
+msgstr "میانگین FPSI"
+
+msgid "N/A"
+msgstr "ناموجود"
+
+msgid "value"
+msgstr "مقدار"
+
+msgid "Value"
+msgstr "مقدار"
+
+msgid "Unknown"
+msgstr "ناشناخته"
+
+msgid "category comparison data"
+msgstr "داده‌های مقایسه دسته‌بندی"
+
+msgid "Amazon Device"
+msgstr "دستگاه آمازون"
+
+msgid "Appliances"
+msgstr "لوازم خانگی"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "هنر، صنایع دستی و خیاطی"
+
+msgid "Automotive"
+msgstr "خودرو"
+
+msgid "Baby Products"
+msgstr "محصولات کودک"
+
+msgid "Baby"
+msgstr "کودک"
+
+msgid "Beauty & Personal Care"
+msgstr "زیبایی و مراقبت شخصی"
+
+msgid "Cell Phones & Accessories"
+msgstr "تلفن همراه و لوازم جانبی"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "پوشاک، کفش و جواهرات"
+
+msgid "Collectibles & Fine Art"
+msgstr "کلکسیونی و هنرهای زیبا"
+
+msgid "Electronics"
+msgstr "الکترونیک"
+
+msgid "Health & Household"
+msgstr "سلامت و خانگی"
+
+msgid "Home & Kitchen"
+msgstr "خانه و آشپزخانه"
+
+msgid "Industrial & Scientific"
+msgstr "صنعتی و علمی"
+
+msgid "Musical Instruments"
+msgstr "آلات موسیقی"
+
+msgid "No category found"
+msgstr "هیچ دسته‌بندی یافت نشد"
+
+msgid "Office Products"
+msgstr "محصولات اداری"
+
+msgid "Patio, Lawn & Garden"
+msgstr "پاسیو، چمن و باغ"
+
+msgid "Safety & Security"
+msgstr "ایمنی و امنیت"
+
+msgid "Tools & Home Improvement"
+msgstr "ابزار و بهسازی خانه"
+
+msgid "Toys & Games"
+msgstr "اسباب بازی و بازی"
+
+msgid "Suggested Pricing"
+msgstr "قیمت‌گذاری پیشنهادی"
+
+msgid "All Suggested Pricing"
+msgstr "همه قیمت‌گذاری‌های پیشنهادی"
+
+msgid "suggested pricing data"
+msgstr "داده‌های قیمت‌گذاری پیشنهادی"
+
+msgid "Search products..."
+msgstr "جستجوی محصولات..."
+
+msgid "Search products or categories..."
+msgstr "جستجوی محصولات یا دسته‌بندی‌ها..."
+
+msgid "Insights"
+msgstr "بینش‌ها"
+
+msgid "Performance insights for"
+msgstr "بینش‌های عملکرد برای"
+
+msgid "your website"
+msgstr "وب‌سایت شما"
+
+msgid "Desktop"
+msgstr "دسکتاپ"
+
+msgid "Mobile"
+msgstr "موبایل"
+
+msgid "Refresh"
+msgstr "تازه سازی"
+
+msgid "Loading..."
+msgstr "در حال بارگذاری..."
+
+msgid "Core Web Vitals"
+msgstr "هسته حیاتی وب (Core Web Vitals)"
+
+msgid "Performance Audits"
+msgstr "ممیزی‌های عملکرد"
+
+msgid "View More"
+msgstr "مشاهده بیشتر"
+
+msgid "Performance Insights"
+msgstr "بینش‌های عملکرد"
+
+msgid "Analysis Configuration"
+msgstr "پیکربندی تحلیل"
+
+msgid "Device"
+msgstr "دستگاه"
+
+msgid "Locale"
+msgstr "منطقه"
+
+msgid "Channel"
+msgstr "کانال"
+
+msgid "Loading Insights data..."
+msgstr "در حال بارگذاری داده‌های بینش..."
+
+msgid "Error Loading Insights Data"
+msgstr "خطا در بارگذاری داده‌های بینش"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "خطایی در هنگام دریافت داده‌های تحلیل بینش رخ داد."
+
+msgid "Retry"
+msgstr "تلاش مجدد"
+
+msgid "No Insights Data Available"
+msgstr "هیچ داده بینشی موجود نیست"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "هیچ داده تحلیل عملکردی موجود نیست. این ممکن است به این معنی باشد که تحلیل هنوز اجرا نشده است، یا خطایی در دریافت داده‌ها وجود داشته است."
+
+msgid "Last analyzed:"
+msgstr "آخرین تحلیل:"
+
+msgid "Performance"
+msgstr "عملکرد"
+
+msgid "Accessibility"
+msgstr "دسترس‌پذیری"
+
+msgid "Best Practices"
+msgstr "بهترین روش‌ها"
+
+msgid "SEO"
+msgstr "سئو"
+
+msgid "No performance metrics available"
+msgstr "هیچ متریک عملکردی موجود نیست"
+
+msgid "No audit data available"
+msgstr "هیچ داده ممیزی موجود نیست"
+
+msgid "No audits available"
+msgstr "هیچ ممیزی موجود نیست"
+
+msgid "View Less"
+msgstr "مشاهده کمتر"
+
+msgid "more"
+msgstr "بیشتر"
+
+msgid "No insights available"
+msgstr "هیچ بینشی موجود نیست"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "هیچ مشکل عملکردی شناسایی نشد. سایت شما به خوبی کار می‌کند!"
+
+msgid "Wasted:"
+msgstr "هدر رفته:"
+
+msgid "Initializing..."
+msgstr "در حال راه‌اندازی..."
+
+msgid "Connecting to server..."
+msgstr "در حال اتصال به سرور..."
+
+msgid "Fetching insights data..."
+msgstr "در حال دریافت داده‌های بینش..."
+
+msgid "Analyzing performance metrics..."
+msgstr "در حال تحلیل متریک‌های عملکرد..."
+
+msgid "Processing audits and insights..."
+msgstr "در حال پردازش ممیزی‌ها و بینش‌ها..."
+
+msgid "Finalizing results..."
+msgstr "در حال نهایی‌سازی نتایج..."
+
+msgid "Complete!"
+msgstr "تکمیل شد!"
+
+msgid "Failed to load Insights data"
+msgstr "بارگذاری داده‌های بینش ناموفق بود"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "بارگذاری داده‌های بینش ناموفق بود. لطفاً اتصال خود را بررسی کرده و دوباره تلاش کنید."
+
+msgid "No data available"
+msgstr "داده‌ای موجود نیست"
+
+msgid "Excellent"
+msgstr "عالی"
+
+msgid "Needs Improvement"
+msgstr "نیاز به بهبود"
+
+msgid "Poor"
+msgstr "ضعیف"
+
+msgid "Unknown error"
+msgstr "خطای ناشناخته"
+
+msgid "Email Marketing"
+msgstr "بازاریابی ایمیلی"
+
+msgid "Manage, send, and track your emails"
+msgstr "مدیریت، ارسال و پیگیری ایمیل‌های شما"
+
+msgid "Emails"
+msgstr "ایمیل‌ها"
+
+msgid "Lists"
+msgstr "لیست‌ها"
+
+msgid "Create Email"
+msgstr "ایجاد ایمیل"
+
+msgid "Search emails..."
+msgstr "جستجوی ایمیل‌ها..."
+
+msgid "Cards"
+msgstr "کارت‌ها"
+
+msgid "Table"
+msgstr "جدول"
+
+msgid "Select"
+msgstr "انتخاب"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Recipient"
+msgstr "گیرنده"
+
+msgid "Subject"
+msgstr "موضوع"
+
+msgid "Created"
+msgstr "ایجاد شده"
+
+msgid "Actions"
+msgstr "عملیات"
+
+msgid "Email Lists"
+msgstr "لیست‌های ایمیل"
+
+msgid "Manage, send, and track your email lists"
+msgstr "مدیریت، ارسال و پیگیری لیست‌های ایمیل شما"
+
+msgid "Create Email List"
+msgstr "ایجاد لیست ایمیل"
+
+msgid "Search lists..."
+msgstr "جستجوی لیست‌ها..."
+
+msgid "Download Template"
+msgstr "دانلود قالب"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "دانلود قالب اکسل گیرندگان ایمیل"
+
+msgid "Upload Template"
+msgstr "آپلود قالب"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "آپلود فایل اکسل گیرندگان ایمیل"
+
+msgid "Recipients"
+msgstr "گیرندگان"
+
+msgid "Confirm Action"
+msgstr "تایید عملیات"
+
+msgid "Are you sure you want to proceed?"
+msgstr "آیا مطمئن هستید که می‌خواهید ادامه دهید؟"
+
+msgid "Cancel"
+msgstr "لغو"
+
+msgid "Confirm"
+msgstr "تایید"
+
+msgid "List Subject"
+msgstr "موضوع لیست"
+
+msgid "Subject for all recipients"
+msgstr "موضوع برای همه گیرندگان"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "آدرس ایمیل را وارد کنید و Enter را بزنید یا روی افزودن کلیک کنید"
+
+msgid "Add"
+msgstr "افزودن"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "آدرس‌های ایمیل را یکی‌یکی وارد کنید. برای حذف روی X روی برچسب کلیک کنید."
+
+msgid "Email Body (optional HTML)"
+msgstr "متن ایمیل (HTML اختیاری)"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "می‌توانید از ویرایشگر دیداری استفاده کنید یا برای چسباندن HTML به حالت متنی بروید."
+
+msgid "Send"
+msgstr "ارسال"
+
+msgid "Preview"
+msgstr "پیش‌نمایش"
+
+msgid "Clear"
+msgstr "پاک کردن"
+
+msgid "Create New Email"
+msgstr "ایجاد ایمیل جدید"
+
+msgid "Your subject"
+msgstr "موضوع شما"
+
+msgid "Email Body"
+msgstr "متن ایمیل"
+
+msgid "Send Email"
+msgstr "ارسال ایمیل"
+
+msgid "Email Sent"
+msgstr "ایمیل ارسال شد"
+
+msgid "Your email has been sent successfully."
+msgstr "ایمیل شما با موفقیت ارسال شد."
+
+msgid "OK"
+msgstr "باشه"
+
+msgid "Total"
+msgstr "کل"
+
+msgid "Sent"
+msgstr "ارسال شده"
+
+msgid "Read"
+msgstr "خوانده شده"
+
+msgid "Revision"
+msgstr "بازبینی"
+
+msgid "Sent Emails"
+msgstr "ایمیل‌های ارسال شده"
+
+msgid "Export Excel"
+msgstr "برون‌بری اکسل"
+
+msgid "Updated"
+msgstr "به‌روز شده"
+
+msgid "Failed"
+msgstr "ناموفق"
+
+msgid "Pending"
+msgstr "در انتظار"
+
+msgid "Show"
+msgstr "نمایش"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "Update & Send"
+msgstr "به‌روزرسانی و ارسال"
+
+msgid "Sending..."
+msgstr "در حال ارسال..."
+
+msgid "Edit Email"
+msgstr "ویرایش ایمیل"
+
+msgid "Exit Select"
+msgstr "خروج از انتخاب"
+
+msgid "To:"
+msgstr "به:"
+
+msgid "Created:"
+msgstr "ایجاد شده:"
+
+msgid "Error"
+msgstr "خطا"
+
+msgid "Success"
+msgstr "موفقیت"
+
+msgid "Update Email List"
+msgstr "به‌روزرسانی لیست ایمیل"
+
+msgid "status_sent"
+msgstr "ارسال شده"
+
+msgid "status_failed"
+msgstr "ناموفق"
+
+msgid "status_pending"
+msgstr "در انتظار"
+
+msgid "SENT"
+msgstr "ارسال شده"
+
+msgid "Sent:"
+msgstr "ارسال شده:"
+
+msgid "Failed:"
+msgstr "ناموفق:"
+
+msgid "Pending:"
+msgstr "در انتظار:"
+
+msgid "Email sent"
+msgstr "ایمیل ارسال شد"
+
+msgid "Successfully sent"
+msgstr "با موفقیت ارسال شد"
+
+msgid "email(s)"
+msgstr "ایمیل(ها)"
+
+msgid "Your email list has been sent successfully."
+msgstr "لیست ایمیل شما با موفقیت ارسال شد."
+
+msgid "FAILED"
+msgstr "ناموفق"
+
+msgid "PENDING"
+msgstr "در انتظار"
+
+msgid "Total Lists"
+msgstr "مجموع لیست‌ها"
+
+msgid "Total Recipients"
+msgstr "مجموع گیرندگان"
+
+msgid "create_email_list"
+msgstr "ایجاد لیست ایمیل"
+
+msgid "add"
+msgstr "افزودن"
+
+msgid "send"
+msgstr "ارسال"
+
+msgid "ok"
+msgstr "باشه"
+
+msgid "security"
+msgstr "امنیت"
+
+msgid "welcome"
+msgstr "خوش آمدید"
+
+msgid "of"
+msgstr "از"
+
+msgid "previous"
+msgstr "قبلی"
+
+msgid "next"
+msgstr "بعدی"
+
+msgid "home"
+msgstr "خانه"
+
+msgid "terms"
+msgstr "قوانین"
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Not Set"
+msgstr "تنظیم نشده"
+
+msgid "Import"
+msgstr "وارد کردن"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> وارد کردن"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> حذف"
+
+msgid "Importing..."
+msgstr "در حال وارد کردن..."
+
+msgid "Deleting..."
+msgstr "در حال حذف..."
+
+msgid "Already Imported"
+msgstr "قبلاً وارد شده"
+
+msgid "Product deleted successfully"
+msgstr "محصول با موفقیت حذف شد"
+
+msgid "NEW"
+msgstr "جدید"
+
+msgid "Added"
+msgstr "اضافه شده"
+
+msgid "Exists"
+msgstr "موجود است"
+
+msgid "Showing"
+msgstr "نمایش"
+
+msgid "← Previous"
+msgstr "← قبلی"
+
+msgid "Previous"
+msgstr "قبلی"
+
+msgid "Next →"
+msgstr "بعدی →"
+
+msgid "Next"
+msgstr "بعدی"
+
+msgid "Processing..."
+msgstr "در حال پردازش..."
+
+msgid "Please wait while we import your product"
+msgstr "لطفاً صبر کنید تا محصول شما را وارد کنیم"
+
+msgid "Importing product as draft..."
+msgstr "در حال وارد کردن محصول به عنوان پیش‌نویس..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "این محصول را در WooCommerce ایجاد می‌کند"
+
+msgid "Importing product with SEO optimization..."
+msgstr "در حال وارد کردن محصول با بهینه‌سازی سئو..."
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "در حال پردازش بهینه‌سازی‌های سئو: کلیدواژه، عنوان سئو، توضیحات سئو، متا توضیحات، برچسب‌ها، عنوان Yoast SEO و سرتیترها"
+
+msgid "Keyphrase"
+msgstr "عبارت کلیدی"
+
+msgid "Meta Description"
+msgstr "متا دیسکریپشن"
+
+msgid "Checking product status..."
+msgstr "در حال بررسی وضعیت محصول..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "لطفاً صبر کنید تا وجود محصول را بررسی کنیم"
+
+msgid "Loading products..."
+msgstr "در حال بارگذاری محصولات..."
+
+msgid "Overview"
+msgstr "نمای کلی"
+
+msgid "Business Overview"
+msgstr "نمای کلی کسب‌وکار"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "عملکرد افزونه خود را نظارت کنید، متریک‌های کلیدی را پیگیری کنید و عملیات خود را از یک داشبورد واحد مدیریت کنید"
+
+msgid "Total Products"
+msgstr "مجموع محصولات"
+
+msgid "Quick Actions"
+msgstr "عملیات سریع"
+
+msgid "Analytics Dashboard"
+msgstr "داشبورد تحلیل"
+
+msgid "Analytics Overview"
+msgstr "نمای کلی تحلیل"
+
+msgid "Quick insights into your business performance"
+msgstr "بینش‌های سریع درباره عملکرد کسب‌وکار شما"
+
+msgid "View Full Analytics"
+msgstr "مشاهده تحلیل کامل"
+
+msgid "Overall Sentiment distribution"
+msgstr "توزیع احساس کلی"
+
+msgid "Trend Status distribution"
+msgstr "توزیع وضعیت روند"
+
+msgid "Analytics"
+msgstr "تحلیل"
+
+msgid "BI Analytics Hub"
+msgstr "مرکز تحلیل هوش تجاری"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "No orders found"
+msgstr "سفارشی یافت نشد"
+
+msgid "Total Orders"
+msgstr "مجموع سفارش‌ها"
+
+msgid "Current Page"
+msgstr "صفحه فعلی"
+
+msgid "Orders Per Page"
+msgstr "سفارش در هر صفحه"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "جستجوی سفارش‌ها بر اساس شماره، نام مشتری یا ایمیل..."
+
+msgid "Loading orders..."
+msgstr "در حال بارگذاری سفارش‌ها..."
+
+msgid "Page"
+msgstr "صفحه"
+
+msgid "WooCommerce Analytics"
+msgstr "تحلیل WooCommerce"
+
+msgid "WordPress Analytics"
+msgstr "تحلیل WordPress"
+
+msgid "Clear Cache"
+msgstr "پاک کردن حافظه پنهان"
+
+msgid "Export CSV"
+msgstr "برون‌بری CSV"
+
+msgid "Last updated:"
+msgstr "آخرین به‌روزرسانی:"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "بارگذاری داده‌های تحلیل ناموفق بود. لطفاً صفحه را رفرش کنید."
+
+msgid "No data available to export"
+msgstr "هیچ داده‌ای برای برون‌بری موجود نیست"
+
+msgid "Orders Today"
+msgstr "سفارش‌های امروز"
+
+msgid "Total Revenue"
+msgstr "کل درآمد"
+
+msgid "Revenue Today"
+msgstr "درآمد امروز"
+
+msgid "Revenue (30 Days)"
+msgstr "درآمد (۳۰ روز)"
+
+msgid "Avg Order Value"
+msgstr "میانگین ارزش سفارش"
+
+msgid "Pending Orders"
+msgstr "سفارش‌های در انتظار"
+
+msgid "Failed Orders"
+msgstr "سفارش‌های ناموفق"
+
+msgid "Cart Abandonment"
+msgstr "رها کردن سبد خرید"
+
+msgid "Customers (30 Days)"
+msgstr "مشتریان (۳۰ روز)"
+
+msgid "Top Seller (30 Days)"
+msgstr "پرفروش‌ترین (۳۰ روز)"
+
+msgid "Total Users"
+msgstr "مجموع کاربران"
+
+msgid "Users Today"
+msgstr "کاربران امروز"
+
+msgid "Total Comments"
+msgstr "مجموع نظرات"
+
+msgid "Total Views"
+msgstr "مجموع بازدیدها"
+
+msgid "Refunded"
+msgstr "مسترد شده"
+
+msgid "Pending payment"
+msgstr "در انتظار پرداخت"
+
+msgid "Processing"
+msgstr "در حال پردازش"
+
+msgid "On hold"
+msgstr "در انتظار بررسی"
+
+msgid "Completed"
+msgstr "تکمیل شده"
+
+msgid "Cancelled"
+msgstr "لغو شده"
+
+msgid "Draft"
+msgstr "پیش‌نویس"
+
+msgid "Revenue Overview"
+msgstr "نمای کلی درآمد"
+
+msgid "Orders Status"
+msgstr "وضعیت سفارش‌ها"
+
+msgid "WordPress Activity"
+msgstr "فعالیت WordPress"
+
+msgid "Revenue"
+msgstr "درآمد"
+
+msgid "WordPress Metrics"
+msgstr "متریک‌های WordPress"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "تعداد محصولات در هر صفحه نمی‌تواند بیشتر از ۱۰۰ باشد. لطفاً مقداری بین ۱ تا ۱۰۰ وارد کنید."
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "تعداد محصولات در هر صفحه باید حداقل ۱ باشد. لطفاً یک مقدار معتبر وارد کنید."
+
+msgid "Settings saved successfully!"
+msgstr "تنظیمات با موفقیت ذخیره شد!"
+
+msgid "Please enter a authentication key before testing."
+msgstr "لطفاً قبل از تست یک کلید لایسنس وارد کنید."
+
+msgid "more..."
+msgstr "بیشتر..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "حافظه پنهان تحلیل با موفقیت پاک شد!"
+
+msgid "No products to import. Please sync products first."
+msgstr "هیچ محصولی برای وارد کردن وجود ندارد. لطفاً ابتدا محصولات را همگام‌سازی کنید."
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "وارد کردن تکمیل شد! %d محصول وارد شد، %d ناموفق."
+
+msgid "Import failed: %s"
+msgstr "وارد کردن ناموفق بود: %s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "تست API تکمیل شد! فایل debug.log را برای گزارش‌های دقیق بررسی کنید. تمام نقاط پایانی با موفقیت تست شدند."
+
+msgid "API Test Failed: %s"
+msgstr "تست API ناموفق بود: %s"
+
+msgid "Database structure validated and fixed:"
+msgstr "ساختار پایگاه داده اعتبارسنجی و اصلاح شد:"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "ساختار پایگاه داده معتبر است. نیازی به اصلاح نیست."
+
+msgid "Database validation issues:"
+msgstr "مشکلات اعتبارسنجی پایگاه داده:"
+
+msgid "Database validation failed: %s"
+msgstr "اعتبارسنجی پایگاه داده ناموفق بود: %s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "لایسنس Vortem.ai شما با پلن %s فعال است."
+
+msgid "Validated on: %s"
+msgstr "اعتبارسنجی شده در: %s"
+
+msgid "Import failed. Please try again."
+msgstr "وارد کردن ناموفق بود. لطفاً دوباره تلاش کنید."
+
+msgid "Please select a bulk action."
+msgstr "لطفاً یک عملیات دسته‌جمعی انتخاب کنید."
+
+msgid "Please select at least one product."
+msgstr "لطفاً حداقل یک محصول را انتخاب کنید."
+
+msgid "Bulk action failed. Please try again."
+msgstr "عملیات دسته‌جمعی ناموفق بود. لطفاً دوباره تلاش کنید."
+
+msgid "Failed to trash product. Please try again."
+msgstr "انتقال محصول به زباله‌دان ناموفق بود. لطفاً دوباره تلاش کنید."
+
+msgid "Failed to restore product. Please try again."
+msgstr "بازیابی محصول ناموفق بود. لطفاً دوباره تلاش کنید."
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "وارد کردن محصول به عنوان پیش‌نویس ناموفق بود. لطفاً دوباره تلاش کنید."
+
+msgid "Failed to get product details."
+msgstr "دریافت جزئیات محصول ناموفق بود."
+
+msgid "Delete failed. Please try again."
+msgstr "حذف ناموفق بود. لطفاً دوباره تلاش کنید."
+
+msgid "FAQ Management"
+msgstr "مدیریت سوالات متداول"
+
+msgid "Manage your frequently asked questions"
+msgstr "مدیریت سوالات متداول شما"
+
+msgid "Search FAQs..."
+msgstr "جستجوی سوالات متداول..."
+
+msgid "Card View"
+msgstr "نمای کارتی"
+
+msgid "Table View"
+msgstr "نمای جدولی"
+
+msgid "Refresh FAQs"
+msgstr "تازه سازی سوالات متداول"
+
+msgid "Create New FAQ"
+msgstr "ایجاد سوال متداول جدید"
+
+msgid "Total FAQs"
+msgstr "مجموع سوالات متداول"
+
+msgid "Active FAQs"
+msgstr "سوالات متداول فعال"
+
+msgid "Page Status"
+msgstr "وضعیت صفحه"
+
+msgid "Question"
+msgstr "سوال"
+
+msgid "No FAQs yet"
+msgstr "هنوز سوال متداولی وجود ندارد"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "برای ساخت پایگاه دانش خود شروع به ایجاد سوالات متداول کنید"
+
+msgid "Create Your First FAQ"
+msgstr "اولین سوال متداول خود را ایجاد کنید"
+
+msgid "Loading FAQs..."
+msgstr "در حال بارگذاری سوالات متداول..."
+
+msgid "Update FAQ"
+msgstr "به‌روزرسانی سوال متداول"
+
+msgid "Question *"
+msgstr "سوال *"
+
+msgid "Enter your question here..."
+msgstr "سوال خود را اینجا وارد کنید..."
+
+msgid "Answer *"
+msgstr "پاسخ *"
+
+msgid "Enter the answer here..."
+msgstr "پاسخ را اینجا وارد کنید..."
+
+msgid "Create FAQ"
+msgstr "ایجاد سوال متداول"
+
+msgid "FAQ Details"
+msgstr "جزئیات سوال متداول"
+
+msgid "Answer"
+msgstr "پاسخ"
+
+msgid "Delete FAQ"
+msgstr "حذف سوال متداول"
+
+msgid "ID:"
+msgstr "شناسه:"
+
+msgid "Answer:"
+msgstr "پاسخ:"
+
+msgid "View Details"
+msgstr "مشاهده جزئیات"
+
+msgid "Edit FAQ"
+msgstr "ویرایش سوال متداول"
+
+msgid "Creating..."
+msgstr "در حال ایجاد..."
+
+msgid "Updating..."
+msgstr "در حال به‌روزرسانی..."
+
+msgid "Question is required"
+msgstr "سوال الزامی است"
+
+msgid "Answer is required"
+msgstr "پاسخ الزامی است"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "پاسخ باید حداقل ۱۰ کاراکتر باشد"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "سوال متداول \"%s\" ایجاد شد"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "سوال متداول \"%s\" به‌روز شد"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "سوال متداول \"%s\" حذف شد"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "آیا مطمئن هستید که می‌خواهید \"%s\" را حذف کنید؟ این عملیات غیرقابل بازگشت است."
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "بارگذاری سوالات متداول ناموفق بود. لطفاً دوباره تلاش کنید."
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "ذخیره سوال متداول ناموفق بود. لطفاً دوباره تلاش کنید."
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "حذف سوال متداول ناموفق بود. لطفاً دوباره تلاش کنید."
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "احراز هویت الزامی است. لطفاً کلید لایسنس خود را بررسی کنید."
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "کلید لایسنس الزامی است. لطفاً کلید لایسنس خود را در تنظیمات Vortem.ai پیکربندی کنید."
+
+msgid "Security"
+msgstr "امنیت"
+
+msgid "Search plugins..."
+msgstr "جستجوی افزونه‌ها..."
+
+msgid "Search themes..."
+msgstr "جستجوی قالب‌ها..."
+
+msgid "Last Modified"
+msgstr "آخرین تغییر"
+
+msgid "Inactive"
+msgstr "غیرفعال"
+
+msgid "WordPress Core"
+msgstr "هسته وردپرس"
+
+msgid "Themes"
+msgstr "قالب‌ها"
+
+msgid "Plugins"
+msgstr "افزونه‌ها"
+
+msgid "Version"
+msgstr "نسخه"
+
+msgid "Author"
+msgstr "نویسنده"
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "File"
+msgstr "فایل"
+
+msgid "Plugin URI"
+msgstr "آدرس افزونه"
+
+msgid "Requires WP Version"
+msgstr "نیاز به نسخه وردپرس"
+
+msgid "Requires PHP"
+msgstr "نیاز به PHP"
+
+msgid "Read more"
+msgstr "بیشتر بخوانید"
+
+msgid "Stylesheet"
+msgstr "استایل شیت"
+
+msgid "Theme URI"
+msgstr "آدرس قالب"
+
+msgid "Type"
+msgstr "نوع"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "All"
+msgstr "همه"
+
+msgid "Vulnerabilities"
+msgstr "آسیب‌پذیری‌ها"
+
+msgid "Checking..."
+msgstr "در حال بررسی..."
+
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "تنظیمات و ترجیحات افزونه خود را پیکربندی کنید"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "برای فعال‌سازی ویژگی‌های افزونه، کلید لایسنس Vortem.ai خود را وارد کنید. برای اعتبارسنجی کلید خود روی \"اعتبارسنجی لایسنس\" کلیک کنید."
+
+msgid "Products Per Page"
+msgstr "محصولات در هر صفحه"
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "Currency"
+msgstr "ارز"
+
+msgid "Update Currency"
+msgstr "به‌روزرسانی ارز"
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "تعداد محصولاتی که در هر صفحه نمایش داده می‌شود. پیش‌فرض: ۱۶."
+
+msgid "Products per page must be at least 1"
+msgstr "تعداد محصولات در هر صفحه باید حداقل ۱ باشد"
+
+msgid "Products per page cannot exceed 100"
+msgstr "تعداد محصولات در هر صفحه نمی‌تواند بیشتر از ۱۰۰ باشد"
+
+msgid "Loading currencies..."
+msgstr "در حال بارگذاری ارزها..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "نوع ارز افزونه را انتخاب کنید و برای ذخیره تغییرات روی \"به‌روزرسانی ارز\" کلیک کنید."
+
+msgid "Currency updated successfully!"
+msgstr "ارز با موفقیت به‌روز شد!"
+
+msgid "Video Settings"
+msgstr "تنظیمات ویدیو"
+
+msgid "Video Download for Excluded Themes"
+msgstr "دانلود ویدیو برای قالب‌های مستثنی شده"
+
+msgid "AliExpress Integration"
+msgstr "یکپارچه‌سازی AliExpress"
+
+msgid "Add video to product description"
+msgstr "افزودن ویدیو به توضیحات محصول"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "دانلود ویدیو برای قالب‌های Vortem Clothes، Vortem Cosmetic و xstore"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "در حال نزدیک شدن به محدودیت روزانه ایمیل (%s). محدودیت فردا بازنشانی می‌شود."
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "به محدودیت روزانه ایمیل رسیده‌اید. محدودیت فردا بازنشانی می‌شود."
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "در حال نزدیک شدن به سهمیه روزانه واردات محصول (%s). سهمیه فردا بازنشانی می‌شود."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "به سهمیه روزانه واردات محصول رسیده‌اید. سهمیه فردا بازنشانی می‌شود."
+
+msgid "Search plugins and themes..."
+msgstr "جستجوی افزونه‌ها و پوسته‌ها..."
+
+msgid "Loading security scan results..."
+msgstr "در حال بارگذاری نتایج اسکن امنیتی..."
+
+msgid "published"
+msgstr "منتشر شده"
+
+msgid "Published"
+msgstr "منتشر شده"
+
+msgid "references"
+msgstr "مراجع"
+
+msgid "References"
+msgstr "مراجع"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "هنگامی که فعال باشد، ویدیوهای محصول به طور خودکار به توضیحات محصول اضافه می‌شوند. هنگامی که غیرفعال باشد، ویدیوها اصلاً دانلود نمی‌شوند. اگر ترجیح می‌دهید ویدیوها را به صورت دستی مدیریت کنید، این گزینه را غیرفعال کنید."
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "هنگامی که غیرفعال باشد، ویدیوها برای تم‌های Vortem Clothes، Vortem Cosmetic و xstore دانلود نمی‌شوند و به کتابخانه رسانه اضافه نمی‌شوند. این باعث صرفه‌جویی در فضای ذخیره‌سازی می‌شود."
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "برای استفاده از این صفحه باید لایسنس را در تنظیمات در بخش authentication Key وارد کنی و بعد دکمه \"authentication validation\" را بزنی."
+
+msgid "Products Pages"
+msgstr "صفحات محصولات"
+
+msgid "Analytics Pages"
+msgstr "صفحات تحلیل"
+
+msgid "sales"
+msgstr "فروش"
+
+msgid "Loading trend products..."
+msgstr "در حال بارگذاری محصولات ترند..."
+
+msgid "Loading TikTok products..."
+msgstr "در حال بارگذاری محصولات تیک تاک..."
+
+msgid "Error loading TikTok products:"
+msgstr "خطا در بارگذاری محصولات تیک تاک:"
+
+msgid "Failed to load TikTok products:"
+msgstr "خطا در بارگذاری محصولات تیک تاک:"
+
+msgid "Loading Kinguin products..."
+msgstr "در حال بارگذاری محصولات Kinguin..."
+
+msgid "No Kinguin products found."
+msgstr "محصولی از Kinguin یافت نشد."
+
+msgid "Failed to load Kinguin products:"
+msgstr "خطا در بارگذاری محصولات Kinguin:"
+
+msgid "Error loading Kinguin products:"
+msgstr "خطا در بارگذاری محصولات Kinguin:"
+
+msgid "View on Amazon"
+msgstr "مشاهده در آمازون"
+
+msgid "View on Kinguin"
+msgstr "مشاهده در Kinguin"
+
+msgid "Release:"
+msgstr "تاریخ انتشار:"
+
+msgid "Price N/A"
+msgstr "قیمت موجود نیست"
+
+msgid "In Stock"
+msgstr "موجود"
+
+msgid "Sentiment"
+msgstr "احساسات"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "موارد موجودی کم کمتر از 10 عدد"
+
+msgid "Total Pages"
+msgstr "کل صفحات"
+
+msgid "Total Posts"
+msgstr "کل پست‌ها"
+
+msgid "Refetch"
+msgstr "بازخوانی"
+
+msgid "AliExpress"
+msgstr "علی‌اکسپرس"
+
+msgid "Connect to AliExpress"
+msgstr "اتصال به علی‌اکسپرس"
+
+msgid "Disconnect AliExpress"
+msgstr "قطع اتصال علی‌اکسپرس"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "آیا مطمئن هستید که می‌خواهید حساب علی‌اکسپرس خود را قطع کنید؟"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "حساب علی‌اکسپرس خود را متصل کنید تا امکان پردازش سفارشات و دراپ‌شیپینگ فعال شود."
+
+msgid "Checking connection status..."
+msgstr "در حال بررسی وضعیت اتصال..."
+
+msgid "Connected"
+msgstr "متصل"
+
+msgid "Not connected"
+msgstr "غیرمتصل"
+
+msgid "Error checking status"
+msgstr "خطا در بررسی وضعیت"
+
+msgid "Connecting..."
+msgstr "در حال اتصال..."
+
+msgid "Disconnecting..."
+msgstr "در حال قطع اتصال..."
+
+msgid "Error connecting to AliExpress"
+msgstr "خطا در اتصال به علی‌اکسپرس"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "خطا در قطع اتصال حساب علی‌اکسپرس"
+
+msgid "Failed to disconnect"
+msgstr "قطع اتصال ناموفق بود"
+
+msgid "Failed to connect to AliExpress"
+msgstr "اتصال به علی‌اکسپرس ناموفق بود"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "اتصال به علی‌اکسپرس با موفقیت انجام شد!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "برای ایجاد سفارش علی‌اکسپرس، شماره تلفن الزامی است."
+
+msgid "Expires:"
+msgstr "انقضا:"
+
+msgid "Disconnect"
+msgstr "قطع اتصال"
+
+msgid "Select Import Method"
+msgstr "انتخاب روش واردات"
+
+msgid "Choose how you want to import this product:"
+msgstr "انتخاب کنید که چگونه می‌خواهید این محصول را وارد کنید:"
+
+msgid "Normal Import"
+msgstr "واردات عادی"
+
+msgid "Import product with original title and description"
+msgstr "واردات محصول با عنوان و توضیحات اصلی"
+
+msgid "SEO Import"
+msgstr "واردات سئو"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "واردات با عنوان، توضیحات و تگ‌های بهینه‌شده برای سئو"
+
+msgid "SEO Import Completed"
+msgstr "واردات سئو تکمیل شد"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "بهینه‌سازی‌های سئو زیر اعمال شدند:"
+
+msgid "SEO Title"
+msgstr "عنوان سئو"
+
+msgid "SEO Description"
+msgstr "توضیحات سئو"
+
+msgid "Tags"
+msgstr "تگ‌ها"
+
+msgid "Yoast SEO Title"
+msgstr "عنوان سئو یواست"
+
+msgid "Headings"
+msgstr "سرتیترها"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "یوست سئو نصب نشده است. برای استفاده از گزینه واردات سئو، باید آن را نصب و فعال کنید."
+
+msgid "Email subject must be at least 16 characters"
+msgstr "موضوع ایمیل باید حداقل 16 کاراکتر باشد"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "موضوع ایمیل نباید از 256 کاراکتر بیشتر باشد"
+
+msgid "Email body must be at least 128 characters"
+msgstr "متن ایمیل باید حداقل 128 کاراکتر باشد"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "متن ایمیل نباید از 8196 کاراکتر بیشتر باشد"
+
+msgid "All Imported Products"
+msgstr "همه محصولات وارد شده"
+
+msgid "Refresh Products"
+msgstr "تازه‌سازی محصولات"
+
+msgid "Show All Products"
+msgstr "نمایش همه محصولات"
+
+msgid "Show All Added Products"
+msgstr "نمایش همه محصولات اضافه شده"
+
+msgid "Top Products Kinguin"
+msgstr "محصولات برتر Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "محصولات ترند آمازون"
+
+msgid "Trend Products TikTok"
+msgstr "محصولات ترند تیک تاک"
+
+msgid "Top Products AliExpress"
+msgstr "محصولات برتر AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "مدیریت و مشاهده موجودی محصولات خود"
+
+msgid "Security Overview"
+msgstr "نمای کلی امنیت"
+
+msgid "Security Scan Results"
+msgstr "نتایج اسکن امنیتی"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "نظارت و بررسی تمام افزونه‌ها و قالب‌های نصب شده وردپرس"
+
+msgid "Total Plugins"
+msgstr "مجموع افزونه‌ها"
+
+msgid "Active Plugins"
+msgstr "افزونه‌های فعال"
+
+msgid "Inactive Plugins"
+msgstr "افزونه‌های غیرفعال"
+
+msgid "Total Themes"
+msgstr "مجموع قالب‌ها"
+
+msgid "Active Themes"
+msgstr "قالب‌های فعال"
+
+msgid "Inactive Themes"
+msgstr "قالب‌های غیرفعال"
+
+msgid "Sort by:"
+msgstr "مرتب‌سازی بر اساس:"
+
+msgid "Filter by Status:"
+msgstr "فیلتر بر اساس وضعیت:"
+
+msgid "Sort by Date"
+msgstr "مرتب‌سازی بر اساس تاریخ"
+
+msgid "View and manage your store orders"
+msgstr "مشاهده و مدیریت سفارش‌های فروشگاه شما"
+
+msgid "Start Date"
+msgstr "تاریخ شروع"
+
+msgid "End Date"
+msgstr "تاریخ پایان"
+
+msgid "All Statuses"
+msgstr "همه وضعیت‌ها"
+
+msgid "Navigation"
+msgstr "ناوبری"
+
+msgid "Shop Analytics"
+msgstr "تحلیل فروشگاه"
+
+msgid "Traffic Analytics"
+msgstr "تحلیل ترافیک"
+
+msgid "Search currencies..."
+msgstr "جستجوی ارزها..."
+
+msgid "Search by country or currency code"
+msgstr "جستجو بر اساس کشور یا کد ارز"
+
+msgid "Popularity"
+msgstr "محبوبیت"
+
+msgid "Impressions"
+msgstr "نمایش"
+
+msgid "Engagement"
+msgstr "تعامل"
+
+msgid "Videos"
+msgstr "ویدیوها"
+
+msgid "# Hashtags"
+msgstr "# هشتگ‌ها"
+
+msgid "View Rate (6s)"
+msgstr "نرخ مشاهده (6 ثانیه)"
+
+msgid "Cost"
+msgstr "هزینه"
+
+msgid "Avg. Time on Site"
+msgstr "میانگین زمان در سایت"
+
+msgid "Unique Visitors"
+msgstr "بازدیدکنندگان منحصر به فرد"
+
+msgid "Visits"
+msgstr "بازدیدها"
+
+msgid "Top Pages"
+msgstr "صفحات برتر"
+
+msgid "Top Page Titles"
+msgstr "عنوان‌های صفحه برتر"
+
+msgid "Cities"
+msgstr "شهرها"
+
+msgid "Countries"
+msgstr "کشورها"
+
+msgid "Exit Pages"
+msgstr "صفحات خروج"
+
+msgid "Entry Pages"
+msgstr "صفحات ورود"
+
+msgid "Real-time Visits"
+msgstr "بازدیدهای لحظه‌ای"
+
+msgid "Bounce Rate"
+msgstr "نرخ پرش"
+
+msgid "Today"
+msgstr "امروز"
+
+msgid "Yesterday"
+msgstr "دیروز"
+
+msgid "Last 7 Days"
+msgstr "7 روز گذشته"
+
+msgid "Last 30 Days"
+msgstr "30 روز گذشته"
+
+msgid "First Contentful Paint"
+msgstr "اولین نقاشی محتوا"
+
+msgid "Total Size"
+msgstr "حجم کل"
+
+msgid "Requests"
+msgstr "درخواست‌ها"
+
+msgid "Page Load"
+msgstr "بارگذاری صفحه"
+
+msgid "Last updated: %s"
+msgstr "آخرین به‌روزرسانی: %s"
+
+msgid "Last updated: Loading..."
+msgstr "آخرین به‌روزرسانی: در حال بارگذاری..."
+
+msgid "Live"
+msgstr "زنده"
+
+msgid "Quick Insights"
+msgstr "بینش‌های سریع"
+
+msgid "Config"
+msgstr "پیکربندی"
+
+msgid "Vortem Logo"
+msgstr "لوگوی Vortem"
+
+msgid "Core"
+msgstr "هسته"
+
+msgid "Filter by:"
+msgstr "فیلتر بر اساس:"
+
+msgid "Date"
+msgstr "تاریخ"
+
+msgid "Total Vulnerabilities"
+msgstr "کل آسیب‌پذیری‌ها"
+
+msgid "Critical"
+msgstr "بحرانی"
+
+msgid "High"
+msgstr "بالا"
+
+msgid "Medium"
+msgstr "متوسط"
+
+msgid "Low"
+msgstr "پایین"
+
+msgid "Secure Items"
+msgstr "آیتم‌های امن"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "توزیع آسیب‌پذیری بر اساس شدت"
+
+msgid "Vulnerabilities by Type"
+msgstr "آسیب‌پذیری‌ها بر اساس نوع"
+
+msgid "Scanning..."
+msgstr "در حال اسکن..."
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "در حال تحلیل نصب وردپرس شما برای آسیب‌پذیری‌های امنیتی"
+
+msgid "Items Requiring Attention"
+msgstr "آیتم‌های نیازمند توجه"
+
+msgid "No items at risk"
+msgstr "هیچ آیتمی در معرض خطر نیست"
+
+msgid "Recent Vulnerabilities"
+msgstr "آسیب‌پذیری‌های اخیر"
+
+msgid "No recent vulnerabilities"
+msgstr "آسیب‌پذیری اخیری وجود ندارد"
+
+msgid "No plugins found"
+msgstr "افزونه‌ای یافت نشد"
+
+msgid "No themes found"
+msgstr "قالبی یافت نشد"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "فیلترها یا عبارات جستجوی خود را تنظیم کنید"
+
+msgid "WordPress Vulnerability"
+msgstr "آسیب‌پذیری وردپرس"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "آسیب‌پذیری‌های امنیتی در نسخه وردپرس شناسایی شد. به‌روزرسانی به آخرین نسخه توصیه می‌شود."
+
+msgid "Vulnerability Details"
+msgstr "جزئیات آسیب‌پذیری"
+
+msgid "Vulnerability"
+msgstr "آسیب‌پذیری"
+
+msgid "vulnerabilities"
+msgstr "آسیب‌پذیری"
+
+msgid "Read less"
+msgstr "کمتر بخوانید"
+
+msgid "Your site is secure"
+msgstr "سایت شما امن است"
+
+msgid "No known vulnerabilities detected"
+msgstr "هیچ آسیب‌پذیری شناخته‌شده‌ای شناسایی نشد"
+
+msgid "Attention required"
+msgstr "نیاز به توجه"
+
+msgid "vulnerabilities found"
+msgstr "آسیب‌پذیری یافت شد"
+
+msgid "Your plugins are secure!"
+msgstr "افزونه‌های شما امن هستند!"
+
+msgid "Your themes are secure!"
+msgstr "قالب‌های شما امن هستند!"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "آسیب‌پذیری در افزونه‌ها یافت نشد"
+
+msgid "No vulnerabilities found in themes"
+msgstr "آسیب‌پذیری در قالب‌ها یافت نشد"
+
+msgid "Your WP Core is Secure"
+msgstr "هسته وردپرس شما امن است"
+
+msgid "Unknown Plugin"
+msgstr "افزونه ناشناخته"
+
+msgid "Unknown Theme"
+msgstr "قالب ناشناخته"
+
+msgid "Requires immediate attention"
+msgstr "نیاز به توجه فوری"
+
+msgid "Address as soon as possible"
+msgstr "در اسرع وقت رسیدگی شود"
+
+msgid "Schedule for review"
+msgstr "برنامه‌ریزی برای بررسی"
+
+msgid "Monitor and plan fix"
+msgstr "پایش و برنامه‌ریزی اصلاح"
+
+msgid "No vulnerabilities found"
+msgstr "آسیب‌پذیری یافت نشد"
+
+msgid "All Security Issues"
+msgstr "تمام مشکلات امنیتی"
+
+msgid "Across all plugins, themes & core"
+msgstr "در تمام افزونه‌ها، قالب‌ها و هسته"
+
+msgid "of installed items affected"
+msgstr "از آیتم‌های نصب‌شده تحت تأثیر"
+
+msgid "Critical Severity"
+msgstr "شدت بحرانی"
+
+msgid "Requires immediate action"
+msgstr "نیاز به اقدام فوری"
+
+msgid "of all vulnerabilities"
+msgstr "از کل آسیب‌پذیری‌ها"
+
+msgid "High Severity"
+msgstr "شدت بالا"
+
+msgid "Should be fixed soon"
+msgstr "باید به‌زودی اصلاح شود"
+
+msgid "Medium Severity"
+msgstr "شدت متوسط"
+
+msgid "Plan to address"
+msgstr "برنامه‌ریزی برای رسیدگی"
+
+msgid "Low Severity"
+msgstr "شدت پایین"
+
+msgid "Monitor & track"
+msgstr "پایش و پیگیری"
+
+msgid "Items without vulnerabilities"
+msgstr "آیتم‌های بدون آسیب‌پذیری"
+
+msgid "of items are clean"
+msgstr "از آیتم‌ها پاک هستند"
+
+msgid "Third-party plugins installed"
+msgstr "افزونه‌های شخص ثالث نصب‌شده"
+
+msgid "WordPress themes"
+msgstr "قالب‌های وردپرس"
+
+msgid "Core WordPress files"
+msgstr "فایل‌های هسته وردپرس"
+
+msgid "Component Type"
+msgstr "نوع کامپوننت"
+
+msgid "Number of Vulnerabilities"
+msgstr "تعداد آسیب‌پذیری‌ها"
+
+msgid "of total"
+msgstr "از کل"
+
+msgid "VERSION"
+msgstr "نسخه"
+
+msgid "AUTHOR"
+msgstr "نویسنده"
+
+msgid "REQUIRES WP"
+msgstr "نیاز به WP"
+
+msgid "REQUIRES PHP"
+msgstr "نیاز به PHP"
+
+msgid "View Page"
+msgstr "مشاهده صفحه"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "آسیب‌پذیری‌های بحرانی شناسایی شد!"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "اقدام فوری لازم است. لطفاً آیتم‌های آسیب‌دیده را در اسرع وقت به‌روزرسانی یا حذف کنید."
+
+msgid "High severity vulnerabilities detected"
+msgstr "آسیب‌پذیری‌های با شدت بالا شناسایی شد"
+
+msgid "High severity vulnerabilities found"
+msgstr "آسیب‌پذیری‌های با شدت بالا یافت شد"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "اقدام توصیه می‌شود. لطفاً آیتم‌های آسیب‌دیده را بررسی و به‌روزرسانی کنید."
+
+msgid "Please review and address these issues soon."
+msgstr "لطفاً این مشکلات را به‌زودی بررسی و رفع کنید."
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "آسیب‌پذیری‌های با شدت متوسط شناسایی شد"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "برای بررسی و رفع این مشکلات برنامه‌ریزی کنید."
+
+msgid "Low severity vulnerabilities detected"
+msgstr "آسیب‌پذیری‌های با شدت پایین شناسایی شد"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "این مشکلات را پایش کنید و در زمان مناسب اصلاح کنید."
+
+msgid "Your WordPress core is secure!"
+msgstr "هسته وردپرس شما امن است!"
+
+msgid "Your site is secure!"
+msgstr "سایت شما امن است!"
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "همه افزونه‌ها، قالب‌ها و هسته وردپرس شما امن و به‌روز هستند."
+
+msgid "Some vulnerabilities found"
+msgstr "برخی آسیب‌پذیری‌ها یافت شد"
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "بررسی توصیه می‌شود. آیتم‌های آسیب‌دیده را پایش و در صورت امکان به‌روزرسانی کنید."
+
+msgid "CVSS Score:"
+msgstr "امتیاز CVSS:"
+
+msgid "Published:"
+msgstr "منتشر شده:"
+
+msgid "Last Modified:"
+msgstr "آخرین تغییر:"
+
+msgid "References:"
+msgstr "مراجع:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "View All Vulnerabilities"
+msgstr "مشاهده همه آسیب‌پذیری‌ها"
+
+msgid "CRITICAL"
+msgstr "بحرانی"
+
+msgid "HIGH"
+msgstr "بالا"
+
+msgid "MEDIUM"
+msgstr "متوسط"
+
+msgid "LOW"
+msgstr "پایین"
+
+msgid "Filter by Severity:"
+msgstr "فیلتر بر اساس شدت:"
+
+msgid "All Severities"
+msgstr "همه شدت‌ها"
+
+msgid "Let's Get You Started"
+msgstr "بیایید شروع کنیم"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "راه‌اندازی را در حدود 2 دقیقه کامل کنید"
+
+msgid "Quick Setup"
+msgstr "راه‌اندازی سریع"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "با فرآیند نصب راهنمایی شده ما در چند دقیقه راه‌اندازی شوید"
+
+msgid "Secure & Reliable"
+msgstr "امن و قابل اعتماد"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "امنیت در سطح سازمانی در هر مؤلفه تعبیه شده است"
+
+msgid "Optimized Performance"
+msgstr "عملکرد بهینه"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "سریع و بهینه شده برای محیط‌های WordPress"
+
+msgid "Next Step"
+msgstr "مرحله بعدی"
+
+msgid "Initial Configuration"
+msgstr "پیکربندی اولیه"
+
+msgid "Set your default language and currency preferences"
+msgstr "زبان و ارز پیش‌فرض خود را تنظیم کنید"
+
+msgid "Please review and accept our terms to continue"
+msgstr "لطفاً شرایط ما را بررسی و بپذیرید تا ادامه دهید"
+
+msgid "1. Service Availability"
+msgstr "1. در دسترس بودن سرویس"
+
+msgid "2. Support"
+msgstr "2. پشتیبانی"
+
+msgid "3. Updates"
+msgstr "3. به‌روزرسانی‌ها"
+
+msgid "I accept the Terms & Conditions"
+msgstr "من شرایط و ضوابط را می‌پذیرم"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "با تیک زدن این کادر، تأیید می‌کنید که این شرایط و ضوابط را خوانده‌اید و موافقت می‌کنید که به آن‌ها پایبند باشید."
+
+msgid "Installation Complete!"
+msgstr "نصب کامل شد!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "افزونه شما با موفقیت پیکربندی شده و آماده استفاده است. اکنون می‌توانید از تمام ویژگی‌ها استفاده کنید."
+
+msgid "Configuration Summary"
+msgstr "خلاصه پیکربندی"
+
+msgid "Language:"
+msgstr "زبان:"
+
+msgid "Currency:"
+msgstr "ارز:"
+
+msgid "Terms Accepted:"
+msgstr "شرایط پذیرفته شده:"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "Go to Dashboard"
+msgstr "رفتن به داشبورد"
+
+msgid "Go to Analytics page"
+msgstr "رفتن به صفحهٔ تحلیلات"
+
+msgid "Go to Products page"
+msgstr "رفتن به صفحهٔ محصولات"
+
+msgid "Go to Matomo Analytics page"
+msgstr "رفتن به صفحهٔ تحلیلات Matomo"
+
+msgid "Restart Wizard"
+msgstr "راه‌اندازی مجدد ویزارد"
+
+msgid "Restart"
+msgstr "راه‌اندازی مجدد"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "این کار فرآیند راه‌اندازی را بازنشانی می‌کند. آیا مطمئن هستید؟"
+
+msgid "Confirm Restart"
+msgstr "تأیید راه‌اندازی مجدد"
+
+msgid "Back"
+msgstr "بازگشت"
+
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+msgid "Configuration"
+msgstr "پیکربندی"
+
+msgid "Complete"
+msgstr "تکمیل"
+
+msgid "Insufficient permissions"
+msgstr "دسترسی کافی ندارید"
+
+msgid "Language parameter is required"
+msgstr "پارامتر زبان الزامی است"
+
+msgid "Translation manager not available"
+msgstr "مدیریت ترجمه در دسترس نیست"
+
+msgid "Unsupported language"
+msgstr "زبان پشتیبانی نشده"
+
+msgid "Language changed successfully"
+msgstr "زبان با موفقیت تغییر کرد"
+
+msgid "Failed to change language"
+msgstr "تغییر زبان ناموفق بود"
+
+msgid "Currency parameter is required"
+msgstr "پارامتر ارز الزامی است"
+
+msgid "Unsupported currency"
+msgstr "ارز پشتیبانی نشده"
+
+msgid "Currency changed successfully"
+msgstr "ارز با موفقیت تغییر کرد"
+
+msgid "Loading"
+msgstr "در حال بارگذاری"
+
+msgid "Search..."
+msgstr "جستجو..."
+
+msgid "Search Language"
+msgstr "جستجوی زبان"
+
+msgid "No languages found"
+msgstr "زبان پیدا نشد"
+
+msgid "No currencies found"
+msgstr "ارز پیدا نشد"
+
+msgid "Failed to load currencies"
+msgstr "بارگذاری ارزها ناموفق بود"
+
+msgid "Error loading currencies"
+msgstr "خطا در بارگذاری ارزها"
+
+msgid "Failed to restart wizard"
+msgstr "ریستارت ویزارد ناموفق بود"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "خطایی در ریستارت ویزارد رخ داد. لطفاً دوباره تلاش کنید."
+
+msgid "Please complete the current step before proceeding."
+msgstr "لطفاً مرحله فعلی را کامل کنید قبل از ادامه."
+
+msgid "Please wait for authentication to complete."
+msgstr "لطفاً صبر کنید تا احراز هویت کامل شود."
+
+msgid "Please accept the terms and conditions."
+msgstr "لطفاً ترم‌ها و شرایط را بپذیرید."
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "لطفاً ترم‌ها و شرایط را قبل از ادامه بپذیرید."
+
+msgid "Please complete authentication first."
+msgstr "لطفاً ابتدا احراز هویت را کامل کنید."
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "لطفاً ترم‌ها و شرایط را قبل از تکمیل راه‌اندازی بپذیرید."
+
+msgid "Failed to complete setup"
+msgstr "تکمیل راه‌اندازی ناموفق بود"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "خطایی در تکمیل راه‌اندازی رخ داد. لطفاً دوباره تلاش کنید."
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "توکن نشست پیدا نشد. لطفاً ابتدا احراز هویت را کامل کنید."
+
+msgid "An error occurred while switching language"
+msgstr "خطایی در تغییر زبان رخ داد"
+
+msgid "An error occurred while switching currency"
+msgstr "خطایی در تغییر ارز رخ داد"
+
+msgid "Last updated: %1$s • Live"
+msgstr "آخرین به‌روزرسانی: %1$s • زنده"
+
+msgid "Last 30 days"
+msgstr "۳۰ روز گذشته"
+
+msgid "Traffic Overview"
+msgstr "نمای ترافیک"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "تحلیل Matomo – ۳۰ روز گذشته"
+
+msgid "Today's Focus"
+msgstr "تمرکز امروز"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "نمای کلی افزونه Vortem.ai"
+
+msgid "Read More"
+msgstr "بیشتر بخوانید"
+
+msgid "Check your dashboard regularly"
+msgstr "داشبورد را به‌طور منظم بررسی کنید"
+
+msgid "View Analytics"
+msgstr "مشاهده تحلیل‌ها"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem به‌عنوان برترین پلتفرم هوش مصنوعی ۲۰۲۶ شناخته شد"
+
+msgid "Order Statistics"
+msgstr "آمار سفارشات"
+
+msgid "Today's Orders Completed"
+msgstr "سفارشات تکمیل‌شده امروز"
+
+msgid "Total Orders Completed"
+msgstr "کل سفارشات تکمیل‌شده"
+
+msgid "Imported Products"
+msgstr "محصولات ایمپورت‌شده"
+
+msgid "Recent Activity"
+msgstr "فعالیت‌های اخیر"
+
+msgid "Overview dashboard loaded"
+msgstr "داشبورد نمای کلی بارگذاری شد"
+
+msgid "Just now"
+msgstr "همین الان"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "از اینجا می‌توانید محصولات، تحلیل‌ها و بازاریابی ایمیلی را مدیریت کنید"
+
+msgid "Ready"
+msgstr "آماده"
+
+msgid "Configure plugin settings and API keys"
+msgstr "تنظیمات افزونه و کلیدهای API را پیکربندی کنید"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "افزونه Vortem.ai آماده است. از اینجا می‌توانید محصولات، تحلیل‌ها و بازاریابی ایمیلی را مدیریت کنید."
+
+msgid "Vortem.ai official website"
+msgstr "وب‌سایت رسمی Vortem.ai"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "مرور، یادگیری و مدیریت حساب کاربری"
+
+msgid "Quick Access"
+msgstr "دسترسی سریع"
+
+msgid "Return to dashboard home"
+msgstr "بازگشت به صفحه اصلی داشبورد"
+
+msgid "Go to Home"
+msgstr "رفتن به خانه"
+
+msgid "Profile, settings, and preferences"
+msgstr "پروفایل، تنظیمات و ترجیحات"
+
+msgid "Help & Learning"
+msgstr "کمک و یادگیری"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "کمک بگیرید، تیکت ارسال کنید یا با پشتیبانی تماس بگیرید"
+
+msgid "Get Support"
+msgstr "دریافت پشتیبانی"
+
+msgid "Developer & user guides"
+msgstr "راهنماهای توسعه‌دهنده و کاربر"
+
+msgid "Read Docs"
+msgstr "مطالعه مستندات"
+
+msgid "Legal & Policies"
+msgstr "قانونی و سیاست‌ها"
+
+msgid "Terms of Service"
+msgstr "شرایط استفاده از خدمات"
+
+msgid "Usage terms and conditions"
+msgstr "شرایط و ضوابط استفاده"
+
+msgid "View"
+msgstr "مشاهده"
+
+msgid "Privacy Policy"
+msgstr "سیاست حفظ حریم خصوصی"
+
+msgid "Data protection and privacy"
+msgstr "حفاظت و حریم خصوصی داده‌ها"
+
+msgid "Navigation to vortem wordpress"
+msgstr "مسیریابی به Vortem وردپرس"
+
+msgid "Access key features and settings"
+msgstr "دسترسی به امکانات و تنظیمات کلیدی"
+
+msgid "Manage catalog and inventory"
+msgstr "مدیریت کاتالوگ و موجودی"
+
+msgid "Business insights and metrics"
+msgstr "بینش‌ها و معیارهای کسب‌وکار"
+
+msgid "Growth & Intelligence"
+msgstr "رشد و هوش"
+
+msgid "Campaigns and automation"
+msgstr "کمپین‌ها و اتوماسیون"
+
+msgid "AI-powered recommendations"
+msgstr "توصیه‌های هوش مصنوعی"
+
+msgid "Manage orders and shipments"
+msgstr "مدیریت سفارشات و ارسال"
+
+msgid "System"
+msgstr "سیستم"
+
+msgid "Knowledge base editor"
+msgstr "ویرایشگر پایگاه دانش"
+
+msgid "Access control and monitoring"
+msgstr "کنترل دسترسی و نظارت"
+
+msgid "System configuration"
+msgstr "پیکربندی سیستم"
+
+msgid "Emails Sent"
+msgstr "ایمیل‌های ارسال‌شده"
+
+msgid "Orders"
+msgstr "سفارشات"
+
+msgid "Total products"
+msgstr "کل محصولات"
+
+msgid "Imported via plugin"
+msgstr "ایمپورت‌شده از طریق افزونه"
+
+msgid "Other products"
+msgstr "سایر محصولات"
+
+msgid "Manage"
+msgstr "مدیریت"
+
+msgid "bounce"
+msgstr "پرش"
+
+
+msgid "Dashboard"
+msgstr "داشبورد"
+
+msgid "Plugin"
+msgstr "افزونه"
+
+msgid "External"
+msgstr "خارجی"
+
+msgid "Navigation to vortem WordPress"
+msgstr "پیمایش به vortem WordPress"
+
+msgid "Commerce"
+msgstr "تجارت"
+
+msgid "Timeline"
+msgstr "جدول زمانی"
+
+msgid "Security Center"
+msgstr "مرکز امنیت"
+
+msgid "Display"
+msgstr "نمایش"
+
+msgid "How products and currency are presented in your store."
+msgstr "نحوه نمایش محصولات و واحد پول در فروشگاه شما."
+
+msgid "Products per page"
+msgstr "محصولات در هر صفحه"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "پیش‌فرض: 16. محدوده: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "واحد پولی که در قیمت‌گذاری افزونه استفاده می‌شود. برای ذخیره انتخاب خود روی «به‌روزرسانی» کلیک کنید."
+
+msgid "Media"
+msgstr "رسانه"
+
+msgid "Control how product videos are imported and attached."
+msgstr "نحوه وارد کردن و پیوست ویدیوهای محصول را کنترل کنید."
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "وقتی فعال است، ویدیوهای محصول به طور خودکار به توضیحات افزوده می‌شوند. برای مدیریت دستی ویدیوها غیرفعال کنید."
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "وقتی غیرفعال است، ویدیوها برای قالب‌های Vortem Clothes، Vortem Cosmetic و xstore دانلود نمی‌شوند — در فضای ذخیره‌سازی صرفه‌جویی می‌کند."
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "دانلود ویدیوها برای قالب‌های Vortem و xstore"
+
+msgid "Integrations"
+msgstr "یکپارچه‌سازی‌ها"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "حساب‌های خارجی را متصل کنید تا تأمین و انجام سفارش را گسترش دهید."
+
+msgid "Update"
+msgstr "به‌روزرسانی"
+
+msgid "Last updated"
+msgstr "آخرین به‌روزرسانی"
+
+msgid "Setup"
+msgstr "راه‌اندازی"
+
+msgid "Let's get you started"
+msgstr "بیایید شروع کنیم"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "راه‌اندازی را در حدود ۲ دقیقه تکمیل کنید."
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "قابلیت‌های واردات محصول Vortem به حساب AliExpress نیاز دارد."
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "بعداً آن را در تنظیمات → Vortem → یکپارچه‌سازی AliExpress متصل می‌کنید. هنوز حساب ندارید؟ می‌توانید از همانجا ثبت‌نام کنید."
+
+msgid "Up and running in minutes."
+msgstr "در چند دقیقه آماده به کار."
+
+msgid "Built with WordPress security best practices."
+msgstr "ساخته‌شده مطابق بهترین شیوه‌های امنیتی وردپرس."
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "سبک و هماهنگ با وردپرس."
+
+msgid "Store basics"
+msgstr "مبانی فروشگاه"
+
+msgid "Pick your store currency"
+msgstr "ارز فروشگاه را انتخاب کنید"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "این چیزی است که مشتریان در تسویه می‌بینند. بعداً می‌توانید تغییر دهید."
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "در کارت محصول، سبد خرید و تسویه استفاده می‌شود."
+
+msgid "Almost there"
+msgstr "تقریباً تمام است"
+
+msgid "Review and accept"
+msgstr "بررسی و پذیرش"
+
+msgid "Read the full Terms"
+msgstr "خواندن کامل شرایط"
+
+msgid "You agree to be bound by these terms."
+msgstr "می‌پذیرید که به این شرایط متعهد شوید."
+
+msgid "I consent to data processing"
+msgstr "رضایت می‌دهم به پردازش داده‌ها"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "می‌فهمم و موافقم که این افزونه داده‌های سایت من (آدرس سایت، نسخه وردپرس، نسخه افزونه، ترجیح ارز، داده‌های محصول ووکامرس هنگام واردات، اطلاعات حمل هنگام پردازش سفارش‌ها و فراداده افزونه/قالب هنگام استفاده از امکانات امنیتی) را به سرورهای vortem.ai (https://c.vortem.ai) برای پردازش، تحلیل و ارائه خدمات ارسال کند. پیش از رضایت صریح شما داده‌ای ارسال نمی‌شود و افزونه در صورت رد هم کار می‌کند (ویژگی‌های وابسته به vortem.ai در دسترس نخواهند بود). ارسال فهرست افزونه‌ها/قالب‌های نصب‌شده برای جستجوی آسیب‌پذیری از همان الگوی Wordfence، Patchstack، WPScan و Jetpack Protect پیروی می‌کند."
+
+msgid "All done"
+msgstr "انجام شد"
+
+msgid "You're all set!"
+msgstr "همه چیز آماده است!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem پیکربندی شده و آماده است. هر زمان آماده بودید AliExpress را از تنظیمات متصل کنید."
+
+msgid "Accepted"
+msgstr "پذیرفته شد"
+
+msgid "Consented"
+msgstr "رضایت داده شد"
+
+msgid "Data processing"
+msgstr "پردازش داده‌ها"
+
+msgid "Meta Title"
+msgstr "عنوان متا"
+
+msgid "Order"
+msgstr "سفارش"
+
+msgid "Customer"
+msgstr "مشتری"
+
+msgid "Items"
+msgstr "اقلام"
+
+msgid "Payment"
+msgstr "پرداخت"

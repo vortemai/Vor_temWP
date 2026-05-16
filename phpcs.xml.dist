@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<ruleset name="Vortem AI">
+    <description>WordPress.org-grade coding standards for the Vortem AI plugin.</description>
+
+    <config name="text_domain" value="vortem-ai"/>
+    <config name="testVersion" value="7.4-"/>
+    <config name="minimum_supported_wp_version" value="6.0"/>
+
+    <!-- Run from the plugin root by default. -->
+    <file>.</file>
+
+    <!-- Files / dirs that should never be linted. -->
+    <exclude-pattern>*/vendor/*</exclude-pattern>
+    <exclude-pattern>*/node_modules/*</exclude-pattern>
+    <exclude-pattern>*/assets/vendor/*</exclude-pattern>
+    <exclude-pattern>*/build/*</exclude-pattern>
+    <exclude-pattern>*/dist/*</exclude-pattern>
+    <exclude-pattern>*.min.js</exclude-pattern>
+    <exclude-pattern>*.min.css</exclude-pattern>
+    <exclude-pattern>.claude/*</exclude-pattern>
+    <!-- Translation array files: 50k+ short strings per locale; sniffing them
+         contributes no signal and dominates the report. -->
+    <exclude-pattern>*/languages/*</exclude-pattern>
+
+    <!-- Show progress; show source codes so suppressions can name the rule. -->
+    <arg value="ps"/>
+    <arg name="colors"/>
+    <arg name="extensions" value="php"/>
+    <arg name="parallel" value="8"/>
+
+    <!-- Apply the full WordPress ruleset (Core + Extra + Docs). -->
+    <rule ref="WordPress"/>
+
+    <!-- Run PHP version-compatibility checks against the declared floor. -->
+    <rule ref="PHPCompatibilityWP"/>
+
+    <!-- Pin the Vortem AI prefix family. -->
+    <rule ref="WordPress.NamingConventions.PrefixAllGlobals">
+        <properties>
+            <property name="prefixes" type="array">
+                <element value="vortem"/>
+                <element value="VORTEM"/>
+                <element value="Vortem"/>
+            </property>
+        </properties>
+    </rule>
+
+    <!-- Pin the text domain for i18n sniffs. -->
+    <rule ref="WordPress.WP.I18n">
+        <properties>
+            <property name="text_domain" type="array">
+                <element value="vortem-ai"/>
+            </property>
+        </properties>
+    </rule>
+
+    <!--
+        Cosmetic / docblock noise. WordPress.org doesn't reject for these and
+        they dominate the report, hiding the real signal. Suppress.
+    -->
+    <rule ref="Squiz.Commenting.FileComment.Missing"><severity>0</severity></rule>
+    <rule ref="Squiz.Commenting.ClassComment.Missing"><severity>0</severity></rule>
+    <rule ref="Squiz.Commenting.FunctionComment.Missing"><severity>0</severity></rule>
+    <rule ref="Squiz.Commenting.FunctionComment.MissingParamTag"><severity>0</severity></rule>
+    <rule ref="Squiz.Commenting.FunctionComment.MissingParamComment"><severity>0</severity></rule>
+    <rule ref="Squiz.Commenting.FunctionComment.ParamCommentFullStop"><severity>0</severity></rule>
+    <rule ref="Squiz.Commenting.FunctionCommentThrowTag.Missing"><severity>0</severity></rule>
+    <rule ref="Squiz.Commenting.InlineComment.InvalidEndChar"><severity>0</severity></rule>
+    <rule ref="Squiz.Commenting.BlockComment.NoEmptyLineBefore"><severity>0</severity></rule>
+    <rule ref="Squiz.Commenting.BlockComment.NoCapital"><severity>0</severity></rule>
+    <rule ref="Squiz.PHP.CommentedOutCode.Found"><severity>0</severity></rule>
+
+    <!-- Yoda conditions are a WP style preference, not a correctness rule. -->
+    <rule ref="WordPress.PHP.YodaConditions.NotYoda"><severity>0</severity></rule>
+
+    <!-- API response keys (e.g. product_id, page_size) come back from a JSON
+         decode and aren't real PHP variable names. Suppress the snake-case
+         lint for those. -->
+    <rule ref="WordPress.NamingConventions.ValidVariableName.VariableNotSnakeCase"><severity>0</severity></rule>
+
+    <!-- Reserved-keyword param names like `$default` are common in WP API. -->
+    <rule ref="Universal.NamingConventions.NoReservedKeywordParameterNames"><severity>0</severity></rule>
+
+    <!-- Plugin-specific custom capabilities (`vortem_manage` etc) are flagged
+         as "unknown" by the sniff but are intentional. -->
+    <rule ref="WordPress.WP.Capabilities.Unknown"><severity>0</severity></rule>
+
+    <!-- Cosmetic: unused parameters in interface-style methods. -->
+    <rule ref="Generic.CodeAnalysis.UnusedFunctionParameter"><severity>0</severity></rule>
+
+    <!-- Cosmetic: lonely-if and short-if-in-else style. -->
+    <rule ref="Universal.ControlStructures.DisallowLonelyIf.Found"><severity>0</severity></rule>
+
+    <!-- Cosmetic: control-structure spacing variations. -->
+    <rule ref="Squiz.ControlStructures.ControlSignature.SpaceAfterCloseBrace"><severity>0</severity></rule>
+
+    <!-- Main plugin file is named after the slug (vortem.php), not the bootstrap
+         class (Vortem_AI). The class lives there because it's the activation
+         entrypoint. Suppress the class-file-naming check for the main file only. -->
+    <rule ref="WordPress.Files.FileName.InvalidClassFileName">
+        <exclude-pattern>vortem.php</exclude-pattern>
+    </rule>
+    <rule ref="Universal.Files.SeparateFunctionsFromOO.Mixed">
+        <exclude-pattern>vortem.php</exclude-pattern>
+    </rule>
+
+    <!-- Allow short ternary `?:` and short array `[]` syntax (modern PHP). -->
+    <rule ref="Universal.Operators.DisallowShortTernary.Found">
+        <severity>0</severity>
+    </rule>
+    <rule ref="Generic.Arrays.DisallowShortArraySyntax">
+        <severity>0</severity>
+    </rule>
+</ruleset>

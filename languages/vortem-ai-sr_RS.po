@@ -1,0 +1,3000 @@
+# Translation of Vortem AI in sr_RS
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr_RS\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "zahteva da WooCommerce bude instaliran i aktiviran."
+
+msgid "or higher. You are running version"
+msgstr "ili noviju. Trenutno koristite verziju"
+
+msgid "Welcome to vortem.ai!"
+msgstr "Dobrodošli u vortem.ai!"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "Vortem.ai čarobnjak za podešavanje"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "Hvala vam što ste izabrali vortem.ai dodatak. Ovaj čarobnjak će vam pomoći da brzo i lako podesite svoju prodavnicu."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "Za korišćenje usluga prodaje proizvoda Vortem potreban vam je AliExpress nalog. Možete povezati svoj nalog iz Podešavanja → Vortem prijava → AliExpress integracija. Ako nemate nalog, možete se registrovati direktno odatle."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "Za korišćenje usluga prodaje proizvoda Vortem potreban vam je AliExpress nalog."
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "Možete povezati svoj nalog iz Podešavanja → Vortem prijava → AliExpress integracija."
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "Ako nemate nalog, možete se registrovati direktno odatle."
+
+msgid "Select Language"
+msgstr "Izaberi jezik"
+
+msgid "Select Currency"
+msgstr "Izaberi valutu"
+
+msgid "Complete Setup"
+msgstr "Završi podešavanje"
+
+msgid "What you'll get:"
+msgstr "Šta ćete dobiti:"
+
+msgid "Automated product synchronization"
+msgstr "Automatska sinhronizacija proizvoda"
+
+msgid "Order management and processing"
+msgstr "Upravljanje i obrada narudžbi"
+
+msgid "Real-time inventory updates"
+msgstr "Ažuriranja zaliha u realnom vremenu"
+
+msgid "Easy-to-use admin interface"
+msgstr "Jednostavno administrativno okruženje"
+
+msgid "24/7 customer support"
+msgstr "Podrška korisnicima 24/7"
+
+msgid "Contact Support"
+msgstr "Kontaktiraj podršku"
+
+msgid "Import Products"
+msgstr "Uvezi proizvode"
+
+msgid "Configure Settings"
+msgstr "Konfiguriši podešavanja"
+
+msgid "Setup Complete!"
+msgstr "Podešavanje završeno!"
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "Podešavanje će trajati otprilike 2-3 minuta."
+
+msgid "Terms & Conditions"
+msgstr "Uslovi korišćenja"
+
+msgid "1. License Agreement"
+msgstr "1. Ugovor o licenci"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "Korišćenjem ovog dodatka, slažete se sa poštovanjem svih važećih zakona i propisa. Dodatak se isporučuje pod GPL v2 ili novijom licencom."
+
+msgid "Sign up"
+msgstr "Registracija"
+
+msgid "Sign up to get started"
+msgstr "Registrujte se da biste počeli"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "Čestitamo! Vaš vortem.ai dodatak je uspešno konfigurisan."
+
+msgid "What's next?"
+msgstr "Šta dalje?"
+
+msgid "Need Help?"
+msgstr "Potrebna vam je pomoć?"
+
+msgid "Our support team is here to help you get started."
+msgstr "Naš tim za podršku je tu da vam pomogne da počnete."
+
+msgid "Step %1$d of %2$d"
+msgstr "Korak %1$d od %2$d"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "Pročitao sam i slažem se sa %1$sUslovima korišćenja%2$s"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "Uslovi korišćenja vortem.ai dodatka"
+
+msgid "1. authentication Agreement"
+msgstr "1. Ugovor o autentifikaciji"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "Korišćenjem ovog dodatka, slažete se sa svim važećim zakonima. Dodatak se isporučuje pod GPL v2 ili novijom licencom."
+
+msgid "2. Data Usage"
+msgstr "2. Upotreba podataka"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "Prikupljamo i obrađujemo podatke neophodne za rad usluge, uključujući informacije o proizvodima, detalje porudžbina i podatke o kupcima. Svi podaci se obrađuju u skladu sa našom politikom privatnosti."
+
+msgid "3. Service Availability"
+msgstr "3. Dostupnost usluge"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "Iako se trudimo da održimo visoku dostupnost, ne možemo garantovati rad bez prekida. Zadržavamo pravo na održavanje i ažuriranje po potrebi."
+
+msgid "4. Support"
+msgstr "4. Podrška"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "Tehnička podrška se pruža putem naših kanala. Vreme odgovora zavisi od složenosti problema."
+
+msgid "5. Updates"
+msgstr "5. Ažuriranja"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "Ažuriranja se pružaju radi poboljšanja funkcionalnosti i bezbednosti. Preporučuje se da dodatak uvek bude ažuriran na najnoviju verziju."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "Unesite svoj Vortem.ai ključ za autentifikaciju da biste aktivirali dodatak i pristupili svim funkcijama."
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "Svoj ključ možete pronaći na kontrolnoj tabli vašeg Vortem.ai naloga."
+
+msgid "Need help?"
+msgstr "Potrebna pomoć?"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "Završite čarobnjaka da biste konfigurisali autentifikaciju i počeli."
+
+msgid "Vortem.ai Overview"
+msgstr "Vortem.ai Pregled"
+
+msgid "Vortem.ai Products"
+msgstr "Vortem.ai Proizvodi"
+
+msgid "Vortem.ai Settings"
+msgstr "Vortem.ai Podešavanja"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "Konfigurišite Vortem.ai podešavanja ispod."
+
+msgid "Saving settings and validating authentication..."
+msgstr "Čuvanje podešavanja i validacija..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "Podešavanje završeno - Vaš Vortem.ai dodatak je spreman za upotrebu!"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "Izaberite jezik interfejsa. Promene će stupiti na snagu nakon čuvanja."
+
+msgid "Vortem.ai AI Resources"
+msgstr "Vortem.ai AI resursi"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "Pristupite svom Vortem.ai AI nalogu"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "Pristupite svom Vortem.ai AI nalogu i resursima:"
+
+msgid "Home"
+msgstr "Početna"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "Posetite Vortem.ai AI početnu stranicu"
+
+msgid "Visit Site"
+msgstr "Poseti sajt"
+
+msgid "My Account"
+msgstr "Moj nalog"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "Upravljajte podešavanjima naloga"
+
+msgid "Support"
+msgstr "Podrška"
+
+msgid "Get help and support from our team"
+msgstr "Zatražite pomoć od našeg tima"
+
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "Pročitajte vodiče i uputstva"
+
+msgid "Terms"
+msgstr "Услови"
+
+msgid "Review terms and conditions"
+msgstr "Pregledajte uslove korišćenja"
+
+msgid "Privacy"
+msgstr "Privatnost"
+
+msgid "View our privacy policy"
+msgstr "Pogledajte našu politiku privatnosti"
+
+msgid "error"
+msgstr "greška"
+
+msgid "success"
+msgstr "uspeh"
+
+msgid "cancel"
+msgstr "otkaži"
+
+msgid "delete"
+msgstr "obriši"
+
+msgid "deleting"
+msgstr "brisanje..."
+
+msgid "edit"
+msgstr "izmeni"
+
+msgid "close"
+msgstr "zatvori"
+
+msgid "confirm"
+msgstr "potvrdi"
+
+msgid "refresh"
+msgstr "osveži"
+
+msgid "import"
+msgstr "uvezi"
+
+msgid "actions"
+msgstr "akcije"
+
+msgid "status"
+msgstr "status"
+
+msgid "date"
+msgstr "datum"
+
+msgid "subject"
+msgstr "naslov"
+
+msgid "recipient"
+msgstr "primalac"
+
+msgid "total"
+msgstr "ukupno"
+
+msgid "items"
+msgstr "stavke"
+
+msgid "customer"
+msgstr "kupac"
+
+msgid "order"
+msgstr "porudžbina"
+
+msgid "payment"
+msgstr "plaćanje"
+
+msgid "active"
+msgstr "aktivno"
+
+msgid "inactive"
+msgstr "neaktivno"
+
+msgid "cards"
+msgstr "kartice"
+
+msgid "table"
+msgstr "tabela"
+
+msgid "select"
+msgstr "izaberi"
+
+msgid "sent"
+msgstr "poslato"
+
+msgid "left"
+msgstr "preostalo"
+
+msgid "resets"
+msgstr "resetuje se"
+
+msgid "view_more"
+msgstr "vidi više"
+
+msgid "performance"
+msgstr "performanse"
+
+msgid "insights"
+msgstr "uvidi"
+
+msgid "metrics"
+msgstr "metrike"
+
+msgid "device"
+msgstr "uređaj"
+
+msgid "locale"
+msgstr "lokalizacija"
+
+msgid "channel"
+msgstr "kanal"
+
+msgid "desktop"
+msgstr "desktop"
+
+msgid "mobile"
+msgstr "mobilni"
+
+msgid "retry"
+msgstr "pokušaj ponovo"
+
+msgid "failed"
+msgstr "neuspelo"
+
+msgid "support"
+msgstr "4. Podrška"
+
+msgid "documentation"
+msgstr "dokumentacija"
+
+msgid "are_you_sure"
+msgstr "da li ste sigurni?"
+
+msgid "clear"
+msgstr "očisti"
+
+msgid "preview"
+msgstr "pregled"
+
+msgid "send_email"
+msgstr "pošalji email"
+
+msgid "recipients"
+msgstr "primaoci"
+
+msgid "question"
+msgstr "pitanje"
+
+msgid "answer"
+msgstr "odgovor"
+
+msgid "category"
+msgstr "Kategorija:"
+
+msgid "category:"
+msgstr "Kategorija:"
+
+msgid "showing"
+msgstr "prikazivanje"
+
+msgid "faqs"
+msgstr "FAQ"
+
+msgid "all_categories"
+msgstr "Sve kategorije"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "Kako želite da kreirate Često postavljana pitanja (FAQ)?"
+
+msgid "Single FAQ"
+msgstr "Pojedinačno pitanje"
+
+msgid "Bulk FAQs"
+msgstr "Masovna pitanja"
+
+msgid "no_faqs_added_yet"
+msgstr "Još uvek nema dodatih pitanja. Dodajte prvo pitanje levo."
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "Još uvek nema dodatih pitanja. Dodajte prvo pitanje levo."
+
+msgid "Added FAQs"
+msgstr "Dodata pitanja"
+
+msgid "created"
+msgstr "kreirano"
+
+msgid "search_faqs"
+msgstr "pretraži FAQ..."
+
+msgid "update_faq"
+msgstr "ažuriraj FAQ"
+
+msgid "category_label"
+msgstr "Kategorija *"
+
+msgid "select_existing_category_optional"
+msgstr "Izaberi postojeću kategoriju (opciono)"
+
+msgid "create_faq"
+msgstr "kreiraj FAQ"
+
+msgid "delete_faq"
+msgstr "obriši FAQ"
+
+msgid "delete_category"
+msgstr "Obriši kategoriju"
+
+msgid "delete_category_faqs_confirm"
+msgstr "Da li ste sigurni da želite da obrišete sva pitanja u kategoriji \"%s\"? Ova akcija je nepovratna."
+
+msgid "category_faqs_deleted"
+msgstr "Sva pitanja u kategoriji \"%s\" su obrisana."
+
+msgid "failed_to_delete_category_faqs"
+msgstr "Brisanje pitanja za ovu kategoriju nije uspelo. Pokušajte ponovo."
+
+msgid "category_id_not_found"
+msgstr "ID kategorije nije pronađen."
+
+msgid "orders"
+msgstr "porudžbine"
+
+msgid "search_orders_by_number_customer_name_or_email"
+msgstr "pretraži porudžbine po broju, imenu ili emailu..."
+
+msgid "last_updated"
+msgstr "Poslednji put ažurirano:"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "ANALITIČKA TABLA"
+
+msgid "Business Intelligence"
+msgstr "Poslovna inteligencija (BI)"
+
+msgid "Analytics Hub"
+msgstr "Analitički centar"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "Sveobuhvatna analitika pokretana veštačkom inteligencijom za donošenje odluka na osnovu podataka"
+
+msgid "Performance Overview"
+msgstr "Pregled performansi"
+
+msgid "Key performance indicators at a glance"
+msgstr "Ključni indikatori na prvi pogled"
+
+msgid "Analytics Insights"
+msgstr "Analitički uvidi"
+
+msgid "Deep dive into performance metrics"
+msgstr "Duboka analiza učinka"
+
+msgid "Customer Intelligence"
+msgstr "Inteligencija kupaca"
+
+msgid "Understand customer behavior and trends"
+msgstr "Razumevanje ponašanja i trendova kupaca"
+
+msgid "Market Analysis"
+msgstr "Analiza tržišta"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "Sveobuhvatno poređenje tržišta"
+
+msgid "Data Intelligence"
+msgstr "Inteligencija podataka"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "Detaljne tabele i uvidi u cene"
+
+msgid "Product"
+msgstr "Proizvod"
+
+msgid "Products"
+msgstr "Proizvodi"
+
+msgid "Average"
+msgstr "Prosek"
+
+msgid "No products found"
+msgstr "Proizvodi nisu pronađeni"
+
+msgid "Close"
+msgstr "Zatvori"
+
+msgid "All KPI Products"
+msgstr "Svi KPI proizvodi"
+
+msgid "Top KPI Products"
+msgstr "Vrhunski KPI proizvodi"
+
+msgid "Product ID"
+msgstr "ID Proizvoda"
+
+msgid "Product Title"
+msgstr "Naziv proizvoda"
+
+msgid "Base Price"
+msgstr "Osnovna cena"
+
+msgid "Low-Risk Price"
+msgstr "Cena niskog rizika"
+
+msgid "Competitive Price"
+msgstr "Konkurentna cena"
+
+msgid "High-Risk Price"
+msgstr "Cena visokog rizika"
+
+msgid "Untitled Product"
+msgstr "Neimenovani proizvod"
+
+msgid "All Trend Index Products"
+msgstr "Svi proizvodi trend indeksa"
+
+msgid "Trend Index by Product"
+msgstr "Trend indeks po proizvodu"
+
+msgid "Product Name"
+msgstr "Naziv proizvoda"
+
+msgid "Price vs Rating"
+msgstr "Cena naspram ocene"
+
+msgid "Price"
+msgstr "Cena"
+
+msgid "Rating"
+msgstr "Ocena"
+
+msgid "Reviews"
+msgstr "Recenzije"
+
+msgid "CTR"
+msgstr "CTR"
+
+msgid "CVR"
+msgstr "CVR"
+
+msgid "Average Price"
+msgstr "Prosečna cena"
+
+msgid "Average Rating"
+msgstr "Prosečna ocena"
+
+msgid "Product Count"
+msgstr "Broj proizvoda"
+
+msgid "Avg Price"
+msgstr "Pros. cena"
+
+msgid "Avg Rating"
+msgstr "Pros. ocena"
+
+msgid "Failed to load"
+msgstr "Učitavanje neuspešno"
+
+msgid "products"
+msgstr "proizvodi"
+
+msgid "product"
+msgstr "proizvod"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "Trend indeks"
+
+msgid "Profitability"
+msgstr "Profitabilnost"
+
+msgid "Competition"
+msgstr "Konkurencija"
+
+msgid "Demand Stability"
+msgstr "Stabilnost potražnje"
+
+msgid "View All"
+msgstr "Vidi sve"
+
+msgid "price rating data"
+msgstr "podaci o ceni i ocenama"
+
+msgid "Total Reviews"
+msgstr "Ukupno recenzija"
+
+msgid "Avg Reviews"
+msgstr "Prosečno recenzija"
+
+msgid "Overall Sentiment"
+msgstr "Opšti sentiment"
+
+msgid "Positive"
+msgstr "Позитивно"
+
+msgid "Neutral"
+msgstr "Неутрално"
+
+msgid "Negative"
+msgstr "Негативно"
+
+msgid "Trend Status Overview"
+msgstr "Pregled statusa trenda"
+
+msgid "Rising"
+msgstr "U porastu"
+
+msgid "Stable"
+msgstr "Stabilno"
+
+msgid "Declining"
+msgstr "U opadanju"
+
+msgid "sentiment data"
+msgstr "podaci o sentimentu"
+
+msgid "trend status data"
+msgstr "podaci o statusu trenda"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "All Categories"
+msgstr "Sve kategorije"
+
+msgid "Count"
+msgstr "Broj"
+
+msgid "Percentage"
+msgstr "Procenat"
+
+msgid "Market Comparison (by Source)"
+msgstr "Poređenje tržišta (po izvoru)"
+
+msgid "Market"
+msgstr "Tržište"
+
+msgid "Best seller"
+msgstr "Najprodavanije"
+
+msgid "Movers and shakers"
+msgstr "Najpopularnije"
+
+msgid "New releases"
+msgstr "Nova izdanja"
+
+msgid "market comparison data"
+msgstr "podaci poređenja tržišta"
+
+msgid "Category Comparison"
+msgstr "Poređenje kategorija"
+
+msgid "Category Comparison - All Data"
+msgstr "Poređenje kategorija - Svi podaci"
+
+msgid "Categories"
+msgstr "Kategorije"
+
+msgid "Metrics"
+msgstr "Metrike"
+
+msgid "Avg Sold"
+msgstr "Pros. prodato"
+
+msgid "Avg FPSI"
+msgstr "Pros. FPSI"
+
+msgid "N/A"
+msgstr "Nije dostupno"
+
+msgid "value"
+msgstr "vrednost"
+
+msgid "Unknown"
+msgstr "Nepoznato"
+
+msgid "category comparison data"
+msgstr "podaci poređenja kategorija"
+
+msgid "Amazon Device"
+msgstr "Amazon uređaj"
+
+msgid "Appliances"
+msgstr "Kućni aparati"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "Umetnost i hobi"
+
+msgid "Automotive"
+msgstr "Auto-moto"
+
+msgid "Baby Products"
+msgstr "Proizvodi za bebe"
+
+msgid "Baby"
+msgstr "Bebe"
+
+msgid "Beauty & Personal Care"
+msgstr "Lepota i lična nega"
+
+msgid "Cell Phones & Accessories"
+msgstr "Mobilni telefoni i oprema"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "Odeća, obuća i nakit"
+
+msgid "Collectibles & Fine Art"
+msgstr "Kolekcionarstvo i umetnost"
+
+msgid "Electronics"
+msgstr "Elektronika"
+
+msgid "Health & Household"
+msgstr "Zdravlje i domaćinstvo"
+
+msgid "Home & Kitchen"
+msgstr "Kuća i kuhinja"
+
+msgid "Industrial & Scientific"
+msgstr "Industrija i nauka"
+
+msgid "Musical Instruments"
+msgstr "Muzički instrumenti"
+
+msgid "No category found"
+msgstr "Kategorija nije pronađena"
+
+msgid "Office Products"
+msgstr "Kancelarijski materijal"
+
+msgid "Patio, Lawn & Garden"
+msgstr "Dvorište i bašta"
+
+msgid "Safety & Security"
+msgstr "Bezbednost i sigurnost"
+
+msgid "Tools & Home Improvement"
+msgstr "Alati i renoviranje"
+
+msgid "Toys & Games"
+msgstr "Igračke i igre"
+
+msgid "Suggested Pricing"
+msgstr "Predložena cena"
+
+msgid "All Suggested Pricing"
+msgstr "Sve predložene cene"
+
+msgid "suggested pricing data"
+msgstr "podaci predloženih cena"
+
+msgid "Search products..."
+msgstr "Pretraži proizvode..."
+
+msgid "Search products or categories..."
+msgstr "Pretraži proizvode ili kategorije..."
+
+msgid "Insights"
+msgstr "Увиди"
+
+msgid "Performance insights for"
+msgstr "Uvidi u performanse za"
+
+msgid "your website"
+msgstr "vaš sajt"
+
+msgid "Desktop"
+msgstr "Десктоп"
+
+msgid "Mobile"
+msgstr "Мобилни"
+
+msgid "Refresh"
+msgstr "Osveži"
+
+msgid "Loading..."
+msgstr "Učitavanje..."
+
+msgid "Core Web Vitals"
+msgstr "Core Web Vitals"
+
+msgid "Performance Audits"
+msgstr "Revizije performansi"
+
+msgid "View More"
+msgstr "Vidi više"
+
+msgid "Performance Insights"
+msgstr "Uvidi u performanse"
+
+msgid "Analysis Configuration"
+msgstr "Konfiguracija analize"
+
+msgid "Device"
+msgstr "Uređaj"
+
+msgid "Locale"
+msgstr "Lokalizacija"
+
+msgid "Channel"
+msgstr "Kanal"
+
+msgid "Loading Insights data..."
+msgstr "Učitavanje podataka..."
+
+msgid "Error Loading Insights Data"
+msgstr "Greška pri učitavanju podataka"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "Došlo je do greške pri preuzimanju podataka."
+
+msgid "Retry"
+msgstr "Pokušaj ponovo"
+
+msgid "No Insights Data Available"
+msgstr "Nema dostupnih podataka"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "Nema dostupnih podataka analize performansi."
+
+msgid "Last analyzed:"
+msgstr "Poslednja analiza:"
+
+msgid "Performance"
+msgstr "Перформансе"
+
+msgid "Accessibility"
+msgstr "Pristupačnost"
+
+msgid "Best Practices"
+msgstr "Najbolje prakse"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "No performance metrics available"
+msgstr "Metrike učinka nisu dostupne"
+
+msgid "No audit data available"
+msgstr "Podaci revizije nisu dostupni"
+
+msgid "No audits available"
+msgstr "Revizije nisu dostupne"
+
+msgid "View Less"
+msgstr "Vidi manje"
+
+msgid "more"
+msgstr "više"
+
+msgid "No insights available"
+msgstr "Uvidi nisu dostupni"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "Problemi sa performansama nisu otkriveni. Vaš sajt radi dobro!"
+
+msgid "Wasted:"
+msgstr "Protraćeno:"
+
+msgid "Initializing..."
+msgstr "Inicijalizacija..."
+
+msgid "Connecting to server..."
+msgstr "Povezivanje sa serverom..."
+
+msgid "Fetching insights data..."
+msgstr "Preuzimanje podataka..."
+
+msgid "Analyzing performance metrics..."
+msgstr "Analiza metrika..."
+
+msgid "Processing audits and insights..."
+msgstr "Obrada revizija..."
+
+msgid "Finalizing results..."
+msgstr "Finalizacija rezultata..."
+
+msgid "Complete!"
+msgstr "Završeno!"
+
+msgid "Failed to load Insights data"
+msgstr "Učitavanje podataka nije uspelo"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "Učitavanje neuspešno. Proverite vezu i pokušajte ponovo."
+
+msgid "No data available"
+msgstr "Nema dostupnih podataka"
+
+msgid "Excellent"
+msgstr "Odlično"
+
+msgid "Needs Improvement"
+msgstr "Potrebno poboljšanje"
+
+msgid "Poor"
+msgstr "Loše"
+
+msgid "Unknown error"
+msgstr "Nepoznata greška"
+
+msgid "Email Marketing"
+msgstr "Е-маил маркетинг"
+
+msgid "Manage, send, and track your emails"
+msgstr "Upravljajte, šaljite i pratite svoje emailove"
+
+msgid "Emails"
+msgstr "Emailovi"
+
+msgid "Lists"
+msgstr "Liste"
+
+msgid "Create Email"
+msgstr "Kreiraj email"
+
+msgid "Search emails..."
+msgstr "Pretraži emailove..."
+
+msgid "Cards"
+msgstr "Kartice"
+
+msgid "Table"
+msgstr "Tabela"
+
+msgid "Select"
+msgstr "Izaberi"
+
+msgid "Delete"
+msgstr "Obriši"
+
+msgid "Recipient"
+msgstr "Primalac"
+
+msgid "Subject"
+msgstr "Naslov"
+
+msgid "Created"
+msgstr "Kreirano"
+
+msgid "Actions"
+msgstr "Akcije"
+
+msgid "Email Lists"
+msgstr "Email liste"
+
+msgid "Manage, send, and track your email lists"
+msgstr "Upravljajte svojim email listama"
+
+msgid "Create Email List"
+msgstr "Kreiraj email listu"
+
+msgid "Search lists..."
+msgstr "Pretraži liste..."
+
+msgid "Download Template"
+msgstr "Preuzmi šablon"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "Preuzmi email-recipient.xlsx šablon"
+
+msgid "Upload Template"
+msgstr "Otpremi šablon"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "Otpremi email-recipient.xlsx fajl"
+
+msgid "Recipients"
+msgstr "Primaoci"
+
+msgid "Confirm Action"
+msgstr "Potvrdi akciju"
+
+msgid "Are you sure you want to proceed?"
+msgstr "Da li ste sigurni da želite da nastavite?"
+
+msgid "Cancel"
+msgstr "Otkaži"
+
+msgid "Confirm"
+msgstr "Potvrdi"
+
+msgid "List Subject"
+msgstr "Naslov liste"
+
+msgid "Subject for all recipients"
+msgstr "Naslov za sve primaoce"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "Unesite email adresu i pritisnite Enter"
+
+msgid "Add"
+msgstr "Dodaj"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "Unosite email adrese jednu po jednu."
+
+msgid "Email Body (optional HTML)"
+msgstr "Telo emaila (opciono HTML)"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "Koristite vizuelni editor ili tekstualni mod za HTML."
+
+msgid "Send"
+msgstr "Pošalji"
+
+msgid "Preview"
+msgstr "Pregled"
+
+msgid "Clear"
+msgstr "Očisti"
+
+msgid "Create New Email"
+msgstr "Kreiraj novi email"
+
+msgid "Your subject"
+msgstr "Vaš naslov"
+
+msgid "Email Body"
+msgstr "Telo emaila"
+
+msgid "Send Email"
+msgstr "Pošalji email"
+
+msgid "Email Sent"
+msgstr "Email poslat"
+
+msgid "Your email has been sent successfully."
+msgstr "Vaš email je uspešno poslat."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Total"
+msgstr "Укупно"
+
+msgid "Sent"
+msgstr "Poslato"
+
+msgid "Read"
+msgstr "Pročitano"
+
+msgid "Revision"
+msgstr "Revizija"
+
+msgid "Sent Emails"
+msgstr "Poslati emailovi"
+
+msgid "Export Excel"
+msgstr "Izvezi u Excel"
+
+msgid "Updated"
+msgstr "Ažurirano"
+
+msgid "Failed"
+msgstr "Neuspelo"
+
+msgid "Pending"
+msgstr "Na čekanju"
+
+msgid "Show"
+msgstr "Prikaži"
+
+msgid "Edit"
+msgstr "Izmeni"
+
+msgid "Update & Send"
+msgstr "Ažuriraj i pošalji"
+
+msgid "Sending..."
+msgstr "Slanje..."
+
+msgid "Edit Email"
+msgstr "Izmeni email"
+
+msgid "Exit Select"
+msgstr "Završi izbor"
+
+msgid "To:"
+msgstr "Za:"
+
+msgid "Created:"
+msgstr "Kreirano:"
+
+msgid "Error"
+msgstr "Greška"
+
+msgid "Success"
+msgstr "Uspeh"
+
+msgid "Update Email List"
+msgstr "Ažuriraj email listu"
+
+msgid "status_sent"
+msgstr "poslato"
+
+msgid "status_failed"
+msgstr "neuspelo"
+
+msgid "status_pending"
+msgstr "na čekanju"
+
+msgid "SENT"
+msgstr "POSLATO"
+
+msgid "Sent:"
+msgstr "Poslato:"
+
+msgid "Failed:"
+msgstr "Neuspelo:"
+
+msgid "Pending:"
+msgstr "Na čekanju:"
+
+msgid "Email sent"
+msgstr "Email poslat"
+
+msgid "Successfully sent"
+msgstr "Uspešno poslato"
+
+msgid "email(s)"
+msgstr "email(a)"
+
+msgid "Your email list has been sent successfully."
+msgstr "Vaša email lista je uspešno poslata."
+
+msgid "FAILED"
+msgstr "NEUSPELO"
+
+msgid "PENDING"
+msgstr "NA ČEKANJU"
+
+msgid "Total Lists"
+msgstr "Ukupno listi"
+
+msgid "Total Recipients"
+msgstr "Ukupno primalaca"
+
+msgid "create_email_list"
+msgstr "kreiraj email listu"
+
+msgid "add"
+msgstr "dodaj"
+
+msgid "send"
+msgstr "pošalji"
+
+msgid "ok"
+msgstr "ok"
+
+msgid "security"
+msgstr "bezbednost"
+
+msgid "welcome"
+msgstr "dobrodošli"
+
+msgid "of"
+msgstr "од"
+
+msgid "previous"
+msgstr "Prethodno"
+
+msgid "next"
+msgstr "Sledeće"
+
+msgid "home"
+msgstr "Početna"
+
+msgid "terms"
+msgstr "Uslovi"
+
+msgid "Active"
+msgstr "Aktivno"
+
+msgid "Not Set"
+msgstr "Nije postavljeno"
+
+msgid "Import"
+msgstr "Uvezi"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Uvezi"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Obriši"
+
+msgid "Importing..."
+msgstr "Uvoženje..."
+
+msgid "Deleting..."
+msgstr "Brisanje..."
+
+msgid "Already Imported"
+msgstr "Već uvezeno"
+
+msgid "Product deleted successfully"
+msgstr "Proizvod uspešno obrisan"
+
+msgid "NEW"
+msgstr "NOVO"
+
+msgid "Added"
+msgstr "Dodato"
+
+msgid "Exists"
+msgstr "Postoji"
+
+msgid "Showing"
+msgstr "Приказује се"
+
+msgid "← Previous"
+msgstr "← Prethodno"
+
+msgid "Previous"
+msgstr "Prethodno"
+
+msgid "Next →"
+msgstr "Sledeće →"
+
+msgid "Next"
+msgstr "Следеће"
+
+msgid "Processing..."
+msgstr "Obrada..."
+
+msgid "Please wait while we import your product"
+msgstr "Molimo sačekajte dok uvozimo vaš proizvod"
+
+msgid "Importing product as draft..."
+msgstr "Uvoženje proizvoda kao skica..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "Ovo će kreirati proizvod u WooCommerce-u"
+
+msgid "Importing product with SEO optimization..."
+msgstr "Uvoženje proizvoda sa SEO optimizacijom..."
+
+msgid "Checking product status..."
+msgstr "Provera statusa proizvoda..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "Sačekajte dok proveravamo da li proizvod postoji"
+
+msgid "Loading products..."
+msgstr "Učitavanje proizvoda..."
+
+msgid "Overview"
+msgstr "Pregled"
+
+msgid "Business Overview"
+msgstr "Poslovni pregled"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "Pratite rad dodatka, metrike i upravljajte operacijama sa jednog panela."
+
+msgid "Total Products"
+msgstr "Ukupno proizvoda"
+
+msgid "Quick Actions"
+msgstr "Brze akcije"
+
+msgid "Analytics Dashboard"
+msgstr "Analitička tabla"
+
+msgid "Analytics Overview"
+msgstr "Pregled analitike"
+
+msgid "Quick insights into your business performance"
+msgstr "Brzi uvidi u vaše poslovne rezultate"
+
+msgid "View Full Analytics"
+msgstr "Vidi punu analitiku"
+
+msgid "Overall Sentiment distribution"
+msgstr "Distribucija opšteg sentimenta"
+
+msgid "Trend Status distribution"
+msgstr "Distribucija statusa trenda"
+
+msgid "Analytics"
+msgstr "Analitika"
+
+msgid "BI Analytics Hub"
+msgstr "BI Analitički centar"
+
+msgid "Settings"
+msgstr "Podešavanja"
+
+msgid "No orders found"
+msgstr "Porudžbine nisu pronađene"
+
+msgid "Total Orders"
+msgstr "Ukupno porudžbina"
+
+msgid "Current Page"
+msgstr "Trenutna stranica"
+
+msgid "Orders Per Page"
+msgstr "Porudžbina po stranici"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "Pretraži po broju, imenu ili emailu..."
+
+msgid "Loading orders..."
+msgstr "Učitavanje porudžbina..."
+
+msgid "Page"
+msgstr "Stranica"
+
+msgid "WooCommerce Analytics"
+msgstr "WooCommerce Analitika"
+
+msgid "WordPress Analytics"
+msgstr "WordPress Analitika"
+
+msgid "Clear Cache"
+msgstr "Očisti keš"
+
+msgid "Export CSV"
+msgstr "Izvezi CSV"
+
+msgid "Last updated:"
+msgstr "Poslednje ažuriranje:"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "Neuspešno učitavanje. Osvežite stranicu."
+
+msgid "No data available to export"
+msgstr "Nema podataka za izvoz"
+
+msgid "Orders Today"
+msgstr "Porudžbine danas"
+
+msgid "Total Revenue"
+msgstr "Укупан приход"
+
+msgid "Revenue Today"
+msgstr "Приход данас"
+
+msgid "Revenue (30 Days)"
+msgstr "Приход (30 дана)"
+
+msgid "Avg Order Value"
+msgstr "Просечна вредност поруџбине"
+
+msgid "Pending Orders"
+msgstr "Porudžbine na čekanju"
+
+msgid "Failed Orders"
+msgstr "Neuspele porudžbine"
+
+msgid "Cart Abandonment"
+msgstr "Napuštanje korpe"
+
+msgid "Customers (30 Days)"
+msgstr "Kupci (30 dana)"
+
+msgid "Top Seller (30 Days)"
+msgstr "Najprodavanije (30 dana)"
+
+msgid "Total Users"
+msgstr "Ukupno korisnika"
+
+msgid "Users Today"
+msgstr "Korisnici danas"
+
+msgid "Total Comments"
+msgstr "Ukupno komentara"
+
+msgid "Total Views"
+msgstr "Ukupno pregleda"
+
+msgid "Pending payment"
+msgstr "Čeka se plaćanje"
+
+msgid "Processing"
+msgstr "Obrada"
+
+msgid "On hold"
+msgstr "Zadržano"
+
+msgid "Completed"
+msgstr "Završeno"
+
+msgid "Cancelled"
+msgstr "Otkazano"
+
+msgid "Draft"
+msgstr "Skica"
+
+msgid "Revenue Overview"
+msgstr "Pregled prihoda"
+
+msgid "Orders Status"
+msgstr "Status porudžbina"
+
+msgid "WordPress Activity"
+msgstr "WordPress aktivnost"
+
+msgid "Revenue"
+msgstr "Prihod"
+
+msgid "WordPress Metrics"
+msgstr "WordPress metrike"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "Proizvoda po stranici ne može biti više od 100."
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "Proizvoda po stranici mora biti bar 1."
+
+msgid "Settings saved successfully!"
+msgstr "Podešavanja sačuvana!"
+
+msgid "Please enter a authentication key before testing."
+msgstr "Molimo unesite ključ licence pre testiranja."
+
+msgid "more..."
+msgstr "više..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "Analitički keš očišćen!"
+
+msgid "No products to import. Please sync products first."
+msgstr "Nema proizvoda za uvoz. Prvo sinhronizujte."
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "Uvoz završen! %d uvezeno, %d neuspelo."
+
+msgid "Import failed: %s"
+msgstr "Uvoz neuspeo: %s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "API test završen! Proverite debug.log za detalje."
+
+msgid "API Test Failed: %s"
+msgstr "API test nije uspeo: %s"
+
+msgid "Database structure validated and fixed:"
+msgstr "Struktura baze proverena i ispravljena:"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "Struktura baze je ispravna."
+
+msgid "Database validation issues:"
+msgstr "Problemi sa bazom podataka:"
+
+msgid "Database validation failed: %s"
+msgstr "Validacija baze neuspešna: %s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "Vaša Vortem licenca je aktivna na planu %s."
+
+msgid "Validated on: %s"
+msgstr "Potvrđeno: %s"
+
+msgid "Import failed. Please try again."
+msgstr "Uvoz neuspeo. Pokušajte ponovo."
+
+msgid "Please select a bulk action."
+msgstr "Izaberite masovnu akciju."
+
+msgid "Please select at least one product."
+msgstr "Izaberite bar jedan proizvod."
+
+msgid "Bulk action failed. Please try again."
+msgstr "Masovna akcija neuspešna. Pokušajte ponovo."
+
+msgid "Failed to trash product. Please try again."
+msgstr "Brisanje proizvoda nije uspelo. Pokušajte ponovo."
+
+msgid "Failed to restore product. Please try again."
+msgstr "Vraćanje proizvoda nije uspelo. Pokušajte ponovo."
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "Uvoz kao skica nije uspeo. Pokušajte ponovo."
+
+msgid "Failed to get product details."
+msgstr "Preuzimanje detalja nije uspelo."
+
+msgid "Delete failed. Please try again."
+msgstr "Brisanje nije uspelo. Pokušajte ponovo."
+
+msgid "FAQ Management"
+msgstr "Upravljanje FAQ-om"
+
+msgid "Manage your frequently asked questions"
+msgstr "Upravljajte svojim često postavljanim pitanjima"
+
+msgid "Search FAQs..."
+msgstr "Pretraži FAQ..."
+
+msgid "Card View"
+msgstr "Pregled kartica"
+
+msgid "Table View"
+msgstr "Pregled tabele"
+
+msgid "Refresh FAQs"
+msgstr "Osveži FAQ"
+
+msgid "Create New FAQ"
+msgstr "Kreiraj novi FAQ"
+
+msgid "Total FAQs"
+msgstr "Ukupno FAQ-ova"
+
+msgid "Active FAQs"
+msgstr "Aktivni FAQ-ovi"
+
+msgid "Page Status"
+msgstr "Status stranice"
+
+msgid "Question"
+msgstr "Pitanje"
+
+msgid "Answer"
+msgstr "Odgovor"
+
+msgid "No FAQs yet"
+msgstr "Još uvek nema pitanja"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "Počnite sa kreiranjem FAQ-ova"
+
+msgid "Create Your First FAQ"
+msgstr "Kreirajte svoje prvo pitanje"
+
+msgid "Loading FAQs..."
+msgstr "Učitavanje pitanja..."
+
+msgid "Update FAQ"
+msgstr "Ažuriraj FAQ"
+
+msgid "Question *"
+msgstr "Pitanje *"
+
+msgid "Enter your question here..."
+msgstr "Unesite pitanje ovde..."
+
+msgid "Answer *"
+msgstr "Odgovor *"
+
+msgid "Enter the answer here..."
+msgstr "Unesite odgovor ovde..."
+
+msgid "Create FAQ"
+msgstr "Kreiraj FAQ"
+
+msgid "FAQ Details"
+msgstr "Detalji FAQ-a"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Answer:"
+msgstr "Odgovor:"
+
+msgid "View Details"
+msgstr "Vidi detalje"
+
+msgid "Edit FAQ"
+msgstr "Izmeni FAQ"
+
+msgid "Creating..."
+msgstr "Kreiranje..."
+
+msgid "Updating..."
+msgstr "Ažuriranje..."
+
+msgid "Question is required"
+msgstr "Pitanje je obavezno"
+
+msgid "Answer is required"
+msgstr "Odgovor je obavezan"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "Odgovor mora imati bar 10 karaktera"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "FAQ \"%s\" je kreiran"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "FAQ \"%s\" je ažuriran"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "FAQ \"%s\" je obrisan"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "Da li ste sigurni da želite obrisati \"%s\"?"
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "Učitavanje neuspešno."
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "Čuvanje neuspešno."
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "Brisanje neuspešno."
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "Potrebna autentifikacija. Proverite ključ."
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "Ključ licence je obavezan. Postavite ga u Vortem podešavanjima."
+
+msgid "Security"
+msgstr "Bezbednost"
+
+msgid "Search plugins..."
+msgstr "Pretraži dodatke..."
+
+msgid "Last Modified"
+msgstr "Poslednja izmena"
+
+msgid "Inactive"
+msgstr "Neaktivno"
+
+msgid "WordPress Core"
+msgstr "WordPress jezgro"
+
+msgid "Themes"
+msgstr "Teme"
+
+msgid "Plugins"
+msgstr "Dodaci"
+
+msgid "Version"
+msgstr "Verzija"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "File"
+msgstr "Fajl"
+
+msgid "Plugin URI"
+msgstr "URI dodatka"
+
+msgid "Requires WP Version"
+msgstr "Zahteva WP verziju"
+
+msgid "Requires PHP"
+msgstr "Zahteva PHP"
+
+msgid "Read more"
+msgstr "Pročitaj više"
+
+msgid "Stylesheet"
+msgstr "Stilski list"
+
+msgid "Theme URI"
+msgstr "URI teme"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Name"
+msgstr "Ime"
+
+msgid "All"
+msgstr "Sve"
+
+msgid "Vulnerabilities"
+msgstr "Sigurnosne ranjivosti"
+
+msgid "Checking..."
+msgstr "Proveravam..."
+
+msgid "Save Changes"
+msgstr "Sačuvaj promene"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "Unesite Vortem.ai ključ licence da aktivirate funkcije."
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "Broj proizvoda po stranici. Podrazumevano: 16."
+
+msgid "Products per page must be at least 1"
+msgstr "Mora biti bar 1 proizvod po stranici"
+
+msgid "Products per page cannot exceed 100"
+msgstr "Ne može biti više od 100 proizvoda po stranici"
+
+msgid "Loading currencies..."
+msgstr "Učitavanje valuta..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "Odaberite vrstu valute za dodatak i kliknite \"Ažuriraj valutu\" za spremanje promjena."
+
+msgid "Currency updated successfully!"
+msgstr "Valuta uspješno ažurirana!"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "Konfigurirajte postavke i preferencije vašeg dodatka"
+
+msgid "Products Per Page"
+msgstr "Proizvodi po Stranici"
+
+msgid "Language"
+msgstr "Jezik"
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "Update Currency"
+msgstr "Ažuriraj Valutu"
+
+msgid "Video Settings"
+msgstr "Postavke Videa"
+
+msgid "Video Download for Excluded Themes"
+msgstr "Preuzimanje Videa za Isključene Teme"
+
+msgid "AliExpress Integration"
+msgstr "AliExpress Integracija"
+
+msgid "Add video to product description"
+msgstr "Dodaj video u opis proizvoda"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "Preuzmite videozapise za teme Vortem Clothes, Vortem Cosmetic i xstore"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "Priblizavate se dnevnom limitu e-poste (%s). Limit se ponistava sutra."
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "Dostigli ste dnevni limit e-poste. Limit se ponistava sutra."
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "Priblizavate se dnevnoj kvoti uvoza (%s). Kvota se ponistava sutra."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "Dostigli ste dnevnu kvotu uvoza. Kvota se ponistava sutra."
+
+msgid "Search plugins and themes..."
+msgstr "Pretraži dodatke i temε..."
+
+msgid "Loading security scan results..."
+msgstr "Učitavanje bezbednosnih rezultata..."
+
+msgid "published"
+msgstr "objavljeno"
+
+msgid "Published"
+msgstr "Objavljeno"
+
+msgid "references"
+msgstr "reference"
+
+msgid "References"
+msgstr "Reference"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "Ako je omogućeno, video snimci proizvoda biće automatski dodati u opis."
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "Ako je isključeno, video snimci se neće preuzimati za ove teme radi uštede prostora."
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "Da biste koristili ovu stranicu, morate uneti licencu u podešavanjima i potvrditi je."
+
+msgid "To get a authentication, visit"
+msgstr "Da biste dobili licencu, posetite"
+
+msgid "Products Pages"
+msgstr "Stranice proizvoda"
+
+msgid "Analytics Pages"
+msgstr "Stranice analitike"
+
+msgid "sales"
+msgstr "prodaja"
+
+msgid "Loading trend products..."
+msgstr "Učitavanje trend proizvoda..."
+
+msgid "Loading TikTok products..."
+msgstr "Učitavanje TikTok proizvoda..."
+
+msgid "Error loading TikTok products:"
+msgstr "Greška pri učitavanju TikTok proizvoda:"
+
+msgid "Failed to load TikTok products:"
+msgstr "Učitavanje TikTok proizvoda nije uspelo:"
+
+msgid "Loading Kinguin products..."
+msgstr "Učitavanje Kinguin proizvoda..."
+
+msgid "No Kinguin products found."
+msgstr "Kinguin proizvodi nisu pronađeni."
+
+msgid "Failed to load Kinguin products:"
+msgstr "Učitavanje Kinguin proizvoda nije uspelo:"
+
+msgid "Error loading Kinguin products:"
+msgstr "Greška pri učitavanju Kinguin proizvoda:"
+
+msgid "View on Amazon"
+msgstr "Pogledaj na Amazonu"
+
+msgid "View on Kinguin"
+msgstr "Pogledaj na Kinguin-u"
+
+msgid "Release:"
+msgstr "Izdanje:"
+
+msgid "Price N/A"
+msgstr "Cena nije dostupna"
+
+msgid "In Stock"
+msgstr "Na stanju"
+
+msgid "Sentiment"
+msgstr "Sentiment"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "Proizvodi sa manje od 10 komada na stanju"
+
+msgid "Total Pages"
+msgstr "Ukupno stranica"
+
+msgid "Total Posts"
+msgstr "Ukupno objava"
+
+msgid "Refetch"
+msgstr "Ponovo preuzmi"
+
+msgid "AliExpress"
+msgstr "AliExpress"
+
+msgid "Connect to AliExpress"
+msgstr "Poveži se sa AliExpress-om"
+
+msgid "Disconnect AliExpress"
+msgstr "Prekini vezu sa AliExpress-om"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "Da li ste sigurni da želite da prekinete vezu sa AliExpress nalogom?"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "Povežite svoj AliExpress nalog za dropshipping."
+
+msgid "Checking connection status..."
+msgstr "Provera statusa veze..."
+
+msgid "Connected"
+msgstr "Povezano"
+
+msgid "Not connected"
+msgstr "Nije povezano"
+
+msgid "Error checking status"
+msgstr "Greška pri proveri statusa"
+
+msgid "Connecting..."
+msgstr "Povezivanje..."
+
+msgid "Disconnecting..."
+msgstr "Prekidanje veze..."
+
+msgid "Error connecting to AliExpress"
+msgstr "Greška pri povezivanju na AliExpress"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "Greška pri prekidanju veze sa AliExpress nalogom"
+
+msgid "Failed to disconnect"
+msgstr "Prekid veze nije uspeo"
+
+msgid "Failed to connect to AliExpress"
+msgstr "Povezivanje na AliExpress nije uspelo"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "Uspešno povezano sa AliExpress-om!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "Za porudžbine na AliExpress-u neophodan je broj telefona."
+
+msgid "Expires:"
+msgstr "Ističe:"
+
+msgid "Disconnect"
+msgstr "Prekini vezu"
+
+msgid "Select Import Method"
+msgstr "Izaberi metodu uvoza"
+
+msgid "Choose how you want to import this product:"
+msgstr "Izaberite način uvoza:"
+
+msgid "Normal Import"
+msgstr "Normalan uvoz"
+
+msgid "Import product with original title and description"
+msgstr "Uvezi sa originalnim naslovom i opisom"
+
+msgid "SEO Import"
+msgstr "SEO uvoz"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "Uvezi sa naslovom και opisom optimizovanim za SEO"
+
+msgid "SEO Import Completed"
+msgstr "SEO Uvoz Završen"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "Primenjene su sledeće SEO optimizacije:"
+
+msgid "Keyphrase"
+msgstr "Ključna Fraza"
+
+msgid "SEO Title"
+msgstr "SEO Naslov"
+
+msgid "SEO Description"
+msgstr "SEO Opis"
+
+msgid "Meta Description"
+msgstr "Meta Opis"
+
+msgid "Tags"
+msgstr "Oznake"
+
+msgid "Yoast SEO Title"
+msgstr "Yoast SEO Naslov"
+
+msgid "Headings"
+msgstr "Naslovi"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO није инсталиран. Да бисте користили опцију увоза SEO, морате га инсталирати и активирати."
+
+msgid "Email subject must be at least 16 characters"
+msgstr "Predmet e-pošte mora imati najmanje 16 znakova"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "Predmet e-pošte ne smije prelaziti 256 znakova"
+
+msgid "Email body must be at least 128 characters"
+msgstr "Sadržaj e-pošte mora imati najmanje 128 znakova"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "Sadržaj e-pošte ne smije prelaziti 8196 znakova"
+
+msgid "All Imported Products"
+msgstr "Svi uvezeni proizvodi"
+
+msgid "Refresh Products"
+msgstr "Osvježi proizvode"
+
+msgid "Show All Products"
+msgstr "Prikaži sve proizvode"
+
+msgid "Show All Added Products"
+msgstr "Prikaži sve dodane proizvode"
+
+msgid "Top Products Kinguin"
+msgstr "Najbolji proizvodi Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "Trend proizvodi Amazon"
+
+msgid "Top Products AliExpress"
+msgstr "Najbolji proizvodi AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "Upravljajte i pregledajte svoj inventar proizvoda"
+
+msgid "Security Overview"
+msgstr "Pregled bezbednosti"
+
+msgid "Security Scan Results"
+msgstr "Rezultati skeniranja bezbednosti"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "Nadgledajte i pregledajte sve instalirane WordPress dodatke i teme"
+
+msgid "Total Plugins"
+msgstr "Ukupno dodataka"
+
+msgid "Active Plugins"
+msgstr "Aktivni dodaci"
+
+msgid "Inactive Plugins"
+msgstr "Neaktivni dodaci"
+
+msgid "Total Themes"
+msgstr "Ukupno tema"
+
+msgid "Active Themes"
+msgstr "Aktivne teme"
+
+msgid "Inactive Themes"
+msgstr "Neaktivne teme"
+
+msgid "Sort by:"
+msgstr "Sortiraj po:"
+
+msgid "Filter by Status:"
+msgstr "Filtriraj po statusu:"
+
+msgid "Sort by Date"
+msgstr "Sortiraj po datumu"
+
+msgid "View and manage your store orders"
+msgstr "Pregledajte i upravljajte narudžbama vaše prodavnice"
+
+msgid "Start Date"
+msgstr "Datum početka"
+
+msgid "End Date"
+msgstr "Datum završetka"
+
+msgid "All Statuses"
+msgstr "Svi statusi"
+
+msgid "Navigation"
+msgstr "Навигација"
+
+msgid "Shop Analytics"
+msgstr "Аналитика продавнице"
+
+msgid "Traffic Analytics"
+msgstr "Аналитика саобраћаја"
+
+msgid "Search currencies..."
+msgstr "Претражи валуте..."
+
+msgid "Search by country or currency code"
+msgstr "Претражи по земљи или коду валуте"
+
+msgid "Popularity"
+msgstr "Популарност"
+
+msgid "Impressions"
+msgstr "Прикази"
+
+msgid "Engagement"
+msgstr "Ангажовање"
+
+msgid "Videos"
+msgstr "Видео снимци"
+
+msgid "# Hashtags"
+msgstr "# Хештегови"
+
+msgid "View Rate (6s)"
+msgstr "Стопа прегледа (6s)"
+
+msgid "Cost"
+msgstr "Трошак"
+
+msgid "Avg. Time on Site"
+msgstr "Просечно време на сајту"
+
+msgid "Unique Visitors"
+msgstr "Јединствени посетиоци"
+
+msgid "Visits"
+msgstr "Посете"
+
+msgid "Top Pages"
+msgstr "Најпопуларније странице"
+
+msgid "Top Page Titles"
+msgstr "Најпопуларнији наслови страница"
+
+msgid "Cities"
+msgstr "Градови"
+
+msgid "Countries"
+msgstr "Земље"
+
+msgid "Exit Pages"
+msgstr "Странице изласка"
+
+msgid "Entry Pages"
+msgstr "Странице уласка"
+
+msgid "Real-time Visits"
+msgstr "Посете у реалном времену"
+
+msgid "Bounce Rate"
+msgstr "Стопа одбијања"
+
+msgid "Today"
+msgstr "Данас"
+
+msgid "Yesterday"
+msgstr "Јуче"
+
+msgid "Last 7 Days"
+msgstr "Последњих 7 дана"
+
+msgid "Last 30 Days"
+msgstr "Последњих 30 дана"
+
+msgid "First Contentful Paint"
+msgstr "Прво Цртање Садржаја"
+
+msgid "Total Size"
+msgstr "Укупна Величина"
+
+msgid "Requests"
+msgstr "Захтеви"
+
+msgid "Page Load"
+msgstr "Учитавање Странице"
+
+msgid "Last updated: %s"
+msgstr "Последње ажурирано: %s"
+
+msgid "Live"
+msgstr "Уживо"
+
+msgid "Quick Insights"
+msgstr "Брзи Увиди"
+
+msgid "Config"
+msgstr "Конфигурација"
+
+msgid "Total Vulnerabilities"
+msgstr "Укупно Рањивости"
+
+msgid "CVSS Score:"
+msgstr "CVSS Оцена:"
+
+msgid "Published:"
+msgstr "Објављено:"
+
+msgid "Last Modified:"
+msgstr "Последња измена:"
+
+msgid "References:"
+msgstr "Референце:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "Your WordPress core is secure!"
+msgstr "Ваше WordPress језгро је безбедно!"
+
+msgid "View All Vulnerabilities"
+msgstr "Прикажи Све Рањивости"
+
+msgid "CRITICAL"
+msgstr "КРИТИЧНО"
+
+msgid "HIGH"
+msgstr "ВИСОКО"
+
+msgid "MEDIUM"
+msgstr "СРЕДЊЕ"
+
+msgid "LOW"
+msgstr "НИСКО"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "Препоручује се акција. Молимо прегледајте и ажурирајте погођене ставке."
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "Сви ваши додаци, теме и WordPress језгро су безбедни и ажурирани."
+
+msgid "High severity vulnerabilities found"
+msgstr "Пронађене рањивости високе озбиљности"
+
+msgid "Last updated: Loading..."
+msgstr "Последње ажурирано: Учитавање..."
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "Преглед препоручен. Пратите и ажурирајте погођене ставке када је могуће."
+
+msgid "Some vulnerabilities found"
+msgstr "Пронађене неке рањивости"
+
+msgid "Trend Products TikTok"
+msgstr "Тренд производи TikTok"
+
+msgid "Your site is secure!"
+msgstr "Ваш сајт је безбедан!"
+
+msgid "failed_to_load_insights_error"
+msgstr "Грешка при учитавању података увидa"
+
+msgid "failed_to_refetch"
+msgstr "Поновно преузимање неуспешно"
+
+msgid "no_category"
+msgstr "Нема категорије"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "Обрада SEO оптимизација: Кључна фраза, SEO наслов, SEO опис, Мета опис, Ознаке, Yoast SEO наслов и Наслови"
+
+msgid "Search themes..."
+msgstr "Претрага тема..."
+
+msgid "AUTHOR"
+msgstr "АУТОР"
+
+msgid "Across all plugins, themes & core"
+msgstr "Кроз све додатке, теме и језгро"
+
+msgid "Address as soon as possible"
+msgstr "Решити што пре могуће"
+
+msgid "All Security Issues"
+msgstr "Сви Сигурносни Проблеми"
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "Анализа ваше WordPress инсталације за сигурносне рањивости"
+
+msgid "Attention required"
+msgstr "Потребна пажња"
+
+msgid "Component Type"
+msgstr "Тип Компоненте"
+
+msgid "Core"
+msgstr "Језгро"
+
+msgid "Core WordPress files"
+msgstr "Основне WordPress датотеке"
+
+msgid "Critical"
+msgstr "Критично"
+
+msgid "Critical Severity"
+msgstr "Критична Озбиљност"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "Откривене критичне рањивости!"
+
+msgid "Date"
+msgstr "Датум"
+
+msgid "Delete FAQ"
+msgstr "Obriši FAQ"
+
+msgid "Filter by:"
+msgstr "Filtriraj po:"
+
+msgid "High"
+msgstr "Високо"
+
+msgid "High Severity"
+msgstr "Висока Озбиљност"
+
+msgid "High severity vulnerabilities detected"
+msgstr "Откривене рањивости високе озбиљности"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "Потребна је хитна акција. Молимо ажурирајте или уклоните погођене ставке што пре могуће."
+
+msgid "Items Requiring Attention"
+msgstr "Ставке које Захтевају Пажњу"
+
+msgid "Items without vulnerabilities"
+msgstr "Ставке без рањивости"
+
+msgid "Low"
+msgstr "Ниско"
+
+msgid "Low Severity"
+msgstr "Ниска Озбиљност"
+
+msgid "Low severity vulnerabilities detected"
+msgstr "Откривене рањивости ниске озбиљности"
+
+msgid "Medium"
+msgstr "Средње"
+
+msgid "Medium Severity"
+msgstr "Средња Озбиљност"
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "Откривене рањивости средње озбиљности"
+
+msgid "Monitor & track"
+msgstr "Пратити и пратити"
+
+msgid "Monitor and plan fix"
+msgstr "Пратити и планирати поправку"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "Пратите ове проблеме и планирајте поправке када је погодно."
+
+msgid "No items at risk"
+msgstr "Нема ставки под ризиком"
+
+msgid "No known vulnerabilities detected"
+msgstr "Нема откривених познатих рањивости"
+
+msgid "No plugins found"
+msgstr "Нема пронађених додатака"
+
+msgid "No recent vulnerabilities"
+msgstr "Нема недавних рањивости"
+
+msgid "No themes found"
+msgstr "Нема пронађених тема"
+
+msgid "No vulnerabilities found"
+msgstr "Нема пронађених рањивости"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "Нема рањивости пронађених у додацима"
+
+msgid "No vulnerabilities found in themes"
+msgstr "Нема рањивости пронађених у темама"
+
+msgid "Number of Vulnerabilities"
+msgstr "Број Рањивости"
+
+msgid "Plan to address"
+msgstr "План за решавање"
+
+msgid "Please review and address these issues soon."
+msgstr "Молимо прегледајте и решите ове проблеме ускоро."
+
+msgid "REQUIRES PHP"
+msgstr "ЗАХТЕВА PHP"
+
+msgid "REQUIRES WP"
+msgstr "ЗАХТЕВА WP"
+
+msgid "Read less"
+msgstr "Читај мање"
+
+msgid "Recent Vulnerabilities"
+msgstr "Недавне Рањивости"
+
+msgid "Refunded"
+msgstr "Рефундирано"
+
+msgid "Requires immediate action"
+msgstr "Захтева хитну акцију"
+
+msgid "Requires immediate attention"
+msgstr "Захтева хитну пажњу"
+
+msgid "Scanning..."
+msgstr "Скенирање..."
+
+msgid "Schedule for review"
+msgstr "Закажи за преглед"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "Закажи време за преглед и решавање ових проблема."
+
+msgid "Secure Items"
+msgstr "Безбедне Ставке"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "Откривене сигурносне рањивости у WordPress верзији. Препоручује се ажурирање на најновију верзију."
+
+msgid "Should be fixed soon"
+msgstr "Требало би ускоро бити поправљено"
+
+msgid "Third-party plugins installed"
+msgstr "Инсталирани додаци треће стране"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "Покушајте прилагодити ваше филтере или појмове претраге"
+
+msgid "Unknown Plugin"
+msgstr "Непознат Додатак"
+
+msgid "Unknown Theme"
+msgstr "Непозната Тема"
+
+msgid "VERSION"
+msgstr "ВЕРЗИЈА"
+
+msgid "View Page"
+msgstr "Погледај Страницу"
+
+msgid "Vortem Logo"
+msgstr "Vortem Лого"
+
+msgid "Vulnerabilities by Type"
+msgstr "Рањивости по Типу"
+
+msgid "Vulnerability"
+msgstr "Рањивост"
+
+msgid "Vulnerability Details"
+msgstr "Детаљи Рањивости"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "Дистрибуција Рањивости по Озбиљности"
+
+msgid "WordPress Vulnerability"
+msgstr "WordPress Рањивост"
+
+msgid "WordPress themes"
+msgstr "WordPress теме"
+
+msgid "Your WP Core is Secure"
+msgstr "Ваше WP Језгро је Безбедно"
+
+msgid "Your plugins are secure!"
+msgstr "Ваши додаци су безбедни!"
+
+msgid "Your site is secure"
+msgstr "Ваш сајт је безбедан"
+
+msgid "Your themes are secure!"
+msgstr "Ваше теме су безбедне!"
+
+msgid "answer:"
+msgstr "Odgovor:"
+
+msgid "bulk_faqs_created"
+msgstr "%d FAQ je uspešno kreirano"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "Neuspešno kreiranje FAQ. Molimo pokušajte ponovo."
+
+msgid "faq"
+msgstr "FAQ"
+
+msgid "no_faqs_to_create"
+msgstr "Molimo dodajte najmanje jedan FAQ pre kreiranja."
+
+msgid "of all vulnerabilities"
+msgstr "od svih ranjivosti"
+
+msgid "of installed items affected"
+msgstr "od instaliranih stavki pogođeno"
+
+msgid "of items are clean"
+msgstr "stavki su čiste"
+
+msgid "of total"
+msgstr "od ukupno"
+
+msgid "question:"
+msgstr "Pitanje:"
+
+msgid "remove"
+msgstr "Ukloni"
+
+msgid "vulnerabilities"
+msgstr "ranjivosti"
+
+msgid "vulnerabilities found"
+msgstr "ranjivosti pronađene"
+
+msgid "Filter by Severity:"
+msgstr "Филтрирај по озбиљности:"
+
+msgid "All Severities"
+msgstr "Све озбиљности"
+
+msgid "Let's Get You Started"
+msgstr "Хајде да почнемо"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "Завршите подешавање за око 2 минута"
+
+msgid "Quick Setup"
+msgstr "Брзо подешавање"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "Покрените се за неколико минута са нашим вођеним процесом инсталације"
+
+msgid "Secure & Reliable"
+msgstr "Сигуран и поуздан"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "Сигурност на нивоу предузећа уграђена у сваку компоненту"
+
+msgid "Optimized Performance"
+msgstr "Оптимизован перформанси"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "Изузетно брзо и оптимизовано за WordPress окружења"
+
+msgid "Next Step"
+msgstr "Следећи корак"
+
+msgid "Initial Configuration"
+msgstr "Почетна конфигурација"
+
+msgid "Set your default language and currency preferences"
+msgstr "Поставите ваша подразумевана подешавања језика и валуте"
+
+msgid "Please review and accept our terms to continue"
+msgstr "Молимо прегледајте и прихватите наше услове да бисте наставили"
+
+msgid "1. Service Availability"
+msgstr "1. Доступност услуге"
+
+msgid "2. Support"
+msgstr "2. Подршка"
+
+msgid "3. Updates"
+msgstr "3. Ажурирања"
+
+msgid "I accept the Terms & Conditions"
+msgstr "Прихватам Услове и одредбе"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "Означавањем овог поља потврђујете да сте прочитали и пристајете да будете везани овим условима и одредбама."
+
+msgid "Installation Complete!"
+msgstr "Инсталација завршена!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "Ваш додатак је успешно конфигурисан и спреман за употребу. Сада можете почети да користите све функције."
+
+msgid "Configuration Summary"
+msgstr "Резиме конфигурације"
+
+msgid "Language:"
+msgstr "Језик:"
+
+msgid "Currency:"
+msgstr "Валута:"
+
+msgid "Terms Accepted:"
+msgstr "Услови прихваћени:"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Go to Dashboard"
+msgstr "Идите на контролну таблу"
+
+msgid "Go to Analytics page"
+msgstr "Идите на страницу аналитике"
+
+msgid "Go to Products page"
+msgstr "Идите на страницу производа"
+
+msgid "Go to Matomo Analytics page"
+msgstr "Идите на страницу Matomo Analytics"
+
+msgid "Restart Wizard"
+msgstr "Поново покрените чаробњака"
+
+msgid "Restart"
+msgstr "Поново покрени"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "Ово ће ресетовати процес инсталације. Да ли сте сигурни?"
+
+msgid "Confirm Restart"
+msgstr "Потврди поновно покретање"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Welcome"
+msgstr "Добродошли"
+
+msgid "Configuration"
+msgstr "Конфигурација"
+
+msgid "Complete"
+msgstr "Завршено"
+
+msgid "Insufficient permissions"
+msgstr "Недовољне дозволе"
+
+msgid "Language parameter is required"
+msgstr "Параметар језика је обавезан"
+
+msgid "Translation manager not available"
+msgstr "Управљач превода није доступан"
+
+msgid "Unsupported language"
+msgstr "Неподржан језик"
+
+msgid "Language changed successfully"
+msgstr "Језик је успешно промењен"
+
+msgid "Failed to change language"
+msgstr "Промена језика није успела"
+
+msgid "Currency parameter is required"
+msgstr "Параметар валуте је обавезан"
+
+msgid "Unsupported currency"
+msgstr "Неподржана валута"
+
+msgid "Currency changed successfully"
+msgstr "Валута је успешно промењена"
+
+msgid "Loading"
+msgstr "Учитавање"
+
+msgid "Search..."
+msgstr "Претрага..."
+
+msgid "Search Language"
+msgstr "Претрага језика"
+
+msgid "No languages found"
+msgstr "Језици нису пронађени"
+
+msgid "No currencies found"
+msgstr "Валуте нису пронађене"
+
+msgid "Failed to load currencies"
+msgstr "Учитавање валута није успело"
+
+msgid "Error loading currencies"
+msgstr "Грешка при учитавању валута"
+
+msgid "Failed to restart wizard"
+msgstr "Поновно покретање чаробњака није успело"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "Дошло је до грешке при поновном покретању чаробњака. Молимо покушајте поново."
+
+msgid "Please complete the current step before proceeding."
+msgstr "Молимо завршите тренутни корак пре наставка."
+
+msgid "Please wait for authentication to complete."
+msgstr "Молимо сачекајте да се аутентификација заврши."
+
+msgid "Please accept the terms and conditions."
+msgstr "Молимо прихватите услове и одредбе."
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "Молимо прихватите услове и одредбе пре наставка."
+
+msgid "Please complete authentication first."
+msgstr "Молимо прво завршите аутентификацију."
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "Молимо прихватите услове и одредбе пре завршетка подешавања."
+
+msgid "Failed to complete setup"
+msgstr "Завршетак подешавања није успео"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "Дошло је до грешке при завршетку подешавања. Молимо покушајте поново."
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "Токен сесије није пронађен. Молимо прво завршите аутентификацију."
+
+msgid "An error occurred while switching language"
+msgstr "Дошло је до грешке при промени језика"
+
+msgid "An error occurred while switching currency"
+msgstr "Дошло је до грешке при промени валуте"
+
+msgid "Last updated: %1$s • Live"
+msgstr "Последње ажурирано: %1$s • Уживо"
+
+msgid "Last 30 days"
+msgstr "Последњих 30 дана"
+
+msgid "Traffic Overview"
+msgstr "Преглед саобраћаја"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "Matomo аналитика – последњих 30 дана"
+
+msgid "Today's Focus"
+msgstr "Фокус данас"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "Преглед додатка Vortem.ai"
+
+msgid "Read More"
+msgstr "Прочитај више"
+
+msgid "Check your dashboard regularly"
+msgstr "Редовно проверавајте контролну таблу"
+
+msgid "View Analytics"
+msgstr "Прикажи аналитику"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem признат као врхунска AI платформа 2026"
+
+msgid "Order Statistics"
+msgstr "Статистика поруџбина"
+
+msgid "Today's Orders Completed"
+msgstr "Данас завршене поруџбине"
+
+msgid "Total Orders Completed"
+msgstr "Укупно завршених поруџбина"
+
+msgid "Imported Products"
+msgstr "Увезени производи"
+
+msgid "Recent Activity"
+msgstr "Недавна активност"
+
+msgid "Overview dashboard loaded"
+msgstr "Контролна табла прегледа учитана"
+
+msgid "Just now"
+msgstr "Управо сада"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "Одавде можете управљати производима, аналитиком и е-маил маркетингом"
+
+msgid "Ready"
+msgstr "Спремно"
+
+msgid "Configure plugin settings and API keys"
+msgstr "Подесите подешавања додатка и API кључеве"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "Додатак Vortem.ai је спреман. Одавде можете управљати производима, аналитиком и е-маил маркетингом."
+
+msgid "Vortem.ai official website"
+msgstr "Званична веб страница Vortem.ai"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "Навигирајте, учите и управљајте налогом"
+
+msgid "Quick Access"
+msgstr "Брзи приступ"
+
+msgid "Return to dashboard home"
+msgstr "Назад на почетну контролне табле"
+
+msgid "Go to Home"
+msgstr "На почетну"
+
+msgid "Profile, settings, and preferences"
+msgstr "Профил, подешавања и преференције"
+
+msgid "Help & Learning"
+msgstr "Помоћ и учење"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "Добијте помоћ, пошаљите тикете или контактирајте подршку"
+
+msgid "Get Support"
+msgstr "Добијте подршку"
+
+msgid "Developer & user guides"
+msgstr "Водичи за програмере и кориснике"
+
+msgid "Read Docs"
+msgstr "Читај документацију"
+
+msgid "Legal & Policies"
+msgstr "Правно и политике"
+
+msgid "Terms of Service"
+msgstr "Услови коришћења"
+
+msgid "Usage terms and conditions"
+msgstr "Услови и одредбе коришћења"
+
+msgid "View"
+msgstr "Прикажи"
+
+msgid "Privacy Policy"
+msgstr "Политика приватности"
+
+msgid "Data protection and privacy"
+msgstr "Заштита података и приватност"
+
+msgid "Navigation to vortem wordpress"
+msgstr "Навигација на Vortem WordPress"
+
+msgid "Access key features and settings"
+msgstr "Приступ кључним функцијама и подешавањима"
+
+msgid "Manage catalog and inventory"
+msgstr "Управљање каталогом и залихама"
+
+msgid "Business insights and metrics"
+msgstr "Пословни увиди и метрике"
+
+msgid "Growth & Intelligence"
+msgstr "Раст и интелигенција"
+
+msgid "Campaigns and automation"
+msgstr "Кампање и аутоматизација"
+
+msgid "AI-powered recommendations"
+msgstr "Препоруке на бази AI"
+
+msgid "Manage orders and shipments"
+msgstr "Управљање поруџбинама и пошиљкама"
+
+msgid "System"
+msgstr "Систем"
+
+msgid "Knowledge base editor"
+msgstr "Уређивач базе знања"
+
+msgid "Access control and monitoring"
+msgstr "Контрола приступа и праћење"
+
+msgid "System configuration"
+msgstr "Конфигурација система"
+
+msgid "Emails Sent"
+msgstr "Послати е-маилови"
+
+msgid "Orders"
+msgstr "Поруџбине"
+
+msgid "Total products"
+msgstr "Укупно производа"
+
+msgid "Imported via plugin"
+msgstr "Увезено преко додатка"
+
+msgid "Other products"
+msgstr "Остали производи"
+
+msgid "Manage"
+msgstr "Управљај"
+
+msgid "bounce"
+msgstr "одбијање"
+
+
+msgid "Dashboard"
+msgstr "Контролна табла"
+
+msgid "Plugin"
+msgstr "Додатак"
+
+msgid "External"
+msgstr "Спољашњи"
+
+msgid "Navigation to vortem WordPress"
+msgstr "Навигација до vortem WordPress"
+
+msgid "Commerce"
+msgstr "Трговина"
+
+msgid "Timeline"
+msgstr "Временска линија"
+
+msgid "Security Center"
+msgstr "Безбедносни центар"
+
+msgid "Display"
+msgstr "Приказ"
+
+msgid "How products and currency are presented in your store."
+msgstr "Како се производи и валута приказују у вашој продавници."
+
+msgid "Products per page"
+msgstr "Производа по страници"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "Подразумевано: 16. Опсег: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "Валута која се користи у ценама додатка. Кликните на „Ажурирај\" да бисте сачували избор."
+
+msgid "Media"
+msgstr "Медији"
+
+msgid "Control how product videos are imported and attached."
+msgstr "Контролишите како се видео снимци производа увозе и прилажу."
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "Када је омогућено, видео снимци производа аутоматски се додају у опис. Онемогућите за ручно управљање видеом."
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "Када је онемогућено, видео снимци се не преузимају за теме Vortem Clothes, Vortem Cosmetic и xstore — штеди простор за складиштење."
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "Преузимање видео снимака за Vortem и xstore теме"
+
+msgid "Integrations"
+msgstr "Интеграције"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "Повежите спољне налоге да бисте проширили набавку и испуњење."
+
+msgid "Update"
+msgstr "Ажурирај"
+
+msgid "Last updated"
+msgstr "Последње ажурирање"
+
+msgid "Setup"
+msgstr "Подешавање"
+
+msgid "Let's get you started"
+msgstr "Хајде да почнемо"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "Завршите подешавање за око 2 минута."
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "Функције увоза производа Vortem-а захтевају AliExpress налог."
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "Повезаћете га касније у Подешавања → Vortem → AliExpress интеграција. Још нема налога? Можете се регистровати и одатле."
+
+msgid "Up and running in minutes."
+msgstr "У погону за неколико минута."
+
+msgid "Built with WordPress security best practices."
+msgstr "Изграђено према WordPress безбедносним најбољим праксама."
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "Лагано и прилагођено WordPress-у."
+
+msgid "Store basics"
+msgstr "Основе продавнице"
+
+msgid "Pick your store currency"
+msgstr "Изаберите валуту продавнице"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "Ово купци виде на благајни. Можете променити касније."
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "Користи се на картицама производа, у корпи и на благајни."
+
+msgid "Almost there"
+msgstr "Скоро готово"
+
+msgid "Review and accept"
+msgstr "Прегледајте и прихватите"
+
+msgid "Read the full Terms"
+msgstr "Прочитајте целе Услове"
+
+msgid "You agree to be bound by these terms."
+msgstr "Слажете се да сте везани овим условима."
+
+msgid "I consent to data processing"
+msgstr "Пристајем на обраду података"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "Разумем и слажем се да овај додатак шаље податке мог сајта (URL сајта, верзија WordPress-а, верзија додатка, подешавање валуте, WooCommerce подаци производа при увозу, подаци о испоруци при обради наруџбина и метаподаци додатака/тема при коришћењу безбедносних функција) на сервере vortem.ai (https://c.vortem.ai) ради обраде, аналитике и пружања услуге. Подаци се не шаљу пре вашег изричитог пристанка, а додатак остаје функционалан ако одбијете (функције које зависе од vortem.ai неће бити доступне). Слање инвентара инсталираних додатака/тема за претрагу рањивости прати исти образац као Wordfence, Patchstack, WPScan и Jetpack Protect."
+
+msgid "All done"
+msgstr "Готово"
+
+msgid "You're all set!"
+msgstr "Све је спремно!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem је конфигурисан и спреман. Повежите AliExpress у Подешавањима када будете спремни."
+
+msgid "Accepted"
+msgstr "Прихваћено"
+
+msgid "Consented"
+msgstr "Пристанак дат"
+
+msgid "Data processing"
+msgstr "Обрада података"
+
+msgid "Meta Title"
+msgstr "Мета наслов"
+
+msgid "Order"
+msgstr "Наруџбина"
+
+msgid "Customer"
+msgstr "Купац"
+
+msgid "Items"
+msgstr "Ставке"
+
+msgid "Payment"
+msgstr "Плаћање"

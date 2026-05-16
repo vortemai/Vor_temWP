@@ -1,0 +1,2994 @@
+# Translation of Vortem AI in sk_SK
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk_SK\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "vyžaduje inštaláciu a aktiváciu WooCommerce."
+
+msgid "or higher. You are running version"
+msgstr "alebo novšia. Používate verziu"
+
+msgid "Welcome to vortem.ai!"
+msgstr "Vitajte vo vortem.ai!"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "Sprievodca nastavením Vortem.ai"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "Ďakujeme, že ste si vybrali doplnok vortem.ai. Tento sprievodca vám pomôže rýchlo a jednoducho nastaviť váš obchod."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "Na použitie služieb predaja produktov Vortem potrebujete účet AliExpress. Svoj účet môžete pripojiť z Nastavenia → Prihlásenie do Vortem → Integrácia AliExpress. Ak nemáte účet, môžete sa priamo odtiaľ zaregistrovať."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "Na použitie služieb predaja produktov Vortem potrebujete účet AliExpress."
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "Svoj účet môžete pripojiť z Nastavenia → Prihlásenie do Vortem → Integrácia AliExpress."
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "Ak nemáte účet, môžete sa priamo odtiaľ zaregistrovať."
+
+msgid "Select Language"
+msgstr "Vyberte jazyk"
+
+msgid "Select Currency"
+msgstr "Vyberte menu"
+
+msgid "Complete Setup"
+msgstr "Dokončiť nastavenie"
+
+msgid "What you'll get:"
+msgstr "Čo získate:"
+
+msgid "Automated product synchronization"
+msgstr "Automatická synchronizácia produktov"
+
+msgid "Order management and processing"
+msgstr "Správa a spracovanie objednávok"
+
+msgid "Real-time inventory updates"
+msgstr "Aktualizácie zásob v reálnom čase"
+
+msgid "Easy-to-use admin interface"
+msgstr "Jednoduché administračné rozhranie"
+
+msgid "24/7 customer support"
+msgstr "Zákaznícka podpora 24/7"
+
+msgid "Contact Support"
+msgstr "Kontaktovať podporu"
+
+msgid "Import Products"
+msgstr "Importovať produkty"
+
+msgid "Configure Settings"
+msgstr "Konfigurovať nastavenia"
+
+msgid "Setup Complete!"
+msgstr "Nastavenie dokončené!"
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "Nastavenie potrvá približne 2-3 minúty."
+
+msgid "Terms & Conditions"
+msgstr "Obchodné podmienky"
+
+msgid "1. License Agreement"
+msgstr "1. Licenčná zmluva"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "Používaním tohto doplnku súhlasíte s dodržiavaním všetkých platných zákonov a predpisov. Doplnok je poskytovaný pod licenciou GPL v2 alebo novšou."
+
+msgid "Sign up"
+msgstr "Registrovať sa"
+
+msgid "Sign up to get started"
+msgstr "Zaregistrujte sa a začnite"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "Gratulujeme! Váš doplnok vortem.ai bol úspešne nakonfigurovaný."
+
+msgid "What's next?"
+msgstr "Čo ďalej?"
+
+msgid "Need Help?"
+msgstr "Potrebujete pomoc?"
+
+msgid "Our support team is here to help you get started."
+msgstr "Náš tím podpory je tu, aby vám pomohol začať."
+
+msgid "Step %1$d of %2$d"
+msgstr "Krok %1$d z %2$d"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "Prečítal(a) som si a súhlasím s %1$sObchodnými podmienkami%2$s"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "Podmienky používania doplnku vortem.ai"
+
+msgid "1. authentication Agreement"
+msgstr "1. Dohoda o autentifikácii"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "Používaním tohto doplnku súhlasíte s dodržiavaním všetkých platných zákonov a predpisov. Doplnok je poskytovaný pod autentifikáciou GPL v2 alebo novšou."
+
+msgid "2. Data Usage"
+msgstr "2. Používanie údajov"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "Zhromažďujeme a spracúvame údaje potrebné na prevádzku služby, vrátane informácií o produktoch, podrobnostiach objednávok a údajoch o zákazníkoch. So všetkými údajmi sa nakladá v súlade s našimi zásadami ochrany osobných údajov."
+
+msgid "3. Service Availability"
+msgstr "3. Dostupnosť služby"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "Hoci sa snažíme udržiavať vysokú dostupnosť služby, nemôžeme zaručiť nepretržitú prevádzku. Vyhradzujeme si právo vykonávať údržbu a aktualizácie podľa potreby."
+
+msgid "4. Support"
+msgstr "4. Podpora"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "Technická podpora je poskytovaná prostredníctvom našich podporných kanálov. Časy odozvy sa môžu líšiť v závislosti od zložitosti problému."
+
+msgid "5. Updates"
+msgstr "5. Aktualizácie"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "Aktualizácie doplnku sú poskytované na zlepšenie funkčnosti a bezpečnosti. Odporúča sa udržiavať doplnok aktualizovaný na najnovšiu verziu."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "Zadajte svoj autentifikačný kľúč Vortem.ai na aktiváciu doplnku a prístup ku všetkým funkciám."
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "Svoj autentifikačný kľúč nájdete na paneli svojho účtu Vortem.ai."
+
+msgid "Need help?"
+msgstr "Potrebujete pomoc?"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "Dokončite sprievodcu nastavením na konfiguráciu autentifikácie a začnite."
+
+msgid "Vortem.ai Overview"
+msgstr "Prehľad Vortem.ai"
+
+msgid "Vortem.ai Products"
+msgstr "Produkty Vortem.ai"
+
+msgid "Vortem.ai Settings"
+msgstr "Nastavenia Vortem.ai"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "Nakonfigurujte svoje nastavenia Vortem.ai nižšie."
+
+msgid "Saving settings and validating authentication..."
+msgstr "Ukladanie nastavení a overovanie autentifikácie..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "Nastavenie dokončené - Váš doplnok Vortem.ai je pripravený na použitie!"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "Vyberte jazyk rozhrania doplnku. Zmeny sa prejavia po uložení."
+
+msgid "Vortem.ai AI Resources"
+msgstr "AI zdroje Vortem.ai"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "Prístup k vášmu účtu a zdrojom Vortem.ai AI"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "Prístup k vášmu účtu a zdrojom Vortem.ai AI:"
+
+msgid "Home"
+msgstr "Domov"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "Navštíviť domovskú stránku Vortem.ai AI"
+
+msgid "Visit Site"
+msgstr "Navštíviť stránku"
+
+msgid "My Account"
+msgstr "Môj účet"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "Spravovať nastavenia účtu Vortem.ai AI"
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Get help and support from our team"
+msgstr "Získajte pomoc a podporu od nášho tímu"
+
+msgid "Documentation"
+msgstr "Dokumentácia"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "Prečítajte si komplexné príručky a návody"
+
+msgid "Terms"
+msgstr "Podmienky"
+
+msgid "Review terms and conditions"
+msgstr "Prezrieť obchodné podmienky"
+
+msgid "Privacy"
+msgstr "Súkromie"
+
+msgid "View our privacy policy"
+msgstr "Zobraziť naše zásady ochrany osobných údajov"
+
+msgid "error"
+msgstr "chyba"
+
+msgid "success"
+msgstr "úspech"
+
+msgid "cancel"
+msgstr "zrušiť"
+
+msgid "delete"
+msgstr "odstrániť"
+
+msgid "deleting"
+msgstr "odstraňovanie..."
+
+msgid "edit"
+msgstr "upraviť"
+
+msgid "close"
+msgstr "zatvoriť"
+
+msgid "confirm"
+msgstr "potvrdiť"
+
+msgid "refresh"
+msgstr "obnoviť"
+
+msgid "import"
+msgstr "importovať"
+
+msgid "actions"
+msgstr "akcie"
+
+msgid "status"
+msgstr "stav"
+
+msgid "date"
+msgstr "dátum"
+
+msgid "subject"
+msgstr "predmet"
+
+msgid "recipient"
+msgstr "príjemca"
+
+msgid "total"
+msgstr "spolu"
+
+msgid "items"
+msgstr "položky"
+
+msgid "customer"
+msgstr "zákazník"
+
+msgid "order"
+msgstr "objednávka"
+
+msgid "payment"
+msgstr "platba"
+
+msgid "active"
+msgstr "aktívne"
+
+msgid "inactive"
+msgstr "neaktívne"
+
+msgid "cards"
+msgstr "karty"
+
+msgid "table"
+msgstr "tabuľka"
+
+msgid "select"
+msgstr "vybrať"
+
+msgid "sent"
+msgstr "odoslané"
+
+msgid "left"
+msgstr "zostáva"
+
+msgid "resets"
+msgstr "resetuje sa"
+
+msgid "view_more"
+msgstr "zobraziť viac"
+
+msgid "performance"
+msgstr "výkonnosť"
+
+msgid "insights"
+msgstr "prehľady"
+
+msgid "metrics"
+msgstr "metriky"
+
+msgid "device"
+msgstr "zariadenie"
+
+msgid "locale"
+msgstr "lokalizácia"
+
+msgid "channel"
+msgstr "kanál"
+
+msgid "desktop"
+msgstr "počítač"
+
+msgid "mobile"
+msgstr "mobil"
+
+msgid "retry"
+msgstr "skúsiť znova"
+
+msgid "failed"
+msgstr "zlyhalo"
+
+msgid "support"
+msgstr "4. Podpora"
+
+msgid "documentation"
+msgstr "dokumentácia"
+
+msgid "are_you_sure"
+msgstr "ste si istí?"
+
+msgid "clear"
+msgstr "vymazať"
+
+msgid "preview"
+msgstr "náhľad"
+
+msgid "send_email"
+msgstr "odoslať e-mail"
+
+msgid "recipients"
+msgstr "príjemcovia"
+
+msgid "question"
+msgstr "otázka"
+
+msgid "question:"
+msgstr "Otázka:"
+
+msgid "answer"
+msgstr "odpoveď"
+
+msgid "answer:"
+msgstr "Odpoveď:"
+
+msgid "category"
+msgstr "Kategória:"
+
+msgid "category:"
+msgstr "Kategória:"
+
+msgid "showing"
+msgstr "zobrazuje sa"
+
+msgid "faqs"
+msgstr "časté otázky"
+
+msgid "all_categories"
+msgstr "všetky kategórie"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "Ako chcete vytvoriť časté otázky?"
+
+msgid "Single FAQ"
+msgstr "Jedna otázka"
+
+msgid "Bulk FAQs"
+msgstr "Hromadné otázky"
+
+msgid "no_faqs_added_yet"
+msgstr "Zatiaľ neboli pridané žiadne časté otázky. Pridajte svoju prvú otázku vľavo."
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "Zatiaľ neboli pridané žiadne časté otázky. Pridajte svoju prvú otázku vľavo."
+
+msgid "Added FAQs"
+msgstr "Pridané časté otázky"
+
+msgid "faq"
+msgstr "častá otázka"
+
+msgid "remove"
+msgstr "odobrať"
+
+msgid "no_faqs_to_create"
+msgstr "Pred vytvorením pridajte aspoň jednu častú otázku."
+
+msgid "bulk_faqs_created"
+msgstr "Úspešne vytvorených %d častých otázok"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "Nepodarilo sa vytvoriť časté otázky. Skúste to prosím znova."
+
+msgid "created"
+msgstr "vytvorené"
+
+msgid "search_faqs"
+msgstr "Hľadať v častých otázkach..."
+
+msgid "update_faq"
+msgstr "Aktualizovať otázku"
+
+msgid "category_label"
+msgstr "Kategória *"
+
+msgid "select_existing_category_optional"
+msgstr "Vybrať existujúcu kategóriu (voliteľné)"
+
+msgid "create_faq"
+msgstr "Vytvoriť otázku"
+
+msgid "delete_faq"
+msgstr "Odstrániť otázku"
+
+msgid "delete_category"
+msgstr "Odstrániť kategóriu"
+
+msgid "delete_category_faqs_confirm"
+msgstr "Ste si istí, že chcete odstrániť všetky časté otázky v kategórii \"%s\"? Táto akcia sa nedá vrátiť späť."
+
+msgid "category_faqs_deleted"
+msgstr "Všetky časté otázky v kategórii \"%s\" boli odstránené."
+
+msgid "failed_to_delete_category_faqs"
+msgstr "Nepodarilo sa odstrániť časté otázky pre túto kategóriu. Skúste to prosím znova."
+
+msgid "category_id_not_found"
+msgstr "ID kategórie sa pre vybranú kategóriu nenašlo."
+
+msgid "orders"
+msgstr "objednávky"
+
+msgid "last_updated"
+msgstr "naposledy aktualizované:"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "ANALÝZA - NÁSTENKA"
+
+msgid "Business Intelligence"
+msgstr "Business Intelligence"
+
+msgid "Analytics Hub"
+msgstr "Centrum analýzy"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "Komplexná analýza a prehľady poháňané pokročilou dátovou inteligenciou pre rozhodovanie založené na údajoch"
+
+msgid "Performance Overview"
+msgstr "Prehľad výkonnosti"
+
+msgid "Key performance indicators at a glance"
+msgstr "Kľúčové ukazovatele výkonnosti v skratke"
+
+msgid "Analytics Insights"
+msgstr "Analytické prehľady"
+
+msgid "Deep dive into performance metrics"
+msgstr "Hlboký ponor do metrík výkonnosti"
+
+msgid "Customer Intelligence"
+msgstr "Zákaznícka inteligencia"
+
+msgid "Understand customer behavior and trends"
+msgstr "Pochopenie správania zákazníkov a trendov"
+
+msgid "Market Analysis"
+msgstr "Analýza trhu"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "Komplexné porovnanie trhu a prehľady kategórií"
+
+msgid "Data Intelligence"
+msgstr "Dátová inteligencia"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "Podrobné analytické tabuľky a prehľady cien"
+
+msgid "Product"
+msgstr "Produkt"
+
+msgid "Products"
+msgstr "Produkty"
+
+msgid "Average"
+msgstr "Priemer"
+
+msgid "No products found"
+msgstr "Nenašli sa žiadne produkty"
+
+msgid "Close"
+msgstr "Zavrieť"
+
+msgid "All KPI Products"
+msgstr "Všetky KPI produkty"
+
+msgid "Top KPI Products"
+msgstr "Najlepšie KPI produkty"
+
+msgid "Product ID"
+msgstr "ID produktu"
+
+msgid "Product Title"
+msgstr "Názov produktu"
+
+msgid "Base Price"
+msgstr "Základná cena"
+
+msgid "Low-Risk Price"
+msgstr "Cena s nízkym rizikom"
+
+msgid "Competitive Price"
+msgstr "Konkurenčná cena"
+
+msgid "High-Risk Price"
+msgstr "Cena s vysokým rizikom"
+
+msgid "Untitled Product"
+msgstr "Produkt bez názvu"
+
+msgid "All Trend Index Products"
+msgstr "Všetky produkty indexu trendov"
+
+msgid "Trend Index by Product"
+msgstr "Index trendov podľa produktu"
+
+msgid "Product Name"
+msgstr "Názov produktu"
+
+msgid "Price vs Rating"
+msgstr "Cena vs Hodnotenie"
+
+msgid "Price"
+msgstr "Cena"
+
+msgid "Rating"
+msgstr "Hodnotenie"
+
+msgid "Reviews"
+msgstr "Recenzie"
+
+msgid "CTR"
+msgstr "CTR"
+
+msgid "CVR"
+msgstr "CVR"
+
+msgid "Average Price"
+msgstr "Priemerná cena"
+
+msgid "Average Rating"
+msgstr "Priemerné hodnotenie"
+
+msgid "Product Count"
+msgstr "Počet produktov"
+
+msgid "Avg Price"
+msgstr "Priem. cena"
+
+msgid "Avg Rating"
+msgstr "Priem. hodnotenie"
+
+msgid "Failed to load"
+msgstr "Nepodarilo sa načítať"
+
+msgid "products"
+msgstr "produkty"
+
+msgid "product"
+msgstr "produkt"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "Index trendov"
+
+msgid "Profitability"
+msgstr "Ziskovosť"
+
+msgid "Competition"
+msgstr "Konkurencia"
+
+msgid "Demand Stability"
+msgstr "Stabilita dopytu"
+
+msgid "View All"
+msgstr "Zobraziť všetko"
+
+msgid "price rating data"
+msgstr "údaje o cene a hodnotení"
+
+msgid "Total Reviews"
+msgstr "Celkový počet recenzií"
+
+msgid "Avg Reviews"
+msgstr "Priem. recenzie"
+
+msgid "Overall Sentiment"
+msgstr "Celkový sentiment"
+
+msgid "Positive"
+msgstr "Pozitívne"
+
+msgid "Neutral"
+msgstr "Neutrálne"
+
+msgid "Negative"
+msgstr "Negatívne"
+
+msgid "Trend Status Overview"
+msgstr "Prehľad stavu trendov"
+
+msgid "Rising"
+msgstr "Rastúci"
+
+msgid "Stable"
+msgstr "Stabilný"
+
+msgid "Declining"
+msgstr "Klesajúci"
+
+msgid "sentiment data"
+msgstr "údaje o sentimente"
+
+msgid "trend status data"
+msgstr "údaje o stave trendu"
+
+msgid "Status"
+msgstr "Stav"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "All Categories"
+msgstr "Všetky kategórie"
+
+msgid "Count"
+msgstr "Počet"
+
+msgid "Percentage"
+msgstr "Percento"
+
+msgid "Market Comparison (by Source)"
+msgstr "Porovnanie trhu (podľa zdroja)"
+
+msgid "Market"
+msgstr "Trh"
+
+msgid "Best seller"
+msgstr "Najpredávanejšie"
+
+msgid "Movers and shakers"
+msgstr "Hýbatelia trhu"
+
+msgid "New releases"
+msgstr "Novinky"
+
+msgid "market comparison data"
+msgstr "údaje o porovnaní trhu"
+
+msgid "Category Comparison"
+msgstr "Porovnanie kategórií"
+
+msgid "Category Comparison - All Data"
+msgstr "Porovnanie kategórií - Všetky údaje"
+
+msgid "Categories"
+msgstr "Kategórie"
+
+msgid "Metrics"
+msgstr "Metriky"
+
+msgid "Avg Sold"
+msgstr "Priem. predané"
+
+msgid "Avg FPSI"
+msgstr "Priem. FPSI"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "value"
+msgstr "hodnota"
+
+msgid "Unknown"
+msgstr "Neznáme"
+
+msgid "category comparison data"
+msgstr "údaje o porovnaní kategórií"
+
+msgid "Amazon Device"
+msgstr "Zariadenia Amazon"
+
+msgid "Appliances"
+msgstr "Spotrebiče"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "Umenie, remeslá a šitie"
+
+msgid "Automotive"
+msgstr "Automobilový priemysel"
+
+msgid "Baby Products"
+msgstr "Detské produkty"
+
+msgid "Baby"
+msgstr "Bábätko"
+
+msgid "Beauty & Personal Care"
+msgstr "Krása a osobná starostlivosť"
+
+msgid "Cell Phones & Accessories"
+msgstr "Mobilné telefóny a príslušenstvo"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "Oblečenie, obuv a šperky"
+
+msgid "Collectibles & Fine Art"
+msgstr "Zberateľské predmety a umenie"
+
+msgid "Electronics"
+msgstr "Elektronika"
+
+msgid "Health & Household"
+msgstr "Zdravie a domácnosť"
+
+msgid "Home & Kitchen"
+msgstr "Dom a kuchyňa"
+
+msgid "Industrial & Scientific"
+msgstr "Priemysel a veda"
+
+msgid "Musical Instruments"
+msgstr "Hudobné nástroje"
+
+msgid "No category found"
+msgstr "Nenašla sa žiadna kategória"
+
+msgid "Office Products"
+msgstr "Kancelárske potreby"
+
+msgid "Patio, Lawn & Garden"
+msgstr "Teras, trávnik a záhrada"
+
+msgid "Safety & Security"
+msgstr "Bezpečnosť a ochrana"
+
+msgid "Tools & Home Improvement"
+msgstr "Náradie a kutilstvo"
+
+msgid "Toys & Games"
+msgstr "Hračky a hry"
+
+msgid "Suggested Pricing"
+msgstr "Navrhované ceny"
+
+msgid "All Suggested Pricing"
+msgstr "Všetky navrhované ceny"
+
+msgid "suggested pricing data"
+msgstr "údaje o navrhovaných cenách"
+
+msgid "Search products..."
+msgstr "Hľadať produkty..."
+
+msgid "Search products or categories..."
+msgstr "Hľadať produkty alebo kategórie..."
+
+msgid "Insights"
+msgstr "Prehľady"
+
+msgid "Performance insights for"
+msgstr "Prehľady výkonnosti pre"
+
+msgid "your website"
+msgstr "vašu webovú stránku"
+
+msgid "Desktop"
+msgstr "Plocha"
+
+msgid "Mobile"
+msgstr "Mobilný"
+
+msgid "Refresh"
+msgstr "Obnoviť"
+
+msgid "Loading..."
+msgstr "Načítava sa..."
+
+msgid "Core Web Vitals"
+msgstr "Core Web Vitals"
+
+msgid "Performance Audits"
+msgstr "Audity výkonnosti"
+
+msgid "View More"
+msgstr "Zobraziť viac"
+
+msgid "Performance Insights"
+msgstr "Prehľady výkonnosti"
+
+msgid "Analysis Configuration"
+msgstr "Konfigurácia analýzy"
+
+msgid "Device"
+msgstr "Zariadenie"
+
+msgid "Locale"
+msgstr "Lokalizácia"
+
+msgid "Channel"
+msgstr "Kanál"
+
+msgid "Loading Insights data..."
+msgstr "Načítavanie údajov prehľadov..."
+
+msgid "Error Loading Insights Data"
+msgstr "Chyba pri načítavaní údajov prehľadov"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "Vyskytla sa chyba pri získavaní údajov analýzy prehľadov."
+
+msgid "Retry"
+msgstr "Skúsiť znova"
+
+msgid "No Insights Data Available"
+msgstr "Nie sú k dispozícii žiadne údaje prehľadov"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "Nie sú k dispozícii žiadne údaje o analýze výkonnosti. To môže znamenať, že analýza ešte nebola spustená alebo sa vyskytla chyba pri získavaní údajov."
+
+msgid "Last analyzed:"
+msgstr "Naposledy analyzované:"
+
+msgid "Performance"
+msgstr "Výkon"
+
+msgid "Accessibility"
+msgstr "Prístupnosť"
+
+msgid "Best Practices"
+msgstr "Najlepšie postupy"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "No performance metrics available"
+msgstr "Nie sú k dispozícii žiadne metriky výkonnosti"
+
+msgid "No audit data available"
+msgstr "Nie sú k dispozícii žiadne údaje auditu"
+
+msgid "No audits available"
+msgstr "Nie sú k dispozícii žiadne audity"
+
+msgid "View Less"
+msgstr "Zobraziť menej"
+
+msgid "more"
+msgstr "viac"
+
+msgid "No insights available"
+msgstr "Nie sú k dispozícii žiadne prehľady"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "Neboli zistené žiadne problémy s výkonom. Vaša stránka funguje dobre!"
+
+msgid "Wasted:"
+msgstr "Premrhané:"
+
+msgid "Initializing..."
+msgstr "Inicializácia..."
+
+msgid "Connecting to server..."
+msgstr "Pripájanie k serveru..."
+
+msgid "Fetching insights data..."
+msgstr "Získavanie údajov prehľadov..."
+
+msgid "Analyzing performance metrics..."
+msgstr "Analýza metrík výkonnosti..."
+
+msgid "Processing audits and insights..."
+msgstr "Spracovanie auditov a prehľadov..."
+
+msgid "Finalizing results..."
+msgstr "Dokončovanie výsledkov..."
+
+msgid "Complete!"
+msgstr "Hotovo!"
+
+msgid "Failed to load Insights data"
+msgstr "Nepodarilo sa načítať údaje prehľadov"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "Nepodarilo sa načítať údaje prehľadov. Skontrolujte svoje pripojenie a skúste to znova."
+
+msgid "No data available"
+msgstr "Nie sú k dispozícii žiadne údaje"
+
+msgid "Excellent"
+msgstr "Výborné"
+
+msgid "Needs Improvement"
+msgstr "Vyžaduje zlepšenie"
+
+msgid "Poor"
+msgstr "Slabé"
+
+msgid "Unknown error"
+msgstr "Neznáma chyba"
+
+msgid "Email Marketing"
+msgstr "E-mailový marketing"
+
+msgid "Manage, send, and track your emails"
+msgstr "Spravujte, odosielajte a sledujte svoje e-maily"
+
+msgid "Emails"
+msgstr "E-maily"
+
+msgid "Lists"
+msgstr "Zoznamy"
+
+msgid "Create Email"
+msgstr "Vytvoriť e-mail"
+
+msgid "Search emails..."
+msgstr "Hľadať e-maily..."
+
+msgid "Cards"
+msgstr "Karty"
+
+msgid "Table"
+msgstr "Tabuľka"
+
+msgid "Select"
+msgstr "Vybrať"
+
+msgid "Delete"
+msgstr "Odstrániť"
+
+msgid "Recipient"
+msgstr "Príjemca"
+
+msgid "Subject"
+msgstr "Predmet"
+
+msgid "Created"
+msgstr "Vytvorené"
+
+msgid "Actions"
+msgstr "Akcie"
+
+msgid "Email Lists"
+msgstr "E-mailové zoznamy"
+
+msgid "Manage, send, and track your email lists"
+msgstr "Spravujte, odosielajte a sledujte svoje e-mailové zoznamy"
+
+msgid "Create Email List"
+msgstr "Vytvoriť e-mailový zoznam"
+
+msgid "Search lists..."
+msgstr "Hľadať zoznamy..."
+
+msgid "Download Template"
+msgstr "Stiahnuť šablónu"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "Stiahnuť šablónu email-recipient.xlsx"
+
+msgid "Upload Template"
+msgstr "Nahrať šablónu"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "Nahrať súbor email-recipient.xlsx"
+
+msgid "Recipients"
+msgstr "Príjemcovia"
+
+msgid "Confirm Action"
+msgstr "Potvrdiť akciu"
+
+msgid "Are you sure you want to proceed?"
+msgstr "Naozaj chcete pokračovať?"
+
+msgid "Cancel"
+msgstr "Zrušiť"
+
+msgid "Confirm"
+msgstr "Potvrdiť"
+
+msgid "List Subject"
+msgstr "Predmet zoznamu"
+
+msgid "Subject for all recipients"
+msgstr "Predmet pre všetkých príjemcov"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "Zadajte e-mailovú adresu a stlačte Enter alebo kliknite na Pridať"
+
+msgid "Add"
+msgstr "Pridať"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "Zadávajte e-mailové adresy po jednej. Kliknutím na X na značke ju odstránite."
+
+msgid "Email Body (optional HTML)"
+msgstr "Telo e-mailu (voliteľné HTML)"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "Môžete použiť vizuálny editor alebo prepnúť do textového režimu a vložiť HTML."
+
+msgid "Send"
+msgstr "Odoslať"
+
+msgid "Preview"
+msgstr "Náhľad"
+
+msgid "Clear"
+msgstr "Vymazať"
+
+msgid "Create New Email"
+msgstr "Vytvoriť nový e-mail"
+
+msgid "Your subject"
+msgstr "Váš predmet"
+
+msgid "Email Body"
+msgstr "Telo e-mailu"
+
+msgid "Send Email"
+msgstr "Odoslať e-mail"
+
+msgid "Email Sent"
+msgstr "E-mail odoslaný"
+
+msgid "Your email has been sent successfully."
+msgstr "Váš e-mail bol úspešne odoslaný."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Total"
+msgstr "Spolu"
+
+msgid "Sent"
+msgstr "Odoslané"
+
+msgid "Read"
+msgstr "Prečítané"
+
+msgid "Revision"
+msgstr "Revízia"
+
+msgid "Sent Emails"
+msgstr "Odoslané e-maily"
+
+msgid "Export Excel"
+msgstr "Exportovať do Excelu"
+
+msgid "Updated"
+msgstr "Aktualizované"
+
+msgid "Failed"
+msgstr "Zlyhalo"
+
+msgid "Pending"
+msgstr "Čaká na spracovanie"
+
+msgid "Show"
+msgstr "Zobraziť"
+
+msgid "Edit"
+msgstr "Upraviť"
+
+msgid "Update & Send"
+msgstr "Aktualizovať a odoslať"
+
+msgid "Sending..."
+msgstr "Odosiela sa..."
+
+msgid "Edit Email"
+msgstr "Upraviť e-mail"
+
+msgid "Exit Select"
+msgstr "Ukončiť výber"
+
+msgid "To:"
+msgstr "Komu:"
+
+msgid "Created:"
+msgstr "Vytvorené:"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Success"
+msgstr "Úspech"
+
+msgid "Update Email List"
+msgstr "Aktualizovať e-mailový zoznam"
+
+msgid "status_sent"
+msgstr "odoslané"
+
+msgid "status_failed"
+msgstr "zlyhalo"
+
+msgid "status_pending"
+msgstr "čaká na spracovanie"
+
+msgid "SENT"
+msgstr "ODOSLANÉ"
+
+msgid "Sent:"
+msgstr "Odoslané:"
+
+msgid "Failed:"
+msgstr "Zlyhalo:"
+
+msgid "Pending:"
+msgstr "Čaká na spracovanie:"
+
+msgid "Email sent"
+msgstr "E-mail odoslaný"
+
+msgid "Successfully sent"
+msgstr "Úspešne odoslané"
+
+msgid "email(s)"
+msgstr "e-mail(ov)"
+
+msgid "Your email list has been sent successfully."
+msgstr "Váš e-mailový zoznam bol úspešne odoslaný."
+
+msgid "FAILED"
+msgstr "ZLYHALO"
+
+msgid "PENDING"
+msgstr "ČAKÁ NA SPRACOVANIE"
+
+msgid "Total Lists"
+msgstr "Celkový počet zoznamov"
+
+msgid "Total Recipients"
+msgstr "Celkový počet príjemcov"
+
+msgid "create_email_list"
+msgstr "vytvoriť e-mailový zoznam"
+
+msgid "add"
+msgstr "pridať"
+
+msgid "send"
+msgstr "odoslať"
+
+msgid "ok"
+msgstr "ok"
+
+msgid "security"
+msgstr "bezpečnosť"
+
+msgid "welcome"
+msgstr "vitajte"
+
+msgid "of"
+msgstr "z"
+
+msgid "previous"
+msgstr "predchádzajúci"
+
+msgid "next"
+msgstr "ďalší"
+
+msgid "home"
+msgstr "domov"
+
+msgid "terms"
+msgstr "podmienky"
+
+msgid "Active"
+msgstr "Aktívne"
+
+msgid "Not Set"
+msgstr "Nenastavené"
+
+msgid "Import"
+msgstr "Importovať"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Importovať"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Odstrániť"
+
+msgid "Importing..."
+msgstr "Importuje sa..."
+
+msgid "Deleting..."
+msgstr "Odstraňuje sa..."
+
+msgid "Already Imported"
+msgstr "Už importované"
+
+msgid "Product deleted successfully"
+msgstr "Produkt úspešne odstránený"
+
+msgid "NEW"
+msgstr "NOVÝ"
+
+msgid "Added"
+msgstr "Pridané"
+
+msgid "Exists"
+msgstr "Existuje"
+
+msgid "Showing"
+msgstr "Zobrazuje sa"
+
+msgid "← Previous"
+msgstr "← Predchádzajúci"
+
+msgid "Previous"
+msgstr "Predchádzajúci"
+
+msgid "Next →"
+msgstr "Ďalší →"
+
+msgid "Next"
+msgstr "Ďalší"
+
+msgid "Processing..."
+msgstr "Spracováva sa..."
+
+msgid "Please wait while we import your product"
+msgstr "Čakajte prosím, kým importujeme váš produkt"
+
+msgid "Importing product as draft..."
+msgstr "Importuje sa produkt ako koncept..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "Toto vytvorí produkt vo WooCommerce"
+
+msgid "Importing product with SEO optimization..."
+msgstr "Importuje sa produkt s optimalizáciou SEO..."
+
+msgid "Checking product status..."
+msgstr "Kontroluje sa stav produktu..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "Čakajte prosím, kým skontrolujeme, či produkt existuje"
+
+msgid "Loading products..."
+msgstr "Načítavajú sa produkty..."
+
+msgid "Overview"
+msgstr "Prehľad"
+
+msgid "Business Overview"
+msgstr "Prehľad podnikania"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "Sledujte výkonnosť doplnku, sledujte kľúčové metriky a spravujte svoje operácie z jedného panela"
+
+msgid "Total Products"
+msgstr "Celkový počet produktov"
+
+msgid "Quick Actions"
+msgstr "Rýchle akcie"
+
+msgid "Analytics Dashboard"
+msgstr "Analýza - nástenka"
+
+msgid "Analytics Overview"
+msgstr "Prehľad analýzy"
+
+msgid "Quick insights into your business performance"
+msgstr "Rýchle prehľady o výkonnosti vášho podnikania"
+
+msgid "View Full Analytics"
+msgstr "Zobraziť úplnú analýzu"
+
+msgid "Overall Sentiment distribution"
+msgstr "Rozdelenie celkového sentimentu"
+
+msgid "Trend Status distribution"
+msgstr "Rozdelenie stavu trendu"
+
+msgid "Analytics"
+msgstr "Analýza"
+
+msgid "BI Analytics Hub"
+msgstr "Centrum BI analýzy"
+
+msgid "Settings"
+msgstr "Nastavenia"
+
+msgid "No orders found"
+msgstr "Nenašli sa žiadne objednávky"
+
+msgid "Total Orders"
+msgstr "Celkový počet objednávok"
+
+msgid "Current Page"
+msgstr "Aktuálna stránka"
+
+msgid "Orders Per Page"
+msgstr "Objednávok na stránku"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "Hľadať objednávky podľa čísla, mena zákazníka alebo e-mailu..."
+
+msgid "Loading orders..."
+msgstr "Načítavajú sa objednávky..."
+
+msgid "Page"
+msgstr "Stránka"
+
+msgid "WooCommerce Analytics"
+msgstr "WooCommerce analýza"
+
+msgid "WordPress Analytics"
+msgstr "WordPress analýza"
+
+msgid "Clear Cache"
+msgstr "Vymazať vyrovnávaciu pamäť"
+
+msgid "Export CSV"
+msgstr "Exportovať CSV"
+
+msgid "Last updated:"
+msgstr "Naposledy aktualizované:"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "Nepodarilo sa načítať analytické údaje. Obnovte stránku."
+
+msgid "No data available to export"
+msgstr "Nie sú k dispozícii žiadne údaje na export"
+
+msgid "Orders Today"
+msgstr "Dnešné objednávky"
+
+msgid "Total Revenue"
+msgstr "Celkové tržby"
+
+msgid "Revenue Today"
+msgstr "Dnešné tržby"
+
+msgid "Revenue (30 Days)"
+msgstr "Tržby (30 dní)"
+
+msgid "Avg Order Value"
+msgstr "Priem. hodnota objednávky"
+
+msgid "Pending Orders"
+msgstr "Čakajúce objednávky"
+
+msgid "Failed Orders"
+msgstr "Zlyhané objednávky"
+
+msgid "Cart Abandonment"
+msgstr "Opustenie košíka"
+
+msgid "Customers (30 Days)"
+msgstr "Zákazníci (30 dní)"
+
+msgid "Top Seller (30 Days)"
+msgstr "Najlepší predajca (30 dní)"
+
+msgid "Total Users"
+msgstr "Celkový počet používateľov"
+
+msgid "Users Today"
+msgstr "Používatelia dnes"
+
+msgid "Total Comments"
+msgstr "Celkový počet komentárov"
+
+msgid "Total Views"
+msgstr "Celkový počet zobrazení"
+
+msgid "Refunded"
+msgstr "Vrátené"
+
+msgid "Pending payment"
+msgstr "Čaká na platbu"
+
+msgid "Processing"
+msgstr "Spracováva sa"
+
+msgid "On hold"
+msgstr "Pozdržané"
+
+msgid "Completed"
+msgstr "Dokončené"
+
+msgid "Cancelled"
+msgstr "Zrušené"
+
+msgid "Draft"
+msgstr "Koncept"
+
+msgid "Revenue Overview"
+msgstr "Prehľad tržieb"
+
+msgid "Orders Status"
+msgstr "Stav objednávok"
+
+msgid "WordPress Activity"
+msgstr "Aktivita WordPress"
+
+msgid "Revenue"
+msgstr "Tržby"
+
+msgid "WordPress Metrics"
+msgstr "Metriky WordPress"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "Počet produktov na stránku nemôže presiahnuť 100. Zadajte hodnotu medzi 1 a 100."
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "Počet produktov na stránku musí byť aspoň 1. Zadajte platnú hodnotu."
+
+msgid "Settings saved successfully!"
+msgstr "Nastavenia úspešne uložené!"
+
+msgid "Please enter a authentication key before testing."
+msgstr "Pred testovaním zadajte autentifikačný kľúč."
+
+msgid "more..."
+msgstr "viac..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "Vyrovnávacia pamäť analýzy úspešne vymazaná!"
+
+msgid "No products to import. Please sync products first."
+msgstr "Žiadne produkty na import. Najprv synchronizujte produkty."
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "Import dokončený! %d produktov importovaných, %d zlyhalo."
+
+msgid "Import failed: %s"
+msgstr "Import zlyhal: %s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "Test API dokončený! Skontrolujte debug.log pre podrobné záznamy. Všetky koncové body úspešne otestované."
+
+msgid "API Test Failed: %s"
+msgstr "Test API zlyhal: %s"
+
+msgid "Database structure validated and fixed:"
+msgstr "Štruktúra databázy overená a opravená:"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "Štruktúra databázy je platná. Nie sú potrebné žiadne opravy."
+
+msgid "Database validation issues:"
+msgstr "Problémy s overením databázy:"
+
+msgid "Database validation failed: %s"
+msgstr "Overenie databázy zlyhalo: %s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "Vaša autentifikácia Vortem je aktívna s plánom %s."
+
+msgid "Validated on: %s"
+msgstr "Overené dňa: %s"
+
+msgid "Import failed. Please try again."
+msgstr "Import zlyhal. Skúste to prosím znova."
+
+msgid "Please select a bulk action."
+msgstr "Vyberte hromadnú akciu."
+
+msgid "Please select at least one product."
+msgstr "Vyberte aspoň jeden produkt."
+
+msgid "Bulk action failed. Please try again."
+msgstr "Hromadná akcia zlyhala. Skúste to prosím znova."
+
+msgid "Failed to trash product. Please try again."
+msgstr "Nepodarilo sa presunúť produkt do koša. Skúste to prosím znova."
+
+msgid "Failed to restore product. Please try again."
+msgstr "Nepodarilo sa obnoviť produkt. Skúste to prosím znova."
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "Nepodarilo sa importovať produkt ako koncept. Skúste to prosím znova."
+
+msgid "Failed to get product details."
+msgstr "Nepodarilo sa získať podrobnosti o produkte."
+
+msgid "Delete failed. Please try again."
+msgstr "Odstránenie zlyhalo. Skúste to prosím znova."
+
+msgid "FAQ Management"
+msgstr "Správa častých otázok"
+
+msgid "Manage your frequently asked questions"
+msgstr "Spravujte svoje časté otázky"
+
+msgid "Search FAQs..."
+msgstr "Hľadať časté otázky..."
+
+msgid "Card View"
+msgstr "Zobrazenie kariet"
+
+msgid "Table View"
+msgstr "Tabuľkové zobrazenie"
+
+msgid "Refresh FAQs"
+msgstr "Obnoviť časté otázky"
+
+msgid "Create New FAQ"
+msgstr "Vytvoriť novú otázku"
+
+msgid "Total FAQs"
+msgstr "Celkový počet častých otázok"
+
+msgid "Active FAQs"
+msgstr "Aktívne časté otázky"
+
+msgid "Page Status"
+msgstr "Stav stránky"
+
+msgid "Question"
+msgstr "Otázka"
+
+msgid "No FAQs yet"
+msgstr "Zatiaľ žiadne časté otázky"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "Začnite vytvárať časté otázky a budujte svoju vedomostnú základňu"
+
+msgid "Create Your First FAQ"
+msgstr "Vytvorte svoju prvú otázku"
+
+msgid "Loading FAQs..."
+msgstr "Načítavajú sa časté otázky..."
+
+msgid "Update FAQ"
+msgstr "Aktualizovať otázku"
+
+msgid "Question *"
+msgstr "Otázka *"
+
+msgid "Enter your question here..."
+msgstr "Sem zadajte svoju otázku..."
+
+msgid "Answer *"
+msgstr "Odpoveď *"
+
+msgid "Enter the answer here..."
+msgstr "Sem zadajte odpoveď..."
+
+msgid "Create FAQ"
+msgstr "Vytvoriť otázku"
+
+msgid "FAQ Details"
+msgstr "Podrobnosti otázky"
+
+msgid "Answer"
+msgstr "Odpoveď"
+
+msgid "Delete FAQ"
+msgstr "Odstrániť otázku"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Answer:"
+msgstr "Odpoveď:"
+
+msgid "View Details"
+msgstr "Zobraziť podrobnosti"
+
+msgid "Edit FAQ"
+msgstr "Upraviť otázku"
+
+msgid "Creating..."
+msgstr "Vytvára sa..."
+
+msgid "Updating..."
+msgstr "Aktualizuje sa..."
+
+msgid "Question is required"
+msgstr "Otázka je povinná"
+
+msgid "Answer is required"
+msgstr "Odpoveď je povinná"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "Odpoveď musí mať aspoň 10 znakov"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "Častá otázka \"%s\" bola vytvorená"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "Častá otázka \"%s\" bola aktualizovaná"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "Častá otázka \"%s\" bola odstránená"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "Ste si istí, že chcete odstrániť \"%s\"? Táto akcia sa nedá vrátiť späť."
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "Nepodarilo sa načítať časté otázky. Skúste to prosím znova."
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "Nepodarilo sa uložiť častú otázku. Skúste to prosím znova."
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "Nepodarilo sa odstrániť častú otázku. Skúste to prosím znova."
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "Vyžaduje sa autentifikácia. Skontrolujte svoj autentifikačný kľúč."
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "autentifikačný kľúč je povinný. Nakonfigurujte svoj autentifikačný kľúč v nastaveniach Vortem."
+
+msgid "Security"
+msgstr "Bezpečnosť"
+
+msgid "Search plugins..."
+msgstr "Hľadať doplnky..."
+
+msgid "Last Modified"
+msgstr "Naposledy upravené"
+
+msgid "Inactive"
+msgstr "Neaktívne"
+
+msgid "WordPress Core"
+msgstr "WordPress jadro"
+
+msgid "Themes"
+msgstr "Témy"
+
+msgid "Plugins"
+msgstr "Doplnky"
+
+msgid "Version"
+msgstr "Verzia"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "File"
+msgstr "Súbor"
+
+msgid "Plugin URI"
+msgstr "URI doplnku"
+
+msgid "Requires WP Version"
+msgstr "Vyžaduje WP verziu"
+
+msgid "Requires PHP"
+msgstr "Vyžaduje PHP"
+
+msgid "Read more"
+msgstr "Čítať viac"
+
+msgid "Stylesheet"
+msgstr "Štýlový list"
+
+msgid "Theme URI"
+msgstr "URI témy"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Name"
+msgstr "Názov"
+
+msgid "All"
+msgstr "Všetky"
+
+msgid "Vulnerabilities"
+msgstr "Bezpečnostné zraniteľnosti"
+
+msgid "Checking..."
+msgstr "Kontroluje sa..."
+
+msgid "Save Changes"
+msgstr "Uložiť zmeny"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "Zadajte svoj autentifikačný kľúč Vortem.ai na aktiváciu funkcií doplnku. Kliknite na \"overenie autentifikácie\" na overenie kľúča."
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "Počet produktov na zobrazenie na stránku. Predvolené: 16."
+
+msgid "Products per page must be at least 1"
+msgstr "Počet produktov na stránku musí byť aspoň 1"
+
+msgid "Products per page cannot exceed 100"
+msgstr "Počet produktov na stránku nemôže presiahnuť 100"
+
+msgid "Loading currencies..."
+msgstr "Načítavajú sa meny..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "Vyberte typ meny pre doplnok a kliknite na \"Aktualizovať menu\" pre uloženie zmien."
+
+msgid "Currency updated successfully!"
+msgstr "Mena úspešne aktualizovaná!"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "Nakonfigurujte nastavenia a preferencie vášho doplnku"
+
+msgid "Products Per Page"
+msgstr "Produkty na Stránku"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "Currency"
+msgstr "Mena"
+
+msgid "Update Currency"
+msgstr "Aktualizovať Menu"
+
+msgid "Video Settings"
+msgstr "Nastavenia Videa"
+
+msgid "Video Download for Excluded Themes"
+msgstr "Sťahovanie Videa pre Vylúčené Témy"
+
+msgid "AliExpress Integration"
+msgstr "AliExpress Integrácia"
+
+msgid "Add video to product description"
+msgstr "Pridať video do popisu produktu"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "Stiahnite videá pre témy Vortem Clothes, Vortem Cosmetic a xstore"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "Blížite sa k dennému limitu e-mailov (%s). Limit sa obnoví zajtra."
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "Dosiahli ste denný limit e-mailov. Limit sa obnoví zajtra."
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "Blížite sa k dennej kvóte importu produktov (%s). Kvóta sa obnoví zajtra."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "Dosiahli ste dennú kvótu importu produktov. Kvóta sa obnoví zajtra."
+
+msgid "Search plugins and themes..."
+msgstr "Hľadať doplnky a témy..."
+
+msgid "Loading security scan results..."
+msgstr "Načítavajú sa výsledky bezpečnostného skenovania..."
+
+msgid "published"
+msgstr "publikované"
+
+msgid "Published"
+msgstr "Publikované"
+
+msgid "references"
+msgstr "referencie"
+
+msgid "References"
+msgstr "Referencie"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "Ak je povolené, videá produktov sa automaticky pridajú do popisu produktu. Vypnite to, ak uprednostňujete manuálnu správu videí."
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "Ak je zakázané, videá sa nebudú sťahovať ani pridávať do knižnice médií pre témy Vortem Clothes, Vortem Cosmetic a xstore. Ušetrí to úložný priestor."
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "Ak chcete používať túto stránku, musíte zadať autentifikáciu v nastaveniach v sekcii Autentifikačný kľúč a potom kliknúť na tlačidlo \"overenie autentifikácie\"."
+
+msgid "Products Pages"
+msgstr "Stránky produktov"
+
+msgid "Analytics Pages"
+msgstr "Stránky analýzy"
+
+msgid "sales"
+msgstr "predaj"
+
+msgid "Loading trend products..."
+msgstr "Načítavajú sa trendové produkty..."
+
+msgid "Loading TikTok products..."
+msgstr "Načítavajú sa TikTok produkty..."
+
+msgid "Error loading TikTok products:"
+msgstr "Chyba pri načítavaní TikTok produktov:"
+
+msgid "Failed to load TikTok products:"
+msgstr "Nepodarilo sa načítať TikTok produkty:"
+
+msgid "Loading Kinguin products..."
+msgstr "Načítavajú sa produkty Kinguin..."
+
+msgid "No Kinguin products found."
+msgstr "Nenašli sa žiadne produkty Kinguin."
+
+msgid "Failed to load Kinguin products:"
+msgstr "Nepodarilo sa načítať produkty Kinguin:"
+
+msgid "Error loading Kinguin products:"
+msgstr "Chyba pri načítavaní produktov Kinguin:"
+
+msgid "View on Amazon"
+msgstr "Zobraziť na Amazone"
+
+msgid "View on Kinguin"
+msgstr "Zobraziť na Kinguin"
+
+msgid "Release:"
+msgstr "Vydanie:"
+
+msgid "Price N/A"
+msgstr "Cena N/A"
+
+msgid "In Stock"
+msgstr "Skladom"
+
+msgid "Sentiment"
+msgstr "Sentiment"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "Položky s nízkym stavom zásob menej ako 10 kusov"
+
+msgid "Total Pages"
+msgstr "Celkový počet stránok"
+
+msgid "Total Posts"
+msgstr "Celkový počet príspevkov"
+
+msgid "Refetch"
+msgstr "Znova načítať"
+
+msgid "AliExpress"
+msgstr "AliExpress"
+
+msgid "Connect to AliExpress"
+msgstr "Pripojiť k AliExpress"
+
+msgid "Disconnect AliExpress"
+msgstr "Odpojiť AliExpress"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "Ste si istí, že chcete odpojiť svoj účet AliExpress?"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "Pripojte svoj účet AliExpress, aby ste povolili vybavovanie objednávok a funkcie dropshippingu."
+
+msgid "Checking connection status..."
+msgstr "Kontroluje sa stav pripojenia..."
+
+msgid "Connected"
+msgstr "Pripojené"
+
+msgid "Not connected"
+msgstr "Nepripojené"
+
+msgid "Error checking status"
+msgstr "Chyba pri kontrole stavu"
+
+msgid "Connecting..."
+msgstr "Pripája sa..."
+
+msgid "Disconnecting..."
+msgstr "Odpája sa..."
+
+msgid "Error connecting to AliExpress"
+msgstr "Chyba pri pripájaní k AliExpress"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "Chyba pri odpájaní účtu AliExpress"
+
+msgid "Failed to disconnect"
+msgstr "Nepodarilo sa odpojiť"
+
+msgid "Failed to connect to AliExpress"
+msgstr "Nepodarilo sa pripojiť k AliExpress"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "Úspešne pripojené k AliExpress!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "Pre vytvorenie objednávky na Aliexpress je potrebné telefónne číslo."
+
+msgid "Expires:"
+msgstr "Vyprší:"
+
+msgid "Disconnect"
+msgstr "Odpojiť"
+
+msgid "Select Import Method"
+msgstr "Vybrať spôsob importu"
+
+msgid "Choose how you want to import this product:"
+msgstr "Vyberte, ako chcete importovať tento produkt:"
+
+msgid "Normal Import"
+msgstr "Normálny import"
+
+msgid "Import product with original title and description"
+msgstr "Importovať produkt s pôvodným názvom a popisom"
+
+msgid "SEO Import"
+msgstr "SEO import"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "Importovať s názvom, popisom a značkami optimalizovanými pre SEO"
+
+msgid "SEO Import Completed"
+msgstr "SEO Import Dokončený"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "Boli aplikované nasledujúce SEO optimalizácie:"
+
+msgid "Keyphrase"
+msgstr "Kľúčová Fráza"
+
+msgid "SEO Title"
+msgstr "SEO Názov"
+
+msgid "SEO Description"
+msgstr "SEO Popis"
+
+msgid "Meta Description"
+msgstr "Meta Popis"
+
+msgid "Tags"
+msgstr "Značky"
+
+msgid "Yoast SEO Title"
+msgstr "Yoast SEO Názov"
+
+msgid "Headings"
+msgstr "Nadpisy"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO nie je nainštalovaný. Ak chcete použiť možnosť importu SEO, musíte ho nainštalovať a aktivovať."
+
+msgid "Email subject must be at least 16 characters"
+msgstr "Predmet e-mailu musí mať aspoň 16 znakov"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "Predmet e-mailu nesmie presiahnuť 256 znakov"
+
+msgid "Email body must be at least 128 characters"
+msgstr "Obsah e-mailu musí mať aspoň 128 znakov"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "Obsah e-mailu nesmie presiahnuť 8196 znakov"
+
+msgid "All Imported Products"
+msgstr "Všetky importované produkty"
+
+msgid "Refresh Products"
+msgstr "Obnoviť produkty"
+
+msgid "Show All Products"
+msgstr "Zobraziť všetky produkty"
+
+msgid "Show All Added Products"
+msgstr "Zobraziť všetky pridané produkty"
+
+msgid "Top Products Kinguin"
+msgstr "Top produkty Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "Trend produkty Amazon"
+
+msgid "Top Products AliExpress"
+msgstr "Top produkty AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "Spravujte a zobrazujte svoj inventár produktov"
+
+msgid "Security Overview"
+msgstr "Prehľad bezpečnosti"
+
+msgid "Security Scan Results"
+msgstr "Výsledky bezpečnostného skenovania"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "Monitorovať a kontrolovať všetky nainštalované WordPress pluginy a témy"
+
+msgid "Total Plugins"
+msgstr "Celkom pluginov"
+
+msgid "Active Plugins"
+msgstr "Aktívne pluginy"
+
+msgid "Inactive Plugins"
+msgstr "Neaktívne pluginy"
+
+msgid "Total Themes"
+msgstr "Celkom tém"
+
+msgid "Active Themes"
+msgstr "Aktívne témy"
+
+msgid "Inactive Themes"
+msgstr "Neaktívne témy"
+
+msgid "Sort by:"
+msgstr "Zoradiť podľa:"
+
+msgid "Filter by Status:"
+msgstr "Filtrovať podľa stavu:"
+
+msgid "Sort by Date"
+msgstr "Zoradiť podľa dátumu"
+
+msgid "View and manage your store orders"
+msgstr "Zobrazte a spravujte objednávky vášho obchodu"
+
+msgid "Start Date"
+msgstr "Dátum začiatku"
+
+msgid "End Date"
+msgstr "Dátum konca"
+
+msgid "All Statuses"
+msgstr "Všetky stavy"
+
+msgid "Navigation"
+msgstr "Navigácia"
+
+msgid "Shop Analytics"
+msgstr "Analytika obchodu"
+
+msgid "Traffic Analytics"
+msgstr "Analytika návštevnosti"
+
+msgid "Search currencies..."
+msgstr "Hľadať meny..."
+
+msgid "Search by country or currency code"
+msgstr "Hľadať podľa krajiny alebo kódu meny"
+
+msgid "Popularity"
+msgstr "Obľúbenosť"
+
+msgid "Impressions"
+msgstr "Zobrazenia"
+
+msgid "Engagement"
+msgstr "Zapojenie"
+
+msgid "Videos"
+msgstr "Videá"
+
+msgid "# Hashtags"
+msgstr "# Hashtagy"
+
+msgid "View Rate (6s)"
+msgstr "Miera zobrazení (6s)"
+
+msgid "Cost"
+msgstr "Náklady"
+
+msgid "Avg. Time on Site"
+msgstr "Priemerný čas na stránke"
+
+msgid "Visits"
+msgstr "Návštevy"
+
+msgid "Unique Visitors"
+msgstr "Jedineční návštevníci"
+
+msgid "Top Pages"
+msgstr "Top stránky"
+
+msgid "Top Page Titles"
+msgstr "Top názvy stránok"
+
+msgid "Cities"
+msgstr "Mestá"
+
+msgid "Countries"
+msgstr "Krajiny"
+
+msgid "Exit Pages"
+msgstr "Výstupné stránky"
+
+msgid "Entry Pages"
+msgstr "Vstupné stránky"
+
+msgid "Real-time Visits"
+msgstr "Návštevy v reálnom čase"
+
+msgid "Bounce Rate"
+msgstr "Miera odmietnutia"
+
+msgid "Today"
+msgstr "Dnes"
+
+msgid "Yesterday"
+msgstr "Včera"
+
+msgid "Last 7 Days"
+msgstr "Posledných 7 dní"
+
+msgid "Last 30 Days"
+msgstr "Posledných 30 dní"
+
+msgid "First Contentful Paint"
+msgstr "Prvé Vykreslenie Obsahu"
+
+msgid "Total Size"
+msgstr "Celková Veľkosť"
+
+msgid "Requests"
+msgstr "Požiadavky"
+
+msgid "Page Load"
+msgstr "Načítanie Stránky"
+
+msgid "Last updated: %s"
+msgstr "Naposledy aktualizované: %s"
+
+msgid "Live"
+msgstr "Naživo"
+
+msgid "Quick Insights"
+msgstr "Rýchle Prehľady"
+
+msgid "Config"
+msgstr "Konfigurácia"
+
+msgid "Total Vulnerabilities"
+msgstr "Celkovo zraniteÄ¾nostÃ­"
+
+msgid "CVSS Score:"
+msgstr "CVSS skÃ³re:"
+
+msgid "Published:"
+msgstr "PublikovanÃ©:"
+
+msgid "Last Modified:"
+msgstr "Naposledy upravenÃ©:"
+
+msgid "References:"
+msgstr "Odkazy:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "Your WordPress core is secure!"
+msgstr "VaÅ¡e jadro WordPress je bezpeÄnÃ©!"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "Odporúča sa konať. Prosím, prehľadajte a aktualizujte ovplyvnené položky."
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "Všetky vaše pluginy, témy a WordPress jadro sú bezpečné a aktuálne."
+
+msgid "CRITICAL"
+msgstr "KRITICKÉ"
+
+msgid "HIGH"
+msgstr "VYSOKÉ"
+
+msgid "High severity vulnerabilities found"
+msgstr "Nájdené zraniteľnosti vysokej závažnosti"
+
+msgid "LOW"
+msgstr "NÍZKE"
+
+msgid "Last updated: Loading..."
+msgstr "Naposledy aktualizované: Načítava sa..."
+
+msgid "MEDIUM"
+msgstr "STREDNÉ"
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "Prehľad odporúčaný. Sledujte a aktualizujte ovplyvnené položky, keď je to možné."
+
+msgid "Some vulnerabilities found"
+msgstr "Nájdené niektoré zraniteľnosti"
+
+msgid "Trend Products TikTok"
+msgstr "Trend produkty TikTok"
+
+msgid "View All Vulnerabilities"
+msgstr "Zobraziť všetky zraniteľnosti"
+
+msgid "Your site is secure!"
+msgstr "Vaša stránka je bezpečná!"
+
+msgid "failed_to_load_insights_error"
+msgstr "Chyba pri načítaní údajov o prehľadoch"
+
+msgid "failed_to_refetch"
+msgstr "Opätovné načítanie zlyhalo"
+
+msgid "no_category"
+msgstr "Žiadna kategória"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "Spracovanie SEO optimalizácií: Kľúčová fráza, SEO nadpis, SEO popis, Meta popis, Značky, Yoast SEO nadpis a Nadpisy"
+
+msgid "Search themes..."
+msgstr "Hľadať témy..."
+
+msgid "AUTHOR"
+msgstr "AUTOR"
+
+msgid "Across all plugins, themes & core"
+msgstr "Naprieč všetkými pluginmi, témami a jadrom"
+
+msgid "Address as soon as possible"
+msgstr "Riešiť čo najskôr"
+
+msgid "All Security Issues"
+msgstr "Všetky Bezpečnostné Problémy"
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "Analyzovanie vašej WordPress inštalácie na bezpečnostné zraniteľnosti"
+
+msgid "Attention required"
+msgstr "Vyžaduje sa pozornosť"
+
+msgid "Component Type"
+msgstr "Typ Komponenty"
+
+msgid "Core"
+msgstr "Jadro"
+
+msgid "Core WordPress files"
+msgstr "Základné WordPress súbory"
+
+msgid "Critical"
+msgstr "Kritické"
+
+msgid "Critical Severity"
+msgstr "Kritická Závažnosť"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "Zistené kritické zraniteľnosti!"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "Filter by:"
+msgstr "Filtrovať podľa:"
+
+msgid "High"
+msgstr "Vysoké"
+
+msgid "High Severity"
+msgstr "Vysoká Závažnosť"
+
+msgid "High severity vulnerabilities detected"
+msgstr "Zistené zraniteľnosti vysokej závažnosti"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "Vyžaduje sa okamžitá akcia. Prosím, aktualizujte alebo odstráňte ovplyvnené položky čo najskôr."
+
+msgid "Items Requiring Attention"
+msgstr "Položky Vyžadujúce Pozornosť"
+
+msgid "Items without vulnerabilities"
+msgstr "Položky bez zraniteľností"
+
+msgid "Low"
+msgstr "Nízke"
+
+msgid "Low Severity"
+msgstr "Nízka Závažnosť"
+
+msgid "Low severity vulnerabilities detected"
+msgstr "Zistené zraniteľnosti nízkej závažnosti"
+
+msgid "Medium"
+msgstr "Stredné"
+
+msgid "Medium Severity"
+msgstr "Stredná Závažnosť"
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "Zistené zraniteľnosti strednej závažnosti"
+
+msgid "Monitor & track"
+msgstr "Sledovať a sledovať"
+
+msgid "Monitor and plan fix"
+msgstr "Sledovať a plánovať opravu"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "Sledujte tieto problémy a plánujte opravy, keď je to vhodné."
+
+msgid "No items at risk"
+msgstr "Žiadne položky v riziku"
+
+msgid "No known vulnerabilities detected"
+msgstr "Nezistené žiadne známe zraniteľnosti"
+
+msgid "No plugins found"
+msgstr "Nenašli sa žiadne pluginy"
+
+msgid "No recent vulnerabilities"
+msgstr "Žiadne nedávne zraniteľnosti"
+
+msgid "No themes found"
+msgstr "Nenašli sa žiadne témy"
+
+msgid "No vulnerabilities found"
+msgstr "Nenašli sa žiadne zraniteľnosti"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "V pluginch sa nenašli žiadne zraniteľnosti"
+
+msgid "No vulnerabilities found in themes"
+msgstr "V témach sa nenašli žiadne zraniteľnosti"
+
+msgid "Number of Vulnerabilities"
+msgstr "Počet Zraniteľností"
+
+msgid "Plan to address"
+msgstr "Plán na riešenie"
+
+msgid "Please review and address these issues soon."
+msgstr "Prosím, skontrolujte a vyriešte tieto problémy čoskoro."
+
+msgid "REQUIRES PHP"
+msgstr "VYŽADUJE PHP"
+
+msgid "REQUIRES WP"
+msgstr "VYŽADUJE WP"
+
+msgid "Read less"
+msgstr "Čítať menej"
+
+msgid "Recent Vulnerabilities"
+msgstr "Nedávne Zraniteľnosti"
+
+msgid "Requires immediate action"
+msgstr "Vyžaduje okamžitú akciu"
+
+msgid "Requires immediate attention"
+msgstr "Vyžaduje okamžitú pozornosť"
+
+msgid "Scanning..."
+msgstr "Skenovanie..."
+
+msgid "Schedule for review"
+msgstr "Naplánovať na kontrolu"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "Naplánujte čas na kontrolu a opravu týchto problémov."
+
+msgid "Secure Items"
+msgstr "Bezpečné Položky"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "Zistené bezpečnostné zraniteľnosti vo verzii WordPress. Odporúča sa aktualizácia na najnovšiu verziu."
+
+msgid "Should be fixed soon"
+msgstr "Malo by byť čoskoro opravené"
+
+msgid "Third-party plugins installed"
+msgstr "Nainštalované pluginy tretích strán"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "Skúste upraviť svoje filtre alebo vyhľadávacie výrazy"
+
+msgid "Unknown Plugin"
+msgstr "Neznámy Plugin"
+
+msgid "Unknown Theme"
+msgstr "Neznáma Téma"
+
+msgid "VERSION"
+msgstr "VERZIA"
+
+msgid "View Page"
+msgstr "Zobraziť Stránku"
+
+msgid "Vortem Logo"
+msgstr "Vortem Logo"
+
+msgid "Vulnerabilities by Type"
+msgstr "Zraniteľnosti podľa Typu"
+
+msgid "Vulnerability"
+msgstr "Zraniteľnosť"
+
+msgid "Vulnerability Details"
+msgstr "Detaily Zraniteľnosti"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "Rozdelenie Zraniteľností podľa Závažnosti"
+
+msgid "WordPress Vulnerability"
+msgstr "WordPress Zraniteľnosť"
+
+msgid "WordPress themes"
+msgstr "WordPress témy"
+
+msgid "Your WP Core is Secure"
+msgstr "Vaše WP jadro je bezpečné"
+
+msgid "Your plugins are secure!"
+msgstr "Vaše pluginy sú bezpečné!"
+
+msgid "Your site is secure"
+msgstr "Vaša stránka je bezpečná"
+
+msgid "Your themes are secure!"
+msgstr "Vaše témy sú bezpečné!"
+
+msgid "of all vulnerabilities"
+msgstr "zo všetkých zraniteľností"
+
+msgid "of installed items affected"
+msgstr "z inštalovaných položiek ovplyvnených"
+
+msgid "of items are clean"
+msgstr "položiek sú čisté"
+
+msgid "of total"
+msgstr "z celkového"
+
+msgid "vulnerabilities"
+msgstr "zraniteľnosti"
+
+msgid "vulnerabilities found"
+msgstr "zraniteľnosti nájdené"
+
+msgid "Filter by Severity:"
+msgstr "Filtrovať podľa závažnosti:"
+
+msgid "All Severities"
+msgstr "Všetky úrovne závažnosti"
+
+msgid "Let's Get You Started"
+msgstr "Začnime"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "Dokončite nastavenie za približne 2 minút"
+
+msgid "Quick Setup"
+msgstr "Rýchle nastavenie"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "Začnite za niekoľko minút s naším sprievodným inštalačným procesom"
+
+msgid "Secure & Reliable"
+msgstr "Bezpečné a spoľahlivé"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "Bezpečnosť na úrovni podniku vstavaná do každej komponenty"
+
+msgid "Optimized Performance"
+msgstr "Optimalizovaný výkon"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "Bleskovo rýchle a optimalizované pre WordPress prostredia"
+
+msgid "Next Step"
+msgstr "Ďalší krok"
+
+msgid "Initial Configuration"
+msgstr "Počiatočná konfigurácia"
+
+msgid "Set your default language and currency preferences"
+msgstr "Nastavte svoje predvolené preferencie jazyka a meny"
+
+msgid "Please review and accept our terms to continue"
+msgstr "Prosím, prečítajte si a prijmite naše podmienky, aby ste mohli pokračovať"
+
+msgid "1. Service Availability"
+msgstr "1. Dostupnosť služby"
+
+msgid "2. Support"
+msgstr "2. Podpora"
+
+msgid "3. Updates"
+msgstr "3. Aktualizácie"
+
+msgid "I accept the Terms & Conditions"
+msgstr "Prijímam Obchodné podmienky"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "Označením tohto políčka potvrdzujete, že ste si prečítali a súhlasíte s tým, že vás viažu tieto podmienky."
+
+msgid "Installation Complete!"
+msgstr "Inštalácia dokončená!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "Váš plugin bol úspešne nakonfigurovaný a je pripravený na použitie. Teraz môžete začať používať všetky funkcie."
+
+msgid "Configuration Summary"
+msgstr "Súhrn konfigurácie"
+
+msgid "Language:"
+msgstr "Jazyk:"
+
+msgid "Currency:"
+msgstr "Mena:"
+
+msgid "Terms Accepted:"
+msgstr "Podmienky prijaté:"
+
+msgid "Yes"
+msgstr "Áno"
+
+msgid "Go to Dashboard"
+msgstr "Prejsť na ovládací panel"
+
+msgid "Go to Analytics page"
+msgstr "Prejsť na stránku analytiky"
+
+msgid "Go to Products page"
+msgstr "Prejsť na stránku produktov"
+
+msgid "Go to Matomo Analytics page"
+msgstr "Prejsť na stránku Matomo Analytics"
+
+msgid "Restart Wizard"
+msgstr "Reštartovať sprievodcu"
+
+msgid "Restart"
+msgstr "Reštartovať"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "Toto resetuje proces nastavenia. Ste si istí?"
+
+msgid "Confirm Restart"
+msgstr "Potvrdiť reštart"
+
+msgid "Back"
+msgstr "Späť"
+
+msgid "Welcome"
+msgstr "Vitajte"
+
+msgid "Configuration"
+msgstr "Konfigurácia"
+
+msgid "Complete"
+msgstr "Dokončené"
+
+msgid "Insufficient permissions"
+msgstr "Nedostatočné oprávnenia"
+
+msgid "Language parameter is required"
+msgstr "Parameter jazyka je povinný"
+
+msgid "Translation manager not available"
+msgstr "Správca prekladov nie je k dispozícii"
+
+msgid "Unsupported language"
+msgstr "Nepodporovaný jazyk"
+
+msgid "Language changed successfully"
+msgstr "Jazyk bol úspešne zmenený"
+
+msgid "Failed to change language"
+msgstr "Zmena jazyka zlyhala"
+
+msgid "Currency parameter is required"
+msgstr "Parameter meny je povinný"
+
+msgid "Unsupported currency"
+msgstr "Nepodporovaná mena"
+
+msgid "Currency changed successfully"
+msgstr "Mena bola úspešne zmenená"
+
+msgid "Loading"
+msgstr "Načítava sa"
+
+msgid "Search..."
+msgstr "Hľadať..."
+
+msgid "Search Language"
+msgstr "Hľadať jazyk"
+
+msgid "No languages found"
+msgstr "Nenašli sa žiadne jazyky"
+
+msgid "No currencies found"
+msgstr "Nenašli sa žiadne meny"
+
+msgid "Failed to load currencies"
+msgstr "Načítanie mien zlyhalo"
+
+msgid "Error loading currencies"
+msgstr "Chyba pri načítaní mien"
+
+msgid "Failed to restart wizard"
+msgstr "Reštartovanie sprievodcu zlyhalo"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "Pri reštartovaní sprievodcu došlo k chybe. Skúste to znova."
+
+msgid "Please complete the current step before proceeding."
+msgstr "Pred pokračovaním dokončite aktuálny krok."
+
+msgid "Please wait for authentication to complete."
+msgstr "Počkajte, kým sa dokončí overenie totožnosti."
+
+msgid "Please accept the terms and conditions."
+msgstr "Prosím, prijmite podmienky."
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "Pred pokračovaním prijmite podmienky."
+
+msgid "Please complete authentication first."
+msgstr "Najprv dokončite overenie totožnosti."
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "Pred dokončením nastavenia prijmite podmienky."
+
+msgid "Failed to complete setup"
+msgstr "Dokončenie nastavenia zlyhalo"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "Pri dokončovaní nastavenia došlo k chybe. Skúste to znova."
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "Token relácie sa nenašiel. Najprv dokončite overenie totožnosti."
+
+msgid "An error occurred while switching language"
+msgstr "Pri prepínaní jazyka došlo k chybe"
+
+msgid "An error occurred while switching currency"
+msgstr "Pri prepínaní meny došlo k chybe"
+
+msgid "Last updated: %1$s • Live"
+msgstr "Naposledy aktualizované: %1$s • Naživo"
+
+msgid "Last 30 days"
+msgstr "Posledných 30 dní"
+
+msgid "Traffic Overview"
+msgstr "Prehľad návštevnosti"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "Matomo analytika – posledných 30 dní"
+
+msgid "Today's Focus"
+msgstr "Dnešný focus"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "Prehľad pluginu Vortem.ai"
+
+msgid "Read More"
+msgstr "Čítať viac"
+
+msgid "Check your dashboard regularly"
+msgstr "Pravidelne kontrolujte svoj dashboard"
+
+msgid "View Analytics"
+msgstr "Zobraziť analytiku"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem uznaná ako top AI platforma 2026"
+
+msgid "Order Statistics"
+msgstr "Štatistiky objednávok"
+
+msgid "Today's Orders Completed"
+msgstr "Dnes dokončené objednávky"
+
+msgid "Total Orders Completed"
+msgstr "Celkom dokončených objednávok"
+
+msgid "Imported Products"
+msgstr "Importované produkty"
+
+msgid "Recent Activity"
+msgstr "Nedávna aktivita"
+
+msgid "Overview dashboard loaded"
+msgstr "Dashboard prehľadu načítaný"
+
+msgid "Just now"
+msgstr "Práve teraz"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "Odtiaľto môžete spravovať produkty, analytiku a e-mailový marketing"
+
+msgid "Ready"
+msgstr "Pripravené"
+
+msgid "Configure plugin settings and API keys"
+msgstr "Nastavte parametre pluginu a API kľúče"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "Plugin Vortem.ai je pripravený. Odtiaľto môžete spravovať produkty, analytiku a e-mailový marketing."
+
+msgid "Vortem.ai official website"
+msgstr "Oficiálna webová stránka Vortem.ai"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "Navigujte, učte sa a spravujte svoj účet"
+
+msgid "Quick Access"
+msgstr "Rýchly prístup"
+
+msgid "Return to dashboard home"
+msgstr "Späť na domovskú stránku dashboardu"
+
+msgid "Go to Home"
+msgstr "Na domovskú stránku"
+
+msgid "Profile, settings, and preferences"
+msgstr "Profil, nastavenia a preferencie"
+
+msgid "Help & Learning"
+msgstr "Pomoc a učenie"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "Získajte pomoc, odošlite požiadavky alebo kontaktujte podporu"
+
+msgid "Get Support"
+msgstr "Získať podporu"
+
+msgid "Developer & user guides"
+msgstr "Príručky pre vývojárov a používateľov"
+
+msgid "Read Docs"
+msgstr "Čítať dokumentáciu"
+
+msgid "Legal & Policies"
+msgstr "Právne a politiky"
+
+msgid "Terms of Service"
+msgstr "Podmienky služby"
+
+msgid "Usage terms and conditions"
+msgstr "Podmienky používania"
+
+msgid "View"
+msgstr "Zobraziť"
+
+msgid "Privacy Policy"
+msgstr "Zásady ochrany osobných údajov"
+
+msgid "Data protection and privacy"
+msgstr "Ochrana údajov a súkromie"
+
+msgid "Navigation to vortem wordpress"
+msgstr "Navigácia na Vortem WordPress"
+
+msgid "Access key features and settings"
+msgstr "Prístup k kľúčovým funkciám a nastaveniam"
+
+msgid "Manage catalog and inventory"
+msgstr "Správa katalógu a zásob"
+
+msgid "Business insights and metrics"
+msgstr "Obchodné prehľady a metriky"
+
+msgid "Growth & Intelligence"
+msgstr "Rast a inteligencia"
+
+msgid "Campaigns and automation"
+msgstr "Kampane a automatizácia"
+
+msgid "AI-powered recommendations"
+msgstr "Odporúčania založené na AI"
+
+msgid "Manage orders and shipments"
+msgstr "Správa objednávok a zásielok"
+
+msgid "System"
+msgstr "Systém"
+
+msgid "Knowledge base editor"
+msgstr "Editor znalostnej bázy"
+
+msgid "Access control and monitoring"
+msgstr "Kontrola prístupu a monitorovanie"
+
+msgid "System configuration"
+msgstr "Konfigurácia systému"
+
+msgid "Emails Sent"
+msgstr "Odoslané e-maily"
+
+msgid "Orders"
+msgstr "Objednávky"
+
+msgid "Total products"
+msgstr "Celkom produktov"
+
+msgid "Imported via plugin"
+msgstr "Importované cez plugin"
+
+msgid "Other products"
+msgstr "Iné produkty"
+
+msgid "Manage"
+msgstr "Spravovať"
+
+msgid "bounce"
+msgstr "odmietnutie"
+
+
+msgid "Dashboard"
+msgstr "Nástenka"
+
+msgid "Plugin"
+msgstr "Doplnok"
+
+msgid "External"
+msgstr "Externý"
+
+msgid "Navigation to vortem WordPress"
+msgstr "Navigácia na vortem WordPress"
+
+msgid "Commerce"
+msgstr "Obchod"
+
+msgid "Timeline"
+msgstr "Časová os"
+
+msgid "Security Center"
+msgstr "Centrum bezpečnosti"
+
+msgid "Display"
+msgstr "Zobrazenie"
+
+msgid "How products and currency are presented in your store."
+msgstr "Ako sú produkty a mena prezentované vo vašom obchode."
+
+msgid "Products per page"
+msgstr "Produktov na stránku"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "Predvolené: 16. Rozsah: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "Mena používaná v cenách doplnku. Kliknutím na „Aktualizovať\" uložte svoj výber."
+
+msgid "Media"
+msgstr "Médiá"
+
+msgid "Control how product videos are imported and attached."
+msgstr "Ovládajte, ako sa videá produktov importujú a pripájajú."
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "Keď je povolené, videá produktov sa automaticky pridávajú do popisu. Zakážte na ručnú správu videí."
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "Keď je zakázané, videá sa pre témy Vortem Clothes, Vortem Cosmetic a xstore nesťahujú — šetrí miesto na disku."
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "Stiahnuť videá pre témy Vortem a xstore"
+
+msgid "Integrations"
+msgstr "Integrácie"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "Pripojte externé účty, aby ste rozšírili zásobovanie a doručovanie."
+
+msgid "Update"
+msgstr "Aktualizovať"
+
+msgid "Last updated"
+msgstr "Posledná aktualizácia"
+
+msgid "Setup"
+msgstr "Nastavenie"
+
+msgid "Let's get you started"
+msgstr "Poďme na to"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "Dokončite nastavenie približne za 2 minúty."
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "Funkcie importu produktov Vortem vyžadujú účet AliExpress."
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "Pripojíte ho neskôr v Nastavenia → Vortem → Integrácia AliExpress. Ešte nemáte účet? Môžete sa zaregistrovať aj odtiaľ."
+
+msgid "Up and running in minutes."
+msgstr "Spustenie behom minút."
+
+msgid "Built with WordPress security best practices."
+msgstr "Postavené podľa osvedčených postupov zabezpečenia WordPress."
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "Ľahké a ladené pre WordPress."
+
+msgid "Store basics"
+msgstr "Základy obchodu"
+
+msgid "Pick your store currency"
+msgstr "Vyberte menu obchodu"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "Toto zákazníci vidia pri pokladni. Môžete to zmeniť neskôr."
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "Používa sa na kartách produktov, v košíku a pri pokladni."
+
+msgid "Almost there"
+msgstr "Takmer hotovo"
+
+msgid "Review and accept"
+msgstr "Skontrolujte a akceptujte"
+
+msgid "Read the full Terms"
+msgstr "Prečítajte si celé podmienky"
+
+msgid "You agree to be bound by these terms."
+msgstr "Súhlasíte, že ste viazaní týmito podmienkami."
+
+msgid "I consent to data processing"
+msgstr "Súhlasím so spracovaním údajov"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "Rozumiem a súhlasím, že tento plugin odosiela údaje mojej stránky (URL stránky, verzia WordPress, verzia pluginu, preferencia meny, údaje produktov WooCommerce pri importe, informácie o doručení pri spracovaní objednávok a metadáta pluginov/tém pri použití bezpečnostných funkcií) na servery vortem.ai (https://c.vortem.ai) na spracovanie, analytiku a poskytovanie služby. Žiadne údaje sa neodosielajú pred vaším výslovným súhlasom a plugin zostane funkčný, ak odmietnete (funkcie závislé od vortem.ai nebude dostupné). Odoslanie inventára nainštalovaných pluginov/tém na vyhľadávanie zraniteľností nasleduje rovnaký model ako Wordfence, Patchstack, WPScan a Jetpack Protect."
+
+msgid "All done"
+msgstr "Hotovo"
+
+msgid "You're all set!"
+msgstr "Všetko je pripravené!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem je nakonfigurovaný a pripravený. Pripojte AliExpress v Nastaveniach, keď budete pripravení."
+
+msgid "Accepted"
+msgstr "Prijaté"
+
+msgid "Consented"
+msgstr "Súhlas udelený"
+
+msgid "Data processing"
+msgstr "Spracovanie údajov"
+
+msgid "Meta Title"
+msgstr "Meta názov"
+
+msgid "Order"
+msgstr "Objednávka"
+
+msgid "Customer"
+msgstr "Zákazník"
+
+msgid "Items"
+msgstr "Položky"
+
+msgid "Payment"
+msgstr "Platba"

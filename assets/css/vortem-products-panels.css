@@ -1,0 +1,17 @@
+/**
+ * Products Page Panel Styles
+ *
+ * Inline styles moved to external CSS file for WordPress best practices.
+ *
+ * @package VortemAI
+ * @since 1.0.5
+ */
+
+/* Ensure panels are hidden by default to prevent layout issues on hard refresh */
+#vortem-products-app .panel {
+    display: none !important;
+}
+
+#vortem-products-app .panel.active {
+    display: block !important;
+}

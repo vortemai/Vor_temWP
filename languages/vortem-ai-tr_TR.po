@@ -1,0 +1,3027 @@
+# Translation of Vortem AI in tr_TR
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "error"
+msgstr "Hata"
+
+msgid "success"
+msgstr "Başarılı"
+
+msgid "cancel"
+msgstr "İptal"
+
+msgid "delete"
+msgstr "Sil"
+
+msgid "deleting"
+msgstr "Siliniyor..."
+
+msgid "edit"
+msgstr "Düzenle"
+
+msgid "close"
+msgstr "Kapat"
+
+msgid "confirm"
+msgstr "Onayla"
+
+msgid "refresh"
+msgstr "Yenile"
+
+msgid "import"
+msgstr "İçe Aktar"
+
+msgid "actions"
+msgstr "İşlemler"
+
+msgid "status"
+msgstr "Durum"
+
+msgid "date"
+msgstr "Tarih"
+
+msgid "subject"
+msgstr "Konu"
+
+msgid "recipient"
+msgstr "Alıcı"
+
+msgid "total"
+msgstr "Toplam"
+
+msgid "items"
+msgstr "Öğeler"
+
+msgid "customer"
+msgstr "Müşteri"
+
+msgid "order"
+msgstr "Sipariş"
+
+msgid "payment"
+msgstr "Ödeme"
+
+msgid "active"
+msgstr "Aktif"
+
+msgid "inactive"
+msgstr "Pasif"
+
+msgid "cards"
+msgstr "Kartlar"
+
+msgid "table"
+msgstr "Tablo"
+
+msgid "select"
+msgstr "Seç"
+
+msgid "sent"
+msgstr "gönderildi"
+
+msgid "left"
+msgstr "kaldı"
+
+msgid "resets"
+msgstr "sıfırlanır"
+
+msgid "view_more"
+msgstr "Daha Fazla Görüntüle"
+
+msgid "performance"
+msgstr "Performans"
+
+msgid "insights"
+msgstr "İçgörüler"
+
+msgid "metrics"
+msgstr "Metrikler"
+
+msgid "device"
+msgstr "Cihaz"
+
+msgid "locale"
+msgstr "Yerel Ayar"
+
+msgid "channel"
+msgstr "Kanal"
+
+msgid "desktop"
+msgstr "Masaüstü"
+
+msgid "mobile"
+msgstr "Mobil"
+
+msgid "retry"
+msgstr "Yeniden Dene"
+
+msgid "failed"
+msgstr "Başarısız"
+
+msgid "support"
+msgstr "4. Destek"
+
+msgid "documentation"
+msgstr "Dokümantasyon"
+
+msgid "are_you_sure"
+msgstr "Emin misiniz?"
+
+msgid "clear"
+msgstr "Temizle"
+
+msgid "preview"
+msgstr "Önizleme"
+
+msgid "send_email"
+msgstr "E-posta Gönder"
+
+msgid "recipients"
+msgstr "Alıcılar"
+
+msgid "question"
+msgstr "Soru"
+
+msgid "answer"
+msgstr "Cevap"
+
+msgid "category"
+msgstr "Kategori:"
+
+msgid "category:"
+msgstr "Kategori:"
+
+msgid "showing"
+msgstr "Gösteriliyor"
+
+msgid "faqs"
+msgstr "SSS"
+
+msgid "all_categories"
+msgstr "Tüm kategoriler"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "SSS'leri nasıl oluşturmak istersiniz?"
+
+msgid "Single FAQ"
+msgstr "Tek SSS"
+
+msgid "Bulk FAQs"
+msgstr "Toplu SSS"
+
+msgid "no_faqs_added_yet"
+msgstr "Henüz SSS eklenmedi. İlk SSS'nizi soldan ekleyin."
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "Henüz SSS eklenmedi. İlk SSS'nizi soldan ekleyin."
+
+msgid "Added FAQs"
+msgstr "Eklenen SSS"
+
+msgid "created"
+msgstr "Oluşturuldu"
+
+msgid "search_faqs"
+msgstr "SSS ara..."
+
+msgid "update_faq"
+msgstr "SSS Güncelle"
+
+msgid "category_label"
+msgstr "Kategori *"
+
+msgid "select_existing_category_optional"
+msgstr "Mevcut kategoriyi seç (isteğe bağlı)"
+
+msgid "create_faq"
+msgstr "SSS Oluştur"
+
+msgid "delete_faq"
+msgstr "SSS Sil"
+
+msgid "delete_category"
+msgstr "Kategoriyi Sil"
+
+msgid "delete_category_faqs_confirm"
+msgstr "\"%s\" kategorisindeki tüm FAQ'ları silmek istediğinizden emin misiniz? Bu işlem geri alınamaz."
+
+msgid "category_faqs_deleted"
+msgstr "\"%s\" kategorisindeki tüm FAQ'lar silindi."
+
+msgid "failed_to_delete_category_faqs"
+msgstr "Bu kategori için FAQ'lar silinemedi. Lütfen tekrar deneyin."
+
+msgid "category_id_not_found"
+msgstr "Seçilen kategori için kategori ID bulunamadı."
+
+msgid "orders"
+msgstr "siparişler"
+
+msgid "search_orders_by_number_customer_name_or_email"
+msgstr "Sipariş numarası, müşteri adı veya e-posta ile ara..."
+
+msgid "last_updated"
+msgstr "Son güncelleme:"
+
+msgid "no_performance_analysis_data_is_available"
+msgstr "Performans analiz verisi mevcut değil. Bu, analizin henüz çalıştırılmadığı veya veri alınırken bir hata oluştuğu anlamına gelebilir."
+
+msgid "manage_send_and_track"
+msgstr "E-postalarınızı yönetin, gönderin ve takip edin"
+
+msgid "emails"
+msgstr "E-postalar"
+
+msgid "lists"
+msgstr "Listeler"
+
+msgid "manage_send_and_track_your_email_lists"
+msgstr "E-posta listelerinizi yönetin, gönderin ve takip edin"
+
+msgid "create_email_list"
+msgstr "E-posta Listesi Oluştur"
+
+msgid "add"
+msgstr "Ekle"
+
+msgid "send"
+msgstr "Gönder"
+
+msgid "ok"
+msgstr "Tamam"
+
+msgid "security"
+msgstr "Güvenlik"
+
+msgid "welcome"
+msgstr "Hoş Geldiniz"
+
+msgid "of"
+msgstr "toplam"
+
+msgid "thank_you_for_choosing"
+msgstr "vortem.ai Eklentisini seçtiğiniz için teşekkürler. Bu sihirbaz, ecommerce mağazanızı hızlı ve kolay bir şekilde kurmanıza yardımcı olacaktır."
+
+msgid "by_using_this_plugin"
+msgstr "Bu eklentiyi kullanarak, tüm geçerli yasa ve düzenlemelere uymayı kabul edersiniz. Eklenti GPL v2 veya daha sonraki lisans altında sağlanmaktadır."
+
+msgid "we_collect_and_process"
+msgstr "Ürün bilgileri, sipariş detayları ve müşteri verileri dahil olmak üzere ecommerce hizmetinin çalışması için gerekli verileri topluyor ve işliyoruz. Tüm veriler gizlilik politikamıza uygun olarak işlenir."
+
+msgid "while_we_strive"
+msgstr "Yüksek hizmet kullanılabilirliğini korumaya çalışırken, kesintisiz hizmet garantisi veremeyiz. Gerektiğinde bakım ve güncellemeler yapma hakkını saklı tutarız."
+
+msgid "technical_support"
+msgstr "Teknik destek, destek kanallarımız aracılığıyla sağlanmaktadır. Yanıt süreleri sorunun karmaşıklığına göre değişebilir."
+
+msgid "previous"
+msgstr "Önceki"
+
+msgid "next"
+msgstr "Sonraki"
+
+msgid "home"
+msgstr "Ana Sayfa"
+
+msgid "terms"
+msgstr "Şartlar"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "WooCommerce'in yüklü ve etkinleştirilmiş olması gerekir."
+
+msgid "or higher. You are running version"
+msgstr "veya daha yüksek. Şu anda sürüm"
+
+msgid "Welcome to vortem.ai!"
+msgstr "vortem.ai'e Hoş Geldiniz!"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "Vortem.ai Kurulum Sihirbazı"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "vortem.ai Eklentisini seçtiğiniz için teşekkürler. Bu sihirbaz, ecommerce mağazanızı hızlı ve kolay bir şekilde kurmanıza yardımcı olacaktır."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "Vortem'in ürün satış hizmetlerini kullanmak için bir AliExpress hesabına ihtiyacınız var. Hesabınızı Ayarlar → Vortem Giriş → AliExpress Entegrasyonu'ndan bağlayabilirsiniz. Hesabınız yoksa, oradan doğrudan kayıt olabilirsiniz."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "Vortem'in ürün satış hizmetlerini kullanmak için bir AliExpress hesabına ihtiyacınız var."
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "Hesabınızı Ayarlar → Vortem Giriş → AliExpress Entegrasyonu'ndan bağlayabilirsiniz."
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "Hesabınız yoksa, oradan doğrudan kayıt olabilirsiniz."
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "Kurulum yaklaşık 2-3 dakika sürecektir."
+
+msgid "Select Language"
+msgstr "Dil Seç"
+
+msgid "Select Currency"
+msgstr "Para Birimi Seç"
+
+msgid "Complete Setup"
+msgstr "Kurulumu Tamamla"
+
+msgid "What you'll get:"
+msgstr "Ne alacaksınız:"
+
+msgid "Automated product synchronization"
+msgstr "Otomatik ürün senkronizasyonu"
+
+msgid "Order management and processing"
+msgstr "Sipariş yönetimi ve işleme"
+
+msgid "Real-time inventory updates"
+msgstr "Gerçek zamanlı envanter güncellemeleri"
+
+msgid "Easy-to-use admin interface"
+msgstr "Kullanımı kolay yönetim arayüzü"
+
+msgid "24/7 customer support"
+msgstr "7/24 müşteri desteği"
+
+msgid "Contact Support"
+msgstr "Destek ile İletişime Geç"
+
+msgid "Import Products"
+msgstr "Ürünleri İçe Aktar"
+
+msgid "Configure Settings"
+msgstr "Ayarları Yapılandır"
+
+msgid "Setup Complete!"
+msgstr "Kurulum Tamamlandı!"
+
+msgid "Terms & Conditions"
+msgstr "Şartlar ve Koşullar"
+
+msgid "1. License Agreement"
+msgstr "1. Lisans Sözleşmesi"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "Bu eklentiyi kullanarak, tüm geçerli yasalar ve düzenlemelere uymayı kabul edersiniz. Eklenti GPL v2 veya daha sonraki lisans altında sağlanmaktadır."
+
+msgid "Sign up"
+msgstr "Kaydol"
+
+msgid "Sign up to get started"
+msgstr "Başlamak için kaydolun"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "Tebrikler! vortem.ai eklentiniz başarıyla yapılandırıldı."
+
+msgid "What's next?"
+msgstr "Sıradaki ne?"
+
+msgid "Need Help?"
+msgstr "Yardıma mı ihtiyacınız var?"
+
+msgid "Our support team is here to help you get started."
+msgstr "Destek ekibimiz başlamanıza yardımcı olmak için burada."
+
+msgid "Step %1$d of %2$d"
+msgstr "%1$d / %2$d Adım"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "%1$sŞartlar ve Koşullar%2$s'ı okudum ve kabul ediyorum"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "vortem.ai Eklentisi Hizmet Şartları"
+
+msgid "1. authentication Agreement"
+msgstr "1. Lisans Sözleşmesi"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "Bu eklentiyi kullanarak, tüm geçerli yasa ve düzenlemelere uymayı kabul edersiniz. Eklenti GPL v2 veya daha sonraki lisans altında sağlanmaktadır."
+
+msgid "2. Data Usage"
+msgstr "2. Veri Kullanımı"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "Ürün bilgileri, sipariş detayları ve müşteri verileri dahil olmak üzere ecommerce hizmetinin çalışması için gerekli verileri topluyor ve işliyoruz. Tüm veriler gizlilik politikamıza uygun olarak işlenir."
+
+msgid "3. Service Availability"
+msgstr "3. Hizmet Kullanılabilirliği"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "Yüksek hizmet kullanılabilirliğini korumaya çalışırken, kesintisiz hizmet garantisi veremeyiz. Gerektiğinde bakım ve güncellemeler yapma hakkını saklı tutarız."
+
+msgid "4. Support"
+msgstr "4. Destek"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "Teknik destek, destek kanallarımız aracılığıyla sağlanmaktadır. Yanıt süreleri sorunun karmaşıklığına göre değişebilir."
+
+msgid "5. Updates"
+msgstr "5. Güncellemeler"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "Eklenti güncellemeleri işlevselliği ve güvenliği artırmak için sağlanmaktadır. Eklentiyi en son sürüme güncel tutmanız önerilir."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "Eklentiyi etkinleştirmek ve tüm özelliklere erişmek için Vortem.ai lisans anahtarınızı girin."
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "Lisans anahtarınızı Vortem.ai hesap panonuzda bulabilirsiniz."
+
+msgid "Need help?"
+msgstr "Yardıma mı ihtiyacınız var?"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "Kimlik doğrulamanızı yapılandırmak ve başlamak için kurulum sihirbazını tamamlayın."
+
+msgid "Vortem.ai Overview"
+msgstr "Vortem.ai Genel Bakış"
+
+msgid "Vortem.ai Products"
+msgstr "Vortem.ai Ürünler"
+
+msgid "Vortem.ai Settings"
+msgstr "Vortem.ai Ayarlar"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "Vortem.ai ayarlarınızı aşağıda yapılandırın."
+
+msgid "Saving settings and validating authentication..."
+msgstr "Ayarlar kaydediliyor ve lisans doğrulanıyor..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "Kurulum Tamamlandı - Vortem.ai eklentiniz kullanıma hazır!"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "Eklenti arayüzü için dili seçin. Değişiklikler kaydedildikten sonra geçerli olacaktır."
+
+msgid "Vortem.ai AI Resources"
+msgstr "Vortem.ai AI Kaynakları"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "Vortem.ai AI hesabınıza ve kaynaklarınıza erişin"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "Vortem.ai AI hesabınıza ve kaynaklarınıza erişin:"
+
+msgid "Home"
+msgstr "Ana Sayfa"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "Vortem.ai AI ana sayfasını ziyaret edin"
+
+msgid "Visit Site"
+msgstr "Siteyi Ziyaret Et"
+
+msgid "My Account"
+msgstr "Hesabım"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "Vortem.ai AI hesap ayarlarınızı yönetin"
+
+msgid "Support"
+msgstr "Destek"
+
+msgid "Get help and support from our team"
+msgstr "Ekibimizden yardım ve destek alın"
+
+msgid "Documentation"
+msgstr "Dokümantasyon"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "Kapsamlı kılavuzlar ve öğreticiler okuyun"
+
+msgid "Terms"
+msgstr "Şartlar"
+
+msgid "Review terms and conditions"
+msgstr "Şartlar ve koşulları inceleyin"
+
+msgid "Privacy"
+msgstr "Gizlilik"
+
+msgid "View our privacy policy"
+msgstr "Gizlilik politikamızı görüntüleyin"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "ANALİTİK PANOSU"
+
+msgid "Business Intelligence"
+msgstr "İş Zekası"
+
+msgid "Analytics Hub"
+msgstr "Analitik Merkezi"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "Veri odaklı karar verme için gelişmiş veri zekası ile desteklenen kapsamlı analitik ve içgörüler"
+
+msgid "Performance Overview"
+msgstr "Performans Özeti"
+
+msgid "Key performance indicators at a glance"
+msgstr "Temel performans göstergelerine bir bakış"
+
+msgid "Analytics Insights"
+msgstr "Analitik İçgörüler"
+
+msgid "Deep dive into performance metrics"
+msgstr "Performans metriklerine derinlemesine bakış"
+
+msgid "Customer Intelligence"
+msgstr "Müşteri Zekası"
+
+msgid "Understand customer behavior and trends"
+msgstr "Müşteri davranışını ve trendleri anlayın"
+
+msgid "Market Analysis"
+msgstr "Pazar Analizi"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "Kapsamlı pazar karşılaştırması ve kategori içgörüleri"
+
+msgid "Data Intelligence"
+msgstr "Veri Zekası"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "Detaylı analitik tablolar ve fiyatlandırma içgörüleri"
+
+msgid "Product"
+msgstr "Ürün"
+
+msgid "Products"
+msgstr "Ürünler"
+
+msgid "Average"
+msgstr "Ortalama"
+
+msgid "No products found"
+msgstr "Ürün bulunamadı"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "All KPI Products"
+msgstr "Tüm KPI Ürünleri"
+
+msgid "Top KPI Products"
+msgstr "En İyi KPI Ürünleri"
+
+msgid "Product ID"
+msgstr "Ürün ID"
+
+msgid "Product Title"
+msgstr "Ürün Başlığı"
+
+msgid "Base Price"
+msgstr "Temel Fiyat"
+
+msgid "Low-Risk Price"
+msgstr "Düşük Riskli Fiyat"
+
+msgid "Competitive Price"
+msgstr "Rekabetçi Fiyat"
+
+msgid "High-Risk Price"
+msgstr "Yüksek Riskli Fiyat"
+
+msgid "Untitled Product"
+msgstr "Başlıksız Ürün"
+
+msgid "All Trend Index Products"
+msgstr "Tüm Trend Endeksi Ürünleri"
+
+msgid "Trend Index by Product"
+msgstr "Ürüne Göre Trend Endeksi"
+
+msgid "Product Name"
+msgstr "Ürün Adı"
+
+msgid "Price vs Rating"
+msgstr "Fiyat vs Değerlendirme"
+
+msgid "Price"
+msgstr "Fiyat"
+
+msgid "Rating"
+msgstr "Değerlendirme"
+
+msgid "Reviews"
+msgstr "İncelemeler"
+
+msgid "CTR"
+msgstr "CTR"
+
+msgid "CVR"
+msgstr "CVR"
+
+msgid "Average Price"
+msgstr "Ortalama Fiyat"
+
+msgid "Average Rating"
+msgstr "Ortalama Değerlendirme"
+
+msgid "Product Count"
+msgstr "Ürün Sayısı"
+
+msgid "Avg Price"
+msgstr "Ort. Fiyat"
+
+msgid "Avg Rating"
+msgstr "Ort. Değerlendirme"
+
+msgid "Failed to load"
+msgstr "Yükleme başarısız"
+
+msgid "products"
+msgstr "ürün"
+
+msgid "product"
+msgstr "ürün"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "Trend Endeksi"
+
+msgid "Profitability"
+msgstr "Karlılık"
+
+msgid "Competition"
+msgstr "Rekabet"
+
+msgid "Demand Stability"
+msgstr "Talep İstikrarı"
+
+msgid "View All"
+msgstr "Tümünü Görüntüle"
+
+msgid "price rating data"
+msgstr "fiyat değerlendirme verisi"
+
+msgid "Total Reviews"
+msgstr "Toplam İnceleme"
+
+msgid "Avg Reviews"
+msgstr "Ort. İnceleme"
+
+msgid "Overall Sentiment"
+msgstr "Genel Duygu"
+
+msgid "Positive"
+msgstr "Pozitif"
+
+msgid "Neutral"
+msgstr "Nötr"
+
+msgid "Negative"
+msgstr "Negatif"
+
+msgid "Trend Status Overview"
+msgstr "Trend Durumu Özeti"
+
+msgid "Rising"
+msgstr "Yükselen"
+
+msgid "Stable"
+msgstr "Stabil"
+
+msgid "Declining"
+msgstr "Düşen"
+
+msgid "sentiment data"
+msgstr "duygu verisi"
+
+msgid "trend status data"
+msgstr "trend durumu verisi"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "All Categories"
+msgstr "Tüm Kategoriler"
+
+msgid "Count"
+msgstr "Sayı"
+
+msgid "Percentage"
+msgstr "Yüzde"
+
+msgid "Market Comparison (by Source)"
+msgstr "Pazar Karşılaştırması (Kaynağa Göre)"
+
+msgid "Market"
+msgstr "Pazar"
+
+msgid "Best seller"
+msgstr "En çok satan"
+
+msgid "Movers and shakers"
+msgstr "Hareket edenler ve sallayanlar"
+
+msgid "New releases"
+msgstr "Yeni çıkışlar"
+
+msgid "market comparison data"
+msgstr "pazar karşılaştırma verisi"
+
+msgid "Category Comparison"
+msgstr "Kategori Karşılaştırması"
+
+msgid "Category Comparison - All Data"
+msgstr "Kategori Karşılaştırması - Tüm Veriler"
+
+msgid "Categories"
+msgstr "Kategoriler"
+
+msgid "Metrics"
+msgstr "Metrikler"
+
+msgid "Avg Sold"
+msgstr "Ort. Satılan"
+
+msgid "Avg FPSI"
+msgstr "Ort. FPSI"
+
+msgid "N/A"
+msgstr "Mevcut Değil"
+
+msgid "value"
+msgstr "değer"
+
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+msgid "category comparison data"
+msgstr "kategori karşılaştırma verisi"
+
+msgid "Amazon Device"
+msgstr "Amazon Cihazı"
+
+msgid "Appliances"
+msgstr "Ev Aletleri"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "Sanat, El Sanatları ve Dikiş"
+
+msgid "Automotive"
+msgstr "Otomotiv"
+
+msgid "Baby Products"
+msgstr "Bebek Ürünleri"
+
+msgid "Baby"
+msgstr "Bebek"
+
+msgid "Beauty & Personal Care"
+msgstr "Güzellik ve Kişisel Bakım"
+
+msgid "Cell Phones & Accessories"
+msgstr "Cep Telefonları ve Aksesuarlar"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "Giyim, Ayakkabı ve Mücevher"
+
+msgid "Collectibles & Fine Art"
+msgstr "Koleksiyon ve Güzel Sanatlar"
+
+msgid "Electronics"
+msgstr "Elektronik"
+
+msgid "Health & Household"
+msgstr "Sağlık ve Ev"
+
+msgid "Home & Kitchen"
+msgstr "Ev ve Mutfak"
+
+msgid "Industrial & Scientific"
+msgstr "Endüstriyel ve Bilimsel"
+
+msgid "Musical Instruments"
+msgstr "Müzik Aletleri"
+
+msgid "No category found"
+msgstr "Kategori bulunamadı"
+
+msgid "Office Products"
+msgstr "Ofis Ürünleri"
+
+msgid "Patio, Lawn & Garden"
+msgstr "Teras, Çim ve Bahçe"
+
+msgid "Safety & Security"
+msgstr "Güvenlik"
+
+msgid "Tools & Home Improvement"
+msgstr "Aletler ve Ev Geliştirme"
+
+msgid "Toys & Games"
+msgstr "Oyuncaklar ve Oyunlar"
+
+msgid "Suggested Pricing"
+msgstr "Önerilen Fiyatlandırma"
+
+msgid "All Suggested Pricing"
+msgstr "Tüm Önerilen Fiyatlandırma"
+
+msgid "suggested pricing data"
+msgstr "önerilen fiyatlandırma verisi"
+
+msgid "Search products..."
+msgstr "Ürün ara..."
+
+msgid "Search products or categories..."
+msgstr "Ürün veya kategori ara..."
+
+msgid "Insights"
+msgstr "İçgörüler"
+
+msgid "Performance insights for"
+msgstr "İçin performans içgörüleri"
+
+msgid "your website"
+msgstr "web siteniz"
+
+msgid "Desktop"
+msgstr "Masaüstü"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Refresh"
+msgstr "Yenile"
+
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+msgid "Core Web Vitals"
+msgstr "Temel Web Metrikleri"
+
+msgid "Performance Audits"
+msgstr "Performans Denetimleri"
+
+msgid "View More"
+msgstr "Daha Fazla Görüntüle"
+
+msgid "Performance Insights"
+msgstr "Performans İçgörüleri"
+
+msgid "Analysis Configuration"
+msgstr "Analiz Yapılandırması"
+
+msgid "Device"
+msgstr "Cihaz"
+
+msgid "Locale"
+msgstr "Yerel Ayar"
+
+msgid "Channel"
+msgstr "Kanal"
+
+msgid "Loading Insights data..."
+msgstr "İçgörü verileri yükleniyor..."
+
+msgid "Error Loading Insights Data"
+msgstr "İçgörü Verileri Yüklenirken Hata"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "İçgörü analiz verileri alınırken bir hata oluştu."
+
+msgid "Retry"
+msgstr "Yeniden Dene"
+
+msgid "No Insights Data Available"
+msgstr "İçgörü Verisi Mevcut Değil"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "Performans analiz verisi mevcut değil. Bu, analizin henüz çalıştırılmadığı veya veri alınırken bir hata oluştuğu anlamına gelebilir."
+
+msgid "Last analyzed:"
+msgstr "Son analiz:"
+
+msgid "Performance"
+msgstr "Performans"
+
+msgid "Accessibility"
+msgstr "Erişilebilirlik"
+
+msgid "Best Practices"
+msgstr "En İyi Uygulamalar"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "No performance metrics available"
+msgstr "Performans metrikleri mevcut değil"
+
+msgid "No audit data available"
+msgstr "Denetim verisi mevcut değil"
+
+msgid "No audits available"
+msgstr "Denetim mevcut değil"
+
+msgid "View Less"
+msgstr "Daha Az Görüntüle"
+
+msgid "more"
+msgstr "daha fazla"
+
+msgid "No insights available"
+msgstr "İçgörü mevcut değil"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "Performans sorunu tespit edilmedi. Siteniz iyi çalışıyor!"
+
+msgid "Wasted:"
+msgstr "İsraf:"
+
+msgid "Initializing..."
+msgstr "Başlatılıyor..."
+
+msgid "Connecting to server..."
+msgstr "Sunucuya bağlanılıyor..."
+
+msgid "Fetching insights data..."
+msgstr "İçgörü verileri alınıyor..."
+
+msgid "Analyzing performance metrics..."
+msgstr "Performans metrikleri analiz ediliyor..."
+
+msgid "Processing audits and insights..."
+msgstr "Denetimler ve içgörüler işleniyor..."
+
+msgid "Finalizing results..."
+msgstr "Sonuçlar tamamlanıyor..."
+
+msgid "Complete!"
+msgstr "Tamamlandı!"
+
+msgid "Failed to load Insights data"
+msgstr "İçgörü verileri yüklenemedi"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "İçgörü verileri yüklenemedi. Lütfen bağlantınızı kontrol edin ve tekrar deneyin."
+
+msgid "No data available"
+msgstr "Veri mevcut değil"
+
+msgid "Excellent"
+msgstr "Mükemmel"
+
+msgid "Needs Improvement"
+msgstr "İyileştirme Gerekiyor"
+
+msgid "Poor"
+msgstr "Zayıf"
+
+msgid "Unknown error"
+msgstr "Bilinmeyen hata"
+
+msgid "Email Marketing"
+msgstr "E-posta pazarlama"
+
+msgid "Manage, send, and track your emails"
+msgstr "E-postalarınızı yönetin, gönderin ve takip edin"
+
+msgid "Emails"
+msgstr "E-postalar"
+
+msgid "Lists"
+msgstr "Listeler"
+
+msgid "Create Email"
+msgstr "E-posta Oluştur"
+
+msgid "Search emails..."
+msgstr "E-postalarda ara..."
+
+msgid "Cards"
+msgstr "Kartlar"
+
+msgid "Table"
+msgstr "Tablo"
+
+msgid "Select"
+msgstr "Seç"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Recipient"
+msgstr "Alıcı"
+
+msgid "Subject"
+msgstr "Konu"
+
+msgid "Created"
+msgstr "Oluşturuldu"
+
+msgid "Actions"
+msgstr "İşlemler"
+
+msgid "Email Lists"
+msgstr "E-posta Listeleri"
+
+msgid "Create Email List"
+msgstr "E-posta Listesi Oluştur"
+
+msgid "Search lists..."
+msgstr "Listelerde ara..."
+
+msgid "Download Template"
+msgstr "Şablonu İndir"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "E-posta alıcı.xlsx şablonunu indir"
+
+msgid "Upload Template"
+msgstr "Şablonu Yükle"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "E-posta alıcı.xlsx dosyasını yükle"
+
+msgid "Recipients"
+msgstr "Alıcılar"
+
+msgid "Confirm Action"
+msgstr "İşlemi Onayla"
+
+msgid "Are you sure you want to proceed?"
+msgstr "Devam etmek istediğinizden emin misiniz?"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Confirm"
+msgstr "Onayla"
+
+msgid "List Subject"
+msgstr "Liste Konusu"
+
+msgid "Subject for all recipients"
+msgstr "Tüm alıcılar için konu"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "E-posta adresini girin ve Enter'a basın veya Ekle'ye tıklayın"
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "E-posta adreslerini tek tek girin. Bir etiketi kaldırmak için X'e tıklayın."
+
+msgid "Email Body (optional HTML)"
+msgstr "E-posta İçeriği (isteğe bağlı HTML)"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "Görsel düzenleyiciyi kullanabilir veya HTML yapıştırmak için metin moduna geçebilirsiniz."
+
+msgid "Send"
+msgstr "Gönder"
+
+msgid "Preview"
+msgstr "Önizleme"
+
+msgid "Clear"
+msgstr "Temizle"
+
+msgid "Create New Email"
+msgstr "Yeni E-posta Oluştur"
+
+msgid "Your subject"
+msgstr "Konunuz"
+
+msgid "Email Body"
+msgstr "E-posta İçeriği"
+
+msgid "Send Email"
+msgstr "E-posta Gönder"
+
+msgid "Email Sent"
+msgstr "E-posta Gönderildi"
+
+msgid "Your email has been sent successfully."
+msgstr "E-postanız başarıyla gönderildi."
+
+msgid "OK"
+msgstr "Tamam"
+
+msgid "Total"
+msgstr "Toplam"
+
+msgid "Sent"
+msgstr "Gönderildi"
+
+msgid "Read"
+msgstr "Okundu"
+
+msgid "Revision"
+msgstr "Revizyon"
+
+msgid "Sent Emails"
+msgstr "Gönderilen E-postalar"
+
+msgid "Export Excel"
+msgstr "Excel'e Dışa Aktar"
+
+msgid "Updated"
+msgstr "Güncellendi"
+
+msgid "Failed"
+msgstr "Başarısız"
+
+msgid "Pending"
+msgstr "Beklemede"
+
+msgid "Show"
+msgstr "Göster"
+
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "Update & Send"
+msgstr "Güncelle ve Gönder"
+
+msgid "Sending..."
+msgstr "Gönderiliyor..."
+
+msgid "Edit Email"
+msgstr "E-postayı Düzenle"
+
+msgid "Exit Select"
+msgstr "Seçimi Çık"
+
+msgid "To:"
+msgstr "Alıcı:"
+
+msgid "Created:"
+msgstr "Oluşturuldu:"
+
+msgid "Error"
+msgstr "Hata"
+
+msgid "Success"
+msgstr "Başarılı"
+
+msgid "Update Email List"
+msgstr "E-posta Listesini Güncelle"
+
+msgid "status_sent"
+msgstr "gönderildi"
+
+msgid "status_failed"
+msgstr "başarısız"
+
+msgid "status_pending"
+msgstr "beklemede"
+
+msgid "SENT"
+msgstr "GÖNDERİLDİ"
+
+msgid "Sent:"
+msgstr "Gönderildi:"
+
+msgid "Failed:"
+msgstr "Başarısız:"
+
+msgid "Pending:"
+msgstr "Beklemede:"
+
+msgid "Email sent"
+msgstr "E-posta gönderildi"
+
+msgid "Successfully sent"
+msgstr "Başarıyla gönderildi"
+
+msgid "email(s)"
+msgstr "e-posta(lar)"
+
+msgid "Your email list has been sent successfully."
+msgstr "E-posta listeniz başarıyla gönderildi."
+
+msgid "FAILED"
+msgstr "BAŞARISIZ"
+
+msgid "PENDING"
+msgstr "BEKLEMEDE"
+
+msgid "Total Lists"
+msgstr "Toplam Liste"
+
+msgid "Total Recipients"
+msgstr "Toplam Alıcı"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Inactive"
+msgstr "Pasif"
+
+msgid "Import"
+msgstr "İçe Aktar"
+
+msgid "Importing..."
+msgstr "İçe aktarılıyor..."
+
+msgid "Deleting..."
+msgstr "Siliniyor..."
+
+msgid "Already Imported"
+msgstr "Zaten İçe Aktarıldı"
+
+msgid "Product deleted successfully"
+msgstr "Ürün başarıyla silindi"
+
+msgid "NEW"
+msgstr "YENİ"
+
+msgid "Added"
+msgstr "Eklendi"
+
+msgid "Exists"
+msgstr "Mevcut"
+
+msgid "Showing"
+msgstr "Gösteriliyor"
+
+msgid "Previous"
+msgstr "Önceki"
+
+msgid "Next"
+msgstr "İleri"
+
+msgid "Processing..."
+msgstr "İşleniyor..."
+
+msgid "Please wait while we import your product"
+msgstr "Lütfen ürününüzü içe aktarırken bekleyin"
+
+msgid "Importing product as draft..."
+msgstr "Ürün taslak olarak içe aktarılıyor..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "Bu, ürünü WooCommerce'de oluşturacak"
+
+msgid "Importing product with SEO optimization..."
+msgstr "SEO optimizasyonu ile ürün içe aktarılıyor..."
+
+msgid "Checking product status..."
+msgstr "Ürün durumu kontrol ediliyor..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "Lütfen ürünün mevcut olup olmadığını kontrol ederken bekleyin"
+
+msgid "Loading products..."
+msgstr "Ürünler yükleniyor..."
+
+msgid "Overview"
+msgstr "Genel Bakış"
+
+msgid "Business Overview"
+msgstr "İş Özeti"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "Eklenti performansınızı izleyin, temel metrikleri takip edin ve işlemlerinizi tek bir panodan yönetin"
+
+msgid "Total Products"
+msgstr "Toplam Ürünler"
+
+msgid "Quick Actions"
+msgstr "Hızlı İşlemler"
+
+msgid "Analytics Dashboard"
+msgstr "Analitik Panosu"
+
+msgid "Analytics Overview"
+msgstr "Analitik Özeti"
+
+msgid "Quick insights into your business performance"
+msgstr "İş performansınıza hızlı içgörüler"
+
+msgid "View Full Analytics"
+msgstr "Tam Analitiği Görüntüle"
+
+msgid "Overall Sentiment distribution"
+msgstr "Genel Duygu dağılımı"
+
+msgid "Trend Status distribution"
+msgstr "Trend Durumu dağılımı"
+
+msgid "Analytics"
+msgstr "Analitik"
+
+msgid "BI Analytics Hub"
+msgstr "İş Zekası Analitik Merkezi"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "No orders found"
+msgstr "Sipariş bulunamadı"
+
+msgid "Total Orders"
+msgstr "Toplam Siparişler"
+
+msgid "Current Page"
+msgstr "Mevcut Sayfa"
+
+msgid "Orders Per Page"
+msgstr "Sayfa Başına Sipariş"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "Sipariş numarası, müşteri adı veya e-posta ile ara..."
+
+msgid "Loading orders..."
+msgstr "Siparişler yükleniyor..."
+
+msgid "Page"
+msgstr "Sayfa"
+
+msgid "WooCommerce Analytics"
+msgstr "WooCommerce Analitiği"
+
+msgid "WordPress Analytics"
+msgstr "WordPress Analitiği"
+
+msgid "Clear Cache"
+msgstr "Önbelleği Temizle"
+
+msgid "Export CSV"
+msgstr "CSV Dışa Aktar"
+
+msgid "Last updated:"
+msgstr "Son güncelleme:"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "Analitik verileri yüklenemedi. Lütfen sayfayı yenileyin."
+
+msgid "No data available to export"
+msgstr "Dışa aktarılacak veri yok"
+
+msgid "Orders Today"
+msgstr "Bugünkü Siparişler"
+
+msgid "Total Revenue"
+msgstr "Toplam Gelir"
+
+msgid "Revenue Today"
+msgstr "Bugünkü Gelir"
+
+msgid "Revenue (30 Days)"
+msgstr "Gelir (30 Gün)"
+
+msgid "Avg Order Value"
+msgstr "Ortalama Sipariş Değeri"
+
+msgid "Pending Orders"
+msgstr "Bekleyen Siparişler"
+
+msgid "Failed Orders"
+msgstr "Başarısız Siparişler"
+
+msgid "Cart Abandonment"
+msgstr "Sepet Terk"
+
+msgid "Customers (30 Days)"
+msgstr "Müşteriler (30 Gün)"
+
+msgid "Top Seller (30 Days)"
+msgstr "En Çok Satan (30 Gün)"
+
+msgid "Total Users"
+msgstr "Toplam Kullanıcılar"
+
+msgid "Users Today"
+msgstr "Bugünkü Kullanıcılar"
+
+msgid "Total Comments"
+msgstr "Toplam Yorumlar"
+
+msgid "Total Views"
+msgstr "Toplam Görüntüleme"
+
+msgid "Refunded"
+msgstr "İade Edildi"
+
+msgid "Pending payment"
+msgstr "Ödeme bekleniyor"
+
+msgid "Processing"
+msgstr "İşleniyor"
+
+msgid "On hold"
+msgstr "Beklemede"
+
+msgid "Completed"
+msgstr "Tamamlandı"
+
+msgid "Cancelled"
+msgstr "İptal Edildi"
+
+msgid "Draft"
+msgstr "Taslak"
+
+msgid "Revenue Overview"
+msgstr "Gelir Özeti"
+
+msgid "Orders Status"
+msgstr "Sipariş Durumu"
+
+msgid "WordPress Activity"
+msgstr "WordPress Etkinliği"
+
+msgid "Revenue"
+msgstr "Gelir"
+
+msgid "WordPress Metrics"
+msgstr "WordPress Metrikleri"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "Sayfa başına ürün sayısı 100'ü geçemez. Lütfen 1 ile 100 arasında bir değer girin."
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "Sayfa başına ürün sayısı en az 1 olmalıdır. Lütfen geçerli bir değer girin."
+
+msgid "Settings saved successfully!"
+msgstr "Ayarlar başarıyla kaydedildi!"
+
+msgid "Please enter a authentication key before testing."
+msgstr "Lütfen test etmeden önce bir lisans anahtarı girin."
+
+msgid "more..."
+msgstr "daha fazla..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "Analitik önbelleği başarıyla temizlendi!"
+
+msgid "No products to import. Please sync products first."
+msgstr "İçe aktarılacak ürün yok. Lütfen önce ürünleri senkronize edin."
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "İçe aktarma tamamlandı! %d ürün içe aktarıldı, %d başarısız."
+
+msgid "Import failed: %s"
+msgstr "İçe aktarma başarısız: %s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "API Testi Tamamlandı! Detaylı loglar için debug.log dosyasını kontrol edin. Tüm endpoint'ler başarıyla test edildi."
+
+msgid "API Test Failed: %s"
+msgstr "API Testi Başarısız: %s"
+
+msgid "Database structure validated and fixed:"
+msgstr "Veritabanı yapısı doğrulandı ve düzeltildi:"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "Veritabanı yapısı geçerli. Düzeltme gerekmiyor."
+
+msgid "Database validation issues:"
+msgstr "Veritabanı doğrulama sorunları:"
+
+msgid "Database validation failed: %s"
+msgstr "Veritabanı doğrulama başarısız: %s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "Vortem lisansınız %s planı ile aktif."
+
+msgid "Validated on: %s"
+msgstr "Doğrulandı: %s"
+
+msgid "Import failed. Please try again."
+msgstr "İçe aktarma başarısız. Lütfen tekrar deneyin."
+
+msgid "Please select a bulk action."
+msgstr "Lütfen bir toplu işlem seçin."
+
+msgid "Please select at least one product."
+msgstr "Lütfen en az bir ürün seçin."
+
+msgid "Bulk action failed. Please try again."
+msgstr "Toplu işlem başarısız. Lütfen tekrar deneyin."
+
+msgid "Failed to trash product. Please try again."
+msgstr "Ürün çöp kutusuna taşınamadı. Lütfen tekrar deneyin."
+
+msgid "Failed to restore product. Please try again."
+msgstr "Ürün geri yüklenemedi. Lütfen tekrar deneyin."
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "Ürün taslak olarak içe aktarılamadı. Lütfen tekrar deneyin."
+
+msgid "Failed to get product details."
+msgstr "Ürün detayları alınamadı."
+
+msgid "Delete failed. Please try again."
+msgstr "Silme başarısız. Lütfen tekrar deneyin."
+
+msgid "FAQ Management"
+msgstr "SSS Yönetimi"
+
+msgid "Manage your frequently asked questions"
+msgstr "Sık sorulan sorularınızı yönetin"
+
+msgid "Search FAQs..."
+msgstr "SSS ara..."
+
+msgid "Card View"
+msgstr "Kart Görünümü"
+
+msgid "Table View"
+msgstr "Tablo Görünümü"
+
+msgid "Refresh FAQs"
+msgstr "SSS'leri Yenile"
+
+msgid "Create New FAQ"
+msgstr "Yeni SSS Oluştur"
+
+msgid "Total FAQs"
+msgstr "Toplam SSS"
+
+msgid "Active FAQs"
+msgstr "Aktif SSS"
+
+msgid "Page Status"
+msgstr "Sayfa Durumu"
+
+msgid "Question"
+msgstr "Soru"
+
+msgid "Answer"
+msgstr "Cevap"
+
+msgid "No FAQs yet"
+msgstr "Henüz SSS yok"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "Bilgi tabanınızı oluşturmak için SSS oluşturmaya başlayın"
+
+msgid "Create Your First FAQ"
+msgstr "İlk SSS'nizi Oluşturun"
+
+msgid "Loading FAQs..."
+msgstr "SSS yükleniyor..."
+
+msgid "Update FAQ"
+msgstr "SSS Güncelle"
+
+msgid "Question *"
+msgstr "Soru *"
+
+msgid "Enter your question here..."
+msgstr "Sorunuzu buraya girin..."
+
+msgid "Answer *"
+msgstr "Cevap *"
+
+msgid "Enter the answer here..."
+msgstr "Cevabı buraya girin..."
+
+msgid "Create FAQ"
+msgstr "SSS Oluştur"
+
+msgid "FAQ Details"
+msgstr "SSS Detayları"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Answer:"
+msgstr "Cevap:"
+
+msgid "View Details"
+msgstr "Detayları Görüntüle"
+
+msgid "Edit FAQ"
+msgstr "SSS Düzenle"
+
+msgid "Creating..."
+msgstr "Oluşturuluyor..."
+
+msgid "Updating..."
+msgstr "Güncelleniyor..."
+
+msgid "Question is required"
+msgstr "Soru gereklidir"
+
+msgid "Answer is required"
+msgstr "Cevap gereklidir"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "Cevap en az 10 karakter uzunluğunda olmalıdır"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "SSS \"%s\" oluşturuldu"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "SSS \"%s\" güncellendi"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "SSS \"%s\" silindi"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "\"%s\" öğesini silmek istediğinizden emin misiniz? Bu işlem geri alınamaz."
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "SSS yüklenemedi. Lütfen tekrar deneyin."
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "SSS kaydedilemedi. Lütfen tekrar deneyin."
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "SSS silinemedi. Lütfen tekrar deneyin."
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "Kimlik doğrulama gerekli. Lütfen lisans anahtarınızı kontrol edin."
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "Lisans anahtarı gereklidir. Lütfen Vortem ayarlarında lisans anahtarınızı yapılandırın."
+
+msgid "Security"
+msgstr "Güvenlik"
+
+msgid "Last Modified"
+msgstr "Son Değiştirilme"
+
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "Eklenti ayarlarınızı ve tercihlerinizi yapılandırın"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "Eklenti özelliklerini etkinleştirmek için Vortem.ai lisans anahtarınızı girin. Anahtarınızı doğrulamak için \"Lisans doğrulama\"ya tıklayın."
+
+msgid "Products Per Page"
+msgstr "Sayfa Başına Ürün"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Currency"
+msgstr "Para Birimi"
+
+msgid "Update Currency"
+msgstr "Para Birimini Güncelle"
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "Sayfa başına gösterilecek ürün sayısı. Varsayılan: 16."
+
+msgid "Products per page must be at least 1"
+msgstr "Sayfa başına ürün sayısı en az 1 olmalıdır"
+
+msgid "Products per page cannot exceed 100"
+msgstr "Sayfa başına ürün sayısı 100'ü geçemez"
+
+msgid "Loading currencies..."
+msgstr "Para birimleri yükleniyor..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "Eklenti için para birimi türünü seçin ve değişiklikleri kaydetmek için \"Para Birimini Güncelle\"ye tıklayın."
+
+msgid "Currency updated successfully!"
+msgstr "Para birimi başarıyla güncellendi!"
+
+msgid "Video Settings"
+msgstr "Video Ayarları"
+
+msgid "Video Download for Excluded Themes"
+msgstr "Hariç Tutulan Temalar için Video İndirme"
+
+msgid "AliExpress Integration"
+msgstr "AliExpress Entegrasyonu"
+
+msgid "Add video to product description"
+msgstr "Ürün açıklamasına video ekle"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "Vortem Clothes, Vortem Cosmetic ve xstore temaları için videoları indir"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "Günlük e-posta limitinize yaklaşıyorsunuz (%s). Limit yarın sıfırlanacak."
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "Günlük e-posta limitinize ulaştınız. Limit yarın sıfırlanacak."
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "Günlük ürün içe aktarma kotanıza yaklaşıyorsunuz (%s). Kota yarın sıfırlanacak."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "Günlük ürün içe aktarma kotanıza ulaştınız. Kota yarın sıfırlanacak."
+
+msgid "Search plugins and themes..."
+msgstr "Eklentiler ve temalar ara..."
+
+msgid "Loading security scan results..."
+msgstr "Güvenlik tarama sonuçları yükleniyor..."
+
+msgid "published"
+msgstr "Yayınlandı"
+
+msgid "Published"
+msgstr "Yayınlandı"
+
+msgid "references"
+msgstr "Referanslar"
+
+msgid "References"
+msgstr "Referanslar"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "Etkinleştirildiğinde, ürün videoları otomatik olarak ürün açıklamasına eklenecektir. Devre dışı bırakıldığında, videolar hiç indirilmeyecektir. Videoları manuel olarak yönetmeyi tercih ediyorsanız bunu devre dışı bırakın."
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "Devre dışı bırakıldığında, Vortem Clothes, Vortem Cosmetic ve xstore temaları için videolar indirilmeyecek veya medya kütüphanesine eklenmeyecektir. Bu depolama alanı tasarrufu sağlar."
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "Bu sayfayı kullanmak için, ayarlarda authentication Key bölümüne lisansı girmeli ve ardından \"authentication validation\" düğmesine tıklamalısınız."
+
+msgid "Products Pages"
+msgstr "Ürün Sayfaları"
+
+msgid "Analytics Pages"
+msgstr "Analitik Sayfaları"
+
+msgid "sales"
+msgstr "satış"
+
+msgid "Loading trend products..."
+msgstr "Trend ürünler yükleniyor..."
+
+msgid "Loading TikTok products..."
+msgstr "TikTok ürünleri yükleniyor..."
+
+msgid "Error loading TikTok products:"
+msgstr "TikTok ürünleri yüklenirken hata:"
+
+msgid "Failed to load TikTok products:"
+msgstr "TikTok ürünleri yüklenemedi:"
+
+msgid "Loading Kinguin products..."
+msgstr "Kinguin ürünleri yükleniyor..."
+
+msgid "No Kinguin products found."
+msgstr "Kinguin ürünü bulunamadı."
+
+msgid "Failed to load Kinguin products:"
+msgstr "Kinguin ürünleri yüklenemedi:"
+
+msgid "Error loading Kinguin products:"
+msgstr "Kinguin ürünleri yüklenirken hata:"
+
+msgid "View on Amazon"
+msgstr "Amazon'da Görüntüle"
+
+msgid "View on Kinguin"
+msgstr "Kinguin'de Görüntüle"
+
+msgid "Release:"
+msgstr "Yayın Tarihi:"
+
+msgid "Price N/A"
+msgstr "Fiyat Mevcut Değil"
+
+msgid "In Stock"
+msgstr "Stokta"
+
+msgid "Sentiment"
+msgstr "Duygu"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "Düşük stoklu ürünler 10 adetten az"
+
+msgid "Total Pages"
+msgstr "Toplam Sayfa"
+
+msgid "Total Posts"
+msgstr "Toplam Yazı"
+
+msgid "Refetch"
+msgstr "Yeniden Getir"
+
+msgid "Search plugins..."
+msgstr "Eklentileri ara..."
+
+msgid "WordPress Core"
+msgstr "WordPress Çekirdeği"
+
+msgid "Themes"
+msgstr "Temalar"
+
+msgid "Plugins"
+msgstr "Eklentiler"
+
+msgid "Version"
+msgstr "Sürüm"
+
+msgid "Author"
+msgstr "Yazar"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "File"
+msgstr "Dosya"
+
+msgid "Plugin URI"
+msgstr "Eklenti URI"
+
+msgid "Requires WP Version"
+msgstr "WP Sürümü Gerekir"
+
+msgid "Requires PHP"
+msgstr "PHP Gerekir"
+
+msgid "Read more"
+msgstr "Daha fazla oku"
+
+msgid "Stylesheet"
+msgstr "Stil Sayfası"
+
+msgid "Theme URI"
+msgstr "Tema URI"
+
+msgid "Type"
+msgstr "Tür"
+
+msgid "Name"
+msgstr "Ad"
+
+msgid "All"
+msgstr "Tümü"
+
+msgid "Vulnerabilities"
+msgstr "Güvenlik Açıkları"
+
+msgid "Checking..."
+msgstr "Kontrol ediliyor..."
+
+msgid "AliExpress"
+msgstr "AliExpress"
+
+msgid "Connect to AliExpress"
+msgstr "AliExpress'e Bağlan"
+
+msgid "Disconnect AliExpress"
+msgstr "AliExpress'i Bağlantıyı Kes"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "AliExpress hesabınızın bağlantısını kesmek istediğinizden emin misiniz?"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "Sipariş işleme ve dropshipping özelliklerini etkinleştirmek için AliExpress hesabınızı bağlayın."
+
+msgid "Checking connection status..."
+msgstr "Bağlantı durumu kontrol ediliyor..."
+
+msgid "Connected"
+msgstr "Bağlı"
+
+msgid "Not connected"
+msgstr "Bağlı değil"
+
+msgid "Error checking status"
+msgstr "Durum kontrolü hatası"
+
+msgid "Connecting..."
+msgstr "Bağlanıyor..."
+
+msgid "Disconnecting..."
+msgstr "Bağlantı kesiliyor..."
+
+msgid "Error connecting to AliExpress"
+msgstr "AliExpress'e bağlanma hatası"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "AliExpress hesabı bağlantı kesme hatası"
+
+msgid "Failed to disconnect"
+msgstr "Bağlantı kesme başarısız"
+
+msgid "Failed to connect to AliExpress"
+msgstr "AliExpress'e bağlanma başarısız"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "AliExpress'e başarıyla bağlandı!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "AliExpress sipariş oluşturma için telefon numarası gereklidir."
+
+msgid "Expires:"
+msgstr "Süresi doluyor:"
+
+msgid "Disconnect"
+msgstr "Bağlantıyı Kes"
+
+msgid "Select Import Method"
+msgstr "İçe Aktarma Yöntemini Seçin"
+
+msgid "Choose how you want to import this product:"
+msgstr "Bu ürünü nasıl içe aktarmak istediğinizi seçin:"
+
+msgid "Normal Import"
+msgstr "Normal İçe Aktarma"
+
+msgid "Import product with original title and description"
+msgstr "Ürünü orijinal başlık ve açıklama ile içe aktar"
+
+msgid "SEO Import"
+msgstr "SEO İçe Aktarma"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "SEO optimize edilmiş başlık, açıklama ve etiketlerle içe aktar"
+
+msgid "SEO Import Completed"
+msgstr "SEO İçe Aktarma Tamamlandı"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "Aşağıdaki SEO optimizasyonları uygulandı:"
+
+msgid "Keyphrase"
+msgstr "Anahtar Kelime"
+
+msgid "SEO Title"
+msgstr "SEO Başlığı"
+
+msgid "SEO Description"
+msgstr "SEO Açıklaması"
+
+msgid "Meta Description"
+msgstr "Meta Açıklama"
+
+msgid "Tags"
+msgstr "Etiketler"
+
+msgid "Yoast SEO Title"
+msgstr "Yoast SEO Başlığı"
+
+msgid "Headings"
+msgstr "Başlıklar"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO yüklü değil. SEO içe aktarma seçeneğini kullanmak için yüklemeniz ve etkinleştirmeniz gerekir."
+
+msgid "Email subject must be at least 16 characters"
+msgstr "E-posta konusu en az 16 karakter olmalıdır"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "E-posta konusu 256 karakteri geçmemelidir"
+
+msgid "Email body must be at least 128 characters"
+msgstr "E-posta gövdesi en az 128 karakter olmalıdır"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "E-posta gövdesi 8196 karakteri geçmemelidir"
+
+msgid "All Imported Products"
+msgstr "Tüm İçe Aktarılan Ürünler"
+
+msgid "Refresh Products"
+msgstr "Ürünleri Yenile"
+
+msgid "Show All Products"
+msgstr "Tüm Ürünleri Göster"
+
+msgid "Top Products Kinguin"
+msgstr "En İyi Ürünler Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "Trend Ürünler Amazon"
+
+msgid "Top Products AliExpress"
+msgstr "En İyi Ürünler AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "Ürün envanterinizi yönetin ve görüntüleyin"
+
+msgid "Security Overview"
+msgstr "Güvenlik Özeti"
+
+msgid "Security Scan Results"
+msgstr "Güvenlik Tarama Sonuçları"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "Yüklü tüm WordPress eklentilerini ve temalarını izleyin ve kontrol edin"
+
+msgid "Total Plugins"
+msgstr "Toplam Eklenti"
+
+msgid "Active Plugins"
+msgstr "Aktif Eklentiler"
+
+msgid "Inactive Plugins"
+msgstr "Pasif Eklentiler"
+
+msgid "Total Themes"
+msgstr "Toplam Tema"
+
+msgid "Active Themes"
+msgstr "Aktif Temalar"
+
+msgid "Inactive Themes"
+msgstr "Pasif Temalar"
+
+msgid "Sort by:"
+msgstr "Sırala:"
+
+msgid "Filter by Status:"
+msgstr "Duruma Göre Filtrele:"
+
+msgid "Sort by Date"
+msgstr "Tarihe Göre Sırala"
+
+msgid "View and manage your store orders"
+msgstr "Mağaza siparişlerinizi görüntüleyin ve yönetin"
+
+msgid "Start Date"
+msgstr "Başlangıç Tarihi"
+
+msgid "End Date"
+msgstr "Bitiş Tarihi"
+
+msgid "All Statuses"
+msgstr "Tüm Durumlar"
+
+msgid "Navigation"
+msgstr "Navigasyon"
+
+msgid "Shop Analytics"
+msgstr "Mağaza Analizi"
+
+msgid "Traffic Analytics"
+msgstr "Trafik Analizi"
+
+msgid "Search currencies..."
+msgstr "Para birimlerini ara..."
+
+msgid "Search by country or currency code"
+msgstr "Ülke veya para birimi kodu ile ara"
+
+msgid "Popularity"
+msgstr "Popülerlik"
+
+msgid "Impressions"
+msgstr "Gösterim"
+
+msgid "Engagement"
+msgstr "Etkileşim"
+
+msgid "Videos"
+msgstr "Videolar"
+
+msgid "# Hashtags"
+msgstr "# Etiketler"
+
+msgid "View Rate (6s)"
+msgstr "İzlenme Oranı (6s)"
+
+msgid "Cost"
+msgstr "Maliyet"
+
+msgid "Avg. Time on Site"
+msgstr "Sitede Ortalama Süre"
+
+msgid "Unique Visitors"
+msgstr "Benzersiz Ziyaretçiler"
+
+msgid "Visits"
+msgstr "Ziyaretler"
+
+msgid "Top Pages"
+msgstr "En İyi Sayfalar"
+
+msgid "Top Page Titles"
+msgstr "En İyi Sayfa Başlıkları"
+
+msgid "Cities"
+msgstr "Şehirler"
+
+msgid "Countries"
+msgstr "Ülkeler"
+
+msgid "Exit Pages"
+msgstr "Çıkış Sayfaları"
+
+msgid "Entry Pages"
+msgstr "Giriş Sayfaları"
+
+msgid "Real-time Visits"
+msgstr "Anlık Ziyaretler"
+
+msgid "Bounce Rate"
+msgstr "Hemen Çıkma Oranı"
+
+msgid "Today"
+msgstr "Bugün"
+
+msgid "Yesterday"
+msgstr "Dün"
+
+msgid "Last 7 Days"
+msgstr "Son 7 Gün"
+
+msgid "Last 30 Days"
+msgstr "Son 30 Gün"
+
+msgid "First Contentful Paint"
+msgstr "İlk İçerik Boyaması"
+
+msgid "Total Size"
+msgstr "Toplam Boyut"
+
+msgid "Requests"
+msgstr "İstekler"
+
+msgid "Page Load"
+msgstr "Sayfa Yükleme"
+
+msgid "Last updated: %s"
+msgstr "Son güncelleme: %s"
+
+msgid "Live"
+msgstr "Canlı"
+
+msgid "Quick Insights"
+msgstr "Hızlı İçgörüler"
+
+msgid "Config"
+msgstr "Yapılandırma"
+
+msgid "Vortem Logo"
+msgstr "Vortem Logosu"
+
+msgid "Core"
+msgstr "Çekirdek"
+
+msgid "Filter by:"
+msgstr "Filtrele:"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "Total Vulnerabilities"
+msgstr "Toplam güvenlik açıkları"
+
+msgid "Critical"
+msgstr "Kritik"
+
+msgid "High"
+msgstr "Yüksek"
+
+msgid "Medium"
+msgstr "Orta"
+
+msgid "Low"
+msgstr "Düşük"
+
+msgid "Secure Items"
+msgstr "Güvenli Öğeler"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "Ciddiyete Göre Güvenlik Açığı Dağılımı"
+
+msgid "Vulnerabilities by Type"
+msgstr "Türe Göre Güvenlik Açıkları"
+
+msgid "Scanning..."
+msgstr "Taranıyor..."
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "WordPress kurulumunuz güvenlik açıkları için analiz ediliyor"
+
+msgid "Items Requiring Attention"
+msgstr "Dikkat Gerektiren Öğeler"
+
+msgid "No items at risk"
+msgstr "Risk altında öğe yok"
+
+msgid "Recent Vulnerabilities"
+msgstr "Son Güvenlik Açıkları"
+
+msgid "No recent vulnerabilities"
+msgstr "Son güvenlik açığı yok"
+
+msgid "No plugins found"
+msgstr "Eklenti bulunamadı"
+
+msgid "No themes found"
+msgstr "Tema bulunamadı"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "Filtrelerinizi veya arama terimlerinizi ayarlamayı deneyin"
+
+msgid "WordPress Vulnerability"
+msgstr "WordPress Güvenlik Açığı"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "WordPress sürümünde güvenlik açıkları tespit edildi. En son sürüme güncelleme önerilir."
+
+msgid "Vulnerability Details"
+msgstr "Güvenlik Açığı Detayları"
+
+msgid "Vulnerability"
+msgstr "Güvenlik Açığı"
+
+msgid "vulnerabilities"
+msgstr "güvenlik açıkları"
+
+msgid "Read less"
+msgstr "Daha az oku"
+
+msgid "Your site is secure"
+msgstr "Siteniz güvende"
+
+msgid "No known vulnerabilities detected"
+msgstr "Bilinen güvenlik açığı tespit edilmedi"
+
+msgid "Attention required"
+msgstr "Dikkat gerekli"
+
+msgid "vulnerabilities found"
+msgstr "güvenlik açığı bulundu"
+
+msgid "Your plugins are secure!"
+msgstr "Eklentileriniz güvende!"
+
+msgid "Your themes are secure!"
+msgstr "Temalarınız güvende!"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "Eklentilerde güvenlik açığı bulunamadı"
+
+msgid "No vulnerabilities found in themes"
+msgstr "Temalarda güvenlik açığı bulunamadı"
+
+msgid "Your WP Core is Secure"
+msgstr "WP Çekirdeğiniz Güvende"
+
+msgid "Unknown Plugin"
+msgstr "Bilinmeyen Eklenti"
+
+msgid "Unknown Theme"
+msgstr "Bilinmeyen Tema"
+
+msgid "Requires immediate attention"
+msgstr "Acil dikkat gerektirir"
+
+msgid "Address as soon as possible"
+msgstr "En kısa sürede ele alın"
+
+msgid "Schedule for review"
+msgstr "İnceleme için planla"
+
+msgid "Monitor and plan fix"
+msgstr "İzle ve düzeltme planla"
+
+msgid "No vulnerabilities found"
+msgstr "Güvenlik açığı bulunamadı"
+
+msgid "All Security Issues"
+msgstr "Tüm Güvenlik Sorunları"
+
+msgid "Across all plugins, themes & core"
+msgstr "Tüm eklentiler, temalar ve çekirdek genelinde"
+
+msgid "of installed items affected"
+msgstr "yüklü öğeler etkilendi"
+
+msgid "Critical Severity"
+msgstr "Kritik Ciddiyet"
+
+msgid "Requires immediate action"
+msgstr "Acil eylem gerektirir"
+
+msgid "of all vulnerabilities"
+msgstr "tüm güvenlik açıklarının"
+
+msgid "High Severity"
+msgstr "Yüksek Ciddiyet"
+
+msgid "Should be fixed soon"
+msgstr "Yakında düzeltilmeli"
+
+msgid "Medium Severity"
+msgstr "Orta Ciddiyet"
+
+msgid "Plan to address"
+msgstr "Ele alma planla"
+
+msgid "Low Severity"
+msgstr "Düşük Ciddiyet"
+
+msgid "Monitor & track"
+msgstr "İzle ve takip et"
+
+msgid "Items without vulnerabilities"
+msgstr "Güvenlik açığı olmayan öğeler"
+
+msgid "of items are clean"
+msgstr "öğeler temiz"
+
+msgid "Third-party plugins installed"
+msgstr "Yüklü üçüncü taraf eklentileri"
+
+msgid "WordPress themes"
+msgstr "WordPress temaları"
+
+msgid "Core WordPress files"
+msgstr "WordPress çekirdek dosyaları"
+
+msgid "Component Type"
+msgstr "Bileşen Türü"
+
+msgid "Number of Vulnerabilities"
+msgstr "Güvenlik Açığı Sayısı"
+
+msgid "of total"
+msgstr "toplam"
+
+msgid "VERSION"
+msgstr "SÜRÜM"
+
+msgid "AUTHOR"
+msgstr "YAZAR"
+
+msgid "REQUIRES WP"
+msgstr "WP GEREKTİRİR"
+
+msgid "REQUIRES PHP"
+msgstr "PHP GEREKTİRİR"
+
+msgid "View Page"
+msgstr "Sayfayı Görüntüle"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "Kritik güvenlik açıkları tespit edildi!"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "Acil eylem gereklidir. Lütfen etkilenen öğeleri en kısa sürede güncelleyin veya kaldırın."
+
+msgid "High severity vulnerabilities detected"
+msgstr "Yüksek ciddiyet güvenlik açıkları tespit edildi"
+
+msgid "Please review and address these issues soon."
+msgstr "Lütfen bu sorunları yakında inceleyin ve giderin."
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "Orta ciddiyet güvenlik açıkları tespit edildi"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "Bu sorunları incelemek ve düzeltmek için zaman planlayın."
+
+msgid "Low severity vulnerabilities detected"
+msgstr "Düşük ciddiyet güvenlik açıkları tespit edildi"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "Bu sorunları izleyin ve uygun olduğunda düzeltmeleri planlayın."
+
+msgid "Your WordPress core is secure!"
+msgstr "WordPress çekirdeğiniz güvende!"
+
+msgid "CVSS Score:"
+msgstr "CVSS Puanı:"
+
+msgid "Published:"
+msgstr "Yayınlandı:"
+
+msgid "Last Modified:"
+msgstr "Son değiştirilme:"
+
+msgid "References:"
+msgstr "Referanslar:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "View All Vulnerabilities"
+msgstr "Tüm Güvenlik Açıklarını Görüntüle"
+
+msgid "CRITICAL"
+msgstr "KRİTİK"
+
+msgid "HIGH"
+msgstr "YÜKSEK"
+
+msgid "MEDIUM"
+msgstr "ORTA"
+
+msgid "LOW"
+msgstr "DÜŞÜK"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "Harekete geçilmesi önerilir. Lütfen etkilenen öğeleri gözden geçirin ve güncelleyin."
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "Tüm eklentileriniz, temalarınız ve WordPress çekirdeği güvenli ve güncel."
+
+msgid "High severity vulnerabilities found"
+msgstr "Yüksek önem derecesinde güvenlik açıkları bulundu"
+
+msgid "Last updated: Loading..."
+msgstr "Son güncelleme: Yükleniyor..."
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "İnceleme önerilir. Mümkün olduğunda etkilenen öğeleri izleyin ve güncelleyin."
+
+msgid "Some vulnerabilities found"
+msgstr "Bazı güvenlik açıkları bulundu"
+
+msgid "Trend Products TikTok"
+msgstr "TikTok Trend Ürünleri"
+
+msgid "Your site is secure!"
+msgstr "Siteniz güvenli!"
+
+msgid "failed_to_load_insights_error"
+msgstr "İçgörü verileri yüklenirken hata"
+
+msgid "failed_to_refetch"
+msgstr "Yeniden getirme başarısız"
+
+msgid "no_category"
+msgstr "Kategori yok"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "SEO optimizasyonları işleniyor: Anahtar kelime, SEO Başlığı, SEO Açıklaması, Meta Açıklaması, Etiketler, Yoast SEO Başlığı ve Başlıklar"
+
+msgid "Search themes..."
+msgstr "Temaları ara..."
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+
+msgid "Delete FAQ"
+msgstr "SSS Sil"
+
+msgid "Manage, send, and track your email lists"
+msgstr "E-posta listelerinizi yönetin, gönderin ve takip edin"
+
+msgid "Next →"
+msgstr "İleri →"
+
+msgid "Not Set"
+msgstr "Ayarlanmamış"
+
+msgid "Show All Added Products"
+msgstr "Eklenen Tüm Ürünleri Göster"
+
+msgid "answer:"
+msgstr "Cevap:"
+
+msgid "bulk_faqs_created"
+msgstr "%d SSS başarıyla oluşturuldu"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "SSS oluşturulamadı. Lütfen tekrar deneyin."
+
+msgid "faq"
+msgstr "SSS"
+
+msgid "no_faqs_to_create"
+msgstr "Lütfen oluşturmadan önce en az bir SSS ekleyin."
+
+msgid "question:"
+msgstr "Soru:"
+
+msgid "remove"
+msgstr "Kaldır"
+
+msgid "← Previous"
+msgstr "← Önceki"
+
+msgid "Filter by Severity:"
+msgstr "Önem derecesine göre filtrele:"
+
+msgid "All Severities"
+msgstr "Tüm önem dereceleri"
+
+msgid "Let's Get You Started"
+msgstr "Başlayalım"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "Yaklaşık 2 dakikada kurulumu tamamlayın"
+
+msgid "Quick Setup"
+msgstr "Hızlı Kurulum"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "Yönlendirmeli kurulum sürecimizle dakikalar içinde çalışmaya başlayın"
+
+msgid "Secure & Reliable"
+msgstr "Güvenli ve Güvenilir"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "Her bileşene yerleşik kurumsal düzeyde güvenlik"
+
+msgid "Optimized Performance"
+msgstr "Optimize Edilmiş Performans"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "Çok hızlı ve WordPress ortamları için optimize edilmiş"
+
+msgid "Next Step"
+msgstr "Sonraki Adım"
+
+msgid "Initial Configuration"
+msgstr "İlk Yapılandırma"
+
+msgid "Set your default language and currency preferences"
+msgstr "Varsayılan dil ve para birimi tercihlerinizi ayarlayın"
+
+msgid "Please review and accept our terms to continue"
+msgstr "Devam etmek için lütfen şartlarımızı gözden geçirin ve kabul edin"
+
+msgid "1. Service Availability"
+msgstr "1. Hizmet Kullanılabilirliği"
+
+msgid "2. Support"
+msgstr "2. Destek"
+
+msgid "3. Updates"
+msgstr "3. Güncellemeler"
+
+msgid "I accept the Terms & Conditions"
+msgstr "Şartları ve Koşulları kabul ediyorum"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "Bu kutuyu işaretleyerek, bu şartları ve koşulları okuduğunuzu ve bunlara bağlı kalmayı kabul ettiğinizi onaylarsınız."
+
+msgid "Installation Complete!"
+msgstr "Kurulum Tamamlandı!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "Eklentiniz başarıyla yapılandırıldı ve kullanıma hazır. Artık tüm özellikleri kullanmaya başlayabilirsiniz."
+
+msgid "Configuration Summary"
+msgstr "Yapılandırma Özeti"
+
+msgid "Language:"
+msgstr "Dil:"
+
+msgid "Currency:"
+msgstr "Para Birimi:"
+
+msgid "Terms Accepted:"
+msgstr "Şartlar Kabul Edildi:"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "Go to Dashboard"
+msgstr "Panele Git"
+
+msgid "Go to Analytics page"
+msgstr "Analiz sayfasına git"
+
+msgid "Go to Products page"
+msgstr "Ürünler sayfasına git"
+
+msgid "Go to Matomo Analytics page"
+msgstr "Matomo Analiz sayfasına git"
+
+msgid "Restart Wizard"
+msgstr "Sihirbazı Yeniden Başlat"
+
+msgid "Restart"
+msgstr "Yeniden Başlat"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "Bu, kurulum sürecini sıfırlayacaktır. Emin misiniz?"
+
+msgid "Confirm Restart"
+msgstr "Yeniden Başlatmayı Onayla"
+
+msgid "Back"
+msgstr "Geri"
+
+msgid "Welcome"
+msgstr "Hoş Geldiniz"
+
+msgid "Configuration"
+msgstr "Yapılandırma"
+
+msgid "Complete"
+msgstr "Tamamlandı"
+
+msgid "Insufficient permissions"
+msgstr "Yetersiz izinler"
+
+msgid "Language parameter is required"
+msgstr "Dil parametresi gereklidir"
+
+msgid "Translation manager not available"
+msgstr "Çeviri yöneticisi mevcut değil"
+
+msgid "Unsupported language"
+msgstr "Desteklenmeyen dil"
+
+msgid "Language changed successfully"
+msgstr "Dil başarıyla değiştirildi"
+
+msgid "Failed to change language"
+msgstr "Dil değiştirilemedi"
+
+msgid "Currency parameter is required"
+msgstr "Para birimi parametresi gereklidir"
+
+msgid "Unsupported currency"
+msgstr "Desteklenmeyen para birimi"
+
+msgid "Currency changed successfully"
+msgstr "Para birimi başarıyla değiştirildi"
+
+msgid "Loading"
+msgstr "Yükleniyor"
+
+msgid "Search..."
+msgstr "Ara..."
+
+msgid "Search Language"
+msgstr "Dil ara"
+
+msgid "No languages found"
+msgstr "Dil bulunamadı"
+
+msgid "No currencies found"
+msgstr "Para birimi bulunamadı"
+
+msgid "Failed to load currencies"
+msgstr "Para birimleri yüklenemedi"
+
+msgid "Error loading currencies"
+msgstr "Para birimleri yüklenirken hata oluştu"
+
+msgid "Failed to restart wizard"
+msgstr "Sihirbaz yeniden başlatılamadı"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "Sihirbaz yeniden başlatılırken bir hata oluştu. Lütfen tekrar deneyin."
+
+msgid "Please complete the current step before proceeding."
+msgstr "Lütfen devam etmeden önce mevcut adımı tamamlayın."
+
+msgid "Please wait for authentication to complete."
+msgstr "Lütfen kimlik doğrulamanın tamamlanmasını bekleyin."
+
+msgid "Please accept the terms and conditions."
+msgstr "Lütfen şartları ve koşulları kabul edin."
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "Lütfen devam etmeden önce şartları ve koşulları kabul edin."
+
+msgid "Please complete authentication first."
+msgstr "Lütfen önce kimlik doğrulamayı tamamlayın."
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "Lütfen kurulumu tamamlamadan önce şartları ve koşulları kabul edin."
+
+msgid "Failed to complete setup"
+msgstr "Kurulum tamamlanamadı"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "Kurulum tamamlanırken bir hata oluştu. Lütfen tekrar deneyin."
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "Oturum token'ı bulunamadı. Lütfen önce kimlik doğrulamayı tamamlayın."
+
+msgid "An error occurred while switching language"
+msgstr "Dil değiştirilirken bir hata oluştu"
+
+msgid "An error occurred while switching currency"
+msgstr "Para birimi değiştirilirken bir hata oluştu"
+
+msgid "Last updated: %1$s • Live"
+msgstr "Son güncelleme: %1$s • Canlı"
+
+msgid "Last 30 days"
+msgstr "Son 30 gün"
+
+msgid "Traffic Overview"
+msgstr "Trafik özeti"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "Matomo analitiği – son 30 gün"
+
+msgid "Today's Focus"
+msgstr "Bugünün odağı"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "Vortem.ai eklenti özeti"
+
+msgid "Read More"
+msgstr "Devamını oku"
+
+msgid "Check your dashboard regularly"
+msgstr "Kontrol panelinizi düzenli kontrol edin"
+
+msgid "View Analytics"
+msgstr "Analitikleri görüntüle"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem 2026 En İyi AI Platformu seçildi"
+
+msgid "Order Statistics"
+msgstr "Sipariş istatistikleri"
+
+msgid "Today's Orders Completed"
+msgstr "Bugün tamamlanan siparişler"
+
+msgid "Total Orders Completed"
+msgstr "Toplam tamamlanan siparişler"
+
+msgid "Imported Products"
+msgstr "İçe aktarılan ürünler"
+
+msgid "Recent Activity"
+msgstr "Son aktiviteler"
+
+msgid "Overview dashboard loaded"
+msgstr "Özet panel yüklendi"
+
+msgid "Just now"
+msgstr "Az önce"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "Ürünleri, analitiği ve e-posta pazarlamayı buradan yönetebilirsiniz"
+
+msgid "Ready"
+msgstr "Hazır"
+
+msgid "Configure plugin settings and API keys"
+msgstr "Eklenti ayarlarını ve API anahtarlarını yapılandırın"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "Vortem.ai eklentisi hazır. Ürünleri, analitiği ve e-posta pazarlamayı buradan yönetebilirsiniz."
+
+msgid "Vortem.ai official website"
+msgstr "Vortem.ai resmi web sitesi"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "Gezinin, öğrenin ve hesabınızı yönetin"
+
+msgid "Quick Access"
+msgstr "Hızlı erişim"
+
+msgid "Return to dashboard home"
+msgstr "Kontrol paneli ana sayfasına dön"
+
+msgid "Go to Home"
+msgstr "Ana sayfaya git"
+
+msgid "Profile, settings, and preferences"
+msgstr "Profil, ayarlar ve tercihler"
+
+msgid "Help & Learning"
+msgstr "Yardım ve öğrenme"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "Yardım alın, bilet gönderin veya destekle iletişime geçin"
+
+msgid "Get Support"
+msgstr "Destek al"
+
+msgid "Developer & user guides"
+msgstr "Geliştirici ve kullanıcı kılavuzları"
+
+msgid "Read Docs"
+msgstr "Belgeleri oku"
+
+msgid "Legal & Policies"
+msgstr "Yasal ve politikalar"
+
+msgid "Terms of Service"
+msgstr "Hizmet şartları"
+
+msgid "Usage terms and conditions"
+msgstr "Kullanım şartları ve koşulları"
+
+msgid "View"
+msgstr "Görüntüle"
+
+msgid "Privacy Policy"
+msgstr "Gizlilik politikası"
+
+msgid "Data protection and privacy"
+msgstr "Veri koruma ve gizlilik"
+
+msgid "Navigation to vortem wordpress"
+msgstr "Vortem WordPress'e gidiş"
+
+msgid "Access key features and settings"
+msgstr "Ana özelliklere ve ayarlara erişin"
+
+msgid "Manage catalog and inventory"
+msgstr "Katalog ve envanteri yönetin"
+
+msgid "Business insights and metrics"
+msgstr "İş içgörüleri ve metrikleri"
+
+msgid "Growth & Intelligence"
+msgstr "Büyüme ve istihbarat"
+
+msgid "Campaigns and automation"
+msgstr "Kampanyalar ve otomasyon"
+
+msgid "AI-powered recommendations"
+msgstr "Yapay zeka destekli öneriler"
+
+msgid "Manage orders and shipments"
+msgstr "Siparişleri ve gönderileri yönetin"
+
+msgid "System"
+msgstr "Sistem"
+
+msgid "Knowledge base editor"
+msgstr "Bilgi tabanı düzenleyici"
+
+msgid "Access control and monitoring"
+msgstr "Erişim kontrolü ve izleme"
+
+msgid "System configuration"
+msgstr "Sistem yapılandırması"
+
+msgid "Emails Sent"
+msgstr "Gönderilen e-postalar"
+
+msgid "Orders"
+msgstr "Siparişler"
+
+msgid "Total products"
+msgstr "Toplam ürünler"
+
+msgid "Imported via plugin"
+msgstr "Eklenti ile içe aktarıldı"
+
+msgid "Other products"
+msgstr "Diğer ürünler"
+
+msgid "Manage"
+msgstr "Yönet"
+
+msgid "bounce"
+msgstr "çıkma"
+
+
+msgid "Dashboard"
+msgstr "Panel"
+
+msgid "Plugin"
+msgstr "Eklenti"
+
+msgid "External"
+msgstr "Harici"
+
+msgid "Navigation to vortem WordPress"
+msgstr "vortem WordPress'e gezinme"
+
+msgid "Commerce"
+msgstr "Ticaret"
+
+msgid "Timeline"
+msgstr "Zaman çizelgesi"
+
+msgid "Security Center"
+msgstr "Güvenlik Merkezi"
+
+msgid "Display"
+msgstr "Görünüm"
+
+msgid "How products and currency are presented in your store."
+msgstr "Mağazanızda ürünlerin ve para biriminin nasıl sunulduğu."
+
+msgid "Products per page"
+msgstr "Sayfa başına ürün"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "Varsayılan: 16. Aralık: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "Eklenti fiyatlandırmasında kullanılan para birimi. Seçiminizi kaydetmek için \"Güncelle\"ye tıklayın."
+
+msgid "Media"
+msgstr "Medya"
+
+msgid "Control how product videos are imported and attached."
+msgstr "Ürün videolarının nasıl içe aktarıldığını ve eklendiğini kontrol edin."
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "Etkinleştirildiğinde, ürün videoları otomatik olarak açıklamaya eklenir. Videoları manuel olarak yönetmek için devre dışı bırakın."
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "Devre dışı bırakıldığında, Vortem Clothes, Vortem Cosmetic ve xstore temaları için videolar indirilmez — depolama alanından tasarruf eder."
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "Vortem ve xstore temaları için videoları indir"
+
+msgid "Integrations"
+msgstr "Entegrasyonlar"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "Tedarik ve sipariş karşılamayı genişletmek için harici hesapları bağlayın."
+
+msgid "Update"
+msgstr "Güncelle"
+
+msgid "Last updated"
+msgstr "Son güncelleme"
+
+msgid "Setup"
+msgstr "Kurulum"
+
+msgid "Let's get you started"
+msgstr "Hadi başlayalım"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "Kurulumu yaklaşık 2 dakikada tamamlayın."
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "Vortem’in ürün içe aktarma özellikleri bir AliExpress hesabı gerektirir."
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "Bunu daha sonra Ayarlar → Vortem → AliExpress Entegrasyonu altında bağlayacaksınız. Hesabınız yok mu? Oradan da kayıt olabilirsiniz."
+
+msgid "Up and running in minutes."
+msgstr "Dakikalar içinde hazır."
+
+msgid "Built with WordPress security best practices."
+msgstr "WordPress güvenlik en iyi uygulamalarıyla uyumlu."
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "Hafif ve WordPress için optimize."
+
+msgid "Store basics"
+msgstr "Mağaza temelleri"
+
+msgid "Pick your store currency"
+msgstr "Mağaza para biriminizi seçin"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "Müşterileriniz ödeme sırasında bunu görür. Daha sonra değiştirebilirsiniz."
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "Ürün kartlarında, sepette ve ödemede kullanılır."
+
+msgid "Almost there"
+msgstr "Neredeyse bitti"
+
+msgid "Review and accept"
+msgstr "İnceleyin ve kabul edin"
+
+msgid "Read the full Terms"
+msgstr "Tam Koşulları okuyun"
+
+msgid "You agree to be bound by these terms."
+msgstr "Bu koşullara bağlı kalmayı kabul edersiniz."
+
+msgid "I consent to data processing"
+msgstr "Veri işlemeyi onaylıyorum"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "Bu eklentinin site verilerimi (site URL’si, WordPress sürümü, eklenti sürümü, para birimi tercihi, ürün içe aktarırken WooCommerce ürün verileri, siparişleri işlerken gönderim bilgileri ve güvenlik özellikleri kullanılırken eklenti/tema üst verileri) işleme, analitik ve hizmet sunumu için vortem.ai sunucularına (https://c.vortem.ai) gönderdiğini anlıyor ve kabul ediyorum. Açık onayınız olmadan hiçbir veri gönderilmez; reddetseniz bile eklenti çalışır (vortem.ai’ye bağlı özellikler kullanılamaz). Güvenlik açığı araması için yüklü eklenti/tema envanterinin gönderilmesi Wordfence, Patchstack, WPScan ve Jetpack Protect ile aynı modeli izler."
+
+msgid "All done"
+msgstr "Tamam"
+
+msgid "You're all set!"
+msgstr "Her şey hazır!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem yapılandırıldı ve hazır. Hazır olduğunuzda Ayarlar’dan AliExpress’i bağlayın."
+
+msgid "Accepted"
+msgstr "Kabul edildi"
+
+msgid "Consented"
+msgstr "Onay verildi"
+
+msgid "Data processing"
+msgstr "Veri işleme"
+
+msgid "Meta Title"
+msgstr "Meta başlık"
+
+msgid "Order"
+msgstr "Sipariş"
+
+msgid "Customer"
+msgstr "Müşteri"
+
+msgid "Items"
+msgstr "Kalemler"
+
+msgid "Payment"
+msgstr "Ödeme"

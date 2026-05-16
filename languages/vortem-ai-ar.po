@@ -1,0 +1,2994 @@
+# Translation of Vortem AI in ar
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "يتطلب تثبيت وتفعيل WooCommerce."
+
+msgid "or higher. You are running version"
+msgstr "أو أعلى. أنت تستخدم الإصدار"
+
+msgid "Welcome to vortem.ai!"
+msgstr "مرحباً بك في vortem.ai!"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "معالج إعداد Vortem.ai"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "شكراً لاختيارك إضافة vortem.ai. سيساعدك هذا المعالج في إعداد متجر البيع بالوكالة الخاص بك بسرعة وسهولة."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "لاستخدام خدمات بيع منتجات Vortem، تحتاج إلى حساب AliExpress. يمكنك ربط حسابك من الإعدادات → تسجيل الدخول إلى Vortem → تكامل AliExpress. إذا لم يكن لديك حساب، يمكنك التسجيل مباشرة من هناك."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "لاستخدام خدمات بيع منتجات Vortem، تحتاج إلى حساب AliExpress."
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "يمكنك ربط حسابك من الإعدادات → تسجيل الدخول إلى Vortem → تكامل AliExpress."
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "إذا لم يكن لديك حساب، يمكنك التسجيل مباشرة من هناك."
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "سيستغرق الإعداد حوالي 2-3 دقائق."
+
+msgid "Select Language"
+msgstr "اختر اللغة"
+
+msgid "Select Currency"
+msgstr "اختر العملة"
+
+msgid "Complete Setup"
+msgstr "إكمال الإعداد"
+
+msgid "What you'll get:"
+msgstr "ما ستحصل عليه:"
+
+msgid "Automated product synchronization"
+msgstr "مزامنة المنتجات التلقائية"
+
+msgid "Order management and processing"
+msgstr "إدارة ومعالجة الطلبات"
+
+msgid "Real-time inventory updates"
+msgstr "تحديثات المخزون في الوقت الفعلي"
+
+msgid "Easy-to-use admin interface"
+msgstr "واجهة إدارية سهلة الاستخدام"
+
+msgid "24/7 customer support"
+msgstr "دعم العملاء على مدار الساعة"
+
+msgid "Contact Support"
+msgstr "اتصل بالدعم"
+
+msgid "Import Products"
+msgstr "استيراد المنتجات"
+
+msgid "Configure Settings"
+msgstr "تكوين الإعدادات"
+
+msgid "Setup Complete!"
+msgstr "اكتمل الإعداد!"
+
+msgid "Terms & Conditions"
+msgstr "الشروط والأحكام"
+
+msgid "1. License Agreement"
+msgstr "1. اتفاقية الترخيص"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "باستخدام هذه الإضافة، فإنك توافق على الامتثال لجميع القوانين واللوائح المعمول بها. يتم توفير الإضافة بموجب ترخيص GPL v2 أو أحدث."
+
+msgid "Sign up"
+msgstr "التسجيل"
+
+msgid "Sign up to get started"
+msgstr "سجل للبدء"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "تهانينا! تم تكوين إضافة vortem.ai الخاصة بك بنجاح."
+
+msgid "What's next?"
+msgstr "ما التالي؟"
+
+msgid "Need Help?"
+msgstr "تحتاج مساعدة؟"
+
+msgid "Our support team is here to help you get started."
+msgstr "فريق الدعم لدينا هنا لمساعدتك في البدء."
+
+msgid "Step %1$d of %2$d"
+msgstr "الخطوة %1$d من %2$d"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "لقد قرأت وأوافق على %1$sالشروط والأحكام%2$s"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "شروط خدمة إضافة vortem.ai"
+
+msgid "1. authentication Agreement"
+msgstr "1. اتفاقية الترخيص"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "باستخدام هذه الإضافة، فإنك توافق على الامتثال لجميع القوانين واللوائح المعمول بها. يتم توفير الإضافة بموجب ترخيص GPL v2 أو أحدث."
+
+msgid "2. Data Usage"
+msgstr "2. استخدام البيانات"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "نجمع ونعالج البيانات اللازمة لتشغيل خدمة البيع بالوكالة، بما في ذلك معلومات المنتج وتفاصيل الطلبات وبيانات العملاء. يتم التعامل مع جميع البيانات وفقاً لسياسة الخصوصية الخاصة بنا."
+
+msgid "3. Service Availability"
+msgstr "3. توفر الخدمة"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "بينما نسعى للحفاظ على توفر خدمة عالية، لا يمكننا ضمان خدمة غير منقطعة. نحتفظ بالحق في إجراء الصيانة والتحديثات حسب الحاجة."
+
+msgid "4. Support"
+msgstr "4. الدعم"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "يتم توفير الدعم الفني من خلال قنوات الدعم الخاصة بنا. قد تختلف أوقات الاستجابة بناءً على تعقيد المشكلة."
+
+msgid "5. Updates"
+msgstr "5. التحديثات"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "يتم توفير تحديثات الإضافة لتحسين الوظائف والأمان. يُنصح بالحفاظ على تحديث الإضافة إلى أحدث إصدار."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "أدخل مفتاح ترخيص Vortem.ai الخاص بك لتفعيل الإضافة والوصول إلى جميع الميزات."
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "يمكنك العثور على مفتاح الترخيص الخاص بك في لوحة تحكم حساب Vortem.ai الخاص بك."
+
+msgid "Need help?"
+msgstr "تحتاج مساعدة؟"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "أكمل معالج الإعداد لتكوين المصادقة والبدء."
+
+msgid "Vortem.ai Overview"
+msgstr "نظرة عامة على Vortem.ai"
+
+msgid "Vortem.ai Products"
+msgstr "منتجات Vortem.ai"
+
+msgid "Vortem.ai Settings"
+msgstr "إعدادات Vortem.ai"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "قم بتكوين إعدادات Vortem.ai أدناه."
+
+msgid "Saving settings and validating authentication..."
+msgstr "جاري حفظ الإعدادات والتحقق من الترخيص..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "اكتمل الإعداد - إضافة Vortem.ai الخاصة بك جاهزة للاستخدام!"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "اختر لغة واجهة الإضافة. ستظهر التغييرات بعد الحفظ."
+
+msgid "Vortem.ai AI Resources"
+msgstr "موارد Vortem.ai AI"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "الوصول إلى حساب Vortem.ai AI والموارد الخاصة بك"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "الوصول إلى حساب Vortem.ai AI والموارد الخاصة بك:"
+
+msgid "Home"
+msgstr "الرئيسية"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "زيارة الصفحة الرئيسية لـ Vortem.ai AI"
+
+msgid "Visit Site"
+msgstr "زيارة الموقع"
+
+msgid "My Account"
+msgstr "حسابي"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "إدارة إعدادات حساب Vortem.ai AI الخاص بك"
+
+msgid "Support"
+msgstr "الدعم"
+
+msgid "Get help and support from our team"
+msgstr "احصل على المساعدة والدعم من فريقنا"
+
+msgid "Documentation"
+msgstr "التوثيق"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "اقرأ الأدلة والبرامج التعليمية الشاملة"
+
+msgid "Terms"
+msgstr "الشروط"
+
+msgid "Review terms and conditions"
+msgstr "مراجعة الشروط والأحكام"
+
+msgid "Privacy"
+msgstr "الخصوصية"
+
+msgid "View our privacy policy"
+msgstr "عرض سياسة الخصوصية الخاصة بنا"
+
+msgid "error"
+msgstr "خطأ"
+
+msgid "success"
+msgstr "نجاح"
+
+msgid "cancel"
+msgstr "إلغاء"
+
+msgid "delete"
+msgstr "حذف"
+
+msgid "deleting"
+msgstr "جاري الحذف..."
+
+msgid "edit"
+msgstr "تعديل"
+
+msgid "close"
+msgstr "إغلاق"
+
+msgid "confirm"
+msgstr "تأكيد"
+
+msgid "refresh"
+msgstr "تحديث"
+
+msgid "import"
+msgstr "استيراد"
+
+msgid "actions"
+msgstr "الإجراءات"
+
+msgid "status"
+msgstr "الحالة"
+
+msgid "date"
+msgstr "التاريخ"
+
+msgid "subject"
+msgstr "الموضوع"
+
+msgid "recipient"
+msgstr "المستلم"
+
+msgid "total"
+msgstr "الإجمالي"
+
+msgid "items"
+msgstr "العناصر"
+
+msgid "customer"
+msgstr "العميل"
+
+msgid "order"
+msgstr "الطلب"
+
+msgid "payment"
+msgstr "الدفع"
+
+msgid "active"
+msgstr "نشط"
+
+msgid "inactive"
+msgstr "غير نشط"
+
+msgid "cards"
+msgstr "البطاقات"
+
+msgid "table"
+msgstr "الجدول"
+
+msgid "select"
+msgstr "اختر"
+
+msgid "sent"
+msgstr "تم الإرسال"
+
+msgid "left"
+msgstr "متبقي"
+
+msgid "resets"
+msgstr "إعادة تعيين"
+
+msgid "view_more"
+msgstr "عرض المزيد"
+
+msgid "performance"
+msgstr "الأداء"
+
+msgid "insights"
+msgstr "الرؤى"
+
+msgid "metrics"
+msgstr "المقاييس"
+
+msgid "device"
+msgstr "الجهاز"
+
+msgid "locale"
+msgstr "اللغة"
+
+msgid "channel"
+msgstr "القناة"
+
+msgid "desktop"
+msgstr "سطح المكتب"
+
+msgid "mobile"
+msgstr "الجوال"
+
+msgid "retry"
+msgstr "إعادة المحاولة"
+
+msgid "failed"
+msgstr "فشل"
+
+msgid "support"
+msgstr "4. الدعم"
+
+msgid "documentation"
+msgstr "التوثيق"
+
+msgid "are_you_sure"
+msgstr "هل أنت متأكد؟"
+
+msgid "clear"
+msgstr "مسح"
+
+msgid "preview"
+msgstr "معاينة"
+
+msgid "send_email"
+msgstr "إرسال بريد إلكتروني"
+
+msgid "recipients"
+msgstr "المستلمون"
+
+msgid "question"
+msgstr "السؤال"
+
+msgid "question:"
+msgstr "السؤال:"
+
+msgid "answer"
+msgstr "الإجابة"
+
+msgid "answer:"
+msgstr "الإجابة:"
+
+msgid "category"
+msgstr "الفئة:"
+
+msgid "category:"
+msgstr "الفئة:"
+
+msgid "no_category"
+msgstr "لا توجد فئة"
+
+msgid "showing"
+msgstr "عرض"
+
+msgid "faqs"
+msgstr "الأسئلة الشائعة"
+
+msgid "all_categories"
+msgstr "جميع الفئات"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "كيف تريد إنشاء الأسئلة الشائعة؟"
+
+msgid "Single FAQ"
+msgstr "سؤال شائع واحد"
+
+msgid "Bulk FAQs"
+msgstr "أسئلة شائعة متعددة"
+
+msgid "no_faqs_added_yet"
+msgstr "لم تتم إضافة أي أسئلة شائعة بعد. أضف أول سؤال شائع على اليسار."
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "لم تتم إضافة أي أسئلة شائعة بعد. أضف أول سؤال شائع على اليسار."
+
+msgid "Added FAQs"
+msgstr "الأسئلة الشائعة المضافة"
+
+msgid "faq"
+msgstr "سؤال شائع"
+
+msgid "remove"
+msgstr "إزالة"
+
+msgid "no_faqs_to_create"
+msgstr "يرجى إضافة سؤال شائع واحد على الأقل قبل الإنشاء."
+
+msgid "bulk_faqs_created"
+msgstr "تم إنشاء %d سؤال شائع بنجاح"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "فشل إنشاء الأسئلة الشائعة. يرجى المحاولة مرة أخرى."
+
+msgid "created"
+msgstr "تم الإنشاء"
+
+msgid "search_faqs"
+msgstr "البحث في الأسئلة الشائعة..."
+
+msgid "update_faq"
+msgstr "تحديث السؤال الشائع"
+
+msgid "category_label"
+msgstr "الفئة *"
+
+msgid "select_existing_category_optional"
+msgstr "اختر فئة موجودة (اختياري)"
+
+msgid "create_faq"
+msgstr "إنشاء سؤال شائع"
+
+msgid "delete_faq"
+msgstr "حذف السؤال الشائع"
+
+msgid "delete_category"
+msgstr "حذف الفئة"
+
+msgid "delete_category_faqs_confirm"
+msgstr "هل أنت متأكد أنك تريد حذف جميع الأسئلة الشائعة في الفئة \"%s\"؟ لا يمكن التراجع عن هذا الإجراء."
+
+msgid "category_faqs_deleted"
+msgstr "تم حذف جميع الأسئلة الشائعة في الفئة \"%s\"."
+
+msgid "failed_to_delete_category_faqs"
+msgstr "فشل حذف الأسئلة الشائعة لهذه الفئة. يرجى المحاولة مرة أخرى."
+
+msgid "category_id_not_found"
+msgstr "معرف الفئة غير موجود للفئة المحددة."
+
+msgid "orders"
+msgstr "طلبات"
+
+msgid "last_updated"
+msgstr "آخر تحديث:"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "لوحة تحليلات"
+
+msgid "Business Intelligence"
+msgstr "ذكاء الأعمال"
+
+msgid "Analytics Hub"
+msgstr "مركز التحليلات"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "تحليلات ورؤى شاملة مدعومة بذكاء البيانات المتقدم لاتخاذ قرارات مدفوعة بالبيانات"
+
+msgid "Performance Overview"
+msgstr "نظرة عامة على الأداء"
+
+msgid "Key performance indicators at a glance"
+msgstr "مؤشرات الأداء الرئيسية في لمحة"
+
+msgid "Analytics Insights"
+msgstr "رؤى التحليلات"
+
+msgid "Deep dive into performance metrics"
+msgstr "تعمق في مقاييس الأداء"
+
+msgid "Customer Intelligence"
+msgstr "ذكاء العملاء"
+
+msgid "Understand customer behavior and trends"
+msgstr "فهم سلوك العملاء والاتجاهات"
+
+msgid "Market Analysis"
+msgstr "تحليل السوق"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "مقارنة شاملة للسوق ورؤى الفئات"
+
+msgid "Data Intelligence"
+msgstr "ذكاء البيانات"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "جداول تحليلات مفصلة ورؤى التسعير"
+
+msgid "Product"
+msgstr "المنتج"
+
+msgid "Products"
+msgstr "المنتجات"
+
+msgid "Average"
+msgstr "المتوسط"
+
+msgid "No products found"
+msgstr "لم يتم العثور على منتجات"
+
+msgid "Close"
+msgstr "إغلاق"
+
+msgid "All KPI Products"
+msgstr "جميع منتجات مؤشرات الأداء الرئيسية"
+
+msgid "Top KPI Products"
+msgstr "أفضل منتجات مؤشرات الأداء الرئيسية"
+
+msgid "Product ID"
+msgstr "معرف المنتج"
+
+msgid "Product Title"
+msgstr "عنوان المنتج"
+
+msgid "Base Price"
+msgstr "السعر الأساسي"
+
+msgid "Low-Risk Price"
+msgstr "سعر منخفض المخاطر"
+
+msgid "Competitive Price"
+msgstr "سعر تنافسي"
+
+msgid "High-Risk Price"
+msgstr "سعر عالي المخاطر"
+
+msgid "Untitled Product"
+msgstr "منتج بدون عنوان"
+
+msgid "All Trend Index Products"
+msgstr "جميع منتجات مؤشر الاتجاه"
+
+msgid "Trend Index by Product"
+msgstr "مؤشر الاتجاه حسب المنتج"
+
+msgid "Product Name"
+msgstr "اسم المنتج"
+
+msgid "Price vs Rating"
+msgstr "السعر مقابل التقييم"
+
+msgid "Price"
+msgstr "السعر"
+
+msgid "Rating"
+msgstr "التقييم"
+
+msgid "Reviews"
+msgstr "المراجعات"
+
+msgid "CTR"
+msgstr "CTR"
+
+msgid "CVR"
+msgstr "CVR"
+
+msgid "Average Price"
+msgstr "متوسط السعر"
+
+msgid "Average Rating"
+msgstr "متوسط التقييم"
+
+msgid "Product Count"
+msgstr "عدد المنتجات"
+
+msgid "Avg Price"
+msgstr "متوسط السعر"
+
+msgid "Avg Rating"
+msgstr "متوسط التقييم"
+
+msgid "Failed to load"
+msgstr "فشل التحميل"
+
+msgid "products"
+msgstr "منتجات"
+
+msgid "product"
+msgstr "منتج"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "مؤشر الاتجاه"
+
+msgid "Profitability"
+msgstr "الربحية"
+
+msgid "Competition"
+msgstr "المنافسة"
+
+msgid "Demand Stability"
+msgstr "استقرار الطلب"
+
+msgid "View All"
+msgstr "عرض الكل"
+
+msgid "price rating data"
+msgstr "بيانات السعر والتقييم"
+
+msgid "Total Reviews"
+msgstr "إجمالي المراجعات"
+
+msgid "Avg Reviews"
+msgstr "متوسط المراجعات"
+
+msgid "Overall Sentiment"
+msgstr "المشاعر العامة"
+
+msgid "Positive"
+msgstr "إيجابي"
+
+msgid "Neutral"
+msgstr "محايد"
+
+msgid "Negative"
+msgstr "سلبي"
+
+msgid "Trend Status Overview"
+msgstr "نظرة عامة على حالة الاتجاه"
+
+msgid "Rising"
+msgstr "صاعد"
+
+msgid "Stable"
+msgstr "مستقر"
+
+msgid "Declining"
+msgstr "آخذ في الانخفاض"
+
+msgid "sentiment data"
+msgstr "بيانات المشاعر"
+
+msgid "trend status data"
+msgstr "بيانات حالة الاتجاه"
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid "Category"
+msgstr "الفئة"
+
+msgid "All Categories"
+msgstr "جميع الفئات"
+
+msgid "Count"
+msgstr "العدد"
+
+msgid "Percentage"
+msgstr "النسبة المئوية"
+
+msgid "Market Comparison (by Source)"
+msgstr "مقارنة السوق (حسب المصدر)"
+
+msgid "Market"
+msgstr "السوق"
+
+msgid "Best seller"
+msgstr "الأكثر مبيعاً"
+
+msgid "Movers and shakers"
+msgstr "المتحركون والمؤثرون"
+
+msgid "New releases"
+msgstr "الإصدارات الجديدة"
+
+msgid "market comparison data"
+msgstr "بيانات مقارنة السوق"
+
+msgid "Category Comparison"
+msgstr "مقارنة الفئات"
+
+msgid "Category Comparison - All Data"
+msgstr "مقارنة الفئات - جميع البيانات"
+
+msgid "Categories"
+msgstr "الفئات"
+
+msgid "Metrics"
+msgstr "المقاييس"
+
+msgid "Avg Sold"
+msgstr "متوسط المبيعات"
+
+msgid "Avg FPSI"
+msgstr "متوسط FPSI"
+
+msgid "N/A"
+msgstr "غير متاح"
+
+msgid "value"
+msgstr "القيمة"
+
+msgid "Unknown"
+msgstr "غير معروف"
+
+msgid "category comparison data"
+msgstr "بيانات مقارنة الفئات"
+
+msgid "Amazon Device"
+msgstr "أجهزة Amazon"
+
+msgid "Appliances"
+msgstr "الأجهزة"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "الفنون والحرف والخياطة"
+
+msgid "Automotive"
+msgstr "السيارات"
+
+msgid "Baby Products"
+msgstr "منتجات الأطفال"
+
+msgid "Baby"
+msgstr "الأطفال"
+
+msgid "Beauty & Personal Care"
+msgstr "الجمال والعناية الشخصية"
+
+msgid "Cell Phones & Accessories"
+msgstr "الهواتف المحمولة والملحقات"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "الملابس والأحذية والمجوهرات"
+
+msgid "Collectibles & Fine Art"
+msgstr "المقتنيات والفنون الجميلة"
+
+msgid "Electronics"
+msgstr "الإلكترونيات"
+
+msgid "Health & Household"
+msgstr "الصحة والأدوات المنزلية"
+
+msgid "Home & Kitchen"
+msgstr "المنزل والمطبخ"
+
+msgid "Industrial & Scientific"
+msgstr "الصناعي والعلمي"
+
+msgid "Musical Instruments"
+msgstr "الآلات الموسيقية"
+
+msgid "No category found"
+msgstr "لم يتم العثور على فئة"
+
+msgid "Office Products"
+msgstr "منتجات المكتب"
+
+msgid "Patio, Lawn & Garden"
+msgstr "الفناء والحديقة والحديقة"
+
+msgid "Safety & Security"
+msgstr "السلامة والأمن"
+
+msgid "Tools & Home Improvement"
+msgstr "الأدوات وتحسين المنزل"
+
+msgid "Toys & Games"
+msgstr "الألعاب والألعاب"
+
+msgid "Suggested Pricing"
+msgstr "التسعير المقترح"
+
+msgid "All Suggested Pricing"
+msgstr "جميع التسعير المقترح"
+
+msgid "suggested pricing data"
+msgstr "بيانات التسعير المقترح"
+
+msgid "Search products..."
+msgstr "البحث عن المنتجات..."
+
+msgid "Search products or categories..."
+msgstr "البحث عن المنتجات أو الفئات..."
+
+msgid "Insights"
+msgstr "الرؤى"
+
+msgid "Performance insights for"
+msgstr "رؤى الأداء لـ"
+
+msgid "your website"
+msgstr "موقعك الإلكتروني"
+
+msgid "Desktop"
+msgstr "سطح المكتب"
+
+msgid "Mobile"
+msgstr "الجوال"
+
+msgid "Refresh"
+msgstr "تحديث"
+
+msgid "Loading..."
+msgstr "جاري التحميل..."
+
+msgid "Core Web Vitals"
+msgstr "مؤشرات الويب الأساسية"
+
+msgid "Performance Audits"
+msgstr "تدقيقات الأداء"
+
+msgid "View More"
+msgstr "عرض المزيد"
+
+msgid "Performance Insights"
+msgstr "رؤى الأداء"
+
+msgid "Analysis Configuration"
+msgstr "تكوين التحليل"
+
+msgid "Device"
+msgstr "الجهاز"
+
+msgid "Locale"
+msgstr "اللغة"
+
+msgid "Channel"
+msgstr "القناة"
+
+msgid "Loading Insights data..."
+msgstr "جاري تحميل بيانات الرؤى..."
+
+msgid "Error Loading Insights Data"
+msgstr "خطأ في تحميل بيانات الرؤى"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "حدث خطأ أثناء جلب بيانات تحليل الرؤى."
+
+msgid "Retry"
+msgstr "إعادة المحاولة"
+
+msgid "No Insights Data Available"
+msgstr "لا توجد بيانات رؤى متاحة"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "لا توجد بيانات تحليل أداء متاحة. قد يعني هذا أن التحليل لم يتم تشغيله بعد، أو حدث خطأ في جلب البيانات."
+
+msgid "Last analyzed:"
+msgstr "آخر تحليل:"
+
+msgid "Performance"
+msgstr "الأداء"
+
+msgid "Accessibility"
+msgstr "إمكانية الوصول"
+
+msgid "Best Practices"
+msgstr "أفضل الممارسات"
+
+msgid "SEO"
+msgstr "تحسين محركات البحث"
+
+msgid "No performance metrics available"
+msgstr "لا توجد مقاييس أداء متاحة"
+
+msgid "No audit data available"
+msgstr "لا توجد بيانات تدقيق متاحة"
+
+msgid "No audits available"
+msgstr "لا توجد تدقيقات متاحة"
+
+msgid "View Less"
+msgstr "عرض أقل"
+
+msgid "more"
+msgstr "المزيد"
+
+msgid "No insights available"
+msgstr "لا توجد رؤى متاحة"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "لم يتم اكتشاف مشاكل في الأداء. موقعك يعمل بشكل جيد!"
+
+msgid "Wasted:"
+msgstr "مهدر:"
+
+msgid "Initializing..."
+msgstr "جاري التهيئة..."
+
+msgid "Connecting to server..."
+msgstr "جاري الاتصال بالخادم..."
+
+msgid "Fetching insights data..."
+msgstr "جاري جلب بيانات الرؤى..."
+
+msgid "Analyzing performance metrics..."
+msgstr "جاري تحليل مقاييس الأداء..."
+
+msgid "Processing audits and insights..."
+msgstr "جاري معالجة التدقيقات والرؤى..."
+
+msgid "Finalizing results..."
+msgstr "جاري إنهاء النتائج..."
+
+msgid "Complete!"
+msgstr "اكتمل!"
+
+msgid "Failed to load Insights data"
+msgstr "فشل تحميل بيانات الرؤى"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "فشل تحميل بيانات الرؤى. يرجى التحقق من اتصالك والمحاولة مرة أخرى."
+
+msgid "failed_to_refetch"
+msgstr "فشل إعادة الجلب"
+
+msgid "failed_to_load_insights_error"
+msgstr "خطأ في تحميل بيانات الرؤى"
+
+msgid "No data available"
+msgstr "لا توجد بيانات متاحة"
+
+msgid "Excellent"
+msgstr "ممتاز"
+
+msgid "Needs Improvement"
+msgstr "يحتاج إلى تحسين"
+
+msgid "Poor"
+msgstr "ضعيف"
+
+msgid "Unknown error"
+msgstr "خطأ غير معروف"
+
+msgid "Email Marketing"
+msgstr "التسويق بالبريد الإلكتروني"
+
+msgid "Manage, send, and track your emails"
+msgstr "إدارة وإرسال وتتبع رسائلك الإلكترونية"
+
+msgid "Emails"
+msgstr "البريد الإلكتروني"
+
+msgid "Lists"
+msgstr "القوائم"
+
+msgid "Create Email"
+msgstr "إنشاء بريد إلكتروني"
+
+msgid "Search emails..."
+msgstr "البحث عن البريد الإلكتروني..."
+
+msgid "Cards"
+msgstr "البطاقات"
+
+msgid "Table"
+msgstr "الجدول"
+
+msgid "Select"
+msgstr "تحديد"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Recipient"
+msgstr "المستلم"
+
+msgid "Subject"
+msgstr "الموضوع"
+
+msgid "Created"
+msgstr "تم الإنشاء"
+
+msgid "Actions"
+msgstr "الإجراءات"
+
+msgid "Email Lists"
+msgstr "قوائم البريد الإلكتروني"
+
+msgid "Manage, send, and track your email lists"
+msgstr "إدارة وإرسال وتتبع قوائم البريد الإلكتروني"
+
+msgid "Create Email List"
+msgstr "إنشاء قائمة بريد إلكتروني"
+
+msgid "Search lists..."
+msgstr "البحث عن القوائم..."
+
+msgid "Download Template"
+msgstr "تنزيل القالب"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "تنزيل قالب مستلم البريد الإلكتروني.xlsx"
+
+msgid "Upload Template"
+msgstr "رفع القالب"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "رفع ملف مستلم البريد الإلكتروني.xlsx"
+
+msgid "Recipients"
+msgstr "المستلمون"
+
+msgid "Confirm Action"
+msgstr "تأكيد الإجراء"
+
+msgid "Are you sure you want to proceed?"
+msgstr "هل أنت متأكد أنك تريد المتابعة؟"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Confirm"
+msgstr "تأكيد"
+
+msgid "List Subject"
+msgstr "موضوع القائمة"
+
+msgid "Subject for all recipients"
+msgstr "الموضوع لجميع المستلمين"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "أدخل عنوان البريد الإلكتروني واضغط Enter أو انقر فوق إضافة"
+
+msgid "Add"
+msgstr "إضافة"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "أدخل عناوين البريد الإلكتروني واحدًا تلو الآخر. انقر فوق X على العلامة لإزالتها."
+
+msgid "Email Body (optional HTML)"
+msgstr "نص البريد الإلكتروني (HTML اختياري)"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "يمكنك استخدام المحرر المرئي أو التبديل إلى وضع النص للصق HTML."
+
+msgid "Send"
+msgstr "إرسال"
+
+msgid "Preview"
+msgstr "معاينة"
+
+msgid "Clear"
+msgstr "مسح"
+
+msgid "Create New Email"
+msgstr "إنشاء بريد إلكتروني جديد"
+
+msgid "Your subject"
+msgstr "موضوعك"
+
+msgid "Email Body"
+msgstr "نص البريد الإلكتروني"
+
+msgid "Send Email"
+msgstr "إرسال البريد الإلكتروني"
+
+msgid "Email Sent"
+msgstr "تم إرسال البريد الإلكتروني"
+
+msgid "Your email has been sent successfully."
+msgstr "تم إرسال بريدك الإلكتروني بنجاح."
+
+msgid "OK"
+msgstr "موافق"
+
+msgid "Total"
+msgstr "الإجمالي"
+
+msgid "Sent"
+msgstr "تم الإرسال"
+
+msgid "Read"
+msgstr "مقروء"
+
+msgid "Revision"
+msgstr "مراجعة"
+
+msgid "Sent Emails"
+msgstr "البريد الإلكتروني المرسل"
+
+msgid "Export Excel"
+msgstr "تصدير إلى Excel"
+
+msgid "Updated"
+msgstr "تم التحديث"
+
+msgid "Failed"
+msgstr "فشل"
+
+msgid "Pending"
+msgstr "معلق"
+
+msgid "Show"
+msgstr "عرض"
+
+msgid "Edit"
+msgstr "تعديل"
+
+msgid "Update & Send"
+msgstr "تحديث وإرسال"
+
+msgid "Sending..."
+msgstr "جاري الإرسال..."
+
+msgid "Edit Email"
+msgstr "تعديل البريد الإلكتروني"
+
+msgid "Exit Select"
+msgstr "خروج من التحديد"
+
+msgid "To:"
+msgstr "إلى:"
+
+msgid "Created:"
+msgstr "تم الإنشاء:"
+
+msgid "Error"
+msgstr "خطأ"
+
+msgid "Success"
+msgstr "نجاح"
+
+msgid "Update Email List"
+msgstr "تحديث قائمة البريد الإلكتروني"
+
+msgid "status_sent"
+msgstr "تم الإرسال"
+
+msgid "status_failed"
+msgstr "فشل"
+
+msgid "status_pending"
+msgstr "قيد الانتظار"
+
+msgid "SENT"
+msgstr "تم الإرسال"
+
+msgid "Sent:"
+msgstr "تم الإرسال:"
+
+msgid "Failed:"
+msgstr "فشل:"
+
+msgid "Pending:"
+msgstr "قيد الانتظار:"
+
+msgid "Email sent"
+msgstr "تم إرسال البريد الإلكتروني"
+
+msgid "Successfully sent"
+msgstr "تم الإرسال بنجاح"
+
+msgid "email(s)"
+msgstr "بريد(إلكتروني)"
+
+msgid "Your email list has been sent successfully."
+msgstr "تم إرسال قائمة بريدك الإلكتروني بنجاح."
+
+msgid "FAILED"
+msgstr "فشل"
+
+msgid "PENDING"
+msgstr "قيد الانتظار"
+
+msgid "Total Lists"
+msgstr "إجمالي القوائم"
+
+msgid "Total Recipients"
+msgstr "إجمالي المستلمين"
+
+msgid "create_email_list"
+msgstr "إنشاء قائمة بريد إلكتروني"
+
+msgid "add"
+msgstr "إضافة"
+
+msgid "send"
+msgstr "إرسال"
+
+msgid "ok"
+msgstr "موافق"
+
+msgid "security"
+msgstr "الأمان"
+
+msgid "welcome"
+msgstr "مرحباً"
+
+msgid "of"
+msgstr "من"
+
+msgid "previous"
+msgstr "السابق"
+
+msgid "next"
+msgstr "التالي"
+
+msgid "home"
+msgstr "الرئيسية"
+
+msgid "terms"
+msgstr "الشروط"
+
+msgid "Active"
+msgstr "نشط"
+
+msgid "Not Set"
+msgstr "غير محدد"
+
+msgid "Import"
+msgstr "استيراد"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> استيراد"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> حذف"
+
+msgid "Importing..."
+msgstr "جاري الاستيراد..."
+
+msgid "Deleting..."
+msgstr "جاري الحذف..."
+
+msgid "Already Imported"
+msgstr "تم الاستيراد بالفعل"
+
+msgid "Product deleted successfully"
+msgstr "تم حذف المنتج بنجاح"
+
+msgid "NEW"
+msgstr "جديد"
+
+msgid "Added"
+msgstr "مضاف"
+
+msgid "Exists"
+msgstr "موجود"
+
+msgid "Showing"
+msgstr "عرض"
+
+msgid "← Previous"
+msgstr "← السابق"
+
+msgid "Previous"
+msgstr "السابق"
+
+msgid "Next →"
+msgstr "التالي →"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Processing..."
+msgstr "جاري المعالجة..."
+
+msgid "Please wait while we import your product"
+msgstr "يرجى الانتظار بينما نقوم باستيراد منتجك"
+
+msgid "Importing product as draft..."
+msgstr "جاري استيراد المنتج كمسودة..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "سيتم إنشاء المنتج في WooCommerce"
+
+msgid "Importing product with SEO optimization..."
+msgstr "جاري استيراد المنتج مع تحسين محركات البحث..."
+
+msgid "Checking product status..."
+msgstr "جاري التحقق من حالة المنتج..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "يرجى الانتظار بينما نتحقق من وجود المنتج"
+
+msgid "Loading products..."
+msgstr "جاري تحميل المنتجات..."
+
+msgid "Overview"
+msgstr "نظرة عامة"
+
+msgid "Business Overview"
+msgstr "نظرة عامة على الأعمال"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "راقب أداء الإضافة، وتتبع المقاييس الرئيسية، وأدر عملياتك من لوحة تحكم واحدة"
+
+msgid "Total Products"
+msgstr "إجمالي المنتجات"
+
+msgid "Quick Actions"
+msgstr "إجراءات سريعة"
+
+msgid "Analytics Dashboard"
+msgstr "لوحة تحليلات"
+
+msgid "Analytics Overview"
+msgstr "نظرة عامة على التحليلات"
+
+msgid "Quick insights into your business performance"
+msgstr "رؤى سريعة حول أداء عملك"
+
+msgid "View Full Analytics"
+msgstr "عرض التحليلات الكاملة"
+
+msgid "Overall Sentiment distribution"
+msgstr "توزيع المشاعر العامة"
+
+msgid "Trend Status distribution"
+msgstr "توزيع حالة الاتجاه"
+
+msgid "Analytics"
+msgstr "التحليلات"
+
+msgid "BI Analytics Hub"
+msgstr "مركز تحليلات ذكاء الأعمال"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "No orders found"
+msgstr "لم يتم العثور على طلبات"
+
+msgid "Total Orders"
+msgstr "إجمالي الطلبات"
+
+msgid "Current Page"
+msgstr "الصفحة الحالية"
+
+msgid "Orders Per Page"
+msgstr "الطلبات لكل صفحة"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "البحث في الطلبات برقم الطلب أو اسم العميل أو البريد الإلكتروني..."
+
+msgid "Loading orders..."
+msgstr "جاري تحميل الطلبات..."
+
+msgid "Page"
+msgstr "الصفحة"
+
+msgid "WooCommerce Analytics"
+msgstr "تحليلات WooCommerce"
+
+msgid "WordPress Analytics"
+msgstr "تحليلات WordPress"
+
+msgid "Clear Cache"
+msgstr "مسح الذاكرة المؤقتة"
+
+msgid "Export CSV"
+msgstr "تصدير CSV"
+
+msgid "Last updated:"
+msgstr "آخر تحديث:"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "فشل تحميل بيانات التحليلات. يرجى تحديث الصفحة."
+
+msgid "No data available to export"
+msgstr "لا توجد بيانات متاحة للتصدير"
+
+msgid "Orders Today"
+msgstr "الطلبات اليوم"
+
+msgid "Total Revenue"
+msgstr "إجمالي الإيرادات"
+
+msgid "Revenue Today"
+msgstr "الإيرادات اليوم"
+
+msgid "Revenue (30 Days)"
+msgstr "الإيرادات (30 يوم)"
+
+msgid "Avg Order Value"
+msgstr "متوسط قيمة الطلب"
+
+msgid "Pending Orders"
+msgstr "الطلبات المعلقة"
+
+msgid "Failed Orders"
+msgstr "الطلبات الفاشلة"
+
+msgid "Cart Abandonment"
+msgstr "التخلي عن السلة"
+
+msgid "Customers (30 Days)"
+msgstr "العملاء (30 يوم)"
+
+msgid "Top Seller (30 Days)"
+msgstr "الأكثر مبيعاً (30 يوم)"
+
+msgid "Total Users"
+msgstr "إجمالي المستخدمين"
+
+msgid "Users Today"
+msgstr "المستخدمون اليوم"
+
+msgid "Total Comments"
+msgstr "إجمالي التعليقات"
+
+msgid "Total Views"
+msgstr "إجمالي المشاهدات"
+
+msgid "Refunded"
+msgstr "مسترد"
+
+msgid "Pending payment"
+msgstr "في انتظار الدفع"
+
+msgid "Processing"
+msgstr "قيد المعالجة"
+
+msgid "On hold"
+msgstr "قيد الانتظار"
+
+msgid "Completed"
+msgstr "مكتمل"
+
+msgid "Cancelled"
+msgstr "ملغي"
+
+msgid "Draft"
+msgstr "مسودة"
+
+msgid "Revenue Overview"
+msgstr "نظرة عامة على الإيرادات"
+
+msgid "Orders Status"
+msgstr "حالة الطلبات"
+
+msgid "WordPress Activity"
+msgstr "نشاط WordPress"
+
+msgid "Revenue"
+msgstr "الإيرادات"
+
+msgid "WordPress Metrics"
+msgstr "مقاييس WordPress"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "لا يمكن أن يتجاوز عدد المنتجات في الصفحة 100. يرجى إدخال قيمة بين 1 و 100."
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "يجب أن يكون عدد المنتجات في الصفحة على الأقل 1. يرجى إدخال قيمة صحيحة."
+
+msgid "Settings saved successfully!"
+msgstr "تم حفظ الإعدادات بنجاح!"
+
+msgid "Please enter a authentication key before testing."
+msgstr "يرجى إدخال مفتاح الترخيص قبل الاختبار."
+
+msgid "more..."
+msgstr "المزيد..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "تم مسح ذاكرة التخزين المؤقت للتحليلات بنجاح!"
+
+msgid "No products to import. Please sync products first."
+msgstr "لا توجد منتجات للاستيراد. يرجى مزامنة المنتجات أولاً."
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "اكتمل الاستيراد! تم استيراد %d منتج، فشل %d."
+
+msgid "Import failed: %s"
+msgstr "فشل الاستيراد: %s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "اكتمل اختبار API! تحقق من debug.log للحصول على السجلات التفصيلية. تم اختبار جميع نقاط النهاية بنجاح."
+
+msgid "API Test Failed: %s"
+msgstr "فشل اختبار API: %s"
+
+msgid "Database structure validated and fixed:"
+msgstr "تم التحقق من بنية قاعدة البيانات وإصلاحها:"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "بنية قاعدة البيانات صحيحة. لا حاجة لإصلاحات."
+
+msgid "Database validation issues:"
+msgstr "مشاكل التحقق من قاعدة البيانات:"
+
+msgid "Database validation failed: %s"
+msgstr "فشل التحقق من قاعدة البيانات: %s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "ترخيص Vortem الخاص بك نشط مع خطة %s."
+
+msgid "Validated on: %s"
+msgstr "تم التحقق في: %s"
+
+msgid "Import failed. Please try again."
+msgstr "فشل الاستيراد. يرجى المحاولة مرة أخرى."
+
+msgid "Please select a bulk action."
+msgstr "يرجى اختيار إجراء مجمع."
+
+msgid "Please select at least one product."
+msgstr "يرجى اختيار منتج واحد على الأقل."
+
+msgid "Bulk action failed. Please try again."
+msgstr "فشل الإجراء المجمع. يرجى المحاولة مرة أخرى."
+
+msgid "Failed to trash product. Please try again."
+msgstr "فشل نقل المنتج إلى سلة المهملات. يرجى المحاولة مرة أخرى."
+
+msgid "Failed to restore product. Please try again."
+msgstr "فشل استعادة المنتج. يرجى المحاولة مرة أخرى."
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "فشل استيراد المنتج كمسودة. يرجى المحاولة مرة أخرى."
+
+msgid "Failed to get product details."
+msgstr "فشل الحصول على تفاصيل المنتج."
+
+msgid "Delete failed. Please try again."
+msgstr "فشل الحذف. يرجى المحاولة مرة أخرى."
+
+msgid "FAQ Management"
+msgstr "إدارة الأسئلة الشائعة"
+
+msgid "Manage your frequently asked questions"
+msgstr "إدارة الأسئلة الشائعة الخاصة بك"
+
+msgid "Search FAQs..."
+msgstr "البحث عن الأسئلة الشائعة..."
+
+msgid "Card View"
+msgstr "عرض البطاقات"
+
+msgid "Table View"
+msgstr "عرض الجدول"
+
+msgid "Refresh FAQs"
+msgstr "تحديث الأسئلة الشائعة"
+
+msgid "Create New FAQ"
+msgstr "إنشاء سؤال شائع جديد"
+
+msgid "Total FAQs"
+msgstr "إجمالي الأسئلة الشائعة"
+
+msgid "Active FAQs"
+msgstr "الأسئلة الشائعة النشطة"
+
+msgid "Page Status"
+msgstr "حالة الصفحة"
+
+msgid "Question"
+msgstr "السؤال"
+
+msgid "No FAQs yet"
+msgstr "لا توجد أسئلة شائعة بعد"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "ابدأ بإنشاء الأسئلة الشائعة لبناء قاعدة المعرفة الخاصة بك"
+
+msgid "Create Your First FAQ"
+msgstr "أنشئ أول سؤال شائع لك"
+
+msgid "Loading FAQs..."
+msgstr "جاري تحميل الأسئلة الشائعة..."
+
+msgid "Update FAQ"
+msgstr "تحديث السؤال الشائع"
+
+msgid "Question *"
+msgstr "السؤال *"
+
+msgid "Enter your question here..."
+msgstr "أدخل سؤالك هنا..."
+
+msgid "Answer *"
+msgstr "الإجابة *"
+
+msgid "Enter the answer here..."
+msgstr "أدخل الإجابة هنا..."
+
+msgid "Create FAQ"
+msgstr "إنشاء سؤال شائع"
+
+msgid "FAQ Details"
+msgstr "تفاصيل السؤال الشائع"
+
+msgid "Answer"
+msgstr "الإجابة"
+
+msgid "Delete FAQ"
+msgstr "حذف السؤال الشائع"
+
+msgid "ID:"
+msgstr "المعرف:"
+
+msgid "Answer:"
+msgstr "الإجابة:"
+
+msgid "View Details"
+msgstr "عرض التفاصيل"
+
+msgid "Edit FAQ"
+msgstr "تعديل السؤال الشائع"
+
+msgid "Creating..."
+msgstr "جاري الإنشاء..."
+
+msgid "Updating..."
+msgstr "جاري التحديث..."
+
+msgid "Question is required"
+msgstr "السؤال مطلوب"
+
+msgid "Answer is required"
+msgstr "الإجابة مطلوبة"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "يجب أن تكون الإجابة على الأقل 10 أحرف"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "تم إنشاء السؤال الشائع \"%s\""
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "تم تحديث السؤال الشائع \"%s\""
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "تم حذف السؤال الشائع \"%s\""
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "هل أنت متأكد من حذف \"%s\"؟ لا يمكن التراجع عن هذا الإجراء."
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "فشل تحميل الأسئلة الشائعة. يرجى المحاولة مرة أخرى."
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "فشل حفظ السؤال الشائع. يرجى المحاولة مرة أخرى."
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "فشل حذف السؤال الشائع. يرجى المحاولة مرة أخرى."
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "مطلوب المصادقة. يرجى التحقق من مفتاح الترخيص الخاص بك."
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "مفتاح الترخيص مطلوب. يرجى تكوين مفتاح الترخيص في إعدادات Vortem."
+
+msgid "Security"
+msgstr "الأمان"
+
+msgid "Search plugins..."
+msgstr "البحث عن الإضافات..."
+
+msgid "Last Modified"
+msgstr "آخر تعديل"
+
+msgid "Inactive"
+msgstr "غير نشط"
+
+msgid "WordPress Core"
+msgstr "نواة ووردبريس"
+
+msgid "Themes"
+msgstr "القوالب"
+
+msgid "Plugins"
+msgstr "الإضافات"
+
+msgid "Version"
+msgstr "الإصدار"
+
+msgid "Author"
+msgstr "المؤلف"
+
+msgid "Description"
+msgstr "الوصف"
+
+msgid "File"
+msgstr "الملف"
+
+msgid "Plugin URI"
+msgstr "رابط الإضافة"
+
+msgid "Requires WP Version"
+msgstr "يتطلب إصدار ووردبريس"
+
+msgid "Requires PHP"
+msgstr "يتطلب PHP"
+
+msgid "Read more"
+msgstr "اقرأ المزيد"
+
+msgid "Stylesheet"
+msgstr "ورقة الأنماط"
+
+msgid "Theme URI"
+msgstr "رابط القالب"
+
+msgid "Type"
+msgstr "النوع"
+
+msgid "Name"
+msgstr "الاسم"
+
+msgid "All"
+msgstr "الكل"
+
+msgid "Vulnerabilities"
+msgstr "الثغرات"
+
+msgid "Checking..."
+msgstr "جاري التحقق..."
+
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "قم بتكوين إعدادات وتفضيلات الإضافة الخاصة بك"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "أدخل مفتاح ترخيص Vortem.ai الخاص بك لتفعيل ميزات الإضافة. انقر على \"التحقق من الترخيص\" للتحقق من المفتاح الخاص بك."
+
+msgid "Products Per Page"
+msgstr "المنتجات لكل صفحة"
+
+msgid "Language"
+msgstr "اللغة"
+
+msgid "Currency"
+msgstr "العملة"
+
+msgid "Update Currency"
+msgstr "تحديث العملة"
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "عدد المنتجات المعروضة في كل صفحة. الافتراضي: 16."
+
+msgid "Products per page must be at least 1"
+msgstr "يجب أن يكون عدد المنتجات في الصفحة على الأقل 1"
+
+msgid "Products per page cannot exceed 100"
+msgstr "لا يمكن أن يتجاوز عدد المنتجات في الصفحة 100"
+
+msgid "Loading currencies..."
+msgstr "جاري تحميل العملات..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "اختر نوع العملة للإضافة وانقر على \"تحديث العملة\" لحفظ التغييرات."
+
+msgid "Currency updated successfully!"
+msgstr "تم تحديث العملة بنجاح!"
+
+msgid "Video Settings"
+msgstr "إعدادات الفيديو"
+
+msgid "Video Download for Excluded Themes"
+msgstr "تنزيل الفيديو للقوالب المستثناة"
+
+msgid "AliExpress Integration"
+msgstr "تكامل AliExpress"
+
+msgid "Add video to product description"
+msgstr "إضافة فيديو إلى وصف المنتج"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "تنزيل مقاطع الفيديو لمواضيع Vortem Clothes و Vortem Cosmetic و xstore"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "أنت تقترب من حد البريد اليومي (%s). سيتم إعادة تعيين الحد غداً."
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "وصلت إلى حد البريد اليومي. سيتم إعادة تعيين الحد غداً."
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "تقترب من حصة استيراد المنتجات اليومية (%s). سيتم إعادة تعيين الحصة غداً."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "وصلت إلى حصة استيراد المنتجات اليومية. سيتم إعادة تعيين الحصة غداً."
+
+msgid "Search plugins and themes..."
+msgstr "البحث في الإضافات والقوالب..."
+
+msgid "Loading security scan results..."
+msgstr "جاري تحميل نتائج فحص الأمان..."
+
+msgid "published"
+msgstr "منشور"
+
+msgid "Published"
+msgstr "منشور"
+
+msgid "references"
+msgstr "المراجع"
+
+msgid "References"
+msgstr "المراجع"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "عند التمكين، سيتم إضافة مقاطع الفيديو الخاصة بالمنتجات تلقائياً إلى وصف المنتج. عند التعطيل، لن يتم تنزيل مقاطع الفيديو على الإطلاق. قم بتعطيل هذا إذا كنت تفضل التعامل مع مقاطع الفيديو يدوياً."
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "عند التعطيل، لن يتم تنزيل مقاطع الفيديو أو إضافتها إلى مكتبة الوسائط لقوالب Vortem Clothes و Vortem Cosmetic و xstore. هذا يوفر مساحة التخزين."
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "لاستخدام هذه الصفحة، يجب إدخال الترخيص في الإعدادات في قسم authentication Key ثم النقر على زر \"authentication validation\"."
+
+msgid "Products Pages"
+msgstr "صفحات المنتجات"
+
+msgid "Analytics Pages"
+msgstr "صفحات التحليلات"
+
+msgid "sales"
+msgstr "مبيعات"
+
+msgid "Loading trend products..."
+msgstr "جاري تحميل المنتجات الرائجة..."
+
+msgid "Loading TikTok products..."
+msgstr "جاري تحميل منتجات تيك توك..."
+
+msgid "Error loading TikTok products:"
+msgstr "خطأ في تحميل منتجات تيك توك:"
+
+msgid "Failed to load TikTok products:"
+msgstr "فشل تحميل منتجات تيك توك:"
+
+msgid "Loading Kinguin products..."
+msgstr "جاري تحميل منتجات Kinguin..."
+
+msgid "No Kinguin products found."
+msgstr "لم يتم العثور على منتجات Kinguin."
+
+msgid "Failed to load Kinguin products:"
+msgstr "فشل تحميل منتجات Kinguin:"
+
+msgid "Error loading Kinguin products:"
+msgstr "خطأ في تحميل منتجات Kinguin:"
+
+msgid "View on Amazon"
+msgstr "عرض على أمازون"
+
+msgid "View on Kinguin"
+msgstr "عرض على Kinguin"
+
+msgid "Release:"
+msgstr "تاريخ الإصدار:"
+
+msgid "Price N/A"
+msgstr "السعر غير متاح"
+
+msgid "In Stock"
+msgstr "متوفر"
+
+msgid "Sentiment"
+msgstr "المشاعر"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "عناصر المخزون المنخفض أقل من 10 قطع"
+
+msgid "Total Pages"
+msgstr "إجمالي الصفحات"
+
+msgid "Total Posts"
+msgstr "إجمالي المنشورات"
+
+msgid "Refetch"
+msgstr "إعادة الجلب"
+
+msgid "AliExpress"
+msgstr "علي اكسبريس"
+
+msgid "Connect to AliExpress"
+msgstr "الاتصال بعلي اكسبريس"
+
+msgid "Disconnect AliExpress"
+msgstr "قطع الاتصال بعلي اكسبريس"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "هل أنت متأكد أنك تريد قطع حساب علي اكسبريس الخاص بك؟"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "قم بالاتصال بحساب علي اكسبريس الخاص بك لتمكين معالجة الطلبات وميزات الدروب شيبينغ."
+
+msgid "Checking connection status..."
+msgstr "جارٍ التحقق من حالة الاتصال..."
+
+msgid "Connected"
+msgstr "متصل"
+
+msgid "Not connected"
+msgstr "غير متصل"
+
+msgid "Error checking status"
+msgstr "خطأ في التحقق من الحالة"
+
+msgid "Connecting..."
+msgstr "جارٍ الاتصال..."
+
+msgid "Disconnecting..."
+msgstr "جارٍ قطع الاتصال..."
+
+msgid "Error connecting to AliExpress"
+msgstr "خطأ في الاتصال بعلي اكسبريس"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "خطأ في قطع الاتصال بحساب علي اكسبريس"
+
+msgid "Failed to disconnect"
+msgstr "فشل قطع الاتصال"
+
+msgid "Failed to connect to AliExpress"
+msgstr "فشل الاتصال بعلي اكسبريس"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "تم الاتصال بعلي اكسبريس بنجاح!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "لإنشاء طلب علي اكسبريس، رقم الهاتف مطلوب."
+
+msgid "Expires:"
+msgstr "ينتهي:"
+
+msgid "Disconnect"
+msgstr "قطع الاتصال"
+
+msgid "Select Import Method"
+msgstr "اختر طريقة الاستيراد"
+
+msgid "Choose how you want to import this product:"
+msgstr "اختر كيف تريد استيراد هذا المنتج:"
+
+msgid "Normal Import"
+msgstr "استيراد عادي"
+
+msgid "Import product with original title and description"
+msgstr "استيراد المنتج بالعنوان والوصف الأصلي"
+
+msgid "SEO Import"
+msgstr "استيراد محسّن لمحركات البحث"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "استيراد مع عنوان ووصف وعلامات محسّنة لمحركات البحث"
+
+msgid "SEO Import Completed"
+msgstr "اكتمل استيراد محسّن لمحركات البحث"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "تم تطبيق تحسينات محركات البحث التالية:"
+
+msgid "Keyphrase"
+msgstr "العبارة الرئيسية"
+
+msgid "SEO Title"
+msgstr "عنوان محسّن لمحركات البحث"
+
+msgid "SEO Description"
+msgstr "وصف محسّن لمحركات البحث"
+
+msgid "Meta Description"
+msgstr "وصف التعريف"
+
+msgid "Tags"
+msgstr "العلامات"
+
+msgid "Yoast SEO Title"
+msgstr "عنوان Yoast محسّن لمحركات البحث"
+
+msgid "Headings"
+msgstr "العناوين"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO غير مثبت. لاستخدام خيار استيراد محسّن لمحركات البحث، يجب تثبيته وتفعيله."
+
+msgid "Email subject must be at least 16 characters"
+msgstr "يجب أن يكون موضوع البريد الإلكتروني 16 حرفًا على الأقل"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "يجب ألا يتجاوز موضوع البريد الإلكتروني 256 حرفًا"
+
+msgid "Email body must be at least 128 characters"
+msgstr "يجب أن يكون نص البريد الإلكتروني 128 حرفًا على الأقل"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "يجب ألا يتجاوز نص البريد الإلكتروني 8196 حرفًا"
+
+msgid "All Imported Products"
+msgstr "جميع المنتجات المستوردة"
+
+msgid "Refresh Products"
+msgstr "تحديث المنتجات"
+
+msgid "Show All Products"
+msgstr "عرض جميع المنتجات"
+
+msgid "Show All Added Products"
+msgstr "عرض جميع المنتجات المضافة"
+
+msgid "Top Products Kinguin"
+msgstr "أفضل منتجات Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "منتجات ترند أمازون"
+
+msgid "Trend Products TikTok"
+msgstr "منتجات ترند تيك توك"
+
+msgid "Top Products AliExpress"
+msgstr "أفضل منتجات AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "إدارة وعرض مخزون المنتجات الخاص بك"
+
+msgid "Security Overview"
+msgstr "نظرة عامة على الأمان"
+
+msgid "Security Scan Results"
+msgstr "نتائج فحص الأمان"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "مراقبة وفحص جميع الإضافات والقوالب المثبتة في WordPress"
+
+msgid "Total Plugins"
+msgstr "إجمالي الإضافات"
+
+msgid "Active Plugins"
+msgstr "الإضافات النشطة"
+
+msgid "Inactive Plugins"
+msgstr "الإضافات غير النشطة"
+
+msgid "Total Themes"
+msgstr "إجمالي القوالب"
+
+msgid "Active Themes"
+msgstr "القوالب النشطة"
+
+msgid "Inactive Themes"
+msgstr "القوالب غير النشطة"
+
+msgid "Sort by:"
+msgstr "ترتيب حسب:"
+
+msgid "Filter by Status:"
+msgstr "تصفية حسب الحالة:"
+
+msgid "Sort by Date"
+msgstr "ترتيب حسب التاريخ"
+
+msgid "View and manage your store orders"
+msgstr "عرض وإدارة طلبات المتجر الخاصة بك"
+
+msgid "Start Date"
+msgstr "تاريخ البدء"
+
+msgid "End Date"
+msgstr "تاريخ الانتهاء"
+
+msgid "All Statuses"
+msgstr "جميع الحالات"
+
+msgid "Navigation"
+msgstr "التنقل"
+
+msgid "Shop Analytics"
+msgstr "تحليلات المتجر"
+
+msgid "Traffic Analytics"
+msgstr "تحليلات الزيارات"
+
+msgid "Search currencies..."
+msgstr "البحث عن العملات..."
+
+msgid "Search by country or currency code"
+msgstr "البحث عن البلد أو رمز العملة"
+
+msgid "Popularity"
+msgstr "الشعبية"
+
+msgid "Impressions"
+msgstr "الانطباعات"
+
+msgid "Engagement"
+msgstr "التفاعل"
+
+msgid "Videos"
+msgstr "الفيديوهات"
+
+msgid "# Hashtags"
+msgstr "# الهاشتاجات"
+
+msgid "View Rate (6s)"
+msgstr "معدل المشاهدة (6 ثوان)"
+
+msgid "Cost"
+msgstr "التكلفة"
+
+msgid "Avg. Time on Site"
+msgstr "متوسط الوقت على الموقع"
+
+msgid "Unique Visitors"
+msgstr "زوار فريدون"
+
+msgid "Visits"
+msgstr "الزيارات"
+
+msgid "Top Pages"
+msgstr "أفضل الصفحات"
+
+msgid "Top Page Titles"
+msgstr "أفضل عناوين الصفحات"
+
+msgid "Cities"
+msgstr "المدن"
+
+msgid "Countries"
+msgstr "الدول"
+
+msgid "Exit Pages"
+msgstr "صفحات الخروج"
+
+msgid "Entry Pages"
+msgstr "صفحات الدخول"
+
+msgid "Real-time Visits"
+msgstr "الزيارات في الوقت الفعلي"
+
+msgid "Bounce Rate"
+msgstr "معدل الارتداد"
+
+msgid "Today"
+msgstr "اليوم"
+
+msgid "Yesterday"
+msgstr "أمس"
+
+msgid "Last 7 Days"
+msgstr "آخر 7 أيام"
+
+msgid "Last 30 Days"
+msgstr "آخر 30 يوم"
+
+msgid "First Contentful Paint"
+msgstr "أول رسم للمحتوى"
+
+msgid "Total Size"
+msgstr "الحجم الإجمالي"
+
+msgid "Requests"
+msgstr "الطلبات"
+
+msgid "Page Load"
+msgstr "تحميل الصفحة"
+
+msgid "Last updated: %s"
+msgstr "آخر تحديث: %s"
+
+msgid "Last updated: Loading..."
+msgstr "آخر تحديث: جاري التحميل..."
+
+msgid "Live"
+msgstr "مباشر"
+
+msgid "Quick Insights"
+msgstr "رؤى سريعة"
+
+msgid "Config"
+msgstr "الإعدادات"
+
+msgid "Vortem Logo"
+msgstr "شعار Vortem"
+
+msgid "Core"
+msgstr "النواة"
+
+msgid "Filter by:"
+msgstr "تصفية حسب:"
+
+msgid "Date"
+msgstr "التاريخ"
+
+msgid "Total Vulnerabilities"
+msgstr "إجمالي الثغرات"
+
+msgid "Critical"
+msgstr "حرج"
+
+msgid "High"
+msgstr "عالي"
+
+msgid "Medium"
+msgstr "متوسط"
+
+msgid "Low"
+msgstr "منخفض"
+
+msgid "Secure Items"
+msgstr "العناصر الآمنة"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "توزيع الثغرات حسب الخطورة"
+
+msgid "Vulnerabilities by Type"
+msgstr "الثغرات حسب النوع"
+
+msgid "Scanning..."
+msgstr "جاري الفحص..."
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "جاري تحليل تثبيت WordPress الخاص بك بحثًا عن الثغرات الأمنية"
+
+msgid "Items Requiring Attention"
+msgstr "العناصر التي تتطلب الانتباه"
+
+msgid "No items at risk"
+msgstr "لا توجد عناصر معرضة للخطر"
+
+msgid "Recent Vulnerabilities"
+msgstr "الثغرات الأخيرة"
+
+msgid "No recent vulnerabilities"
+msgstr "لا توجد ثغرات أخيرة"
+
+msgid "No plugins found"
+msgstr "لم يتم العثور على إضافات"
+
+msgid "No themes found"
+msgstr "لم يتم العثور على قوالب"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "حاول تعديل الفلاتر أو مصطلحات البحث"
+
+msgid "WordPress Vulnerability"
+msgstr "ثغرة WordPress"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "تم اكتشاف ثغرات أمنية في إصدار WordPress. يُوصى بالتحديث إلى أحدث إصدار."
+
+msgid "Vulnerability Details"
+msgstr "تفاصيل الثغرة"
+
+msgid "Vulnerability"
+msgstr "ثغرة"
+
+msgid "vulnerabilities"
+msgstr "ثغرات"
+
+msgid "Read less"
+msgstr "اقرأ أقل"
+
+msgid "Your site is secure"
+msgstr "موقعك آمن"
+
+msgid "No known vulnerabilities detected"
+msgstr "لم يتم اكتشاف أي ثغرات معروفة"
+
+msgid "Attention required"
+msgstr "يتطلب الانتباه"
+
+msgid "vulnerabilities found"
+msgstr "ثغرات وجدت"
+
+msgid "Your plugins are secure!"
+msgstr "إضافاتك آمنة!"
+
+msgid "Your themes are secure!"
+msgstr "قوالبك آمنة!"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "لم يتم العثور على ثغرات في الإضافات"
+
+msgid "No vulnerabilities found in themes"
+msgstr "لم يتم العثور على ثغرات في القوالب"
+
+msgid "Your WP Core is Secure"
+msgstr "نواة WordPress الخاصة بك آمنة"
+
+msgid "Unknown Plugin"
+msgstr "إضافة غير معروفة"
+
+msgid "Unknown Theme"
+msgstr "قالب غير معروف"
+
+msgid "Requires immediate attention"
+msgstr "يتطلب اهتمامًا فوريًا"
+
+msgid "Address as soon as possible"
+msgstr "يجب معالجته في أقرب وقت ممكن"
+
+msgid "Schedule for review"
+msgstr "جدولة للمراجعة"
+
+msgid "Monitor and plan fix"
+msgstr "المراقبة والتخطيط للإصلاح"
+
+msgid "No vulnerabilities found"
+msgstr "لم يتم العثور على ثغرات"
+
+msgid "All Security Issues"
+msgstr "جميع المشكلات الأمنية"
+
+msgid "Across all plugins, themes & core"
+msgstr "عبر جميع الإضافات والقوالب والنواة"
+
+msgid "of installed items affected"
+msgstr "من العناصر المثبتة متأثرة"
+
+msgid "Critical Severity"
+msgstr "خطورة حرجة"
+
+msgid "Requires immediate action"
+msgstr "يتطلب إجراءً فوريًا"
+
+msgid "of all vulnerabilities"
+msgstr "من جميع الثغرات"
+
+msgid "High Severity"
+msgstr "خطورة عالية"
+
+msgid "Should be fixed soon"
+msgstr "يجب إصلاحها قريبًا"
+
+msgid "Medium Severity"
+msgstr "خطورة متوسطة"
+
+msgid "Plan to address"
+msgstr "خطة للمعالجة"
+
+msgid "Low Severity"
+msgstr "خطورة منخفضة"
+
+msgid "Monitor & track"
+msgstr "المراقبة والتتبع"
+
+msgid "Items without vulnerabilities"
+msgstr "العناصر بدون ثغرات"
+
+msgid "of items are clean"
+msgstr "من العناصر نظيفة"
+
+msgid "Third-party plugins installed"
+msgstr "الإضافات الخارجية المثبتة"
+
+msgid "WordPress themes"
+msgstr "قوالب WordPress"
+
+msgid "Core WordPress files"
+msgstr "ملفات نواة WordPress"
+
+msgid "Component Type"
+msgstr "نوع المكون"
+
+msgid "Number of Vulnerabilities"
+msgstr "عدد الثغرات"
+
+msgid "of total"
+msgstr "من الإجمالي"
+
+msgid "VERSION"
+msgstr "الإصدار"
+
+msgid "AUTHOR"
+msgstr "المؤلف"
+
+msgid "REQUIRES WP"
+msgstr "يتطلب WP"
+
+msgid "REQUIRES PHP"
+msgstr "يتطلب PHP"
+
+msgid "View Page"
+msgstr "عرض الصفحة"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "تم اكتشاف ثغرات حرجة!"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "مطلوب اتخاذ إجراء فوري. يرجى تحديث أو إزالة العناصر المتأثرة في أقرب وقت ممكن."
+
+msgid "High severity vulnerabilities detected"
+msgstr "تم اكتشاف ثغرات عالية الخطورة"
+
+msgid "High severity vulnerabilities found"
+msgstr "تم العثور على ثغرات عالية الخطورة"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "يُنصح باتخاذ إجراء. يرجى مراجعة وتحديث العناصر المتأثرة."
+
+msgid "Please review and address these issues soon."
+msgstr "يرجى مراجعة ومعالجة هذه المشكلات قريبًا."
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "تم اكتشاف ثغرات متوسطة الخطورة"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "جدولة وقت لمراجعة وإصلاح هذه المشكلات."
+
+msgid "Low severity vulnerabilities detected"
+msgstr "تم اكتشاف ثغرات منخفضة الخطورة"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "مراقبة هذه المشكلات والتخطيط للإصلاحات عند الملاءمة."
+
+msgid "Your WordPress core is secure!"
+msgstr "نواة WordPress الخاصة بك آمنة!"
+
+msgid "Your site is secure!"
+msgstr "موقعك آمن!"
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "جميع الإضافات والسمات ونواة WordPress الخاصة بك آمنة ومحدثة."
+
+msgid "Some vulnerabilities found"
+msgstr "تم العثور على بعض الثغرات"
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "يُنصح بالمراجعة. راقب وحدّث العناصر المتأثرة عند الإمكان."
+
+msgid "CVSS Score:"
+msgstr "درجة CVSS:"
+
+msgid "Published:"
+msgstr "تاريخ النشر:"
+
+msgid "Last Modified:"
+msgstr "آخر تعديل:"
+
+msgid "References:"
+msgstr "المراجع:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "View All Vulnerabilities"
+msgstr "عرض جميع الثغرات"
+
+msgid "CRITICAL"
+msgstr "حرج"
+
+msgid "HIGH"
+msgstr "عالي"
+
+msgid "MEDIUM"
+msgstr "متوسط"
+
+msgid "LOW"
+msgstr "منخفض"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "معالجة تحسينات SEO: العبارة الرئيسية، عنوان SEO، وصف SEO، وصف Meta، العلامات، عنوان Yoast SEO والعناوين"
+
+msgid "Search themes..."
+msgstr "البحث عن القوالب..."
+
+msgid "Filter by Severity:"
+msgstr "تصفية حسب الخطورة:"
+
+msgid "All Severities"
+msgstr "جميع الخطورات"
+
+msgid "Let's Get You Started"
+msgstr "دعنا نبدأ"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "أكمل الإعداد في حوالي 2 دقائق"
+
+msgid "Quick Setup"
+msgstr "إعداد سريع"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "ابدأ العمل في دقائق مع عملية التثبيت الموجهة لدينا"
+
+msgid "Secure & Reliable"
+msgstr "آمن وموثوق"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "أمان على مستوى المؤسسات مدمج في كل مكون"
+
+msgid "Optimized Performance"
+msgstr "أداء محسّن"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "سريع جداً ومحسّن لبيئات WordPress"
+
+msgid "Next Step"
+msgstr "الخطوة التالية"
+
+msgid "Initial Configuration"
+msgstr "التكوين الأولي"
+
+msgid "Set your default language and currency preferences"
+msgstr "قم بتعيين تفضيلات اللغة والعملة الافتراضية الخاصة بك"
+
+msgid "Please review and accept our terms to continue"
+msgstr "يرجى مراجعة وقبول شروطنا للمتابعة"
+
+msgid "1. Service Availability"
+msgstr "1. توفر الخدمة"
+
+msgid "2. Support"
+msgstr "2. الدعم"
+
+msgid "3. Updates"
+msgstr "3. التحديثات"
+
+msgid "I accept the Terms & Conditions"
+msgstr "أوافق على الشروط والأحكام"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "من خلال تحديد هذا المربع، فإنك تقر بأنك قد قرأت وتوافق على الالتزام بهذه الشروط والأحكام."
+
+msgid "Installation Complete!"
+msgstr "اكتمل التثبيت!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "تم تكوين إضافتك بنجاح وهي جاهزة للاستخدام. يمكنك الآن البدء في استخدام جميع الميزات."
+
+msgid "Configuration Summary"
+msgstr "ملخص التكوين"
+
+msgid "Language:"
+msgstr "اللغة:"
+
+msgid "Currency:"
+msgstr "العملة:"
+
+msgid "Terms Accepted:"
+msgstr "الشروط المقبولة:"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "Go to Dashboard"
+msgstr "انتقل إلى لوحة التحكم"
+
+msgid "Go to Analytics page"
+msgstr "انتقال إلى صفحة التحليلات"
+
+msgid "Go to Products page"
+msgstr "انتقال إلى صفحة المنتجات"
+
+msgid "Go to Matomo Analytics page"
+msgstr "انتقال إلى صفحة تحليلات Matomo"
+
+msgid "Restart Wizard"
+msgstr "إعادة تشغيل المعالج"
+
+msgid "Restart"
+msgstr "إعادة التشغيل"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "سيؤدي هذا إلى إعادة تعيين عملية الإعداد. هل أنت متأكد؟"
+
+msgid "Confirm Restart"
+msgstr "تأكيد إعادة التشغيل"
+
+msgid "Back"
+msgstr "رجوع"
+
+msgid "Welcome"
+msgstr "مرحباً"
+
+msgid "Configuration"
+msgstr "التكوين"
+
+msgid "Complete"
+msgstr "اكتمل"
+
+msgid "Insufficient permissions"
+msgstr "صلاحيات غير كافية"
+
+msgid "Language parameter is required"
+msgstr "معامل اللغة مطلوب"
+
+msgid "Translation manager not available"
+msgstr "مدير الترجمة غير متاح"
+
+msgid "Unsupported language"
+msgstr "اللغة غير مدعومة"
+
+msgid "Language changed successfully"
+msgstr "تم تغيير اللغة بنجاح"
+
+msgid "Failed to change language"
+msgstr "فشل تغيير اللغة"
+
+msgid "Currency parameter is required"
+msgstr "معامل العملة مطلوب"
+
+msgid "Unsupported currency"
+msgstr "العملة غير مدعومة"
+
+msgid "Currency changed successfully"
+msgstr "تم تغيير العملة بنجاح"
+
+msgid "Loading"
+msgstr "جاري التحميل"
+
+msgid "Search..."
+msgstr "بحث..."
+
+msgid "Search Language"
+msgstr "البحث عن اللغة"
+
+msgid "No languages found"
+msgstr "لم يتم العثور على لغات"
+
+msgid "No currencies found"
+msgstr "لم يتم العثور على عملات"
+
+msgid "Failed to load currencies"
+msgstr "فشل تحميل العملات"
+
+msgid "Error loading currencies"
+msgstr "خطأ في تحميل العملات"
+
+msgid "Failed to restart wizard"
+msgstr "فشل إعادة تشغيل المعالج"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "حدث خطأ أثناء إعادة تشغيل المعالج. يرجى المحاولة مرة أخرى."
+
+msgid "Please complete the current step before proceeding."
+msgstr "يرجى إكمال الخطوة الحالية قبل المتابعة."
+
+msgid "Please wait for authentication to complete."
+msgstr "يرجى الانتظار حتى يكتمل المصادقة."
+
+msgid "Please accept the terms and conditions."
+msgstr "يرجى قبول الشروط والأحكام."
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "يرجى قبول الشروط والأحكام قبل المتابعة."
+
+msgid "Please complete authentication first."
+msgstr "يرجى إكمال المصادقة أولاً."
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "يرجى قبول الشروط والأحكام قبل إكمال الإعداد."
+
+msgid "Failed to complete setup"
+msgstr "فشل إكمال الإعداد"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "حدث خطأ أثناء إكمال الإعداد. يرجى المحاولة مرة أخرى."
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "لم يتم العثور على رمز الجلسة. يرجى إكمال المصادقة أولاً."
+
+msgid "An error occurred while switching language"
+msgstr "حدث خطأ أثناء تغيير اللغة"
+
+msgid "An error occurred while switching currency"
+msgstr "حدث خطأ أثناء تغيير العملة"
+
+msgid "Last updated: %1$s • Live"
+msgstr "آخر تحديث: %1$s • مباشر"
+
+msgid "Last 30 days"
+msgstr "آخر 30 يوماً"
+
+msgid "Traffic Overview"
+msgstr "نظرة عامة على الزيارات"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "تحليلات Matomo – آخر 30 يوماً"
+
+msgid "Today's Focus"
+msgstr "تركيز اليوم"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "نظرة عامة على إضافة Vortem.ai"
+
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+msgid "Check your dashboard regularly"
+msgstr "راجع لوحة التحكم بانتظام"
+
+msgid "View Analytics"
+msgstr "عرض التحليلات"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem منصة رائدة في الذكاء الاصطناعي 2026"
+
+msgid "Order Statistics"
+msgstr "إحصائيات الطلبات"
+
+msgid "Today's Orders Completed"
+msgstr "طلبات مكتملة اليوم"
+
+msgid "Total Orders Completed"
+msgstr "إجمالي الطلبات المكتملة"
+
+msgid "Imported Products"
+msgstr "المنتجات المستوردة"
+
+msgid "Recent Activity"
+msgstr "النشاط الأخير"
+
+msgid "Overview dashboard loaded"
+msgstr "تم تحميل لوحة النظرة العامة"
+
+msgid "Just now"
+msgstr "الآن"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "يمكنك إدارة المنتجات والتحليلات والتسويق بالبريد من هنا"
+
+msgid "Ready"
+msgstr "جاهز"
+
+msgid "Configure plugin settings and API keys"
+msgstr "تكوين إعدادات الإضافة ومفاتيح API"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "إضافة Vortem.ai جاهزة. يمكنك إدارة المنتجات والتحليلات والتسويق بالبريد من هنا."
+
+msgid "Vortem.ai official website"
+msgstr "الموقع الرسمي لـ Vortem.ai"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "تصفح وتعلم وأدر حسابك"
+
+msgid "Quick Access"
+msgstr "وصول سريع"
+
+msgid "Return to dashboard home"
+msgstr "العودة إلى الصفحة الرئيسية للوحة التحكم"
+
+msgid "Go to Home"
+msgstr "الذهاب إلى الصفحة الرئيسية"
+
+msgid "Profile, settings, and preferences"
+msgstr "الملف الشخصي والإعدادات والتفضيلات"
+
+msgid "Help & Learning"
+msgstr "المساعدة والتعلم"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "احصل على مساعدة أو أرسل تذاكر أو اتصل بالدعم"
+
+msgid "Get Support"
+msgstr "الحصول على الدعم"
+
+msgid "Developer & user guides"
+msgstr "أدلة المطورين والمستخدمين"
+
+msgid "Read Docs"
+msgstr "قراءة الوثائق"
+
+msgid "Legal & Policies"
+msgstr "القانونية والسياسات"
+
+msgid "Terms of Service"
+msgstr "شروط الخدمة"
+
+msgid "Usage terms and conditions"
+msgstr "شروط وأحكام الاستخدام"
+
+msgid "View"
+msgstr "عرض"
+
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+msgid "Data protection and privacy"
+msgstr "حماية البيانات والخصوصية"
+
+msgid "Navigation to vortem wordpress"
+msgstr "التنقل إلى Vortem ووردبريس"
+
+msgid "Access key features and settings"
+msgstr "الوصول إلى الميزات والإعدادات الرئيسية"
+
+msgid "Manage catalog and inventory"
+msgstr "إدارة الكتالوج والمخزون"
+
+msgid "Business insights and metrics"
+msgstr "رؤى ومقاييس الأعمال"
+
+msgid "Growth & Intelligence"
+msgstr "النمو والذكاء"
+
+msgid "Campaigns and automation"
+msgstr "الحملات والأتمتة"
+
+msgid "AI-powered recommendations"
+msgstr "توصيات مدعومة بالذكاء الاصطناعي"
+
+msgid "Manage orders and shipments"
+msgstr "إدارة الطلبات والشحنات"
+
+msgid "System"
+msgstr "النظام"
+
+msgid "Knowledge base editor"
+msgstr "محرر قاعدة المعرفة"
+
+msgid "Access control and monitoring"
+msgstr "التحكم في الوصول والمراقبة"
+
+msgid "System configuration"
+msgstr "تكوين النظام"
+
+msgid "Emails Sent"
+msgstr "رسائل البريد المرسلة"
+
+msgid "Orders"
+msgstr "الطلبات"
+
+msgid "Total products"
+msgstr "إجمالي المنتجات"
+
+msgid "Imported via plugin"
+msgstr "مستورد عبر الإضافة"
+
+msgid "Other products"
+msgstr "منتجات أخرى"
+
+msgid "Manage"
+msgstr "إدارة"
+
+msgid "bounce"
+msgstr "ارتداد"
+
+
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+
+msgid "Plugin"
+msgstr "إضافة"
+
+msgid "External"
+msgstr "خارجي"
+
+msgid "Navigation to vortem WordPress"
+msgstr "التنقل إلى vortem WordPress"
+
+msgid "Commerce"
+msgstr "تجارة"
+
+msgid "Timeline"
+msgstr "المخطط الزمني"
+
+msgid "Security Center"
+msgstr "مركز الأمان"
+
+msgid "Display"
+msgstr "العرض"
+
+msgid "How products and currency are presented in your store."
+msgstr "كيفية عرض المنتجات والعملة في متجرك."
+
+msgid "Products per page"
+msgstr "المنتجات في الصفحة"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "الافتراضي: 16. النطاق: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "العملة المستخدمة في تسعير الإضافة. انقر على \"تحديث\" لحفظ اختيارك."
+
+msgid "Media"
+msgstr "الوسائط"
+
+msgid "Control how product videos are imported and attached."
+msgstr "تحكم في كيفية استيراد فيديوهات المنتجات وإرفاقها."
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "عند التمكين، تتم إضافة فيديوهات المنتجات تلقائيًا إلى الوصف. عطّل لإدارة الفيديوهات يدويًا."
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "عند التعطيل، لا يتم تنزيل الفيديوهات لقوالب Vortem Clothes وVortem Cosmetic وxstore — يوفر مساحة التخزين."
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "تنزيل الفيديوهات لقوالب Vortem وxstore"
+
+msgid "Integrations"
+msgstr "التكاملات"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "اربط الحسابات الخارجية لتوسيع التوريد والتنفيذ."
+
+msgid "Update"
+msgstr "تحديث"
+
+msgid "Last updated"
+msgstr "آخر تحديث"
+
+msgid "Setup"
+msgstr "الإعداد"
+
+msgid "Let's get you started"
+msgstr "لنبدأ"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "أكمل الإعداد في حوالي دقيقتين."
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "ميزات استيراد منتجات Vortem تحتاج إلى حساب AliExpress."
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "ستربطه لاحقًا من الإعدادات → Vortem → تكامل AliExpress. لا حساب بعد؟ يمكنك التسجيل من هناك أيضًا."
+
+msgid "Up and running in minutes."
+msgstr "جاهز للعمل في دقائق."
+
+msgid "Built with WordPress security best practices."
+msgstr "مبني وفق أفضل ممارسات أمان ووردبريس."
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "خفيف ومهيأ لووردبريس."
+
+msgid "Store basics"
+msgstr "أساسيات المتجر"
+
+msgid "Pick your store currency"
+msgstr "اختر عملة المتجر"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "هذا ما يراه عملاؤك عند الدفع. يمكنك تغييره لاحقًا."
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "يُستخدم في بطاقات المنتجات والسلة والدفع."
+
+msgid "Almost there"
+msgstr "أوشكنا على الانتهاء"
+
+msgid "Review and accept"
+msgstr "راجع واقبل"
+
+msgid "Read the full Terms"
+msgstr "اقرأ الشروط كاملة"
+
+msgid "You agree to be bound by these terms."
+msgstr "توافق على الالتزام بهذه الشروط."
+
+msgid "I consent to data processing"
+msgstr "أوافق على معالجة البيانات"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "أفهم وأوافق على أن هذه الإضافة ترسل بيانات موقعي (عنوان URL، إصدار ووردبريس، إصدار الإضافة، تفضيل العملة، بيانات منتجات WooCommerce عند الاستيراد، معلومات الشحن عند معالجة الطلبات، وبيانات وصفية للإضافات/القوالب عند استخدام ميزات الأمان) إلى خوادم vortem.ai (https://c.vortem.ai) للمعالجة والتحليلات وتقديم الخدمة. لا تُرسل بيانات قبل موافقتك الصريحة، وتظل الإضافة قابلة للاستخدام إذا رفضت (الميزات التي تعتمد على vortem.ai ستكون غير متاحة). يتبع إرسال جرد للإضافات/القوالب المثبتة للبحث عن الثغرات نفس النمط المستخدم في Wordfence وPatchstack وWPScan وJetpack Protect."
+
+msgid "All done"
+msgstr "تم"
+
+msgid "You're all set!"
+msgstr "كل شيء جاهز!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "تم تهيئة Vortem وهو جاهز. صِل AliExpress من الإعدادات عندما تكون جاهزًا."
+
+msgid "Accepted"
+msgstr "مقبول"
+
+msgid "Consented"
+msgstr "تم الموافقة"
+
+msgid "Data processing"
+msgstr "معالجة البيانات"
+
+msgid "Meta Title"
+msgstr "عنوان ميتا"
+
+msgid "Order"
+msgstr "طلب"
+
+msgid "Customer"
+msgstr "عميل"
+
+msgid "Items"
+msgstr "عناصر"
+
+msgid "Payment"
+msgstr "دفع"

@@ -1,0 +1,4269 @@
+# Copyright (C) 2026 vortem.ai
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: vortem.ai 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-05-04T07:03:39+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: vortem-ai\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: vortem.php
+#: admin/class-vortem-admin.php:215
+#: vortem.php:346
+msgid "vortem.ai"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: vortem.php
+msgid "https://vortem.ai/"
+msgstr ""
+
+#. Description of the plugin
+#: vortem.php
+msgid "Stop Managing Tools. Start Growing an Empire.The All-in-One Intelligent Ecosystem Where Every Store You Add Makes The Entire Network Smarter and More Profitable."
+msgstr ""
+
+#: admin/class-vortem-admin.php:216
+msgid "Vortem.ai"
+msgstr ""
+
+#: admin/class-vortem-admin.php:228
+#: admin/class-vortem-admin.php:229
+#: admin/partials/overview-page.php:45
+#: admin/partials/security-page.php:158
+msgid "Overview"
+msgstr ""
+
+#: admin/class-vortem-admin.php:240
+#: admin/class-vortem-admin.php:241
+#: admin/class-vortem-admin.php:2603
+#: admin/class-vortem-admin.php:3221
+#: admin/class-vortem-admin.php:3381
+#: admin/partials/overview-page.php:88
+#: admin/partials/overview-page.php:352
+msgid "Products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:250
+#: admin/class-vortem-admin.php:251
+#: admin/class-vortem-admin.php:1539
+#: admin/class-vortem-admin.php:2609
+#: admin/class-vortem-admin.php:3222
+#: admin/class-vortem-admin.php:3375
+#: admin/class-vortem-admin.php:3382
+#: admin/partials/orders-page.php:29
+#: admin/partials/overview-page.php:154
+#: admin/partials/overview-page.php:387
+msgid "Orders"
+msgstr ""
+
+#: admin/class-vortem-admin.php:260
+#: admin/class-vortem-admin.php:261
+#: admin/class-vortem-admin.php:6090
+#: admin/partials/overview-page.php:360
+msgid "Analytics"
+msgstr ""
+
+#: admin/class-vortem-admin.php:283
+#: admin/class-vortem-admin.php:284
+#: admin/class-vortem-admin.php:6000
+#: admin/class-vortem-admin.php:6023
+msgid "Traffic Analytics"
+msgstr ""
+
+#: admin/class-vortem-admin.php:293
+#: admin/class-vortem-admin.php:294
+#: admin/partials/email-marketing-page.php:27
+#: admin/partials/overview-page.php:371
+msgid "Email Marketing"
+msgstr ""
+
+#: admin/class-vortem-admin.php:303
+#: admin/class-vortem-admin.php:304
+#: admin/partials/overview-page.php:379
+msgid "Insights"
+msgstr ""
+
+#: admin/class-vortem-admin.php:313
+#: admin/class-vortem-admin.php:314
+#: admin/partials/faq-page.php:23
+#: admin/partials/overview-page.php:398
+msgid "FAQ Management"
+msgstr ""
+
+#: admin/class-vortem-admin.php:323
+#: admin/class-vortem-admin.php:324
+#: admin/partials/overview-page.php:406
+#: admin/partials/security-page.php:36
+msgid "Security"
+msgstr ""
+
+#: admin/class-vortem-admin.php:333
+#: admin/class-vortem-admin.php:334
+#: admin/partials/overview-page.php:263
+#: admin/partials/overview-page.php:414
+msgid "Settings"
+msgstr ""
+
+#: admin/class-vortem-admin.php:468
+#: admin/class-vortem-admin.php:680
+#: admin/class-vortem-admin.php:777
+#: vortem.php:965
+msgid "Total Orders"
+msgstr ""
+
+#: admin/class-vortem-admin.php:469
+msgid "Orders Today"
+msgstr ""
+
+#: admin/class-vortem-admin.php:470
+#: admin/class-vortem-admin.php:1522
+#: admin/partials/overview-page.php:76
+#: admin/partials/overview-page.php:227
+msgid "Total Revenue"
+msgstr ""
+
+#: admin/class-vortem-admin.php:471
+#: admin/class-vortem-admin.php:1523
+msgid "Revenue Today"
+msgstr ""
+
+#: admin/class-vortem-admin.php:472
+#: admin/class-vortem-admin.php:1524
+msgid "Revenue (30 Days)"
+msgstr ""
+
+#: admin/class-vortem-admin.php:473
+#: admin/class-vortem-admin.php:1525
+msgid "Avg Order Value"
+msgstr ""
+
+#: admin/class-vortem-admin.php:474
+msgid "Low stock items less than 10 pieces"
+msgstr ""
+
+#: admin/class-vortem-admin.php:475
+msgid "Pending Orders"
+msgstr ""
+
+#: admin/class-vortem-admin.php:476
+msgid "Failed Orders"
+msgstr ""
+
+#: admin/class-vortem-admin.php:477
+#: admin/class-vortem-admin.php:487
+#: admin/class-vortem-admin.php:788
+#: admin/class-vortem-admin.php:791
+msgid "On hold"
+msgstr ""
+
+#: admin/class-vortem-admin.php:478
+msgid "Total Products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:479
+msgid "Cart Abandonment"
+msgstr ""
+
+#: admin/class-vortem-admin.php:480
+msgid "Total Users"
+msgstr ""
+
+#: admin/class-vortem-admin.php:481
+msgid "Users Today"
+msgstr ""
+
+#: admin/class-vortem-admin.php:482
+msgid "Total Views"
+msgstr ""
+
+#: admin/class-vortem-admin.php:483
+msgid "Total Posts"
+msgstr ""
+
+#: admin/class-vortem-admin.php:484
+msgid "Total Pages"
+msgstr ""
+
+#: admin/class-vortem-admin.php:485
+#: admin/class-vortem-admin.php:854
+#: admin/class-vortem-admin.php:886
+#: includes/class-vortem-i18n.php:101
+msgid "Pending"
+msgstr ""
+
+#: admin/class-vortem-admin.php:486
+#: admin/class-vortem-admin.php:792
+#: admin/class-vortem-admin.php:853
+#: admin/class-vortem-admin.php:885
+#: includes/class-vortem-i18n.php:113
+msgid "Failed"
+msgstr ""
+
+#: admin/class-vortem-admin.php:488
+#: admin/class-vortem-admin.php:620
+#: admin/class-vortem-admin.php:949
+#: admin/class-vortem-admin.php:1040
+#: admin/class-vortem-admin.php:1266
+#: admin/class-vortem-admin.php:6021
+#: admin/partials/insights-page.php:42
+#: admin/partials/security-page.php:43
+#: vortem.php:1344
+msgid "Last updated:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:489
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr ""
+
+#: admin/class-vortem-admin.php:490
+msgid "No data available to export"
+msgstr ""
+
+#: admin/class-vortem-admin.php:491
+#: admin/partials/overview-page.php:73
+msgid "Revenue Overview"
+msgstr ""
+
+#: admin/class-vortem-admin.php:492
+msgid "Orders Status"
+msgstr ""
+
+#: admin/class-vortem-admin.php:493
+msgid "WordPress Activity"
+msgstr ""
+
+#: admin/class-vortem-admin.php:494
+#: admin/class-vortem-admin.php:1541
+msgid "Revenue"
+msgstr ""
+
+#: admin/class-vortem-admin.php:495
+msgid "WordPress Metrics"
+msgstr ""
+
+#: admin/class-vortem-admin.php:525
+msgid "Product"
+msgstr ""
+
+#: admin/class-vortem-admin.php:526
+#: admin/class-vortem-admin.php:1533
+msgid "Average"
+msgstr ""
+
+#: admin/class-vortem-admin.php:527
+msgid "No products found"
+msgstr ""
+
+#: admin/class-vortem-admin.php:528
+#: admin/partials/email-marketing-page.php:237
+#: admin/partials/email-marketing-page.php:260
+#: admin/partials/email-marketing-page.php:328
+#: admin/partials/security-results-page.php:244
+msgid "Close"
+msgstr ""
+
+#: admin/class-vortem-admin.php:529
+msgid "All KPI Products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:530
+msgid "Top KPI Products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:531
+msgid "Product ID"
+msgstr ""
+
+#: admin/class-vortem-admin.php:532
+msgid "Product Title"
+msgstr ""
+
+#: admin/class-vortem-admin.php:533
+msgid "Base Price"
+msgstr ""
+
+#: admin/class-vortem-admin.php:534
+msgid "Low-Risk Price"
+msgstr ""
+
+#: admin/class-vortem-admin.php:535
+msgid "Competitive Price"
+msgstr ""
+
+#: admin/class-vortem-admin.php:536
+msgid "High-Risk Price"
+msgstr ""
+
+#: admin/class-vortem-admin.php:537
+msgid "Untitled Product"
+msgstr ""
+
+#: admin/class-vortem-admin.php:538
+msgid "All Trend Index Products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:539
+msgid "Trend Index by Product"
+msgstr ""
+
+#: admin/class-vortem-admin.php:540
+msgid "Product Name"
+msgstr ""
+
+#: admin/class-vortem-admin.php:541
+msgid "Price vs Rating"
+msgstr ""
+
+#: admin/class-vortem-admin.php:542
+#: admin/class-vortem-admin.php:2003
+msgid "Price"
+msgstr ""
+
+#: admin/class-vortem-admin.php:543
+msgid "Rating"
+msgstr ""
+
+#: admin/class-vortem-admin.php:544
+msgid "Reviews"
+msgstr ""
+
+#: admin/class-vortem-admin.php:545
+msgid "CTR"
+msgstr ""
+
+#: admin/class-vortem-admin.php:546
+msgid "CVR"
+msgstr ""
+
+#: admin/class-vortem-admin.php:547
+msgid "Average Price"
+msgstr ""
+
+#: admin/class-vortem-admin.php:548
+msgid "Average Rating"
+msgstr ""
+
+#: admin/class-vortem-admin.php:549
+msgid "Product Count"
+msgstr ""
+
+#: admin/class-vortem-admin.php:550
+msgid "Avg Price"
+msgstr ""
+
+#: admin/class-vortem-admin.php:551
+msgid "Avg Rating"
+msgstr ""
+
+#: admin/class-vortem-admin.php:552
+msgid "Failed to load"
+msgstr ""
+
+#: admin/class-vortem-admin.php:553
+#: admin/class-vortem-admin.php:2008
+#: admin/class-vortem-admin.php:2052
+msgid "products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:554
+msgid "product"
+msgstr ""
+
+#: admin/class-vortem-admin.php:555
+msgid "FPSI"
+msgstr ""
+
+#: admin/class-vortem-admin.php:556
+msgid "Trend Index"
+msgstr ""
+
+#: admin/class-vortem-admin.php:557
+msgid "Profitability"
+msgstr ""
+
+#: admin/class-vortem-admin.php:558
+msgid "Competition"
+msgstr ""
+
+#: admin/class-vortem-admin.php:559
+msgid "Demand Stability"
+msgstr ""
+
+#: admin/class-vortem-admin.php:560
+msgid "View All"
+msgstr ""
+
+#: admin/class-vortem-admin.php:561
+msgid "price rating data"
+msgstr ""
+
+#: admin/class-vortem-admin.php:562
+msgid "Total Reviews"
+msgstr ""
+
+#: admin/class-vortem-admin.php:563
+msgid "Avg Reviews"
+msgstr ""
+
+#: admin/class-vortem-admin.php:564
+msgid "Overall Sentiment"
+msgstr ""
+
+#: admin/class-vortem-admin.php:565
+#: admin/class-vortem-admin.php:1529
+#: admin/class-vortem-admin.php:2033
+msgid "Positive"
+msgstr ""
+
+#: admin/class-vortem-admin.php:566
+#: admin/class-vortem-admin.php:1530
+#: admin/class-vortem-admin.php:2034
+msgid "Neutral"
+msgstr ""
+
+#: admin/class-vortem-admin.php:567
+#: admin/class-vortem-admin.php:1531
+#: admin/class-vortem-admin.php:2035
+msgid "Negative"
+msgstr ""
+
+#: admin/class-vortem-admin.php:568
+msgid "Trend Status Overview"
+msgstr ""
+
+#: admin/class-vortem-admin.php:569
+#: admin/class-vortem-admin.php:2036
+msgid "Rising"
+msgstr ""
+
+#: admin/class-vortem-admin.php:570
+#: admin/class-vortem-admin.php:2037
+msgid "Stable"
+msgstr ""
+
+#: admin/class-vortem-admin.php:571
+#: admin/class-vortem-admin.php:2038
+msgid "Declining"
+msgstr ""
+
+#: admin/class-vortem-admin.php:572
+msgid "sentiment data"
+msgstr ""
+
+#: admin/class-vortem-admin.php:573
+msgid "trend status data"
+msgstr ""
+
+#: admin/class-vortem-admin.php:574
+#: admin/class-vortem-admin.php:1248
+#: admin/class-vortem-admin.php:3431
+#: admin/partials/email-marketing-page.php:90
+#: admin/partials/email-marketing-page.php:203
+#: admin/partials/orders-page.php:82
+msgid "Status"
+msgstr ""
+
+#: admin/class-vortem-admin.php:575
+#: admin/partials/faq-page.php:146
+#: admin/partials/faq-page.php:368
+#: admin/partials/faq-page.php:404
+msgid "Category"
+msgstr ""
+
+#: admin/class-vortem-admin.php:576
+msgid "Count"
+msgstr ""
+
+#: admin/class-vortem-admin.php:577
+msgid "Percentage"
+msgstr ""
+
+#: admin/class-vortem-admin.php:578
+msgid "Market Comparison (by Source)"
+msgstr ""
+
+#: admin/class-vortem-admin.php:579
+msgid "Market"
+msgstr ""
+
+#: admin/class-vortem-admin.php:580
+msgid "Best seller"
+msgstr ""
+
+#: admin/class-vortem-admin.php:581
+msgid "Movers and shakers"
+msgstr ""
+
+#: admin/class-vortem-admin.php:582
+msgid "New releases"
+msgstr ""
+
+#: admin/class-vortem-admin.php:583
+msgid "market comparison data"
+msgstr ""
+
+#: admin/class-vortem-admin.php:584
+msgid "Category Comparison"
+msgstr ""
+
+#: admin/class-vortem-admin.php:585
+msgid "Category Comparison - All Data"
+msgstr ""
+
+#: admin/class-vortem-admin.php:586
+msgid "Categories"
+msgstr ""
+
+#: admin/class-vortem-admin.php:587
+msgid "Metrics"
+msgstr ""
+
+#: admin/class-vortem-admin.php:588
+msgid "Avg Sold"
+msgstr ""
+
+#: admin/class-vortem-admin.php:589
+msgid "Avg FPSI"
+msgstr ""
+
+#: admin/class-vortem-admin.php:590
+#: admin/class-vortem-admin.php:990
+#: includes/class-vortem-analytics.php:1707
+#: includes/class-vortem-i18n.php:107
+msgid "N/A"
+msgstr ""
+
+#: admin/class-vortem-admin.php:591
+msgid "value"
+msgstr ""
+
+#: admin/class-vortem-admin.php:592
+#: admin/class-vortem-admin.php:989
+msgid "Unknown"
+msgstr ""
+
+#: admin/class-vortem-admin.php:593
+msgid "category comparison data"
+msgstr ""
+
+#: admin/class-vortem-admin.php:594
+msgid "Amazon Device"
+msgstr ""
+
+#: admin/class-vortem-admin.php:595
+msgid "Appliances"
+msgstr ""
+
+#: admin/class-vortem-admin.php:596
+msgid "Arts, Crafts & Sewing"
+msgstr ""
+
+#: admin/class-vortem-admin.php:597
+msgid "Automotive"
+msgstr ""
+
+#: admin/class-vortem-admin.php:598
+msgid "Baby Products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:599
+msgid "Baby"
+msgstr ""
+
+#: admin/class-vortem-admin.php:600
+msgid "Beauty & Personal Care"
+msgstr ""
+
+#: admin/class-vortem-admin.php:601
+msgid "Cell Phones & Accessories"
+msgstr ""
+
+#: admin/class-vortem-admin.php:602
+msgid "Clothing, Shoes & Jewelry"
+msgstr ""
+
+#: admin/class-vortem-admin.php:603
+msgid "Collectibles & Fine Art"
+msgstr ""
+
+#: admin/class-vortem-admin.php:604
+msgid "Electronics"
+msgstr ""
+
+#: admin/class-vortem-admin.php:605
+msgid "Health & Household"
+msgstr ""
+
+#: admin/class-vortem-admin.php:606
+msgid "Home & Kitchen"
+msgstr ""
+
+#: admin/class-vortem-admin.php:607
+msgid "Industrial & Scientific"
+msgstr ""
+
+#: admin/class-vortem-admin.php:608
+msgid "Musical Instruments"
+msgstr ""
+
+#: admin/class-vortem-admin.php:609
+msgid "No category found"
+msgstr ""
+
+#: admin/class-vortem-admin.php:610
+msgid "Office Products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:611
+msgid "Patio, Lawn & Garden"
+msgstr ""
+
+#: admin/class-vortem-admin.php:612
+msgid "Safety & Security"
+msgstr ""
+
+#: admin/class-vortem-admin.php:613
+msgid "Tools & Home Improvement"
+msgstr ""
+
+#: admin/class-vortem-admin.php:614
+msgid "Toys & Games"
+msgstr ""
+
+#: admin/class-vortem-admin.php:615
+msgid "Suggested Pricing"
+msgstr ""
+
+#: admin/class-vortem-admin.php:616
+msgid "All Suggested Pricing"
+msgstr ""
+
+#: admin/class-vortem-admin.php:617
+msgid "suggested pricing data"
+msgstr ""
+
+#: admin/class-vortem-admin.php:618
+msgid "Search products..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:619
+msgid "Search products or categories..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:679
+#: admin/class-vortem-admin.php:776
+#: vortem.php:964
+msgid "No orders found"
+msgstr ""
+
+#: admin/class-vortem-admin.php:681
+#: admin/class-vortem-admin.php:778
+#: vortem.php:966
+msgid "Current Page"
+msgstr ""
+
+#: admin/class-vortem-admin.php:682
+#: admin/class-vortem-admin.php:779
+#: vortem.php:967
+msgid "Orders Per Page"
+msgstr ""
+
+#: admin/class-vortem-admin.php:683
+#: admin/class-vortem-admin.php:780
+#: admin/class-vortem-admin.php:3443
+#: admin/partials/orders-page.php:94
+#: vortem.php:968
+msgid "Loading orders..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:684
+#: admin/class-vortem-admin.php:781
+#: admin/class-vortem-admin.php:1270
+#: admin/class-vortem-admin.php:2047
+#: includes/class-vortem-setup-wizard.php:157
+#: vortem.php:969
+#: vortem.php:1240
+msgid "Previous"
+msgstr ""
+
+#: admin/class-vortem-admin.php:685
+#: admin/class-vortem-admin.php:782
+#: admin/class-vortem-admin.php:1271
+#: admin/class-vortem-admin.php:2048
+#: includes/class-vortem-setup-wizard.php:156
+#: vortem.php:970
+#: vortem.php:1239
+msgid "Next"
+msgstr ""
+
+#: admin/class-vortem-admin.php:686
+#: admin/class-vortem-admin.php:783
+#: admin/class-vortem-admin.php:2062
+#: vortem.php:971
+msgid "Page"
+msgstr ""
+
+#: admin/class-vortem-admin.php:687
+#: admin/class-vortem-admin.php:784
+#: admin/class-vortem-admin.php:1045
+#: admin/class-vortem-admin.php:1273
+#: admin/class-vortem-admin.php:2009
+#: admin/class-vortem-admin.php:2053
+#: admin/partials/security-page.php:615
+#: vortem.php:972
+msgid "of"
+msgstr ""
+
+#: admin/class-vortem-admin.php:688
+#: admin/class-vortem-admin.php:785
+#: vortem.php:973
+msgid "orders"
+msgstr ""
+
+#: admin/class-vortem-admin.php:786
+msgid "Pending payment"
+msgstr ""
+
+#: admin/class-vortem-admin.php:787
+#: admin/class-vortem-admin.php:1536
+#: includes/class-vortem-i18n.php:109
+msgid "Processing"
+msgstr ""
+
+#: admin/class-vortem-admin.php:789
+#: admin/class-vortem-admin.php:1537
+#: includes/class-vortem-i18n.php:110
+msgid "Completed"
+msgstr ""
+
+#: admin/class-vortem-admin.php:790
+#: includes/class-vortem-i18n.php:102
+msgid "Cancelled"
+msgstr ""
+
+#: admin/class-vortem-admin.php:793
+msgid "Draft"
+msgstr ""
+
+#: admin/class-vortem-admin.php:845
+#: admin/class-vortem-admin.php:1532
+#: admin/class-vortem-admin.php:3434
+#: admin/partials/orders-page.php:85
+msgid "Total"
+msgstr ""
+
+#: admin/class-vortem-admin.php:846
+#: admin/class-vortem-admin.php:884
+#: admin/class-vortem-admin.php:891
+msgid "Sent"
+msgstr ""
+
+#: admin/class-vortem-admin.php:847
+msgid "Read"
+msgstr ""
+
+#: admin/class-vortem-admin.php:848
+msgid "Revision"
+msgstr ""
+
+#: admin/class-vortem-admin.php:849
+msgid "Sent Emails"
+msgstr ""
+
+#: admin/class-vortem-admin.php:850
+#: admin/partials/email-marketing-page.php:65
+#: admin/partials/email-marketing-page.php:164
+msgid "Export Excel"
+msgstr ""
+
+#: admin/class-vortem-admin.php:851
+msgid "Updated"
+msgstr ""
+
+#: admin/class-vortem-admin.php:852
+#: admin/partials/email-marketing-page.php:202
+#: admin/partials/email-marketing-page.php:274
+msgid "Recipients"
+msgstr ""
+
+#: admin/class-vortem-admin.php:855
+msgid "Show"
+msgstr ""
+
+#: admin/class-vortem-admin.php:856
+#: admin/class-vortem-admin.php:1042
+msgid "Edit"
+msgstr ""
+
+#: admin/class-vortem-admin.php:857
+#: admin/class-vortem-admin.php:1043
+#: admin/class-vortem-admin.php:3526
+#: admin/class-vortem-admin.php:5503
+#: admin/class-vortem-admin.php:5507
+#: admin/partials/email-marketing-page.php:176
+#: admin/partials/faq-page.php:431
+msgid "Delete"
+msgstr ""
+
+#: admin/class-vortem-admin.php:858
+#: admin/partials/email-marketing-page.php:327
+msgid "Create New Email"
+msgstr ""
+
+#: admin/class-vortem-admin.php:859
+#: admin/partials/email-marketing-page.php:367
+msgid "Send Email"
+msgstr ""
+
+#: admin/class-vortem-admin.php:860
+#: admin/class-vortem-admin.php:878
+msgid "Update & Send"
+msgstr ""
+
+#: admin/class-vortem-admin.php:861
+#: vortem.php:1384
+msgid "Sending..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:862
+msgid "Edit Email"
+msgstr ""
+
+#: admin/class-vortem-admin.php:863
+#: admin/partials/email-marketing-page.php:389
+msgid "Your email has been sent successfully."
+msgstr ""
+
+#: admin/class-vortem-admin.php:864
+#: admin/partials/email-marketing-page.php:170
+msgid "Select"
+msgstr ""
+
+#: admin/class-vortem-admin.php:865
+msgid "Exit Select"
+msgstr ""
+
+#: admin/class-vortem-admin.php:866
+msgid "To:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:867
+msgid "Created:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:868
+#: admin/class-vortem-admin.php:984
+#: admin/class-vortem-admin.php:6046
+msgid "No data available"
+msgstr ""
+
+#: admin/class-vortem-admin.php:869
+#: admin/class-vortem-admin.php:953
+#: admin/class-vortem-admin.php:2028
+#: admin/class-vortem-admin.php:4083
+#: admin/class-vortem-admin.php:6001
+#: admin/class-vortem-admin.php:6093
+#: includes/class-vortem-setup-wizard.php:153
+#: vortem.php:1236
+#: vortem.php:1363
+msgid "Loading..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:870
+#: admin/class-vortem-admin.php:2031
+#: admin/class-vortem-admin.php:7500
+#: admin/class-vortem-admin.php:7509
+#: admin/class-vortem-admin.php:7542
+#: admin/class-vortem-admin.php:7551
+#: admin/class-vortem-admin.php:7587
+#: includes/class-vortem-i18n.php:106
+msgid "Error"
+msgstr ""
+
+#: admin/class-vortem-admin.php:871
+#: admin/class-vortem-admin.php:7570
+msgid "Success"
+msgstr ""
+
+#: admin/class-vortem-admin.php:872
+#: admin/partials/email-marketing-page.php:236
+msgid "Confirm Action"
+msgstr ""
+
+#: admin/class-vortem-admin.php:873
+#: admin/partials/email-marketing-page.php:245
+msgid "Are you sure you want to proceed?"
+msgstr ""
+
+#: admin/class-vortem-admin.php:874
+#: admin/partials/email-marketing-page.php:249
+msgid "Confirm"
+msgstr ""
+
+#: admin/class-vortem-admin.php:875
+#: admin/class-vortem-admin.php:3525
+#: admin/class-vortem-admin.php:3561
+#: admin/class-vortem-admin.php:6502
+#: admin/partials/email-marketing-page.php:248
+#: admin/partials/faq-page.php:258
+#: admin/partials/faq-page.php:340
+#: admin/partials/faq-page.php:430
+#: includes/class-vortem-setup-wizard.php:299
+msgid "Cancel"
+msgstr ""
+
+#: admin/class-vortem-admin.php:876
+#: admin/partials/email-marketing-page.php:127
+#: admin/partials/email-marketing-page.php:259
+msgid "Create Email List"
+msgstr ""
+
+#: admin/class-vortem-admin.php:877
+msgid "Update Email List"
+msgstr ""
+
+#: admin/class-vortem-admin.php:879
+#: admin/partials/email-marketing-page.php:314
+msgid "Send"
+msgstr ""
+
+#: admin/class-vortem-admin.php:880
+msgid "left"
+msgstr ""
+
+#: admin/class-vortem-admin.php:881
+msgid "resets"
+msgstr ""
+
+#: admin/class-vortem-admin.php:882
+#: admin/partials/email-marketing-page.php:386
+msgid "Email Sent"
+msgstr ""
+
+#: admin/class-vortem-admin.php:883
+#: admin/class-vortem-admin.php:5908
+#: admin/class-vortem-admin.php:6505
+#: admin/partials/email-marketing-page.php:393
+msgid "OK"
+msgstr ""
+
+#: admin/class-vortem-admin.php:887
+msgid "SENT"
+msgstr ""
+
+#: admin/class-vortem-admin.php:888
+msgid "Sent:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:889
+msgid "Failed:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:890
+msgid "Pending:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:892
+msgid "Email sent"
+msgstr ""
+
+#: admin/class-vortem-admin.php:893
+msgid "Successfully sent"
+msgstr ""
+
+#: admin/class-vortem-admin.php:894
+msgid "email(s)"
+msgstr ""
+
+#: admin/class-vortem-admin.php:895
+msgid "Your email list has been sent successfully."
+msgstr ""
+
+#: admin/class-vortem-admin.php:896
+msgid "FAILED"
+msgstr ""
+
+#: admin/class-vortem-admin.php:897
+msgid "PENDING"
+msgstr ""
+
+#: admin/class-vortem-admin.php:898
+msgid "Total Lists"
+msgstr ""
+
+#: admin/class-vortem-admin.php:899
+msgid "Total Recipients"
+msgstr ""
+
+#: admin/class-vortem-admin.php:948
+msgid "Last analyzed:"
+msgstr ""
+
+#. translators: %s: date/time when the item was last updated
+#: admin/class-vortem-admin.php:951
+#, php-format
+msgid "Last updated: %s"
+msgstr ""
+
+#: admin/class-vortem-admin.php:952
+msgid "Last updated: Loading..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:954
+#: admin/class-vortem-admin.php:1538
+#: admin/class-vortem-admin.php:2057
+#: admin/partials/overview-page.php:123
+msgid "Performance"
+msgstr ""
+
+#: admin/class-vortem-admin.php:955
+msgid "Accessibility"
+msgstr ""
+
+#: admin/class-vortem-admin.php:956
+msgid "Best Practices"
+msgstr ""
+
+#: admin/class-vortem-admin.php:957
+msgid "SEO"
+msgstr ""
+
+#: admin/class-vortem-admin.php:958
+msgid "Page Load"
+msgstr ""
+
+#: admin/class-vortem-admin.php:959
+msgid "Requests"
+msgstr ""
+
+#: admin/class-vortem-admin.php:960
+msgid "Total Size"
+msgstr ""
+
+#: admin/class-vortem-admin.php:961
+msgid "First Contentful Paint"
+msgstr ""
+
+#: admin/class-vortem-admin.php:962
+#: admin/class-vortem-admin.php:1534
+#: admin/partials/insights-page.php:69
+msgid "Desktop"
+msgstr ""
+
+#: admin/class-vortem-admin.php:963
+#: admin/class-vortem-admin.php:1535
+#: admin/partials/insights-page.php:76
+msgid "Mobile"
+msgstr ""
+
+#: admin/class-vortem-admin.php:964
+msgid "No performance metrics available"
+msgstr ""
+
+#: admin/class-vortem-admin.php:965
+msgid "No audit data available"
+msgstr ""
+
+#: admin/class-vortem-admin.php:966
+msgid "No audits available"
+msgstr ""
+
+#: admin/class-vortem-admin.php:967
+msgid "View Less"
+msgstr ""
+
+#: admin/class-vortem-admin.php:968
+#: admin/partials/insights-page.php:125
+msgid "View More"
+msgstr ""
+
+#: admin/class-vortem-admin.php:969
+msgid "more"
+msgstr ""
+
+#: admin/class-vortem-admin.php:970
+msgid "No insights available"
+msgstr ""
+
+#: admin/class-vortem-admin.php:971
+msgid "No performance issues detected. Your site is performing well!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:972
+msgid "Wasted:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:973
+msgid "Initializing..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:974
+msgid "Connecting to server..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:975
+msgid "Fetching insights data..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:976
+msgid "Analyzing performance metrics..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:977
+msgid "Processing audits and insights..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:978
+msgid "Finalizing results..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:979
+msgid "Complete!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:980
+msgid "Failed to load Insights data"
+msgstr ""
+
+#: admin/class-vortem-admin.php:981
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr ""
+
+#: admin/class-vortem-admin.php:982
+msgid "Failed to refetch data"
+msgstr ""
+
+#: admin/class-vortem-admin.php:983
+msgid "Failed to refetch data. Please check your connection and try again."
+msgstr ""
+
+#: admin/class-vortem-admin.php:985
+msgid "Excellent"
+msgstr ""
+
+#: admin/class-vortem-admin.php:986
+msgid "Needs Improvement"
+msgstr ""
+
+#: admin/class-vortem-admin.php:987
+msgid "Poor"
+msgstr ""
+
+#: admin/class-vortem-admin.php:988
+msgid "Unknown error"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1037
+#: admin/class-vortem-admin.php:1229
+#: admin/class-vortem-admin.php:2029
+#: admin/partials/security-page.php:216
+#: admin/partials/security-page.php:225
+#: includes/class-vortem-i18n.php:97
+#: vortem.php:1324
+msgid "Active"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1038
+msgid "ID:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1039
+msgid "Answer:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1041
+msgid "View Details"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1044
+#: admin/class-vortem-admin.php:1272
+#: admin/class-vortem-admin.php:2007
+#: admin/class-vortem-admin.php:2051
+#: admin/partials/security-page.php:615
+msgid "Showing"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1046
+msgid "FAQs"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1047
+#: admin/partials/faq-page.php:427
+msgid "Delete FAQ"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1048
+#: admin/partials/faq-page.php:183
+#: admin/partials/faq-page.php:342
+msgid "Create FAQ"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1049
+msgid "Edit FAQ"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1050
+#: admin/partials/faq-page.php:293
+msgid "Update FAQ"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1051
+msgid "Creating..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1052
+#: admin/class-vortem-admin.php:7168
+msgid "Updating..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1053
+#: admin/class-vortem-admin.php:3957
+msgid "Deleting..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1054
+msgid "Question is required"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1055
+msgid "Question must be at least 20 characters long"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1056
+msgid "Question must not exceed 500 characters"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1057
+msgid "Question contains invalid characters"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1058
+msgid "Category is required"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1059
+msgid "Category must be at least 3 characters long"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1060
+msgid "Category must not exceed 100 characters"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1061
+msgid "Category contains invalid characters"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1062
+msgid "Answer is required"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1063
+msgid "Answer must be at least 10 characters long"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1064
+msgid "Answer must not exceed 2000 characters"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1065
+msgid "Answer contains invalid characters"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1066
+msgid "Category:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1067
+#: admin/class-vortem-admin.php:3265
+#: admin/class-vortem-admin.php:3270
+#: admin/class-vortem-admin.php:4335
+#: admin/class-vortem-admin.php:4731
+#: admin/partials/faq-page.php:49
+msgid "All Categories"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1068
+msgid "No category"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1069
+msgid "Select existing category (optional)"
+msgstr ""
+
+#. translators: %s is the FAQ title
+#: admin/class-vortem-admin.php:1071
+#, php-format
+msgid "FAQ \"%s\" has been created"
+msgstr ""
+
+#. translators: %s is the FAQ title
+#: admin/class-vortem-admin.php:1073
+#, php-format
+msgid "FAQ \"%s\" has been updated"
+msgstr ""
+
+#. translators: %s is the FAQ title
+#: admin/class-vortem-admin.php:1075
+#, php-format
+msgid "FAQ \"%s\" has been deleted"
+msgstr ""
+
+#. translators: %s is the FAQ title
+#: admin/class-vortem-admin.php:1077
+#, php-format
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1078
+msgid "Failed to load FAQs. Please try again."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1079
+msgid "Failed to save FAQ. Please try again."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1080
+msgid "Failed to delete FAQ. Please try again."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1081
+msgid "Failed to create FAQs. Please try again."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1082
+msgid "Delete Category"
+msgstr ""
+
+#. translators: %s is the category name
+#: admin/class-vortem-admin.php:1084
+#, php-format
+msgid "Are you sure you want to delete all FAQs in category \"%s\"? This action cannot be undone."
+msgstr ""
+
+#. translators: %s is the category name
+#: admin/class-vortem-admin.php:1086
+#, php-format
+msgid "All FAQs in category \"%s\" have been deleted."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1087
+msgid "Failed to delete FAQs for this category. Please try again."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1088
+msgid "Category ID not found for selected category."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1089
+msgid "Authentication required. Please check your session token."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1090
+#: admin/class-vortem-admin.php:7651
+#: admin/class-vortem-admin.php:7977
+#: admin/class-vortem-admin.php:11256
+#: admin/class-vortem-admin.php:11380
+#: admin/class-vortem-admin.php:11511
+#: admin/class-vortem-admin.php:11577
+#: admin/class-vortem-admin.php:11622
+#: admin/class-vortem-admin.php:11703
+#: admin/class-vortem-admin.php:11750
+#: admin/class-vortem-admin.php:11798
+#: admin/class-vortem-admin.php:11841
+#: admin/class-vortem-admin.php:11926
+#: admin/class-vortem-admin.php:12869
+#: includes/class-vortem-analytics.php:1926
+#: includes/class-vortem-api-client.php:1533
+#: includes/class-vortem-product-manager.php:95
+#: includes/class-vortem-product-manager.php:1242
+msgid "Session token is required. Please complete the setup wizard."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1091
+#: admin/class-vortem-admin.php:9203
+msgid "Session token saved successfully."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1092
+msgid "Failed to set session token."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1093
+msgid "How would you like to create FAQs?"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1094
+#: admin/partials/faq-page.php:195
+msgid "Single FAQ"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1095
+#: admin/partials/faq-page.php:199
+msgid "Bulk FAQs"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1096
+#: admin/partials/faq-page.php:211
+msgid "Create Bulk FAQs"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1097
+#: admin/partials/faq-page.php:280
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1098
+#: admin/partials/faq-page.php:276
+msgid "Added FAQs"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1099
+#: admin/partials/faq-page.php:262
+msgid "Add FAQ"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1100
+#: admin/partials/faq-page.php:266
+msgid "Create All"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1101
+msgid "FAQ"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1102
+msgid "Question:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1103
+msgid "Remove"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1104
+msgid "Please add at least one FAQ before creating."
+msgstr ""
+
+#. translators: %d is the number of FAQs
+#: admin/class-vortem-admin.php:1106
+#, php-format
+msgid "%d FAQs have been created successfully"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1230
+#: admin/partials/security-page.php:217
+#: admin/partials/security-page.php:226
+#: includes/class-vortem-i18n.php:98
+#: vortem.php:1325
+msgid "Inactive"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1231
+#: vortem.php:1316
+msgid "Version"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1232
+#: admin/partials/security-page.php:246
+#: admin/partials/security-page.php:255
+#: vortem.php:1317
+msgid "Author"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1233
+#: admin/partials/security-results-page.php:204
+#: vortem.php:1318
+msgid "Description"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1234
+#: vortem.php:1319
+msgid "File"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1235
+#: vortem.php:1320
+msgid "Plugin URI"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1236
+#: vortem.php:1321
+msgid "Last Modified"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1237
+#: vortem.php:1322
+msgid "Requires WP Version"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1238
+#: vortem.php:1323
+msgid "Requires PHP"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1239
+#: vortem.php:1338
+msgid "Stylesheet"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1240
+#: vortem.php:1337
+msgid "Theme URI"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1241
+#: vortem.php:1333
+msgid "WordPress Core"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1242
+#: vortem.php:1326
+msgid "Read more"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1243
+#: vortem.php:1327
+msgid "Read less"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1244
+#: vortem.php:1329
+msgid "Vulnerability"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1245
+#: admin/partials/overview-page.php:134
+#: admin/partials/security-page.php:589
+#: vortem.php:1328
+msgid "Vulnerabilities"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1246
+#: vortem.php:1362
+msgid "Checking..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1247
+msgid "Type"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1249
+#: vortem.php:1336
+msgid "Your plugins are secure!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1250
+#: vortem.php:1335
+msgid "Your themes are secure!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1251
+#: vortem.php:1332
+msgid "Your WordPress core is secure!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1252
+#: vortem.php:1334
+msgid "No security vulnerabilities found"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1253
+#: admin/partials/security-results-page.php:207
+#: vortem.php:1330
+msgid "Published"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1254
+#: vortem.php:1331
+msgid "References"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1256
+#: admin/partials/security-page.php:373
+#: vortem.php:1347
+msgid "Total Vulnerabilities"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1257
+msgid "CVSS Score:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1258
+msgid "Published:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1259
+msgid "Last Modified:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1260
+msgid "References:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1261
+msgid "CWE:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1262
+#: vortem.php:1340
+msgid "VERSION"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1263
+#: vortem.php:1341
+msgid "AUTHOR"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1264
+#: vortem.php:1342
+msgid "REQUIRES WP"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1265
+#: vortem.php:1343
+msgid "REQUIRES PHP"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1267
+#: vortem.php:1345
+msgid "View Page"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1268
+#: admin/partials/security-page.php:202
+msgid "Search plugins..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1269
+msgid "Search themes..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1274
+msgid "Found"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1276
+#: admin/partials/security-page.php:466
+#: vortem.php:1361
+msgid "Scanning..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1277
+#: admin/partials/security-page.php:467
+#: vortem.php:1374
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1278
+msgid "Your site is secure!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1279
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1280
+#: vortem.php:1366
+msgid "Critical vulnerabilities detected!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1281
+#: vortem.php:1367
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1282
+msgid "High severity vulnerabilities found"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1283
+msgid "Action is recommended. Please review and update affected items."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1284
+msgid "Some vulnerabilities found"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1285
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr ""
+
+#: admin/class-vortem-admin.php:1519
+msgid "Total products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1520
+msgid "Imported via plugin"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1521
+msgid "Other products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1526
+#: admin/class-vortem-admin.php:6024
+msgid "Visits"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1527
+#: admin/class-vortem-admin.php:6026
+msgid "Bounce Rate"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1528
+msgid "bounce"
+msgstr ""
+
+#: admin/class-vortem-admin.php:1540
+msgid "Value"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2001
+#: admin/class-vortem-admin.php:3834
+msgid "Already Imported"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2002
+#: admin/class-vortem-admin.php:5812
+msgid "Product deleted successfully"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2004
+#: admin/class-vortem-admin.php:5834
+msgid "NEW"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2005
+msgid "Added"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2006
+msgid "Exists"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2010
+msgid "← Previous"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2011
+msgid "Next →"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2012
+#: admin/class-vortem-admin.php:3504
+#: admin/class-vortem-admin.php:3909
+msgid "Processing..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:2013
+#: admin/class-vortem-admin.php:3505
+msgid "Please wait while we import your product"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2014
+msgid "Importing product as draft..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:2015
+msgid "This will create the product in WooCommerce"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2016
+msgid "Importing product with SEO optimization..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:2017
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2018
+msgid "Keyphrase"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2019
+msgid "SEO Title"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2020
+msgid "SEO Description"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2021
+msgid "Meta Description"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2022
+msgid "Tags"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2023
+msgid "Yoast SEO Title"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2024
+msgid "Headings"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2025
+msgid "Checking product status..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:2026
+msgid "Please wait while we check if the product exists"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2027
+msgid "Loading products..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:2030
+msgid "Not Set"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2032
+#: admin/class-vortem-admin.php:5435
+#: admin/partials/email-marketing-page.php:315
+#: admin/partials/email-marketing-page.php:368
+msgid "Preview"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2039
+msgid "sales"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2040
+msgid "Loading trend products..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:2041
+msgid "Loading TikTok products..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:2042
+msgid "Error loading TikTok products:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2043
+msgid "Failed to load TikTok products:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2044
+msgid "View on Amazon"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2045
+msgid "Release:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2046
+msgid "Price N/A"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2049
+msgid "In Stock"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2050
+msgid "Sentiment"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2054
+msgid "Popularity"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2055
+msgid "Impressions"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2056
+msgid "Engagement"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2058
+msgid "Videos"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2059
+msgid "# Hashtags"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2060
+msgid "View Rate (6s)"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2061
+msgid "Cost"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2063
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr ""
+
+#: admin/class-vortem-admin.php:2476
+msgid "Setup Completed Successfully!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2477
+msgid "Your Vortem.ai plugin is now active and ready to use."
+msgstr ""
+
+#: admin/class-vortem-admin.php:2479
+msgid "Setup Incomplete"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2480
+msgid "Please complete the setup wizard to activate your plugin."
+msgstr ""
+
+#. translators: %s: Validation date and time
+#: admin/class-vortem-admin.php:2485
+#, php-format
+msgid "Validated on: %s"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2596
+msgid "Products Pages"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2619
+msgid "Analytics Pages"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2626
+#: admin/class-vortem-admin.php:5998
+msgid "Shop Analytics"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2677
+#: admin/class-vortem-admin.php:6300
+msgid "Europe"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2678
+#: admin/class-vortem-admin.php:6301
+msgid "Asia"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2679
+#: admin/class-vortem-admin.php:6302
+msgid "Americas"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2680
+#: admin/class-vortem-admin.php:6303
+msgid "Africa"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2681
+#: admin/class-vortem-admin.php:6304
+msgid "Other"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2701
+msgid "Toggle Navigation Menu"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2710
+msgid "Close Menu"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2714
+msgid "Navigation"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2718
+msgid "Change Language"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2803
+msgid "Change Currency"
+msgstr ""
+
+#: admin/class-vortem-admin.php:2810
+#: admin/class-vortem-admin.php:6417
+#: admin/class-vortem-admin.php:6421
+#: includes/class-vortem-setup-wizard.php:468
+msgid "Loading currencies..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:2814
+msgid "Search currencies..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:3215
+msgid "Vortem.ai Products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3216
+msgid "Manage and view your product inventory"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3240
+#: admin/class-vortem-admin.php:3253
+msgid "Top Products AliExpress"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3243
+#: admin/class-vortem-admin.php:3338
+msgid "Trend Products Amazon"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3246
+#: admin/class-vortem-admin.php:3348
+msgid "Trend Products TikTok"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3255
+msgid "All Imported Products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3277
+msgid "Subcategories"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3287
+msgid "Min Price"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3289
+msgid "Max Price"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3291
+msgid "Apply Price Filter"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3296
+msgid "Refresh Products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3299
+#: admin/class-vortem-admin.php:4673
+#: admin/class-vortem-admin.php:4725
+msgid "Show All Added Products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3376
+#: admin/partials/orders-page.php:30
+msgid "View and manage your store orders"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3393
+#: admin/partials/orders-page.php:48
+msgid "Search orders by number, customer name, or email..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:3396
+#: admin/partials/orders-page.php:34
+msgid "Refresh Orders"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3398
+#: admin/class-vortem-admin.php:6002
+#: admin/class-vortem-admin.php:6097
+#: admin/partials/faq-page.php:78
+#: admin/partials/orders-page.php:36
+#: admin/partials/security-results-page.php:39
+#: admin/partials/security-results-page.php:44
+msgid "Refresh"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3400
+#: admin/partials/orders-page.php:51
+msgid "Sort by date"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3400
+#: admin/partials/orders-page.php:51
+msgid "Toggle sort order"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3404
+#: admin/partials/orders-page.php:55
+msgid "Sort by Date"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3407
+#: admin/partials/orders-page.php:58
+msgid "All Statuses"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3413
+#: admin/partials/orders-page.php:64
+msgid "Start Date"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3417
+#: admin/partials/orders-page.php:68
+msgid "End Date"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3429
+#: admin/partials/orders-page.php:80
+msgid "Order"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3430
+#: admin/partials/orders-page.php:81
+#: admin/partials/security-page.php:245
+#: admin/partials/security-page.php:254
+msgid "Date"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3432
+#: admin/partials/orders-page.php:83
+msgid "Customer"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3433
+#: admin/partials/orders-page.php:84
+msgid "Items"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3435
+#: admin/partials/orders-page.php:86
+msgid "Payment"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3436
+#: admin/class-vortem-admin.php:6028
+#: admin/partials/email-marketing-page.php:92
+#: admin/partials/email-marketing-page.php:205
+#: admin/partials/faq-page.php:147
+#: admin/partials/orders-page.php:87
+#: admin/partials/security-results-page.php:213
+msgid "Actions"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3458
+#: admin/partials/orders-page.php:109
+msgid "Order Details"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3469
+#: admin/partials/orders-page.php:120
+msgid "Loading order details..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:3522
+msgid "Delete Product"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3523
+#: admin/class-vortem-admin.php:5789
+msgid "Are you sure you want to delete this product?"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3542
+msgid "Select Import Method"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3543
+msgid "Choose how you want to import this product:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3549
+msgid "Normal Import"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3550
+msgid "Import product with original title and description"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3556
+msgid "SEO Import"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3557
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3780
+#: admin/class-vortem-admin.php:3821
+msgid "Importing..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:3791
+msgid "Products imported successfully!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3795
+#: admin/class-vortem-admin.php:3848
+msgid "Unknown error occurred"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3805
+#: admin/class-vortem-admin.php:3858
+msgid "Import failed: "
+msgstr ""
+
+#: admin/class-vortem-admin.php:3809
+#: admin/class-vortem-admin.php:3862
+msgid "Import failed. Please try again."
+msgstr ""
+
+#: admin/class-vortem-admin.php:3812
+msgid "Import to WooCommerce"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3843
+msgid "Product imported successfully!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3867
+#: admin/class-vortem-admin.php:5504
+#: admin/class-vortem-admin.php:5506
+msgid "Import"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3882
+msgid "Please select a bulk action."
+msgstr ""
+
+#: admin/class-vortem-admin.php:3887
+msgid "Please select at least one product."
+msgstr ""
+
+#: admin/class-vortem-admin.php:3894
+msgid "Are you sure you want to import the selected products to WooCommerce?"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3897
+msgid "Are you sure you want to permanently delete the selected products? This will remove them from the database and WordPress, including all images. This action cannot be undone."
+msgstr ""
+
+#: admin/class-vortem-admin.php:3900
+msgid "Are you sure you want to restore the selected products from trash?"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3903
+msgid "Are you sure you want to permanently delete the selected products? This action cannot be undone."
+msgstr ""
+
+#: admin/class-vortem-admin.php:3922
+msgid "Bulk action completed successfully!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3926
+msgid "Bulk action failed: "
+msgstr ""
+
+#: admin/class-vortem-admin.php:3930
+msgid "Bulk action failed. Please try again."
+msgstr ""
+
+#: admin/class-vortem-admin.php:3933
+msgid "Apply"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3956
+msgid "Are you sure you want to permanently delete this product? This will remove it from the database and WordPress, including all images. This action cannot be undone."
+msgstr ""
+
+#: admin/class-vortem-admin.php:3972
+msgid "Failed to trash product: "
+msgstr ""
+
+#: admin/class-vortem-admin.php:3973
+#: admin/class-vortem-admin.php:3978
+msgid "Trash"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3977
+msgid "Failed to trash product. Please try again."
+msgstr ""
+
+#: admin/class-vortem-admin.php:3989
+msgid "Are you sure you want to restore this product from trash?"
+msgstr ""
+
+#: admin/class-vortem-admin.php:3990
+msgid "Restoring..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:4005
+msgid "Failed to restore product: "
+msgstr ""
+
+#: admin/class-vortem-admin.php:4006
+#: admin/class-vortem-admin.php:4011
+msgid "Restore"
+msgstr ""
+
+#: admin/class-vortem-admin.php:4010
+msgid "Failed to restore product. Please try again."
+msgstr ""
+
+#: admin/class-vortem-admin.php:4062
+msgid "Failed to import product as draft: "
+msgstr ""
+
+#: admin/class-vortem-admin.php:4067
+msgid "Failed to import product as draft. Please try again."
+msgstr ""
+
+#: admin/class-vortem-admin.php:4074
+msgid "Failed to get product details."
+msgstr ""
+
+#: admin/class-vortem-admin.php:4097
+msgid "Failed to load product details."
+msgstr ""
+
+#: admin/class-vortem-admin.php:4252
+msgid "Load More Categories"
+msgstr ""
+
+#: admin/class-vortem-admin.php:4485
+msgid "Minimum price cannot be greater than maximum price"
+msgstr ""
+
+#: admin/class-vortem-admin.php:4670
+#: admin/class-vortem-admin.php:4722
+msgid "Show All Products"
+msgstr ""
+
+#: admin/class-vortem-admin.php:5785
+msgid "Product ID not found"
+msgstr ""
+
+#: admin/class-vortem-admin.php:5847
+msgid "Delete failed: "
+msgstr ""
+
+#: admin/class-vortem-admin.php:5853
+msgid "Delete failed. Please try again."
+msgstr ""
+
+#: admin/class-vortem-admin.php:5878
+msgid "SEO Import Completed"
+msgstr ""
+
+#: admin/class-vortem-admin.php:5881
+msgid "The following SEO optimizations have been applied:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:5884
+msgid "✓ Keyphrase"
+msgstr ""
+
+#: admin/class-vortem-admin.php:5887
+msgid "✓ SEO Title"
+msgstr ""
+
+#: admin/class-vortem-admin.php:5890
+msgid "✓ SEO Description"
+msgstr ""
+
+#: admin/class-vortem-admin.php:5893
+msgid "✓ Meta Description"
+msgstr ""
+
+#: admin/class-vortem-admin.php:5896
+msgid "✓ Tags"
+msgstr ""
+
+#: admin/class-vortem-admin.php:5899
+msgid "✓ Yoast SEO Title"
+msgstr ""
+
+#: admin/class-vortem-admin.php:5902
+msgid "✓ Headings"
+msgstr ""
+
+#: admin/class-vortem-admin.php:5999
+msgid "BI Analytics Hub"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6003
+#: admin/class-vortem-admin.php:6101
+msgid "Clear Cache"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6004
+#: admin/class-vortem-admin.php:6105
+msgid "Export CSV"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6005
+#: admin/class-vortem-admin.php:6116
+msgid "WooCommerce Analytics"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6006
+#: admin/class-vortem-admin.php:6135
+msgid "WordPress Analytics"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6007
+#: admin/partials/bi-analytics-hub-page.php:20
+msgid "ANALYTICS DASHBOARD"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6008
+#: admin/partials/bi-analytics-hub-page.php:23
+msgid "Business Intelligence"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6009
+#: admin/partials/bi-analytics-hub-page.php:24
+msgid "Analytics Hub"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6010
+#: admin/partials/bi-analytics-hub-page.php:27
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6011
+#: admin/partials/bi-analytics-hub-page.php:36
+msgid "Performance Overview"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6012
+#: admin/partials/bi-analytics-hub-page.php:38
+msgid "Key performance indicators at a glance"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6013
+#: admin/partials/bi-analytics-hub-page.php:55
+msgid "Analytics Insights"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6014
+#: admin/partials/bi-analytics-hub-page.php:57
+msgid "Deep dive into performance metrics"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6015
+#: admin/partials/bi-analytics-hub-page.php:84
+msgid "Customer Intelligence"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6016
+#: admin/partials/bi-analytics-hub-page.php:86
+msgid "Understand customer behavior and trends"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6017
+#: admin/partials/bi-analytics-hub-page.php:113
+msgid "Market Analysis"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6018
+#: admin/partials/bi-analytics-hub-page.php:115
+msgid "Comprehensive market comparison and category insights"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6019
+#: admin/partials/bi-analytics-hub-page.php:142
+msgid "Data Intelligence"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6020
+#: admin/partials/bi-analytics-hub-page.php:144
+msgid "Detailed analytics tables and pricing insights"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6025
+msgid "Unique Visitors"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6027
+msgid "Avg. Time on Site"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6029
+msgid "Visits Summary"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6030
+msgid "Visitor Map"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6031
+msgid "Top Pages"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6032
+msgid "Top Page Titles"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6033
+msgid "Entry Pages"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6034
+msgid "Exit Pages"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6035
+msgid "Countries"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6036
+msgid "Cities"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6037
+msgid "Search Keywords"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6038
+msgid "Real-time Visits"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6039
+msgid "Site Info"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6040
+msgid "Today"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6041
+msgid "Yesterday"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6042
+msgid "Last 7 Days"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6043
+msgid "Last 30 Days"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6044
+msgid "This Week"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6045
+msgid "This Month"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6047
+msgid "Error loading data"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6175
+msgid "WooCommerce is required to view orders."
+msgstr ""
+
+#: admin/class-vortem-admin.php:6259
+msgid "Vortem.ai Settings"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6260
+msgid "Configure your plugin settings and preferences"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6267
+msgid "Configure your Vortem.ai settings below."
+msgstr ""
+
+#: admin/class-vortem-admin.php:6278
+msgid "Products Per Page"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6281
+msgid "Number of products to display per page. Default: 16."
+msgstr ""
+
+#: admin/class-vortem-admin.php:6286
+#: includes/class-vortem-setup-wizard.php:412
+msgid "Language"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6402
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr ""
+
+#: admin/class-vortem-admin.php:6407
+#: includes/class-vortem-setup-wizard.php:456
+msgid "Currency"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6426
+msgid "Update Currency"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6430
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr ""
+
+#: admin/class-vortem-admin.php:6435
+msgid "Video Settings"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6441
+msgid "Add video to product description"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6443
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr ""
+
+#: admin/class-vortem-admin.php:6449
+msgid "Video Download for Excluded Themes"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6455
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6457
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr ""
+
+#: admin/class-vortem-admin.php:6463
+msgid "AliExpress Integration"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6467
+msgid "Checking connection status..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:6471
+#: admin/class-vortem-admin.php:7504
+#: admin/class-vortem-admin.php:7513
+msgid "Connect to AliExpress"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6474
+#: admin/class-vortem-admin.php:7546
+#: admin/class-vortem-admin.php:7555
+msgid "Disconnect"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6477
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr ""
+
+#: admin/class-vortem-admin.php:6484
+msgid "Save Changes"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6495
+#: admin/class-vortem-admin.php:7272
+msgid "AliExpress"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6607
+#: admin/class-vortem-admin.php:8851
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr ""
+
+#: admin/class-vortem-admin.php:6608
+#: admin/class-vortem-admin.php:8845
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr ""
+
+#: admin/class-vortem-admin.php:6609
+msgid "Products per page must be at least 1"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6610
+msgid "Products per page cannot exceed 100"
+msgstr ""
+
+#: admin/class-vortem-admin.php:6744
+#: includes/class-vortem-setup-wizard.php:165
+msgid "Search by country or currency code"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7023
+msgid "No currencies found"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7057
+msgid "Failed to load currencies"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7062
+msgid "Error loading currencies"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7157
+#: admin/class-vortem-admin.php:7159
+msgid "Please select a currency first"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7188
+#: admin/class-vortem-admin.php:7190
+#: admin/class-vortem-admin.php:7193
+msgid "Currency updated successfully!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7207
+msgid "Failed to update currency"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7209
+#: admin/class-vortem-admin.php:7211
+#: admin/class-vortem-admin.php:7214
+msgid "Error: "
+msgstr ""
+
+#: admin/class-vortem-admin.php:7227
+msgid "Error updating currency: "
+msgstr ""
+
+#: admin/class-vortem-admin.php:7441
+msgid "Connected"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7448
+msgid "Your token was expired"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7453
+msgid "Expires:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7460
+#: admin/class-vortem-admin.php:7465
+msgid "Not connected"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7471
+msgid "Error checking status"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7484
+msgid "Connecting..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:7498
+msgid "Failed to get authorization URL"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7510
+msgid "Error connecting to AliExpress"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7523
+msgid "Disconnect AliExpress"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7524
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7527
+msgid "Disconnecting..."
+msgstr ""
+
+#: admin/class-vortem-admin.php:7540
+msgid "Failed to disconnect"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7552
+msgid "Error disconnecting AliExpress account"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7571
+msgid "Successfully connected to AliExpress!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:7585
+msgid "Failed to connect to AliExpress"
+msgstr ""
+
+#: admin/class-vortem-admin.php:8369
+msgid "Setup Required"
+msgstr ""
+
+#: admin/class-vortem-admin.php:8373
+msgid "Full Access - Active"
+msgstr ""
+
+#: admin/class-vortem-admin.php:8400
+#: admin/class-vortem-admin.php:8445
+#: admin/class-vortem-admin.php:8572
+#: admin/class-vortem-admin.php:8725
+#: admin/class-vortem-admin.php:9190
+#: admin/class-vortem-admin.php:9216
+#: admin/class-vortem-admin.php:9367
+#: admin/class-vortem-admin.php:9406
+#: admin/class-vortem-admin.php:9757
+#: admin/class-vortem-admin.php:9834
+#: admin/class-vortem-admin.php:9911
+#: admin/class-vortem-admin.php:10284
+#: admin/class-vortem-admin.php:10492
+#: admin/class-vortem-admin.php:10531
+#: admin/class-vortem-admin.php:11040
+msgid "Insufficient permissions"
+msgstr ""
+
+#: admin/class-vortem-admin.php:8407
+#: admin/class-vortem-admin.php:8452
+#: admin/class-vortem-admin.php:8579
+#: admin/class-vortem-admin.php:8732
+#: admin/class-vortem-admin.php:9223
+#: includes/class-vortem-import-handler.php:360
+#: includes/class-vortem-product-manager.php:1236
+#: includes/class-vortem-product-manager.php:1711
+#: includes/class-vortem-product-manager.php:1844
+msgid "Setup wizard must be completed first."
+msgstr ""
+
+#: admin/class-vortem-admin.php:8459
+msgid "Failed to fetch license status: "
+msgstr ""
+
+#: admin/class-vortem-admin.php:8761
+msgid "Failed to update product"
+msgstr ""
+
+#: admin/class-vortem-admin.php:8895
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:8952
+msgid "Analytics cache cleared successfully!"
+msgstr ""
+
+#: admin/class-vortem-admin.php:8966
+msgid "No products to import. Please sync products first."
+msgstr ""
+
+#. translators: %1$d is the number of products imported, %2$d is the number of failed imports
+#: admin/class-vortem-admin.php:8993
+#, php-format
+msgid "Import completed! %1$d products imported, %2$d failed."
+msgstr ""
+
+#. translators: %s is the error message
+#: admin/class-vortem-admin.php:8997
+#, php-format
+msgid "Import failed: %s"
+msgstr ""
+
+#: admin/class-vortem-admin.php:9023
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr ""
+
+#. translators: %s: Error message
+#: admin/class-vortem-admin.php:9028
+#, php-format
+msgid "API Test Failed: %s"
+msgstr ""
+
+#: admin/class-vortem-admin.php:9049
+#: admin/class-vortem-admin.php:10583
+msgid "Database structure validated and fixed:"
+msgstr ""
+
+#: admin/class-vortem-admin.php:9052
+msgid "Database structure is valid. No fixes needed."
+msgstr ""
+
+#: admin/class-vortem-admin.php:9058
+#: admin/class-vortem-admin.php:10590
+msgid "Database validation issues:"
+msgstr ""
+
+#. translators: %s is the error message
+#. translators: %s: Error message
+#: admin/class-vortem-admin.php:9066
+#: admin/class-vortem-admin.php:10597
+#, php-format
+msgid "Database validation failed: %s"
+msgstr ""
+
+#: admin/class-vortem-admin.php:9093
+msgid "Sync status reset successfully! Non-imported products cleared."
+msgstr ""
+
+#: admin/class-vortem-admin.php:9198
+#: includes/class-vortem-matomo-widget.php:220
+msgid "Session token is required."
+msgstr ""
+
+#: admin/class-vortem-admin.php:9358
+#: admin/class-vortem-admin.php:9397
+#: admin/class-vortem-admin.php:9748
+#: admin/class-vortem-admin.php:9825
+#: admin/class-vortem-admin.php:9902
+#: admin/class-vortem-admin.php:10275
+#: admin/class-vortem-admin.php:10483
+#: admin/class-vortem-admin.php:10522
+#: admin/class-vortem-admin.php:11032
+msgid "Security check failed"
+msgstr ""
+
+#: admin/class-vortem-admin.php:10178
+msgid "Failed to load product fetcher class"
+msgstr ""
+
+#: admin/class-vortem-admin.php:11051
+msgid "Template file not found"
+msgstr ""
+
+#: admin/class-vortem-admin.php:11178
+msgid "Invalid file type"
+msgstr ""
+
+#: admin/class-vortem-admin.php:11187
+msgid "File size too large"
+msgstr ""
+
+#: admin/class-vortem-admin.php:11211
+msgid "File upload failed"
+msgstr ""
+
+#: admin/class-vortem-admin.php:11317
+#: admin/class-vortem-admin.php:11448
+msgid "Failed to decode JSON response"
+msgstr ""
+
+#: admin/class-vortem-admin.php:12080
+msgid "Error fetching orders: "
+msgstr ""
+
+#: admin/class-vortem-admin.php:13227
+msgid "Session token not found in response."
+msgstr ""
+
+#: admin/class-vortem-admin.php:13407
+msgid "Product Video"
+msgstr ""
+
+#: admin/class-vortem-admin.php:13414
+msgid "Video attached successfully. "
+msgstr ""
+
+#: admin/class-vortem-admin.php:13415
+msgid "View Video"
+msgstr ""
+
+#: admin/class-vortem-admin.php:13417
+msgid "Edit Video"
+msgstr ""
+
+#: admin/class-vortem-admin.php:13428
+msgid "AliExpress does not have a video for this product."
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:28
+msgid "Manage, send, and track your emails"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:33
+#: admin/partials/email-marketing-page.php:119
+msgid "Emails"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:34
+#: admin/partials/email-marketing-page.php:120
+msgid "Lists"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:41
+msgid "Create Email"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:52
+msgid "Search emails..."
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:55
+#: admin/partials/email-marketing-page.php:166
+msgid "View toggle"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:56
+#: admin/partials/email-marketing-page.php:167
+msgid "Cards"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:57
+#: admin/partials/email-marketing-page.php:168
+msgid "Table"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:59
+#: admin/partials/email-marketing-page.php:158
+msgid "Export to Excel"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:88
+#: admin/partials/email-marketing-page.php:337
+msgid "Recipient"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:89
+#: admin/partials/email-marketing-page.php:201
+#: admin/partials/email-marketing-page.php:341
+msgid "Subject"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:91
+#: admin/partials/email-marketing-page.php:204
+#: admin/partials/faq-page.php:142
+msgid "Created"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:113
+msgid "Email Lists"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:114
+msgid "Manage, send, and track your email lists"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:138
+msgid "Search lists..."
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:141
+msgid "Download email-recipient.xlsx template"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:147
+msgid "Download Template"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:149
+msgid "Upload email-recipient.xlsx file"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:155
+msgid "Upload Template"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:270
+msgid "List Subject"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:271
+msgid "Subject for all recipients"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:282
+msgid "Enter email address and press Enter or click Add"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:285
+msgid "Add"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:289
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:292
+msgid "Email Body (optional HTML)"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:311
+#: admin/partials/email-marketing-page.php:364
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:316
+#: admin/partials/email-marketing-page.php:369
+msgid "Clear"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:342
+msgid "Your subject"
+msgstr ""
+
+#: admin/partials/email-marketing-page.php:345
+msgid "Email Body"
+msgstr ""
+
+#: admin/partials/faq-page.php:24
+msgid "Manage your frequently asked questions"
+msgstr ""
+
+#: admin/partials/faq-page.php:57
+msgid "Delete all FAQs in selected category"
+msgstr ""
+
+#: admin/partials/faq-page.php:68
+msgid "Card View"
+msgstr ""
+
+#: admin/partials/faq-page.php:72
+msgid "Table View"
+msgstr ""
+
+#: admin/partials/faq-page.php:76
+msgid "Refresh FAQs"
+msgstr ""
+
+#: admin/partials/faq-page.php:82
+msgid "Create New FAQ"
+msgstr ""
+
+#: admin/partials/faq-page.php:95
+msgid "Total FAQs"
+msgstr ""
+
+#: admin/partials/faq-page.php:104
+msgid "Active FAQs"
+msgstr ""
+
+#: admin/partials/faq-page.php:113
+msgid "Page Status"
+msgstr ""
+
+#: admin/partials/faq-page.php:136
+#: admin/partials/faq-page.php:372
+#: admin/partials/faq-page.php:408
+msgid "Question"
+msgstr ""
+
+#: admin/partials/faq-page.php:162
+msgid "No FAQs yet"
+msgstr ""
+
+#: admin/partials/faq-page.php:163
+msgid "Start creating FAQs to build your knowledge base"
+msgstr ""
+
+#: admin/partials/faq-page.php:166
+msgid "Create Your First FAQ"
+msgstr ""
+
+#: admin/partials/faq-page.php:173
+msgid "Loading FAQs..."
+msgstr ""
+
+#: admin/partials/faq-page.php:240
+#: admin/partials/faq-page.php:320
+msgid "Question *"
+msgstr ""
+
+#: admin/partials/faq-page.php:249
+#: admin/partials/faq-page.php:330
+msgid "Answer *"
+msgstr ""
+
+#: admin/partials/faq-page.php:358
+msgid "FAQ Details"
+msgstr ""
+
+#: admin/partials/faq-page.php:376
+#: admin/partials/faq-page.php:412
+msgid "Answer"
+msgstr ""
+
+#: admin/partials/faq-page.php:397
+msgid "FAQ Preview"
+msgstr ""
+
+#: admin/partials/insights-page.php:35
+msgid "Performance Insights"
+msgstr ""
+
+#: admin/partials/insights-page.php:39
+#: admin/partials/security-page.php:40
+msgid "Live"
+msgstr ""
+
+#: admin/partials/insights-page.php:82
+msgid "Refresh data"
+msgstr ""
+
+#: admin/partials/insights-page.php:98
+msgid "Core Web Vitals"
+msgstr ""
+
+#: admin/partials/insights-page.php:113
+msgid "Performance Audits"
+msgstr ""
+
+#: admin/partials/insights-page.php:140
+msgid "Quick Insights"
+msgstr ""
+
+#: admin/partials/insights-page.php:154
+msgid "Config"
+msgstr ""
+
+#: admin/partials/insights-page.php:160
+msgid "Device"
+msgstr ""
+
+#: admin/partials/insights-page.php:164
+msgid "Locale"
+msgstr ""
+
+#: admin/partials/insights-page.php:168
+msgid "Channel"
+msgstr ""
+
+#: admin/partials/insights-page.php:181
+msgid "Loading Insights data..."
+msgstr ""
+
+#: admin/partials/insights-page.php:193
+msgid "Error Loading Insights Data"
+msgstr ""
+
+#: admin/partials/insights-page.php:194
+msgid "An error occurred while fetching Insights analysis data."
+msgstr ""
+
+#: admin/partials/insights-page.php:195
+#: admin/partials/insights-page.php:209
+#: admin/partials/security-results-page.php:68
+msgid "Retry"
+msgstr ""
+
+#: admin/partials/insights-page.php:207
+msgid "No Insights Data Available"
+msgstr ""
+
+#: admin/partials/insights-page.php:208
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr ""
+
+#. translators: %s: formatted date
+#: admin/partials/overview-page.php:51
+#, php-format
+msgid "Last updated: %1$s • Live"
+msgstr ""
+
+#: admin/partials/overview-page.php:73
+msgid "Go to Analytics page"
+msgstr ""
+
+#: admin/partials/overview-page.php:74
+msgid "Last 30 days"
+msgstr ""
+
+#: admin/partials/overview-page.php:88
+msgid "Go to Products page"
+msgstr ""
+
+#: admin/partials/overview-page.php:106
+msgid "Traffic Overview"
+msgstr ""
+
+#: admin/partials/overview-page.php:106
+msgid "Go to Matomo Analytics page"
+msgstr ""
+
+#: admin/partials/overview-page.php:107
+msgid "Matomo analytics – last 30 days"
+msgstr ""
+
+#: admin/partials/overview-page.php:144
+msgid "Emails Sent"
+msgstr ""
+
+#: admin/partials/overview-page.php:169
+msgid "Today's Focus"
+msgstr ""
+
+#: admin/partials/overview-page.php:179
+msgid "Vortem.ai Plugin Overview"
+msgstr ""
+
+#: admin/partials/overview-page.php:180
+msgid "Read More"
+msgstr ""
+
+#: admin/partials/overview-page.php:191
+msgid "Check your dashboard regularly"
+msgstr ""
+
+#: admin/partials/overview-page.php:192
+msgid "View Analytics"
+msgstr ""
+
+#: admin/partials/overview-page.php:201
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr ""
+
+#: admin/partials/overview-page.php:215
+msgid "Order Statistics"
+msgstr ""
+
+#: admin/partials/overview-page.php:219
+msgid "Today's Orders Completed"
+msgstr ""
+
+#: admin/partials/overview-page.php:223
+msgid "Total Orders Completed"
+msgstr ""
+
+#: admin/partials/overview-page.php:231
+msgid "Imported Products"
+msgstr ""
+
+#: admin/partials/overview-page.php:237
+msgid "Recent Activity"
+msgstr ""
+
+#: admin/partials/overview-page.php:244
+msgid "Overview dashboard loaded"
+msgstr ""
+
+#: admin/partials/overview-page.php:245
+msgid "Just now"
+msgstr ""
+
+#: admin/partials/overview-page.php:253
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr ""
+
+#: admin/partials/overview-page.php:254
+msgid "Ready"
+msgstr ""
+
+#: admin/partials/overview-page.php:262
+msgid "Configure plugin settings and API keys"
+msgstr ""
+
+#: admin/partials/overview-page.php:276
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr ""
+
+#: admin/partials/overview-page.php:283
+msgid "Vortem.ai official website"
+msgstr ""
+
+#: admin/partials/overview-page.php:284
+msgid "Navigate, learn, and manage your account"
+msgstr ""
+
+#: admin/partials/overview-page.php:286
+msgid "Quick Access"
+msgstr ""
+
+#: admin/partials/overview-page.php:290
+msgid "Home"
+msgstr ""
+
+#: admin/partials/overview-page.php:291
+msgid "Return to dashboard home"
+msgstr ""
+
+#: admin/partials/overview-page.php:293
+msgid "Go to Home"
+msgstr ""
+
+#: admin/partials/overview-page.php:298
+msgid "My Account"
+msgstr ""
+
+#: admin/partials/overview-page.php:299
+msgid "Profile, settings, and preferences"
+msgstr ""
+
+#: admin/partials/overview-page.php:301
+msgid "Manage"
+msgstr ""
+
+#: admin/partials/overview-page.php:305
+msgid "Help & Learning"
+msgstr ""
+
+#: admin/partials/overview-page.php:309
+msgid "Support"
+msgstr ""
+
+#: admin/partials/overview-page.php:310
+msgid "Get help, submit tickets, or contact support"
+msgstr ""
+
+#: admin/partials/overview-page.php:312
+msgid "Get Support"
+msgstr ""
+
+#: admin/partials/overview-page.php:317
+#: includes/class-vortem-setup-wizard.php:553
+#: includes/class-vortem-setup-wizard.php:617
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/overview-page.php:318
+msgid "Developer & user guides"
+msgstr ""
+
+#: admin/partials/overview-page.php:320
+msgid "Read Docs"
+msgstr ""
+
+#: admin/partials/overview-page.php:324
+msgid "Legal & Policies"
+msgstr ""
+
+#: admin/partials/overview-page.php:328
+msgid "Terms of Service"
+msgstr ""
+
+#: admin/partials/overview-page.php:329
+msgid "Usage terms and conditions"
+msgstr ""
+
+#: admin/partials/overview-page.php:331
+#: admin/partials/overview-page.php:339
+msgid "View"
+msgstr ""
+
+#: admin/partials/overview-page.php:336
+msgid "Privacy Policy"
+msgstr ""
+
+#: admin/partials/overview-page.php:337
+msgid "Data protection and privacy"
+msgstr ""
+
+#: admin/partials/overview-page.php:344
+msgid "Navigation to vortem wordpress"
+msgstr ""
+
+#: admin/partials/overview-page.php:345
+msgid "Access key features and settings"
+msgstr ""
+
+#: admin/partials/overview-page.php:348
+#: admin/partials/security-page.php:190
+#: vortem.php:1353
+msgid "Core"
+msgstr ""
+
+#: admin/partials/overview-page.php:353
+msgid "Manage catalog and inventory"
+msgstr ""
+
+#: admin/partials/overview-page.php:361
+msgid "Business insights and metrics"
+msgstr ""
+
+#: admin/partials/overview-page.php:367
+msgid "Growth & Intelligence"
+msgstr ""
+
+#: admin/partials/overview-page.php:372
+msgid "Campaigns and automation"
+msgstr ""
+
+#: admin/partials/overview-page.php:380
+msgid "AI-powered recommendations"
+msgstr ""
+
+#: admin/partials/overview-page.php:388
+msgid "Manage orders and shipments"
+msgstr ""
+
+#: admin/partials/overview-page.php:394
+msgid "System"
+msgstr ""
+
+#: admin/partials/overview-page.php:399
+msgid "Knowledge base editor"
+msgstr ""
+
+#: admin/partials/overview-page.php:407
+msgid "Access control and monitoring"
+msgstr ""
+
+#: admin/partials/overview-page.php:415
+msgid "System configuration"
+msgstr ""
+
+#: admin/partials/security-page.php:33
+msgid "Vortem Logo"
+msgstr ""
+
+#: admin/partials/security-page.php:58
+msgid "Total Plugins"
+msgstr ""
+
+#: admin/partials/security-page.php:73
+msgid "Active Plugins"
+msgstr ""
+
+#: admin/partials/security-page.php:86
+msgid "Inactive Plugins"
+msgstr ""
+
+#: admin/partials/security-page.php:100
+msgid "Total Themes"
+msgstr ""
+
+#: admin/partials/security-page.php:116
+msgid "Active Themes"
+msgstr ""
+
+#: admin/partials/security-page.php:129
+msgid "Inactive Themes"
+msgstr ""
+
+#: admin/partials/security-page.php:168
+msgid "Plugins"
+msgstr ""
+
+#: admin/partials/security-page.php:180
+msgid "Themes"
+msgstr ""
+
+#: admin/partials/security-page.php:212
+msgid "Filter by:"
+msgstr ""
+
+#: admin/partials/security-page.php:215
+#: admin/partials/security-page.php:220
+#: admin/partials/security-page.php:224
+#: admin/partials/security-results-page.php:78
+#: admin/partials/security-results-page.php:89
+#: admin/partials/security-results-page.php:96
+#: admin/partials/security-results-page.php:107
+msgid "All"
+msgstr ""
+
+#: admin/partials/security-page.php:241
+msgid "Sort by:"
+msgstr ""
+
+#: admin/partials/security-page.php:244
+#: admin/partials/security-page.php:249
+#: admin/partials/security-page.php:253
+msgid "Name"
+msgstr ""
+
+#: admin/partials/security-page.php:385
+#: admin/partials/security-page.php:560
+#: admin/partials/security-page.php:609
+#: admin/partials/security-results-page.php:79
+#: admin/partials/security-results-page.php:137
+#: vortem.php:1348
+msgid "Critical"
+msgstr ""
+
+#: admin/partials/security-page.php:397
+#: admin/partials/security-page.php:610
+#: admin/partials/security-results-page.php:80
+#: admin/partials/security-results-page.php:148
+#: vortem.php:1349
+msgid "High"
+msgstr ""
+
+#: admin/partials/security-page.php:409
+#: admin/partials/security-page.php:564
+#: admin/partials/security-page.php:611
+#: admin/partials/security-results-page.php:81
+#: admin/partials/security-results-page.php:159
+#: vortem.php:1350
+msgid "Medium"
+msgstr ""
+
+#: admin/partials/security-page.php:421
+#: admin/partials/security-page.php:612
+#: admin/partials/security-results-page.php:82
+#: vortem.php:1351
+msgid "Low"
+msgstr ""
+
+#: admin/partials/security-page.php:434
+#: vortem.php:1352
+msgid "Secure Items"
+msgstr ""
+
+#: admin/partials/security-page.php:444
+#: vortem.php:1354
+msgid "Vulnerability Distribution by Severity"
+msgstr ""
+
+#: admin/partials/security-page.php:450
+#: vortem.php:1355
+msgid "Vulnerabilities by Type"
+msgstr ""
+
+#: admin/partials/security-page.php:480
+#: vortem.php:1356
+msgid "Items Requiring Attention"
+msgstr ""
+
+#: admin/partials/security-page.php:486
+#: vortem.php:1358
+msgid "No items at risk"
+msgstr ""
+
+#: admin/partials/security-page.php:498
+#: vortem.php:1357
+msgid "Recent Vulnerabilities"
+msgstr ""
+
+#: admin/partials/security-page.php:503
+#: vortem.php:1359
+msgid "No recent vulnerabilities"
+msgstr ""
+
+#: admin/partials/security-page.php:519
+msgid "No plugins found"
+msgstr ""
+
+#: admin/partials/security-page.php:520
+#: admin/partials/security-page.php:535
+msgid "Try adjusting your filters or search terms"
+msgstr ""
+
+#: admin/partials/security-page.php:534
+msgid "No themes found"
+msgstr ""
+
+#: admin/partials/security-page.php:550
+msgid "WordPress Vulnerability"
+msgstr ""
+
+#: admin/partials/security-page.php:556
+#: vortem.php:1375
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr ""
+
+#: admin/partials/security-page.php:590
+msgid "Vulnerability Details"
+msgstr ""
+
+#: admin/partials/security-page.php:606
+msgid "Filter by Severity:"
+msgstr ""
+
+#: admin/partials/security-page.php:608
+msgid "All Severities"
+msgstr ""
+
+#: admin/partials/security-page.php:615
+msgid "vulnerabilities"
+msgstr ""
+
+#: admin/partials/security-results-page.php:34
+msgid "Security Results"
+msgstr ""
+
+#: admin/partials/security-results-page.php:35
+msgid "Plugin security vulnerabilities and issues"
+msgstr ""
+
+#: admin/partials/security-results-page.php:53
+msgid "Loading security data..."
+msgstr ""
+
+#: admin/partials/security-results-page.php:65
+msgid "Failed to load security data"
+msgstr ""
+
+#: admin/partials/security-results-page.php:76
+msgid "Severity:"
+msgstr ""
+
+#: admin/partials/security-results-page.php:87
+msgid "Issue Type:"
+msgstr ""
+
+#: admin/partials/security-results-page.php:94
+msgid "Score:"
+msgstr ""
+
+#: admin/partials/security-results-page.php:97
+msgid "0.0 - 3.9"
+msgstr ""
+
+#: admin/partials/security-results-page.php:98
+msgid "4.0 - 6.9"
+msgstr ""
+
+#: admin/partials/security-results-page.php:99
+msgid "7.0 - 8.9"
+msgstr ""
+
+#: admin/partials/security-results-page.php:100
+msgid "9.0 - 10.0"
+msgstr ""
+
+#: admin/partials/security-results-page.php:105
+msgid "Plugin:"
+msgstr ""
+
+#: admin/partials/security-results-page.php:112
+msgid "Clear Filters"
+msgstr ""
+
+#: admin/partials/security-results-page.php:126
+msgid "Total Issues"
+msgstr ""
+
+#: admin/partials/security-results-page.php:173
+msgid "CVE ID"
+msgstr ""
+
+#: admin/partials/security-results-page.php:181
+msgid "Severity"
+msgstr ""
+
+#: admin/partials/security-results-page.php:189
+msgid "CVSS Score"
+msgstr ""
+
+#: admin/partials/security-results-page.php:197
+msgid "Issue Type (CWE)"
+msgstr ""
+
+#: admin/partials/security-results-page.php:203
+msgid "Plugin"
+msgstr ""
+
+#: admin/partials/security-results-page.php:229
+msgid "No security issues found"
+msgstr ""
+
+#: admin/partials/security-results-page.php:230
+msgid "All plugins appear to be secure"
+msgstr ""
+
+#: admin/partials/security-results-page.php:243
+msgid "Security Issue Details"
+msgstr ""
+
+#: includes/class-vortem-analytics.php:1755
+msgid "No sales yet"
+msgstr ""
+
+#: includes/class-vortem-analytics.php:1764
+msgid "Product deleted"
+msgstr ""
+
+#: includes/class-vortem-analytics.php:1952
+msgid "Invalid Matomo endpoint."
+msgstr ""
+
+#: includes/class-vortem-api-client.php:267
+#: includes/class-vortem-api-client.php:290
+#: includes/class-vortem-api-client.php:424
+#: includes/class-vortem-api-client.php:467
+#: includes/class-vortem-api-client.php:543
+#: includes/class-vortem-api-client.php:587
+#: includes/class-vortem-api-client.php:693
+#: includes/class-vortem-api-client.php:714
+#: includes/class-vortem-api-client.php:843
+#: includes/class-vortem-api-client.php:947
+#: includes/class-vortem-api-client.php:990
+#: includes/class-vortem-api-client.php:1043
+#: includes/class-vortem-api-client.php:1082
+#: includes/class-vortem-api-client.php:1117
+#: includes/class-vortem-api-client.php:1152
+#: includes/class-vortem-api-client.php:1190
+#: includes/class-vortem-api-client.php:1234
+#: includes/class-vortem-api-client.php:1279
+#: includes/class-vortem-api-client.php:1324
+#: includes/class-vortem-api-client.php:1369
+#: includes/class-vortem-api-client.php:1416
+#: includes/class-vortem-api-client.php:1490
+msgid "No session token provided. Please complete the setup wizard."
+msgstr ""
+
+#: includes/class-vortem-api-client.php:275
+#: includes/class-vortem-api-client.php:298
+#: includes/class-vortem-api-client.php:701
+msgid "Session token is valid"
+msgstr ""
+
+#: includes/class-vortem-email-marketing-api.php:113
+msgid "Session token is required. Please complete the setup wizard to authenticate."
+msgstr ""
+
+#: includes/class-vortem-i18n.php:99
+msgid "Expired"
+msgstr ""
+
+#: includes/class-vortem-i18n.php:100
+msgid "Suspended"
+msgstr ""
+
+#: includes/class-vortem-i18n.php:103
+msgid "Valid"
+msgstr ""
+
+#: includes/class-vortem-i18n.php:104
+msgid "Invalid"
+msgstr ""
+
+#: includes/class-vortem-i18n.php:105
+msgid "Trial"
+msgstr ""
+
+#: includes/class-vortem-i18n.php:111
+msgid "On Hold"
+msgstr ""
+
+#: includes/class-vortem-i18n.php:112
+msgid "Refunded"
+msgstr ""
+
+#: includes/class-vortem-import-handler.php:93
+msgid "Session token is required. Please provide Authorization header with Bearer token or complete the setup wizard."
+msgstr ""
+
+#: includes/class-vortem-import-handler.php:98
+msgid "Invalid session token format."
+msgstr ""
+
+#: includes/class-vortem-import-handler.php:354
+#: includes/class-vortem-import-handler.php:380
+#: includes/class-vortem-product-fetcher.php:870
+#: includes/class-vortem-product-fetcher.php:899
+#: includes/class-vortem-product-fetcher.php:923
+#: includes/class-vortem-product-fetcher.php:1040
+#: includes/class-vortem-product-fetcher.php:1063
+#: includes/class-vortem-product-fetcher.php:1098
+#: includes/class-vortem-product-fetcher.php:1375
+#: includes/class-vortem-product-manager.php:1229
+#: includes/class-vortem-product-manager.php:1268
+#: includes/class-vortem-product-manager.php:1286
+#: includes/class-vortem-product-manager.php:1704
+#: includes/class-vortem-product-manager.php:1738
+#: includes/class-vortem-product-manager.php:1837
+#: includes/class-vortem-product-manager.php:2139
+#: includes/class-vortem-product-manager.php:2363
+#: includes/class-vortem-product-manager.php:2389
+#: includes/class-vortem-product-manager.php:2407
+#: includes/class-vortem-product-manager.php:2448
+#: includes/class-vortem-setup-wizard.php:644
+#: includes/class-vortem-setup-wizard.php:681
+#: includes/class-vortem-setup-wizard.php:745
+#: includes/class-vortem-setup-wizard.php:906
+#: includes/class-vortem-setup-wizard.php:931
+msgid "Unauthorized"
+msgstr ""
+
+#: includes/class-vortem-import-handler.php:532
+msgid "Watch Product Video"
+msgstr ""
+
+#: includes/class-vortem-matomo-widget.php:262
+msgid "Invalid tracking script received from API."
+msgstr ""
+
+#: includes/class-vortem-product-creator.php:2123
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:51
+msgid "Welcome"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:52
+msgid "Welcome to vortem.ai Plugin"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:56
+msgid "Configuration"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:57
+msgid "Set your preferences"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:61
+msgid "Terms"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:62
+msgid "Accept terms"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:66
+msgid "Complete"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:67
+msgid "Setup completed"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:101
+#: includes/class-vortem-setup-wizard.php:102
+msgid "Setup Wizard"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:154
+#: vortem.php:1237
+msgid "An error occurred. Please try again."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:155
+#: vortem.php:1238
+msgid "Success!"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:158
+#: includes/class-vortem-setup-wizard.php:262
+msgid "Back"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:159
+#: includes/class-vortem-setup-wizard.php:273
+#: vortem.php:1241
+msgid "Complete Setup"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:160
+#: vortem.php:1242
+msgid "Save & Continue"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:161
+#: vortem.php:1243
+msgid "Accept & Continue"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:162
+#: includes/class-vortem-setup-wizard.php:418
+msgid "Select Language"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:163
+#: includes/class-vortem-setup-wizard.php:462
+msgid "Select Currency"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:164
+msgid "Search Language"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:166
+#: includes/class-vortem-setup-wizard.php:302
+msgid "Restart"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:167
+#: includes/class-vortem-setup-wizard.php:629
+msgid "Restart Wizard"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:168
+#: includes/class-vortem-setup-wizard.php:295
+msgid "This will reset the setup process. Are you sure?"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:169
+#: includes/class-vortem-setup-wizard.php:292
+msgid "Confirm Restart"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:170
+#: includes/class-vortem-setup-wizard.php:352
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:277
+msgid "Next Step"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:344
+msgid "Let's Get You Started"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:345
+msgid "Complete setup in about 2 minutes"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:351
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:353
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:364
+msgid "Quick Setup"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:365
+msgid "Get up and running in minutes with our guided installation process"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:373
+msgid "Secure & Reliable"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:374
+msgid "Enterprise-grade security built into every component"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:383
+msgid "Optimized Performance"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:384
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:401
+msgid "Initial Configuration"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:402
+msgid "Set your default language and currency preferences"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:424
+msgid "Loading languages..."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:489
+#: includes/class-vortem-setup-wizard.php:520
+msgid "Terms & Conditions"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:490
+msgid "Please review and accept our terms to continue"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:495
+msgid "vortem.ai Plugin Terms of Service"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:499
+msgid "1. Service Availability"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:500
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:503
+msgid "2. Support"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:504
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:507
+msgid "3. Updates"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:508
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:519
+msgid "I accept the Terms & Conditions"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:524
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:531
+msgid "Please wait while we authenticate your account..."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:544
+msgid "Sign up"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:546
+msgid "Sign up to get started"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:550
+msgid "Need help?"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:552
+msgid "Contact Support"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:575
+msgid "Installation Complete!"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:577
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:581
+msgid "Configuration Summary"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:584
+msgid "Language:"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:588
+msgid "Currency:"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:592
+msgid "Terms Accepted:"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:595
+msgid "Yes"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:609
+msgid "Go to Dashboard"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:652
+#: includes/class-vortem-setup-wizard.php:689
+msgid "Invalid step."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:660
+msgid "Please accept the terms and conditions before proceeding."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:814
+#: includes/class-vortem-setup-wizard.php:895
+msgid "Sign up failed:"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:836
+msgid "Invalid response."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:841
+msgid "Sign up failed."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:890
+msgid "Sign up successful"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:913
+msgid "Terms must be accepted."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:920
+msgid "Terms accepted successfully"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:937
+msgid "Session token not found. Please complete authentication first."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:950
+msgid "Please accept the terms and conditions before completing setup."
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:999
+msgid "Setup completed successfully"
+msgstr ""
+
+#: includes/class-vortem-setup-wizard.php:1211
+msgid "Wizard has been reset successfully."
+msgstr ""
+
+#: vortem.php:217
+msgid "vortem.ai Activation Error"
+msgstr ""
+
+#: vortem.php:318
+#: vortem.php:363
+#: vortem.php:385
+msgid "vortem"
+msgstr ""
+
+#: vortem.php:319
+msgid "requires WooCommerce to be installed and activated."
+msgstr ""
+
+#: vortem.php:321
+msgid "Install WooCommerce"
+msgstr ""
+
+#: vortem.php:347
+msgid "needs Yoast SEO plugin for SEO-optimized product import. Please install and activate Yoast SEO to use this feature."
+msgstr ""
+
+#: vortem.php:349
+msgid "Install Yoast SEO"
+msgstr ""
+
+#. translators: %1$s: Minimum required PHP version, %2$s: Current PHP version
+#: vortem.php:367
+#, php-format
+msgid "requires PHP version %1$s or higher. You are running version %2$s."
+msgstr ""
+
+#. translators: %1$s: Minimum required WordPress version, %2$s: Current WordPress version
+#: vortem.php:389
+#, php-format
+msgid "requires WordPress version %1$s or higher. You are running version %2$s."
+msgstr ""
+
+#: vortem.php:406
+msgid "Welcome to vortem.ai!"
+msgstr ""
+
+#: vortem.php:407
+msgid "Complete the setup wizard to connect your account and get started."
+msgstr ""
+
+#: vortem.php:409
+msgid "Start Setup Wizard"
+msgstr ""
+
+#. translators: %1$s: Minimum required PHP version, %2$s: Current PHP version
+#: vortem.php:493
+#, php-format
+msgid "vortem.ai requires PHP version %1$s or higher. You are running version %2$s."
+msgstr ""
+
+#. translators: %1$s: Minimum required WordPress version, %2$s: Current WordPress version
+#: vortem.php:509
+#, php-format
+msgid "vortem.ai requires WordPress version %1$s or higher. You are running version %2$s."
+msgstr ""
+
+#: vortem.php:1364
+msgid "Your site is secure"
+msgstr ""
+
+#: vortem.php:1365
+msgid "No known vulnerabilities detected"
+msgstr ""
+
+#: vortem.php:1368
+msgid "High severity vulnerabilities detected"
+msgstr ""
+
+#: vortem.php:1369
+msgid "Please review and address these issues soon."
+msgstr ""
+
+#: vortem.php:1370
+msgid "Medium severity vulnerabilities detected"
+msgstr ""
+
+#: vortem.php:1371
+msgid "Schedule time to review and fix these issues."
+msgstr ""
+
+#: vortem.php:1372
+msgid "Low severity vulnerabilities detected"
+msgstr ""
+
+#: vortem.php:1373
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr ""
+
+#: vortem.php:1385
+msgid "Send to API"
+msgstr ""
+
+#: vortem.php:1509
+msgid "For Aliexpress order creation, phone number is required."
+msgstr ""

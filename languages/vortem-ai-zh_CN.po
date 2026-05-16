@@ -1,0 +1,2994 @@
+# Translation of Vortem AI in zh_CN
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "需要安装并启用 WooCommerce。"
+
+msgid "or higher. You are running version"
+msgstr "或更高。您当前运行的版本是"
+
+msgid "Welcome to vortem.ai!"
+msgstr "欢迎使用 vortem.ai！"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "Vortem.ai 设置向导"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "感谢您选择 vortem.ai 插件。本向导将帮助您快速轻松地设置您的代发货商店。"
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "要使用 Vortem 的产品销售服务，您需要一个 AliExpress 账户。您可以从设置 → Vortem 登录 → AliExpress 集成连接您的账户。如果您没有账户，可以直接从那里注册。"
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "要使用 Vortem 的产品销售服务，您需要一个 AliExpress 账户。"
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "您可以从设置 → Vortem 登录 → AliExpress 集成连接您的账户。"
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "如果您没有账户，可以直接从那里注册。"
+
+msgid "Select Language"
+msgstr "选择语言"
+
+msgid "Select Currency"
+msgstr "选择货币"
+
+msgid "Complete Setup"
+msgstr "完成设置"
+
+msgid "What you'll get:"
+msgstr "您将获得："
+
+msgid "Automated product synchronization"
+msgstr "自动产品同步"
+
+msgid "Order management and processing"
+msgstr "订单管理和处理"
+
+msgid "Real-time inventory updates"
+msgstr "实时库存更新"
+
+msgid "Easy-to-use admin interface"
+msgstr "易于使用的管理界面"
+
+msgid "24/7 customer support"
+msgstr "24/7 客户支持"
+
+msgid "Contact Support"
+msgstr "联系支持"
+
+msgid "Import Products"
+msgstr "导入产品"
+
+msgid "Configure Settings"
+msgstr "配置设置"
+
+msgid "Setup Complete!"
+msgstr "设置完成！"
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "设置大约需要 2-3 分钟。"
+
+msgid "Terms & Conditions"
+msgstr "条款和条件"
+
+msgid "1. License Agreement"
+msgstr "1. 许可协议"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "使用此插件即表示您同意遵守所有适用的法律和法规。本插件根据 GPL v2 或更高版本许可证提供。"
+
+msgid "Sign up"
+msgstr "注册"
+
+msgid "Sign up to get started"
+msgstr "注册开始使用"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "恭喜！您的 vortem.ai 插件已成功配置。"
+
+msgid "What's next?"
+msgstr "下一步是什么？"
+
+msgid "Need Help?"
+msgstr "需要帮助？"
+
+msgid "Our support team is here to help you get started."
+msgstr "我们的支持团队随时为您提供帮助。"
+
+msgid "Step %1$d of %2$d"
+msgstr "第 %1$d 步，共 %2$d 步"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "我已阅读并同意%1$s条款和条件%2$s"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "vortem.ai 插件服务条款"
+
+msgid "1. authentication Agreement"
+msgstr "1. 许可协议"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "使用此插件即表示您同意遵守所有适用的法律和法规。本插件根据 GPL v2 或更高版本许可证提供。"
+
+msgid "2. Data Usage"
+msgstr "2. 数据使用"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "我们收集和处理运营代发货服务所需的数据，包括产品信息、订单详情和客户数据。所有数据的处理均符合我们的隐私政策。"
+
+msgid "3. Service Availability"
+msgstr "3. 服务可用性"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "虽然我们努力保持高服务可用性，但我们不能保证服务不中断。我们保留根据需要执行维护和更新的权利。"
+
+msgid "4. Support"
+msgstr "4. 支持"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "通过我们的支持渠道提供技术支持。响应时间可能因问题的复杂性而异。"
+
+msgid "5. Updates"
+msgstr "5. 更新"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "提供插件更新以改进功能和安全性。建议将插件保持更新到最新版本。"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "输入您的 Vortem.ai 许可证密钥以激活插件并访问所有功能。"
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "您可以在 Vortem.ai 帐户仪表板中找到您的许可证密钥。"
+
+msgid "Need help?"
+msgstr "需要帮助？"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "完成设置向导以配置您的身份验证并开始使用。"
+
+msgid "Vortem.ai Overview"
+msgstr "Vortem.ai 概览"
+
+msgid "Vortem.ai Products"
+msgstr "Vortem.ai 产品"
+
+msgid "Vortem.ai Settings"
+msgstr "Vortem.ai 设置"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "在下方配置您的 Vortem.ai 设置。"
+
+msgid "Saving settings and validating authentication..."
+msgstr "正在保存设置并验证许可证..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "设置完成 - 您的 Vortem.ai 插件已可以使用！"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "选择插件界面的语言。更改将在保存后生效。"
+
+msgid "Vortem.ai AI Resources"
+msgstr "Vortem.ai AI 资源"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "访问您的 Vortem.ai AI 帐户和资源"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "访问您的 Vortem.ai AI 帐户和资源："
+
+msgid "Home"
+msgstr "首页"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "访问 Vortem.ai AI 主页"
+
+msgid "Visit Site"
+msgstr "访问网站"
+
+msgid "My Account"
+msgstr "我的帐户"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "管理您的 Vortem.ai AI 帐户设置"
+
+msgid "Support"
+msgstr "支持"
+
+msgid "Get help and support from our team"
+msgstr "从我们的团队获取帮助和支持"
+
+msgid "Documentation"
+msgstr "文档"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "阅读综合指南和教程"
+
+msgid "Terms"
+msgstr "条款"
+
+msgid "Review terms and conditions"
+msgstr "查看条款和条件"
+
+msgid "Privacy"
+msgstr "隐私"
+
+msgid "View our privacy policy"
+msgstr "查看我们的隐私政策"
+
+msgid "error"
+msgstr "错误"
+
+msgid "success"
+msgstr "成功"
+
+msgid "cancel"
+msgstr "取消"
+
+msgid "delete"
+msgstr "删除"
+
+msgid "deleting"
+msgstr "正在删除..."
+
+msgid "edit"
+msgstr "编辑"
+
+msgid "close"
+msgstr "关闭"
+
+msgid "confirm"
+msgstr "确认"
+
+msgid "refresh"
+msgstr "刷新"
+
+msgid "import"
+msgstr "导入"
+
+msgid "actions"
+msgstr "操作"
+
+msgid "status"
+msgstr "状态"
+
+msgid "date"
+msgstr "日期"
+
+msgid "subject"
+msgstr "主题"
+
+msgid "recipient"
+msgstr "收件人"
+
+msgid "total"
+msgstr "总计"
+
+msgid "items"
+msgstr "项目"
+
+msgid "customer"
+msgstr "客户"
+
+msgid "order"
+msgstr "订单"
+
+msgid "payment"
+msgstr "付款"
+
+msgid "active"
+msgstr "有效"
+
+msgid "inactive"
+msgstr "无效"
+
+msgid "cards"
+msgstr "卡片"
+
+msgid "table"
+msgstr "表格"
+
+msgid "select"
+msgstr "选择"
+
+msgid "sent"
+msgstr "已发送"
+
+msgid "left"
+msgstr "剩余"
+
+msgid "resets"
+msgstr "重置"
+
+msgid "view_more"
+msgstr "查看更多"
+
+msgid "performance"
+msgstr "性能"
+
+msgid "insights"
+msgstr "洞察"
+
+msgid "metrics"
+msgstr "指标"
+
+msgid "device"
+msgstr "设备"
+
+msgid "locale"
+msgstr "语言环境"
+
+msgid "channel"
+msgstr "渠道"
+
+msgid "desktop"
+msgstr "桌面"
+
+msgid "mobile"
+msgstr "移动端"
+
+msgid "retry"
+msgstr "重试"
+
+msgid "failed"
+msgstr "失败"
+
+msgid "support"
+msgstr "4. 支持"
+
+msgid "documentation"
+msgstr "文档"
+
+msgid "are_you_sure"
+msgstr "您确定吗？"
+
+msgid "clear"
+msgstr "清除"
+
+msgid "preview"
+msgstr "预览"
+
+msgid "send_email"
+msgstr "发送邮件"
+
+msgid "recipients"
+msgstr "收件人"
+
+msgid "question"
+msgstr "问题"
+
+msgid "question:"
+msgstr "问题:"
+
+msgid "answer"
+msgstr "回答"
+
+msgid "answer:"
+msgstr "回答:"
+
+msgid "category"
+msgstr "类别:"
+
+msgid "category:"
+msgstr "类别:"
+
+msgid "showing"
+msgstr "正在显示"
+
+msgid "faqs"
+msgstr "常见问题"
+
+msgid "all_categories"
+msgstr "所有分类"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "您想如何创建常见问题？"
+
+msgid "Single FAQ"
+msgstr "单个常见问题"
+
+msgid "Bulk FAQs"
+msgstr "批量常见问题"
+
+msgid "no_faqs_added_yet"
+msgstr "尚未添加常见问题。请在左侧添加您的第一个常见问题。"
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "尚未添加常见问题。请在左侧添加您的第一个常见问题。"
+
+msgid "Added FAQs"
+msgstr "已添加的常见问题"
+
+msgid "faq"
+msgstr "常见问题"
+
+msgid "remove"
+msgstr "删除"
+
+msgid "no_faqs_to_create"
+msgstr "请在创建前至少添加一个常见问题。"
+
+msgid "bulk_faqs_created"
+msgstr "已成功创建 %d 个常见问题"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "创建常见问题失败。请重试。"
+
+msgid "created"
+msgstr "已创建"
+
+msgid "search_faqs"
+msgstr "搜索常见问题..."
+
+msgid "update_faq"
+msgstr "更新常见问题"
+
+msgid "category_label"
+msgstr "类别 *"
+
+msgid "select_existing_category_optional"
+msgstr "选择现有类别（可选）"
+
+msgid "create_faq"
+msgstr "创建常见问题"
+
+msgid "delete_faq"
+msgstr "删除常见问题"
+
+msgid "delete_category"
+msgstr "删除类别"
+
+msgid "delete_category_faqs_confirm"
+msgstr "您确定要删除类别 \"%s\" 中的所有常见问题吗？此操作无法撤消。"
+
+msgid "category_faqs_deleted"
+msgstr "类别 \"%s\" 中的所有常见问题已被删除。"
+
+msgid "failed_to_delete_category_faqs"
+msgstr "删除此类别的常见问题失败。请重试。"
+
+msgid "category_id_not_found"
+msgstr "未找到所选类别的类别ID。"
+
+msgid "orders"
+msgstr "订单"
+
+msgid "last_updated"
+msgstr "最后更新:"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "分析仪表盘"
+
+msgid "Business Intelligence"
+msgstr "商业智能"
+
+msgid "Analytics Hub"
+msgstr "分析中心"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "由高级数据智能支持的综合分析和洞察，用于数据驱动的决策"
+
+msgid "Performance Overview"
+msgstr "性能概览"
+
+msgid "Key performance indicators at a glance"
+msgstr "关键绩效指标一览"
+
+msgid "Analytics Insights"
+msgstr "分析洞察"
+
+msgid "Deep dive into performance metrics"
+msgstr "深入了解性能指标"
+
+msgid "Customer Intelligence"
+msgstr "客户智能"
+
+msgid "Understand customer behavior and trends"
+msgstr "了解客户行为和趋势"
+
+msgid "Market Analysis"
+msgstr "市场分析"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "综合市场比较和类别洞察"
+
+msgid "Data Intelligence"
+msgstr "数据智能"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "详细的分析表和定价洞察"
+
+msgid "Product"
+msgstr "产品"
+
+msgid "Products"
+msgstr "产品"
+
+msgid "Average"
+msgstr "平均"
+
+msgid "No products found"
+msgstr "未找到产品"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "All KPI Products"
+msgstr "所有 KPI 产品"
+
+msgid "Top KPI Products"
+msgstr "热门 KPI 产品"
+
+msgid "Product ID"
+msgstr "产品 ID"
+
+msgid "Product Title"
+msgstr "产品标题"
+
+msgid "Base Price"
+msgstr "基础价格"
+
+msgid "Low-Risk Price"
+msgstr "低风险价格"
+
+msgid "Competitive Price"
+msgstr "竞争价格"
+
+msgid "High-Risk Price"
+msgstr "高风险价格"
+
+msgid "Untitled Product"
+msgstr "无标题产品"
+
+msgid "All Trend Index Products"
+msgstr "所有趋势指数产品"
+
+msgid "Trend Index by Product"
+msgstr "按产品划分的趋势指数"
+
+msgid "Product Name"
+msgstr "产品名称"
+
+msgid "Price vs Rating"
+msgstr "价格与评分"
+
+msgid "Price"
+msgstr "价格"
+
+msgid "Rating"
+msgstr "评分"
+
+msgid "Reviews"
+msgstr "评价"
+
+msgid "CTR"
+msgstr "点击率 (CTR)"
+
+msgid "CVR"
+msgstr "转化率 (CVR)"
+
+msgid "Average Price"
+msgstr "平均价格"
+
+msgid "Average Rating"
+msgstr "平均评分"
+
+msgid "Product Count"
+msgstr "产品数量"
+
+msgid "Avg Price"
+msgstr "平均价格"
+
+msgid "Avg Rating"
+msgstr "平均评分"
+
+msgid "Failed to load"
+msgstr "加载失败"
+
+msgid "products"
+msgstr "产品"
+
+msgid "product"
+msgstr "产品"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "趋势指数"
+
+msgid "Profitability"
+msgstr "盈利能力"
+
+msgid "Competition"
+msgstr "竞争"
+
+msgid "Demand Stability"
+msgstr "需求稳定性"
+
+msgid "View All"
+msgstr "查看全部"
+
+msgid "price rating data"
+msgstr "价格评分数据"
+
+msgid "Total Reviews"
+msgstr "评价总数"
+
+msgid "Avg Reviews"
+msgstr "平均评价数"
+
+msgid "Overall Sentiment"
+msgstr "总体情绪"
+
+msgid "Positive"
+msgstr "积极"
+
+msgid "Neutral"
+msgstr "中性"
+
+msgid "Negative"
+msgstr "消极"
+
+msgid "Trend Status Overview"
+msgstr "趋势状态概览"
+
+msgid "Rising"
+msgstr "上升"
+
+msgid "Stable"
+msgstr "稳定"
+
+msgid "Declining"
+msgstr "下降"
+
+msgid "sentiment data"
+msgstr "情绪数据"
+
+msgid "trend status data"
+msgstr "趋势状态数据"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Category"
+msgstr "类别"
+
+msgid "All Categories"
+msgstr "所有类别"
+
+msgid "Count"
+msgstr "计数"
+
+msgid "Percentage"
+msgstr "百分比"
+
+msgid "Market Comparison (by Source)"
+msgstr "市场比较（按来源）"
+
+msgid "Market"
+msgstr "市场"
+
+msgid "Best seller"
+msgstr "畅销商品"
+
+msgid "Movers and shakers"
+msgstr "飙升榜"
+
+msgid "New releases"
+msgstr "新品发布"
+
+msgid "market comparison data"
+msgstr "市场比较数据"
+
+msgid "Category Comparison"
+msgstr "类别比较"
+
+msgid "Category Comparison - All Data"
+msgstr "类别比较 - 所有数据"
+
+msgid "Categories"
+msgstr "类别"
+
+msgid "Metrics"
+msgstr "指标"
+
+msgid "Avg Sold"
+msgstr "平均销量"
+
+msgid "Avg FPSI"
+msgstr "平均 FPSI"
+
+msgid "N/A"
+msgstr "不适用"
+
+msgid "value"
+msgstr "值"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "category comparison data"
+msgstr "类别比较数据"
+
+msgid "Amazon Device"
+msgstr "亚马逊设备"
+
+msgid "Appliances"
+msgstr "家电"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "工艺、缝纫与手作"
+
+msgid "Automotive"
+msgstr "汽车用品"
+
+msgid "Baby Products"
+msgstr "婴儿用品"
+
+msgid "Baby"
+msgstr "母婴"
+
+msgid "Beauty & Personal Care"
+msgstr "美容与个人护理"
+
+msgid "Cell Phones & Accessories"
+msgstr "手机与配件"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "服装、鞋履与珠宝"
+
+msgid "Collectibles & Fine Art"
+msgstr "收藏品与艺术品"
+
+msgid "Electronics"
+msgstr "电子产品"
+
+msgid "Health & Household"
+msgstr "健康与家居"
+
+msgid "Home & Kitchen"
+msgstr "家居与厨房"
+
+msgid "Industrial & Scientific"
+msgstr "工业与科学"
+
+msgid "Musical Instruments"
+msgstr "乐器"
+
+msgid "No category found"
+msgstr "未找到类别"
+
+msgid "Office Products"
+msgstr "办公用品"
+
+msgid "Patio, Lawn & Garden"
+msgstr "露台、草坪与花园"
+
+msgid "Safety & Security"
+msgstr "安全与安防"
+
+msgid "Tools & Home Improvement"
+msgstr "工具与家居装修"
+
+msgid "Toys & Games"
+msgstr "玩具与游戏"
+
+msgid "Suggested Pricing"
+msgstr "建议定价"
+
+msgid "All Suggested Pricing"
+msgstr "所有建议定价"
+
+msgid "suggested pricing data"
+msgstr "建议定价数据"
+
+msgid "Search products..."
+msgstr "搜索产品..."
+
+msgid "Search products or categories..."
+msgstr "搜索产品或类别..."
+
+msgid "Insights"
+msgstr "洞察"
+
+msgid "Performance insights for"
+msgstr "性能洞察："
+
+msgid "your website"
+msgstr "您的网站"
+
+msgid "Desktop"
+msgstr "桌面"
+
+msgid "Mobile"
+msgstr "移动"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Loading..."
+msgstr "加载中..."
+
+msgid "Core Web Vitals"
+msgstr "核心 Web 指标"
+
+msgid "Performance Audits"
+msgstr "性能审计"
+
+msgid "View More"
+msgstr "查看更多"
+
+msgid "Performance Insights"
+msgstr "性能洞察"
+
+msgid "Analysis Configuration"
+msgstr "分析配置"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Locale"
+msgstr "语言环境"
+
+msgid "Channel"
+msgstr "渠道"
+
+msgid "Loading Insights data..."
+msgstr "正在加载洞察数据..."
+
+msgid "Error Loading Insights Data"
+msgstr "加载洞察数据错误"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "获取洞察分析数据时发生错误。"
+
+msgid "Retry"
+msgstr "重试"
+
+msgid "No Insights Data Available"
+msgstr "无可用洞察数据"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "无可用性能分析数据。这可能意味着尚未运行分析，或者获取数据时出错。"
+
+msgid "Last analyzed:"
+msgstr "上次分析："
+
+msgid "Performance"
+msgstr "性能"
+
+msgid "Accessibility"
+msgstr "可访问性"
+
+msgid "Best Practices"
+msgstr "最佳实践"
+
+msgid "SEO"
+msgstr "SEO (搜索引擎优化)"
+
+msgid "No performance metrics available"
+msgstr "无可用性能指标"
+
+msgid "No audit data available"
+msgstr "无可用审计数据"
+
+msgid "No audits available"
+msgstr "无可用审计"
+
+msgid "View Less"
+msgstr "收起"
+
+msgid "more"
+msgstr "更多"
+
+msgid "No insights available"
+msgstr "无可用洞察"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "未检测到性能问题。您的网站运行良好！"
+
+msgid "Wasted:"
+msgstr "浪费："
+
+msgid "Initializing..."
+msgstr "正在初始化..."
+
+msgid "Connecting to server..."
+msgstr "正在连接到服务器..."
+
+msgid "Fetching insights data..."
+msgstr "正在获取洞察数据..."
+
+msgid "Analyzing performance metrics..."
+msgstr "正在分析性能指标..."
+
+msgid "Processing audits and insights..."
+msgstr "正在处理审计和洞察..."
+
+msgid "Finalizing results..."
+msgstr "正在完成结果..."
+
+msgid "Complete!"
+msgstr "完成！"
+
+msgid "Failed to load Insights data"
+msgstr "加载洞察数据失败"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "加载洞察数据失败。请检查您的连接并重试。"
+
+msgid "No data available"
+msgstr "无可用数据"
+
+msgid "Excellent"
+msgstr "优秀"
+
+msgid "Needs Improvement"
+msgstr "需要改进"
+
+msgid "Poor"
+msgstr "差"
+
+msgid "Unknown error"
+msgstr "未知错误"
+
+msgid "Email Marketing"
+msgstr "电子邮件营销"
+
+msgid "Manage, send, and track your emails"
+msgstr "管理、发送和跟踪您的邮件"
+
+msgid "Emails"
+msgstr "邮件"
+
+msgid "Lists"
+msgstr "列表"
+
+msgid "Create Email"
+msgstr "创建邮件"
+
+msgid "Search emails..."
+msgstr "搜索邮件..."
+
+msgid "Cards"
+msgstr "卡片"
+
+msgid "Table"
+msgstr "表格"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Recipient"
+msgstr "收件人"
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "Created"
+msgstr "已创建"
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "Email Lists"
+msgstr "邮件列表"
+
+msgid "Manage, send, and track your email lists"
+msgstr "管理、发送和跟踪您的邮件列表"
+
+msgid "Create Email List"
+msgstr "创建邮件列表"
+
+msgid "Search lists..."
+msgstr "搜索列表..."
+
+msgid "Download Template"
+msgstr "下载模板"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "下载邮件收件人.xlsx 模板"
+
+msgid "Upload Template"
+msgstr "上传模板"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "上传邮件收件人.xlsx 文件"
+
+msgid "Recipients"
+msgstr "收件人"
+
+msgid "Confirm Action"
+msgstr "确认操作"
+
+msgid "Are you sure you want to proceed?"
+msgstr "您确定要继续吗？"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "List Subject"
+msgstr "列表主题"
+
+msgid "Subject for all recipients"
+msgstr "所有收件人的主题"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "输入电子邮件地址并按回车键或点击添加"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "逐个输入电子邮件地址。点击标签上的 X 以将其移除。"
+
+msgid "Email Body (optional HTML)"
+msgstr "邮件正文（可选 HTML）"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "您可以使用可视化编辑器或切换到文本模式粘贴 HTML。"
+
+msgid "Send"
+msgstr "发送"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Create New Email"
+msgstr "创建新邮件"
+
+msgid "Your subject"
+msgstr "您的主题"
+
+msgid "Email Body"
+msgstr "邮件正文"
+
+msgid "Send Email"
+msgstr "发送邮件"
+
+msgid "Email Sent"
+msgstr "邮件已发送"
+
+msgid "Your email has been sent successfully."
+msgstr "您的邮件已成功发送。"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "Total"
+msgstr "总计"
+
+msgid "Sent"
+msgstr "已发送"
+
+msgid "Read"
+msgstr "已读"
+
+msgid "Revision"
+msgstr "修订"
+
+msgid "Sent Emails"
+msgstr "已发送邮件"
+
+msgid "Export Excel"
+msgstr "导出 Excel"
+
+msgid "Updated"
+msgstr "已更新"
+
+msgid "Failed"
+msgstr "失败"
+
+msgid "Pending"
+msgstr "待处理"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Update & Send"
+msgstr "更新并发送"
+
+msgid "Sending..."
+msgstr "正在发送..."
+
+msgid "Edit Email"
+msgstr "编辑邮件"
+
+msgid "Exit Select"
+msgstr "退出选择"
+
+msgid "To:"
+msgstr "收件人："
+
+msgid "Created:"
+msgstr "创建时间："
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Update Email List"
+msgstr "更新邮件列表"
+
+msgid "status_sent"
+msgstr "已发送"
+
+msgid "status_failed"
+msgstr "失败"
+
+msgid "status_pending"
+msgstr "待处理"
+
+msgid "SENT"
+msgstr "已发送"
+
+msgid "Sent:"
+msgstr "发送时间："
+
+msgid "Failed:"
+msgstr "失败原因："
+
+msgid "Pending:"
+msgstr "待处理："
+
+msgid "Email sent"
+msgstr "邮件已发送"
+
+msgid "Successfully sent"
+msgstr "发送成功"
+
+msgid "email(s)"
+msgstr "封邮件"
+
+msgid "Your email list has been sent successfully."
+msgstr "您的邮件列表已成功发送。"
+
+msgid "FAILED"
+msgstr "失败"
+
+msgid "PENDING"
+msgstr "待处理"
+
+msgid "Total Lists"
+msgstr "列表总数"
+
+msgid "Total Recipients"
+msgstr "收件人总数"
+
+msgid "create_email_list"
+msgstr "创建邮件列表"
+
+msgid "add"
+msgstr "添加"
+
+msgid "send"
+msgstr "发送"
+
+msgid "ok"
+msgstr "确定"
+
+msgid "security"
+msgstr "安全"
+
+msgid "welcome"
+msgstr "欢迎"
+
+msgid "of"
+msgstr "共"
+
+msgid "previous"
+msgstr "上一步"
+
+msgid "next"
+msgstr "下一步"
+
+msgid "home"
+msgstr "首页"
+
+msgid "terms"
+msgstr "条款"
+
+msgid "Active"
+msgstr "有效"
+
+msgid "Not Set"
+msgstr "未设置"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> 导入"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> 删除"
+
+msgid "Importing..."
+msgstr "正在导入..."
+
+msgid "Deleting..."
+msgstr "正在删除..."
+
+msgid "Already Imported"
+msgstr "已导入"
+
+msgid "Product deleted successfully"
+msgstr "产品删除成功"
+
+msgid "NEW"
+msgstr "新"
+
+msgid "Added"
+msgstr "已添加"
+
+msgid "Exists"
+msgstr "已存在"
+
+msgid "Showing"
+msgstr "显示"
+
+msgid "← Previous"
+msgstr "← 上一页"
+
+msgid "Previous"
+msgstr "上一页"
+
+msgid "Next →"
+msgstr "下一页 →"
+
+msgid "Next"
+msgstr "下一页"
+
+msgid "Processing..."
+msgstr "正在处理..."
+
+msgid "Please wait while we import your product"
+msgstr "请稍候，我们正在导入您的产品"
+
+msgid "Importing product as draft..."
+msgstr "正在将产品导入为草稿..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "这将在 WooCommerce 中创建产品"
+
+msgid "Importing product with SEO optimization..."
+msgstr "正在导入带有 SEO 优化的产品..."
+
+msgid "Checking product status..."
+msgstr "正在检查产品状态..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "请稍候，我们正在检查产品是否存在"
+
+msgid "Loading products..."
+msgstr "正在加载产品..."
+
+msgid "Overview"
+msgstr "概览"
+
+msgid "Business Overview"
+msgstr "业务概览"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "通过一个仪表盘监控您的插件性能、跟踪关键指标并管理您的运营"
+
+msgid "Total Products"
+msgstr "产品总数"
+
+msgid "Quick Actions"
+msgstr "快速操作"
+
+msgid "Analytics Dashboard"
+msgstr "分析仪表盘"
+
+msgid "Analytics Overview"
+msgstr "分析概览"
+
+msgid "Quick insights into your business performance"
+msgstr "快速了解您的业务绩效"
+
+msgid "View Full Analytics"
+msgstr "查看完整分析"
+
+msgid "Overall Sentiment distribution"
+msgstr "总体情绪分布"
+
+msgid "Trend Status distribution"
+msgstr "趋势状态分布"
+
+msgid "Analytics"
+msgstr "分析"
+
+msgid "BI Analytics Hub"
+msgstr "商业智能分析中心"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "No orders found"
+msgstr "未找到订单"
+
+msgid "Total Orders"
+msgstr "订单总数"
+
+msgid "Current Page"
+msgstr "当前页"
+
+msgid "Orders Per Page"
+msgstr "每页订单数"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "通过订单号、客户姓名或电子邮件搜索订单..."
+
+msgid "Loading orders..."
+msgstr "正在加载订单..."
+
+msgid "Page"
+msgstr "页"
+
+msgid "WooCommerce Analytics"
+msgstr "WooCommerce 分析"
+
+msgid "WordPress Analytics"
+msgstr "WordPress 分析"
+
+msgid "Clear Cache"
+msgstr "清除缓存"
+
+msgid "Export CSV"
+msgstr "导出 CSV"
+
+msgid "Last updated:"
+msgstr "最后更新："
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "加载分析数据失败。请刷新页面。"
+
+msgid "No data available to export"
+msgstr "没有可导出的数据"
+
+msgid "Orders Today"
+msgstr "今日订单"
+
+msgid "Total Revenue"
+msgstr "总收入"
+
+msgid "Revenue Today"
+msgstr "今日收入"
+
+msgid "Revenue (30 Days)"
+msgstr "收入（30天）"
+
+msgid "Avg Order Value"
+msgstr "平均订单价值"
+
+msgid "Pending Orders"
+msgstr "待处理订单"
+
+msgid "Failed Orders"
+msgstr "失败订单"
+
+msgid "Cart Abandonment"
+msgstr "购物车放弃率"
+
+msgid "Customers (30 Days)"
+msgstr "客户（30 天）"
+
+msgid "Top Seller (30 Days)"
+msgstr "畅销商品（30 天）"
+
+msgid "Total Users"
+msgstr "用户总数"
+
+msgid "Users Today"
+msgstr "今日用户"
+
+msgid "Total Comments"
+msgstr "评论总数"
+
+msgid "Total Views"
+msgstr "总浏览量"
+
+msgid "Refunded"
+msgstr "已退款"
+
+msgid "Pending payment"
+msgstr "待付款"
+
+msgid "Processing"
+msgstr "处理中"
+
+msgid "On hold"
+msgstr "保留中"
+
+msgid "Completed"
+msgstr "已完成"
+
+msgid "Cancelled"
+msgstr "已取消"
+
+msgid "Draft"
+msgstr "草稿"
+
+msgid "Revenue Overview"
+msgstr "收入概览"
+
+msgid "Orders Status"
+msgstr "订单状态"
+
+msgid "WordPress Activity"
+msgstr "WordPress 活动"
+
+msgid "Revenue"
+msgstr "收入"
+
+msgid "WordPress Metrics"
+msgstr "WordPress 指标"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "每页产品数不能超过 100。请输入 1 到 100 之间的值。"
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "每页产品数必须至少为 1。请输入有效值。"
+
+msgid "Settings saved successfully!"
+msgstr "设置保存成功！"
+
+msgid "Please enter a authentication key before testing."
+msgstr "请在测试前输入许可证密钥。"
+
+msgid "more..."
+msgstr "更多..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "分析缓存清除成功！"
+
+msgid "No products to import. Please sync products first."
+msgstr "没有要导入的产品。请先同步产品。"
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "导入完成！%d 个产品已导入，%d 个失败。"
+
+msgid "Import failed: %s"
+msgstr "导入失败：%s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "API 测试完成！检查 debug.log 以获取详细日志。所有端点测试成功。"
+
+msgid "API Test Failed: %s"
+msgstr "API 测试失败：%s"
+
+msgid "Database structure validated and fixed:"
+msgstr "数据库结构已验证并修复："
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "数据库结构有效。无需修复。"
+
+msgid "Database validation issues:"
+msgstr "数据库验证问题："
+
+msgid "Database validation failed: %s"
+msgstr "数据库验证失败：%s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "您的 Vortem 许可证处于活动状态，计划为 %s。"
+
+msgid "Validated on: %s"
+msgstr "验证时间：%s"
+
+msgid "Import failed. Please try again."
+msgstr "导入失败。请重试。"
+
+msgid "Please select a bulk action."
+msgstr "请选择批量操作。"
+
+msgid "Please select at least one product."
+msgstr "请至少选择一个产品。"
+
+msgid "Bulk action failed. Please try again."
+msgstr "批量操作失败。请重试。"
+
+msgid "Failed to trash product. Please try again."
+msgstr "将产品移至回收站失败。请重试。"
+
+msgid "Failed to restore product. Please try again."
+msgstr "恢复产品失败。请重试。"
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "将产品导入为草稿失败。请重试。"
+
+msgid "Failed to get product details."
+msgstr "获取产品详情失败。"
+
+msgid "Delete failed. Please try again."
+msgstr "删除失败。请重试。"
+
+msgid "FAQ Management"
+msgstr "常见问题管理"
+
+msgid "Manage your frequently asked questions"
+msgstr "管理您的常见问题解答"
+
+msgid "Search FAQs..."
+msgstr "搜索常见问题..."
+
+msgid "Card View"
+msgstr "卡片视图"
+
+msgid "Table View"
+msgstr "表格视图"
+
+msgid "Refresh FAQs"
+msgstr "刷新常见问题"
+
+msgid "Create New FAQ"
+msgstr "创建新常见问题"
+
+msgid "Total FAQs"
+msgstr "常见问题总数"
+
+msgid "Active FAQs"
+msgstr "有效常见问题"
+
+msgid "Page Status"
+msgstr "页面状态"
+
+msgid "Question"
+msgstr "问题"
+
+msgid "No FAQs yet"
+msgstr "暂无常见问题"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "开始创建常见问题以建立您的知识库"
+
+msgid "Create Your First FAQ"
+msgstr "创建您的第一个常见问题"
+
+msgid "Loading FAQs..."
+msgstr "正在加载常见问题..."
+
+msgid "Update FAQ"
+msgstr "更新常见问题"
+
+msgid "Question *"
+msgstr "问题 *"
+
+msgid "Enter your question here..."
+msgstr "在此输入您的问题..."
+
+msgid "Answer *"
+msgstr "回答 *"
+
+msgid "Enter the answer here..."
+msgstr "在此输入回答..."
+
+msgid "Create FAQ"
+msgstr "创建常见问题"
+
+msgid "FAQ Details"
+msgstr "常见问题详情"
+
+msgid "Answer"
+msgstr "回答"
+
+msgid "Delete FAQ"
+msgstr "删除常见问题"
+
+msgid "ID:"
+msgstr "ID："
+
+msgid "Answer:"
+msgstr "回答："
+
+msgid "View Details"
+msgstr "查看详情"
+
+msgid "Edit FAQ"
+msgstr "编辑常见问题"
+
+msgid "Creating..."
+msgstr "正在创建..."
+
+msgid "Updating..."
+msgstr "正在更新..."
+
+msgid "Question is required"
+msgstr "问题为必填项"
+
+msgid "Answer is required"
+msgstr "回答为必填项"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "回答长度至少为 10 个字符"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "常见问题 \"%s\" 已创建"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "常见问题 \"%s\" 已更新"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "常见问题 \"%s\" 已删除"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "您确定要删除 \"%s\" 吗？此操作无法撤消。"
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "加载常见问题失败。请重试。"
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "保存常见问题失败。请重试。"
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "删除常见问题失败。请重试。"
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "需要身份验证。请检查您的许可证密钥。"
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "许可证密钥为必填项。请在 Vortem.ai 设置中配置您的许可证密钥。"
+
+msgid "Security"
+msgstr "安全"
+
+msgid "Search plugins..."
+msgstr "搜索插件..."
+
+msgid "Last Modified"
+msgstr "最后修改"
+
+msgid "Inactive"
+msgstr "无效"
+
+msgid "WordPress Core"
+msgstr "WordPress核心"
+
+msgid "Themes"
+msgstr "主题"
+
+msgid "Plugins"
+msgstr "插件"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Plugin URI"
+msgstr "插件URI"
+
+msgid "Requires WP Version"
+msgstr "需要WP版本"
+
+msgid "Requires PHP"
+msgstr "需要PHP"
+
+msgid "Read more"
+msgstr "阅读更多"
+
+msgid "Stylesheet"
+msgstr "样式表"
+
+msgid "Theme URI"
+msgstr "主题URI"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Vulnerabilities"
+msgstr "漏洞"
+
+msgid "Checking..."
+msgstr "检查中..."
+
+msgid "Save Changes"
+msgstr "保存更改"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "配置您的插件设置和首选项"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "输入您的 Vortem.ai 许可证密钥以激活插件功能。点击\"许可证验证\"以验证您的密钥。"
+
+msgid "Products Per Page"
+msgstr "每页产品数"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Currency"
+msgstr "货币"
+
+msgid "Update Currency"
+msgstr "更新货币"
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "每页显示的产品数量。默认值：16。"
+
+msgid "Products per page must be at least 1"
+msgstr "每页产品数必须至少为 1"
+
+msgid "Products per page cannot exceed 100"
+msgstr "每页产品数不能超过 100"
+
+msgid "Loading currencies..."
+msgstr "正在加载货币..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "选择插件的货币类型，然后点击\"更新货币\"以保存更改。"
+
+msgid "Currency updated successfully!"
+msgstr "货币更新成功！"
+
+msgid "Video Settings"
+msgstr "视频设置"
+
+msgid "Video Download for Excluded Themes"
+msgstr "排除主题的视频下载"
+
+msgid "AliExpress Integration"
+msgstr "AliExpress 集成"
+
+msgid "Add video to product description"
+msgstr "将视频添加到产品描述"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "下载 Vortem Clothes、Vortem Cosmetic 和 xstore 主题的视频"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "您正在接近每日邮件限制 (%s)。限制将于明天重置。"
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "您已达到每日邮件限制。限制将于明天重置。"
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "您正在接近每日产品导入配额 (%s)。配额将于明天重置。"
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "您已达到每日产品导入配额。配额将于明天重置。"
+
+msgid "Search plugins and themes..."
+msgstr "搜索插件和主题..."
+
+msgid "Loading security scan results..."
+msgstr "正在加载安全扫描结果..."
+
+msgid "published"
+msgstr "已发布"
+
+msgid "Published"
+msgstr "已发布"
+
+msgid "references"
+msgstr "参考资料"
+
+msgid "References"
+msgstr "参考资料"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "启用后，产品视频将自动添加到产品描述中。禁用后，视频将完全不会下载。如果您希望手动处理视频，请禁用此选项。"
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "禁用后，Vortem Clothes、Vortem Cosmetic 和 xstore 主题的视频将不会被下载或添加到媒体库。这样可以节省存储空间。"
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "要使用此页面，您必须在设置中的authentication Key部分输入许可证，然后单击\"authentication validation\"按钮。"
+
+msgid "Products Pages"
+msgstr "产品页面"
+
+msgid "Analytics Pages"
+msgstr "分析页面"
+
+msgid "sales"
+msgstr "销售"
+
+msgid "Loading trend products..."
+msgstr "正在加载趋势产品..."
+
+msgid "Loading TikTok products..."
+msgstr "正在加载 TikTok 产品..."
+
+msgid "Error loading TikTok products:"
+msgstr "加载 TikTok 产品时出错："
+
+msgid "Failed to load TikTok products:"
+msgstr "加载 TikTok 产品失败："
+
+msgid "Loading Kinguin products..."
+msgstr "正在加载 Kinguin 产品..."
+
+msgid "No Kinguin products found."
+msgstr "未找到 Kinguin 产品。"
+
+msgid "Failed to load Kinguin products:"
+msgstr "加载 Kinguin 产品失败："
+
+msgid "Error loading Kinguin products:"
+msgstr "加载 Kinguin 产品时出错："
+
+msgid "View on Amazon"
+msgstr "在 Amazon 上查看"
+
+msgid "View on Kinguin"
+msgstr "在 Kinguin 上查看"
+
+msgid "Release:"
+msgstr "发布日期："
+
+msgid "Price N/A"
+msgstr "价格不可用"
+
+msgid "In Stock"
+msgstr "有库存"
+
+msgid "Sentiment"
+msgstr "情绪"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "库存不足商品少于10件"
+
+msgid "Total Pages"
+msgstr "总页面数"
+
+msgid "Total Posts"
+msgstr "总文章数"
+
+msgid "Refetch"
+msgstr "重新获取"
+
+msgid "AliExpress"
+msgstr "AliExpress"
+
+msgid "Connect to AliExpress"
+msgstr "连接到AliExpress"
+
+msgid "Disconnect AliExpress"
+msgstr "断开AliExpress"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "您确定要断开您的AliExpress账户吗？"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "连接您的AliExpress账户以启用订单处理和代发货功能。"
+
+msgid "Checking connection status..."
+msgstr "正在检查连接状态..."
+
+msgid "Connected"
+msgstr "已连接"
+
+msgid "Not connected"
+msgstr "未连接"
+
+msgid "Error checking status"
+msgstr "检查状态时出错"
+
+msgid "Connecting..."
+msgstr "正在连接..."
+
+msgid "Disconnecting..."
+msgstr "正在断开..."
+
+msgid "Error connecting to AliExpress"
+msgstr "连接AliExpress时出错"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "断开AliExpress账户时出错"
+
+msgid "Failed to disconnect"
+msgstr "断开连接失败"
+
+msgid "Failed to connect to AliExpress"
+msgstr "连接AliExpress失败"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "成功连接到AliExpress！"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "创建AliExpress订单需要电话号码。"
+
+msgid "Expires:"
+msgstr "过期:"
+
+msgid "Disconnect"
+msgstr "断开"
+
+msgid "Select Import Method"
+msgstr "选择导入方法"
+
+msgid "Choose how you want to import this product:"
+msgstr "选择您要如何导入此产品:"
+
+msgid "Normal Import"
+msgstr "普通导入"
+
+msgid "Import product with original title and description"
+msgstr "使用原始标题和描述导入产品"
+
+msgid "SEO Import"
+msgstr "SEO导入"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "使用SEO优化的标题、描述和标签导入"
+
+msgid "SEO Import Completed"
+msgstr "SEO导入完成"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "已应用以下SEO优化:"
+
+msgid "Keyphrase"
+msgstr "关键词"
+
+msgid "SEO Title"
+msgstr "SEO标题"
+
+msgid "SEO Description"
+msgstr "SEO描述"
+
+msgid "Meta Description"
+msgstr "元描述"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "Yoast SEO Title"
+msgstr "Yoast SEO标题"
+
+msgid "Headings"
+msgstr "标题"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO未安装。要使用SEO导入选项，您必须安装并激活它。"
+
+msgid "Email subject must be at least 16 characters"
+msgstr "邮件主题必须至少16个字符"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "邮件主题不能超过256个字符"
+
+msgid "Email body must be at least 128 characters"
+msgstr "邮件正文必须至少128个字符"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "邮件正文不能超过8196个字符"
+
+msgid "All Imported Products"
+msgstr "所有已导入的产品"
+
+msgid "Refresh Products"
+msgstr "刷新产品"
+
+msgid "Show All Products"
+msgstr "显示所有产品"
+
+msgid "Show All Added Products"
+msgstr "显示所有已添加的产品"
+
+msgid "Top Products Kinguin"
+msgstr "热门产品 Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "趋势产品 Amazon"
+
+msgid "Top Products AliExpress"
+msgstr "热门产品 AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "管理和查看您的产品库存"
+
+msgid "Security Overview"
+msgstr "安全概览"
+
+msgid "Security Scan Results"
+msgstr "安全扫描结果"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "监控和检查所有已安装的WordPress插件和主题"
+
+msgid "Total Plugins"
+msgstr "插件总数"
+
+msgid "Active Plugins"
+msgstr "活动插件"
+
+msgid "Inactive Plugins"
+msgstr "非活动插件"
+
+msgid "Total Themes"
+msgstr "主题总数"
+
+msgid "Active Themes"
+msgstr "活动主题"
+
+msgid "Inactive Themes"
+msgstr "非活动主题"
+
+msgid "Sort by:"
+msgstr "排序方式:"
+
+msgid "Filter by Status:"
+msgstr "按状态筛选:"
+
+msgid "Sort by Date"
+msgstr "按日期排序"
+
+msgid "View and manage your store orders"
+msgstr "查看和管理您的商店订单"
+
+msgid "Start Date"
+msgstr "开始日期"
+
+msgid "End Date"
+msgstr "结束日期"
+
+msgid "All Statuses"
+msgstr "所有状态"
+
+msgid "Navigation"
+msgstr "导航"
+
+msgid "Shop Analytics"
+msgstr "商店分析"
+
+msgid "Traffic Analytics"
+msgstr "流量分析"
+
+msgid "Search currencies..."
+msgstr "搜索货币..."
+
+msgid "Search by country or currency code"
+msgstr "按国家或货币代码搜索"
+
+msgid "Popularity"
+msgstr "受欢迎程度"
+
+msgid "Impressions"
+msgstr "展示次数"
+
+msgid "Engagement"
+msgstr "参与度"
+
+msgid "Videos"
+msgstr "视频"
+
+msgid "# Hashtags"
+msgstr "# 话题标签"
+
+msgid "View Rate (6s)"
+msgstr "观看率 (6秒)"
+
+msgid "Cost"
+msgstr "成本"
+
+msgid "Avg. Time on Site"
+msgstr "平均网站停留时间"
+
+msgid "Unique Visitors"
+msgstr "独立访客"
+
+msgid "Visits"
+msgstr "访问量"
+
+msgid "Top Pages"
+msgstr "热门页面"
+
+msgid "Top Page Titles"
+msgstr "热门页面标题"
+
+msgid "Cities"
+msgstr "城市"
+
+msgid "Countries"
+msgstr "国家"
+
+msgid "Exit Pages"
+msgstr "退出页面"
+
+msgid "Entry Pages"
+msgstr "入口页面"
+
+msgid "Real-time Visits"
+msgstr "实时访问"
+
+msgid "Bounce Rate"
+msgstr "跳出率"
+
+msgid "Today"
+msgstr "今天"
+
+msgid "Yesterday"
+msgstr "昨天"
+
+msgid "Last 7 Days"
+msgstr "最近7天"
+
+msgid "Last 30 Days"
+msgstr "最近30天"
+
+msgid "First Contentful Paint"
+msgstr "首次内容绘制"
+
+msgid "Total Size"
+msgstr "总大小"
+
+msgid "Requests"
+msgstr "请求数"
+
+msgid "Page Load"
+msgstr "页面加载"
+
+msgid "Last updated: %s"
+msgstr "最后更新：%s"
+
+msgid "Live"
+msgstr "实时"
+
+msgid "Quick Insights"
+msgstr "快速洞察"
+
+msgid "Config"
+msgstr "配置"
+
+msgid "Vortem Logo"
+msgstr "Vortem 标志"
+
+msgid "Core"
+msgstr "核心"
+
+msgid "Filter by:"
+msgstr "筛选："
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Total Vulnerabilities"
+msgstr "总漏洞数"
+
+msgid "Critical"
+msgstr "严重"
+
+msgid "High"
+msgstr "高"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Secure Items"
+msgstr "安全项目"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "按严重程度分布的漏洞"
+
+msgid "Vulnerabilities by Type"
+msgstr "按类型分类的漏洞"
+
+msgid "Scanning..."
+msgstr "扫描中..."
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "正在分析您的 WordPress 安装以查找安全漏洞"
+
+msgid "Items Requiring Attention"
+msgstr "需要关注的项目"
+
+msgid "No items at risk"
+msgstr "没有风险项目"
+
+msgid "Recent Vulnerabilities"
+msgstr "最近的漏洞"
+
+msgid "No recent vulnerabilities"
+msgstr "没有最近的漏洞"
+
+msgid "No plugins found"
+msgstr "未找到插件"
+
+msgid "No themes found"
+msgstr "未找到主题"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "尝试调整您的筛选条件或搜索词"
+
+msgid "WordPress Vulnerability"
+msgstr "WordPress 漏洞"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "在 WordPress 版本中检测到安全漏洞。建议更新到最新版本。"
+
+msgid "Vulnerability Details"
+msgstr "漏洞详情"
+
+msgid "Vulnerability"
+msgstr "漏洞"
+
+msgid "vulnerabilities"
+msgstr "漏洞"
+
+msgid "Read less"
+msgstr "收起"
+
+msgid "Your site is secure"
+msgstr "您的网站是安全的"
+
+msgid "No known vulnerabilities detected"
+msgstr "未检测到已知漏洞"
+
+msgid "Attention required"
+msgstr "需要注意"
+
+msgid "vulnerabilities found"
+msgstr "发现漏洞"
+
+msgid "Your plugins are secure!"
+msgstr "您的插件是安全的！"
+
+msgid "Your themes are secure!"
+msgstr "您的主题是安全的！"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "插件中未发现漏洞"
+
+msgid "No vulnerabilities found in themes"
+msgstr "主题中未发现漏洞"
+
+msgid "Your WP Core is Secure"
+msgstr "您的 WP 核心是安全的"
+
+msgid "Unknown Plugin"
+msgstr "未知插件"
+
+msgid "Unknown Theme"
+msgstr "未知主题"
+
+msgid "Requires immediate attention"
+msgstr "需要立即关注"
+
+msgid "Address as soon as possible"
+msgstr "尽快处理"
+
+msgid "Schedule for review"
+msgstr "安排审查"
+
+msgid "Monitor and plan fix"
+msgstr "监控并计划修复"
+
+msgid "No vulnerabilities found"
+msgstr "未发现漏洞"
+
+msgid "All Security Issues"
+msgstr "所有安全问题"
+
+msgid "Across all plugins, themes & core"
+msgstr "跨所有插件、主题和核心"
+
+msgid "of installed items affected"
+msgstr "已安装项目受影响"
+
+msgid "Critical Severity"
+msgstr "严重级别"
+
+msgid "Requires immediate action"
+msgstr "需要立即行动"
+
+msgid "of all vulnerabilities"
+msgstr "所有漏洞的"
+
+msgid "High Severity"
+msgstr "高级别"
+
+msgid "Should be fixed soon"
+msgstr "应尽快修复"
+
+msgid "Medium Severity"
+msgstr "中级别"
+
+msgid "Plan to address"
+msgstr "计划处理"
+
+msgid "Low Severity"
+msgstr "低级别"
+
+msgid "Monitor & track"
+msgstr "监控和跟踪"
+
+msgid "Items without vulnerabilities"
+msgstr "无漏洞项目"
+
+msgid "of items are clean"
+msgstr "项目是干净的"
+
+msgid "Third-party plugins installed"
+msgstr "已安装的第三方插件"
+
+msgid "WordPress themes"
+msgstr "WordPress 主题"
+
+msgid "Core WordPress files"
+msgstr "WordPress 核心文件"
+
+msgid "Component Type"
+msgstr "组件类型"
+
+msgid "Number of Vulnerabilities"
+msgstr "漏洞数量"
+
+msgid "of total"
+msgstr "总计的"
+
+msgid "VERSION"
+msgstr "版本"
+
+msgid "AUTHOR"
+msgstr "作者"
+
+msgid "REQUIRES WP"
+msgstr "需要 WP"
+
+msgid "REQUIRES PHP"
+msgstr "需要 PHP"
+
+msgid "View Page"
+msgstr "查看页面"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "检测到严重漏洞！"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "需要立即采取行动。请尽快更新或删除受影响的项目。"
+
+msgid "High severity vulnerabilities detected"
+msgstr "检测到高严重性漏洞"
+
+msgid "Please review and address these issues soon."
+msgstr "请尽快审查并解决这些问题。"
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "检测到中等严重性漏洞"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "安排时间审查和修复这些问题。"
+
+msgid "Low severity vulnerabilities detected"
+msgstr "检测到低严重性漏洞"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "监控这些问题并在方便时计划修复。"
+
+msgid "Your WordPress core is secure!"
+msgstr "您的 WordPress 核心是安全的！"
+
+msgid "CVSS Score:"
+msgstr "CVSS 分数："
+
+msgid "Published:"
+msgstr "发布时间："
+
+msgid "Last Modified:"
+msgstr "最后修改："
+
+msgid "References:"
+msgstr "参考资料："
+
+msgid "CWE:"
+msgstr "CWE："
+
+msgid "View All Vulnerabilities"
+msgstr "查看所有漏洞"
+
+msgid "CRITICAL"
+msgstr "严重"
+
+msgid "HIGH"
+msgstr "高"
+
+msgid "MEDIUM"
+msgstr "中"
+
+msgid "LOW"
+msgstr "低"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "建议采取行动。请审查并更新受影响的项目。"
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "您的所有插件、主题和 WordPress 核心都是安全的且是最新的。"
+
+msgid "High severity vulnerabilities found"
+msgstr "发现高严重性漏洞"
+
+msgid "Last updated: Loading..."
+msgstr "最后更新：加载中..."
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "建议审查。在可能的情况下监控并更新受影响的项目。"
+
+msgid "Some vulnerabilities found"
+msgstr "发现一些漏洞"
+
+msgid "Trend Products TikTok"
+msgstr "TikTok 趋势产品"
+
+msgid "Your site is secure!"
+msgstr "您的网站是安全的！"
+
+msgid "failed_to_load_insights_error"
+msgstr "加载洞察数据错误"
+
+msgid "failed_to_refetch"
+msgstr "重新获取失败"
+
+msgid "no_category"
+msgstr "无类别"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "正在处理 SEO 优化：关键词、SEO 标题、SEO 描述、元描述、标签、Yoast SEO 标题和标题"
+
+msgid "Search themes..."
+msgstr "搜索主题..."
+
+msgid "Filter by Severity:"
+msgstr "按严重程度筛选:"
+
+msgid "All Severities"
+msgstr "所有严重程度"
+
+msgid "Let's Get You Started"
+msgstr "让我们开始吧"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "在大约2分钟内完成设置"
+
+msgid "Quick Setup"
+msgstr "快速设置"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "通过我们的引导安装过程，在几分钟内即可启动并运行"
+
+msgid "Secure & Reliable"
+msgstr "安全可靠"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "企业级安全性内置于每个组件中"
+
+msgid "Optimized Performance"
+msgstr "优化性能"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "超快速并针对WordPress环境进行了优化"
+
+msgid "Next Step"
+msgstr "下一步"
+
+msgid "Initial Configuration"
+msgstr "初始配置"
+
+msgid "Set your default language and currency preferences"
+msgstr "设置您的默认语言和货币首选项"
+
+msgid "Please review and accept our terms to continue"
+msgstr "请查看并接受我们的条款以继续"
+
+msgid "1. Service Availability"
+msgstr "1. 服务可用性"
+
+msgid "2. Support"
+msgstr "2. 支持"
+
+msgid "3. Updates"
+msgstr "3. 更新"
+
+msgid "I accept the Terms & Conditions"
+msgstr "我接受条款和条件"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "通过勾选此框，您确认已阅读并同意受这些条款和条件的约束。"
+
+msgid "Installation Complete!"
+msgstr "安装完成！"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "您的插件已成功配置并可以使用。您现在可以开始使用所有功能。"
+
+msgid "Configuration Summary"
+msgstr "配置摘要"
+
+msgid "Language:"
+msgstr "语言："
+
+msgid "Currency:"
+msgstr "货币："
+
+msgid "Terms Accepted:"
+msgstr "已接受条款："
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Go to Dashboard"
+msgstr "前往仪表板"
+
+msgid "Go to Analytics page"
+msgstr "前往分析页面"
+
+msgid "Go to Products page"
+msgstr "前往产品页面"
+
+msgid "Go to Matomo Analytics page"
+msgstr "前往 Matomo 分析页面"
+
+msgid "Restart Wizard"
+msgstr "重新启动向导"
+
+msgid "Restart"
+msgstr "重新启动"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "这将重置设置过程。你确定吗？"
+
+msgid "Confirm Restart"
+msgstr "确认重新启动"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Welcome"
+msgstr "欢迎"
+
+msgid "Configuration"
+msgstr "配置"
+
+msgid "Complete"
+msgstr "完成"
+
+msgid "Insufficient permissions"
+msgstr "权限不足"
+
+msgid "Language parameter is required"
+msgstr "需要语言参数"
+
+msgid "Translation manager not available"
+msgstr "翻译管理器不可用"
+
+msgid "Unsupported language"
+msgstr "不支持的语言"
+
+msgid "Language changed successfully"
+msgstr "语言更改成功"
+
+msgid "Failed to change language"
+msgstr "更改语言失败"
+
+msgid "Currency parameter is required"
+msgstr "需要货币参数"
+
+msgid "Unsupported currency"
+msgstr "不支持的货币"
+
+msgid "Currency changed successfully"
+msgstr "货币更改成功"
+
+msgid "Loading"
+msgstr "加载中"
+
+msgid "Search..."
+msgstr "搜索..."
+
+msgid "Search Language"
+msgstr "搜索语言"
+
+msgid "No languages found"
+msgstr "未找到语言"
+
+msgid "No currencies found"
+msgstr "未找到货币"
+
+msgid "Failed to load currencies"
+msgstr "加载货币失败"
+
+msgid "Error loading currencies"
+msgstr "加载货币时出错"
+
+msgid "Failed to restart wizard"
+msgstr "重启向导失败"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "重启向导时发生错误。请重试。"
+
+msgid "Please complete the current step before proceeding."
+msgstr "请先完成当前步骤，然后再继续。"
+
+msgid "Please wait for authentication to complete."
+msgstr "请等待身份验证完成。"
+
+msgid "Please accept the terms and conditions."
+msgstr "请接受条款和条件。"
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "请先接受条款和条件，然后再继续。"
+
+msgid "Please complete authentication first."
+msgstr "请先完成身份验证。"
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "请先接受条款和条件，然后再完成设置。"
+
+msgid "Failed to complete setup"
+msgstr "完成设置失败"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "完成设置时发生错误。请重试。"
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "未找到会话令牌。请先完成身份验证。"
+
+msgid "An error occurred while switching language"
+msgstr "切换语言时发生错误"
+
+msgid "An error occurred while switching currency"
+msgstr "切换货币时发生错误"
+
+msgid "Last updated: %1$s • Live"
+msgstr "最后更新：%1$s • 实时"
+
+msgid "Last 30 days"
+msgstr "最近30天"
+
+msgid "Traffic Overview"
+msgstr "流量概览"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "Matomo 分析 – 最近30天"
+
+msgid "Today's Focus"
+msgstr "今日焦点"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "Vortem.ai 插件概览"
+
+msgid "Read More"
+msgstr "阅读更多"
+
+msgid "Check your dashboard regularly"
+msgstr "请定期查看您的仪表盘"
+
+msgid "View Analytics"
+msgstr "查看分析"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem 获评 2026 顶级 AI 平台"
+
+msgid "Order Statistics"
+msgstr "订单统计"
+
+msgid "Today's Orders Completed"
+msgstr "今日已完成订单"
+
+msgid "Total Orders Completed"
+msgstr "已完成订单总数"
+
+msgid "Imported Products"
+msgstr "已导入产品"
+
+msgid "Recent Activity"
+msgstr "最近活动"
+
+msgid "Overview dashboard loaded"
+msgstr "概览仪表盘已加载"
+
+msgid "Just now"
+msgstr "刚刚"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "您可以在此管理产品、分析和电子邮件营销"
+
+msgid "Ready"
+msgstr "就绪"
+
+msgid "Configure plugin settings and API keys"
+msgstr "配置插件设置和 API 密钥"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "Vortem.ai 插件已就绪。您可以在此管理产品、分析和电子邮件营销。"
+
+msgid "Vortem.ai official website"
+msgstr "Vortem.ai 官方网站"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "浏览、学习并管理您的账户"
+
+msgid "Quick Access"
+msgstr "快速访问"
+
+msgid "Return to dashboard home"
+msgstr "返回仪表盘首页"
+
+msgid "Go to Home"
+msgstr "前往首页"
+
+msgid "Profile, settings, and preferences"
+msgstr "个人资料、设置和偏好"
+
+msgid "Help & Learning"
+msgstr "帮助与学习"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "获取帮助、提交工单或联系支持"
+
+msgid "Get Support"
+msgstr "获取支持"
+
+msgid "Developer & user guides"
+msgstr "开发者和用户指南"
+
+msgid "Read Docs"
+msgstr "阅读文档"
+
+msgid "Legal & Policies"
+msgstr "法律与政策"
+
+msgid "Terms of Service"
+msgstr "服务条款"
+
+msgid "Usage terms and conditions"
+msgstr "使用条款和条件"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+msgid "Data protection and privacy"
+msgstr "数据保护和隐私"
+
+msgid "Navigation to vortem wordpress"
+msgstr "导航至 Vortem WordPress"
+
+msgid "Access key features and settings"
+msgstr "访问主要功能和设置"
+
+msgid "Manage catalog and inventory"
+msgstr "管理目录和库存"
+
+msgid "Business insights and metrics"
+msgstr "业务洞察和指标"
+
+msgid "Growth & Intelligence"
+msgstr "增长与智能"
+
+msgid "Campaigns and automation"
+msgstr "活动和自动化"
+
+msgid "AI-powered recommendations"
+msgstr "AI 驱动推荐"
+
+msgid "Manage orders and shipments"
+msgstr "管理订单和发货"
+
+msgid "System"
+msgstr "系统"
+
+msgid "Knowledge base editor"
+msgstr "知识库编辑器"
+
+msgid "Access control and monitoring"
+msgstr "访问控制和监控"
+
+msgid "System configuration"
+msgstr "系统配置"
+
+msgid "Emails Sent"
+msgstr "已发送邮件"
+
+msgid "Orders"
+msgstr "订单"
+
+msgid "Total products"
+msgstr "产品总数"
+
+msgid "Imported via plugin"
+msgstr "通过插件导入"
+
+msgid "Other products"
+msgstr "其他产品"
+
+msgid "Manage"
+msgstr "管理"
+
+msgid "bounce"
+msgstr "跳出"
+
+
+msgid "Dashboard"
+msgstr "仪表板"
+
+msgid "Plugin"
+msgstr "插件"
+
+msgid "External"
+msgstr "外部"
+
+msgid "Navigation to vortem WordPress"
+msgstr "导航至 vortem WordPress"
+
+msgid "Commerce"
+msgstr "商务"
+
+msgid "Timeline"
+msgstr "时间线"
+
+msgid "Security Center"
+msgstr "安全中心"
+
+msgid "Display"
+msgstr "显示"
+
+msgid "How products and currency are presented in your store."
+msgstr "产品和货币在您的商店中的呈现方式。"
+
+msgid "Products per page"
+msgstr "每页产品数"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "默认: 16。范围: 1–100。"
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "用于插件定价的货币。点击\"更新\"以保存您的选择。"
+
+msgid "Media"
+msgstr "媒体"
+
+msgid "Control how product videos are imported and attached."
+msgstr "控制产品视频的导入和附加方式。"
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "启用后，产品视频会自动添加到描述中。禁用以手动管理视频。"
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "禁用后，将不会为 Vortem Clothes、Vortem Cosmetic 和 xstore 主题下载视频 — 节省存储空间。"
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "下载 Vortem 和 xstore 主题的视频"
+
+msgid "Integrations"
+msgstr "集成"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "连接外部账户以扩展采购和履行。"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Last updated"
+msgstr "最后更新"
+
+msgid "Setup"
+msgstr "设置"
+
+msgid "Let's get you started"
+msgstr "让我们开始吧"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "大约 2 分钟完成设置。"
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "Vortem 的产品导入功能需要 AliExpress 账户。"
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "您稍后在 设置 → Vortem → AliExpress 集成 中连接。还没有账户？也可以在那里注册。"
+
+msgid "Up and running in minutes."
+msgstr "几分钟即可上线。"
+
+msgid "Built with WordPress security best practices."
+msgstr "遵循 WordPress 安全最佳实践构建。"
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "轻量并为 WordPress 优化。"
+
+msgid "Store basics"
+msgstr "商店基础"
+
+msgid "Pick your store currency"
+msgstr "选择商店货币"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "这是客户在结账时看到的内容。您可以稍后更改。"
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "用于商品卡片、购物车和结账。"
+
+msgid "Almost there"
+msgstr "快完成了"
+
+msgid "Review and accept"
+msgstr "审阅并接受"
+
+msgid "Read the full Terms"
+msgstr "阅读完整条款"
+
+msgid "You agree to be bound by these terms."
+msgstr "您同意受这些条款约束。"
+
+msgid "I consent to data processing"
+msgstr "我同意数据处理"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "我理解并同意此插件将我的站点数据（站点 URL、WordPress 版本、插件版本、货币偏好、导入产品时的 WooCommerce 产品数据、处理订单时的配送信息以及使用安全功能时的插件/主题元数据）发送至 vortem.ai 服务器（https://c.vortem.ai）以进行处理、分析和提供服务。在您明确同意之前不会发送任何数据；若您拒绝，插件仍可使用（依赖 vortem.ai 的功能将不可用）。发送已安装插件/主题清单以查找漏洞的方式与 Wordfence、Patchstack、WPScan 和 Jetpack Protect 相同。"
+
+msgid "All done"
+msgstr "全部完成"
+
+msgid "You're all set!"
+msgstr "一切就绪！"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem 已配置完成。准备好后请在设置中连接 AliExpress。"
+
+msgid "Accepted"
+msgstr "已接受"
+
+msgid "Consented"
+msgstr "已同意"
+
+msgid "Data processing"
+msgstr "数据处理"
+
+msgid "Meta Title"
+msgstr "元标题"
+
+msgid "Order"
+msgstr "订单"
+
+msgid "Customer"
+msgstr "客户"
+
+msgid "Items"
+msgstr "商品"
+
+msgid "Payment"
+msgstr "付款"

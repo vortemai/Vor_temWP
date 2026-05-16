@@ -1,0 +1,3018 @@
+# Translation of Vortem AI in fi_FI
+# Generated from legacy PHP-array translations.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vortem AI 1.0.11\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vortem-ai\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi_FI\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "requires WooCommerce to be installed and activated."
+msgstr "vaatii WooCommerce-lisäosan asennuksen ja aktivoinnin."
+
+msgid "or higher. You are running version"
+msgstr "tai uudemman. Käytössäsi on versio"
+
+msgid "Welcome to vortem.ai!"
+msgstr "Tervetuloa vortem.ai-palveluun!"
+
+msgid "Vortem.ai Setup Wizard"
+msgstr "Vortem.ai-asennusvelho"
+
+msgid "Thank you for choosing vortem.ai Plugin. This wizard will help you set up your store quickly and easily."
+msgstr "Kiitos, että valitsit vortem.ai-lisäosan. Tämä velho auttaa sinua määrittämään kauppasi nopeasti ja helposti."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account. You can connect your account from Settings → Vortem Login → AliExpress Integration. If you don't have an account, you can sign up directly from there."
+msgstr "Vortemin tuotemyyntipalveluiden käyttämiseksi tarvitset AliExpress-tilin. Voit yhdistää tilisi Asetukset → Vortem-kirjautuminen → AliExpress-integraatio -kohdasta. Jos sinulla ei ole tiliä, voit rekisteröityä suoraan sieltä."
+
+msgid "To use Vortem's product selling services, you need an AliExpress account."
+msgstr "Vortemin tuotemyyntipalveluiden käyttämiseksi tarvitset AliExpress-tilin."
+
+msgid "You can connect your account from Settings → Vortem Login → AliExpress Integration."
+msgstr "Voit yhdistää tilisi Asetukset → Vortem-kirjautuminen → AliExpress-integraatio -kohdasta."
+
+msgid "If you don't have an account, you can sign up directly from there."
+msgstr "Jos sinulla ei ole tiliä, voit rekisteröityä suoraan sieltä."
+
+msgid "Select Language"
+msgstr "Valitse kieli"
+
+msgid "Select Currency"
+msgstr "Valitse valuutta"
+
+msgid "Complete Setup"
+msgstr "Viimeistele asennus"
+
+msgid "What you'll get:"
+msgstr "Mitä saat:"
+
+msgid "Automated product synchronization"
+msgstr "Automaattinen tuotesynkronointi"
+
+msgid "Order management and processing"
+msgstr "Tilaushallinta ja -käsittely"
+
+msgid "Real-time inventory updates"
+msgstr "Reaaliaikaiset varastopäivitykset"
+
+msgid "Easy-to-use admin interface"
+msgstr "Helppokäyttöinen hallintaliittymä"
+
+msgid "24/7 customer support"
+msgstr "Asiakastuki 24/7"
+
+msgid "Contact Support"
+msgstr "Ota yhteyttä tukeen"
+
+msgid "Import Products"
+msgstr "Tuo tuotteita"
+
+msgid "Configure Settings"
+msgstr "Määritä asetukset"
+
+msgid "Setup Complete!"
+msgstr "Asennus valmis!"
+
+msgid "Setup will take approximately 2-3 minutes."
+msgstr "Asennus kestää noin 2-3 minuuttia."
+
+msgid "Terms & Conditions"
+msgstr "Käyttöehdot"
+
+msgid "1. License Agreement"
+msgstr "1. Lisenssisopimus"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later license."
+msgstr "Käyttämällä tätä lisäosaa sitoudut noudattamaan kaikkia sovellettavia lakeja ja määräyksiä. Lisäosa toimitetaan GPL v2 tai uudemmalla lisenssillä."
+
+msgid "Sign up"
+msgstr "Rekisteröidy"
+
+msgid "Sign up to get started"
+msgstr "Rekisteröidy aloittaaksesi"
+
+msgid "Congratulations! Your vortem.ai plugin has been successfully configured."
+msgstr "Onnittelut! vortem.ai-lisäosasi on määritetty onnistuneesti."
+
+msgid "What's next?"
+msgstr "Mitä seuraavaksi?"
+
+msgid "Need Help?"
+msgstr "Tarvitsetko apua?"
+
+msgid "Our support team is here to help you get started."
+msgstr "Tukitiimimme on täällä auttamassa sinua alkuun."
+
+msgid "Step %1$d of %2$d"
+msgstr "Vaihe %1$d / %2$d"
+
+msgid "I have read and agree to the %1$sTerms & Conditions%2$s"
+msgstr "Olen lukenut ja hyväksyn %1$skäyttöehdot%2$s"
+
+msgid "vortem.ai Plugin Terms of Service"
+msgstr "vortem.ai-lisäosan käyttöehdot"
+
+msgid "1. authentication Agreement"
+msgstr "1. Lisenssisopimus"
+
+msgid "By using this plugin, you agree to comply with all applicable laws and regulations. The plugin is provided under the GPL v2 or later authentication."
+msgstr "Käyttämällä tätä lisäosaa sitoudut noudattamaan kaikkia sovellettavia lakeja. Lisäosa on lisensoitu GPL v2 tai uudemman mukaan."
+
+msgid "2. Data Usage"
+msgstr "2. Tiedon käyttö"
+
+msgid "We collect and process data necessary for the operation of the service, including product information, order details, and customer data. All data is handled in accordance with our privacy policy."
+msgstr "Keräämme ja käsittelemme palvelun toiminnalle välttämättömiä tietoja, mukaan lukien tuote- ja tilaustiedot. Kaikkea tietoa käsitellään tietosuojaselosteemme mukaisesti."
+
+msgid "3. Service Availability"
+msgstr "3. Palvelun saatavuus"
+
+msgid "While we strive to maintain high service availability, we cannot guarantee uninterrupted service. We reserve the right to perform maintenance and updates as needed."
+msgstr "Vaikka pyrimme korkeaan saatavuuteen, emme voi taata keskeytyksetöntä palvelua. Varaamme oikeuden huoltoihin ja päivityksiin."
+
+msgid "4. Support"
+msgstr "4. Tuki"
+
+msgid "Technical support is provided through our support channels. Response times may vary based on the complexity of the issue."
+msgstr "Teknistä tukea tarjotaan tukikanaviemme kautta. Vastausajat voivat vaihdella ongelman monimutkaisuuden mukaan."
+
+msgid "5. Updates"
+msgstr "5. Päivitykset"
+
+msgid "Plugin updates are provided to improve functionality and security. It is recommended to keep the plugin updated to the latest version."
+msgstr "Päivitykset parantavat toiminnallisuutta ja tietoturvaa. On suositeltavaa pitää lisäosa päivitettynä uusimpaan versioon."
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin and access all features."
+msgstr "Syötä Vortem.ai-lisenssiavaimesi aktivoidaksesi lisäosan ja saadaksesi käyttöön kaikki ominaisuudet."
+
+msgid "You can find your authentication key in your Vortem.ai account dashboard."
+msgstr "Löydät lisenssiavaimesi Vortem.ai-tilisi hallintapaneelista."
+
+msgid "Need help?"
+msgstr "Tarvitsetko apua?"
+
+msgid "Complete the setup wizard to configure your authentication and get started."
+msgstr "Viimeistele asennusvelho määrittääksesi todennuksen ja aloittaaksesi."
+
+msgid "Vortem.ai Overview"
+msgstr "Vortem.ai Yleiskatsaus"
+
+msgid "Vortem.ai Products"
+msgstr "Vortem.ai Tuotteet"
+
+msgid "Vortem.ai Settings"
+msgstr "Vortem.ai-asetukset"
+
+msgid "Configure your Vortem.ai settings below."
+msgstr "Määritä Vortem.ai-asetukset alta."
+
+msgid "Saving settings and validating authentication..."
+msgstr "Tallennetaan asetuksia ja vahvistetaan lisenssiä..."
+
+msgid "Setup Complete - Your Vortem.ai plugin is ready to use!"
+msgstr "Asennus valmis - Vortem.ai-lisäosasi on käyttövalmis!"
+
+msgid "Select the language for the plugin interface. Changes will take effect after saving."
+msgstr "Valitse kieli käyttöliittymälle. Muutokset tulevat voimaan tallennuksen jälkeen."
+
+msgid "Vortem.ai AI Resources"
+msgstr "Vortem.ai AI-resurssit"
+
+msgid "Access your Vortem.ai AI account and resources"
+msgstr "Pääsy Vortem.ai AI -tilillesi ja resursseihin"
+
+msgid "Access your Vortem.ai AI account and resources:"
+msgstr "Pääsy Vortem.ai AI -tilillesi ja resursseihin:"
+
+msgid "Home"
+msgstr "Koti"
+
+msgid "Visit the Vortem.ai AI homepage"
+msgstr "Vieraile Vortem.ai AI -kotisivulla"
+
+msgid "Visit Site"
+msgstr "Vieraile sivustolla"
+
+msgid "My Account"
+msgstr "Oma tili"
+
+msgid "Manage your Vortem.ai AI account settings"
+msgstr "Hallitse Vortem.ai AI -tilisi asetuksia"
+
+msgid "Support"
+msgstr "Tuki"
+
+msgid "Get help and support from our team"
+msgstr "Hanki apua ja tukea tiimiltämme"
+
+msgid "Documentation"
+msgstr "Dokumentaatio"
+
+msgid "Read comprehensive guides and tutorials"
+msgstr "Lue kattavia oppaita ja ohjeita"
+
+msgid "Terms"
+msgstr "Ehdot"
+
+msgid "Review terms and conditions"
+msgstr "Lue käyttöehdot"
+
+msgid "Privacy"
+msgstr "Tietosuoja"
+
+msgid "View our privacy policy"
+msgstr "Lue tietosuojaselosteemme"
+
+msgid "error"
+msgstr "virhe"
+
+msgid "success"
+msgstr "onnistui"
+
+msgid "cancel"
+msgstr "peruuta"
+
+msgid "delete"
+msgstr "poista"
+
+msgid "deleting"
+msgstr "poistetaan..."
+
+msgid "edit"
+msgstr "muokkaa"
+
+msgid "close"
+msgstr "sulje"
+
+msgid "confirm"
+msgstr "vahvista"
+
+msgid "refresh"
+msgstr "päivitä"
+
+msgid "import"
+msgstr "tuo"
+
+msgid "actions"
+msgstr "toiminnot"
+
+msgid "status"
+msgstr "tila"
+
+msgid "date"
+msgstr "päivämäärä"
+
+msgid "subject"
+msgstr "aihe"
+
+msgid "recipient"
+msgstr "vastaanottaja"
+
+msgid "total"
+msgstr "yhteensä"
+
+msgid "items"
+msgstr "kohteet"
+
+msgid "customer"
+msgstr "asiakas"
+
+msgid "order"
+msgstr "tilaus"
+
+msgid "payment"
+msgstr "maksu"
+
+msgid "active"
+msgstr "aktiivinen"
+
+msgid "inactive"
+msgstr "ei aktiivinen"
+
+msgid "cards"
+msgstr "kortit"
+
+msgid "table"
+msgstr "taulukko"
+
+msgid "select"
+msgstr "valitse"
+
+msgid "sent"
+msgstr "lähetetty"
+
+msgid "left"
+msgstr "jäljellä"
+
+msgid "resets"
+msgstr "nollautuu"
+
+msgid "view_more"
+msgstr "näytä lisää"
+
+msgid "performance"
+msgstr "suorituskyky"
+
+msgid "insights"
+msgstr "oivallukset"
+
+msgid "metrics"
+msgstr "mittarit"
+
+msgid "device"
+msgstr "laite"
+
+msgid "locale"
+msgstr "alueasetus"
+
+msgid "channel"
+msgstr "kanava"
+
+msgid "desktop"
+msgstr "tietokone"
+
+msgid "mobile"
+msgstr "mobiili"
+
+msgid "retry"
+msgstr "yritä uudelleen"
+
+msgid "failed"
+msgstr "epäonnistui"
+
+msgid "support"
+msgstr "4. Tuki"
+
+msgid "documentation"
+msgstr "dokumentaatio"
+
+msgid "are_you_sure"
+msgstr "oletko varma?"
+
+msgid "clear"
+msgstr "tyhjennä"
+
+msgid "preview"
+msgstr "esikatselu"
+
+msgid "send_email"
+msgstr "lähetä sähköposti"
+
+msgid "recipients"
+msgstr "vastaanottajat"
+
+msgid "question"
+msgstr "kysymys"
+
+msgid "answer"
+msgstr "vastaus"
+
+msgid "category"
+msgstr "Kategoria:"
+
+msgid "category:"
+msgstr "Kategoria:"
+
+msgid "showing"
+msgstr "näytetään"
+
+msgid "faqs"
+msgstr "UKK"
+
+msgid "all_categories"
+msgstr "Kaikki kategoriat"
+
+msgid "how_would_you_like_to_create_faqs"
+msgstr "Miten haluat luoda UKK-kysymyksiä?"
+
+msgid "Single FAQ"
+msgstr "Yksittäinen UKK"
+
+msgid "Bulk FAQs"
+msgstr "UKK-massaluonti"
+
+msgid "no_faqs_added_yet"
+msgstr "UKK-kysymyksiä ei ole vielä lisätty. Lisää ensimmäinen vasemmalta."
+
+msgid "No FAQs added yet. Add your first FAQ on the left."
+msgstr "UKK-kysymyksiä ei ole vielä lisätty. Lisää ensimmäinen vasemmalta."
+
+msgid "Added FAQs"
+msgstr "Lisätyt UKK:t"
+
+msgid "created"
+msgstr "luotu"
+
+msgid "search_faqs"
+msgstr "hae UKK-kysymyksiä..."
+
+msgid "update_faq"
+msgstr "päivitä UKK"
+
+msgid "category_label"
+msgstr "Kategoria *"
+
+msgid "select_existing_category_optional"
+msgstr "Valitse olemassa oleva kategoria (valinnainen)"
+
+msgid "create_faq"
+msgstr "luo UKK"
+
+msgid "delete_faq"
+msgstr "poista UKK"
+
+msgid "delete_category"
+msgstr "Poista kategoria"
+
+msgid "delete_category_faqs_confirm"
+msgstr "Oletko varma, että haluat poistaa kaikki UKK-kysymykset kategoriasta \"%s\"? Tätä toimintoa ei voi peruuttaa."
+
+msgid "category_faqs_deleted"
+msgstr "Kaikki kategorian \"%s\" UKK-kysymykset on poistettu."
+
+msgid "failed_to_delete_category_faqs"
+msgstr "UKK-kysymysten poistaminen epäonnistui. Ole hyvä ja yritä uudelleen."
+
+msgid "category_id_not_found"
+msgstr "Kategorian tunnusta ei löytynyt valitulle kategorialle."
+
+msgid "orders"
+msgstr "tilaukset"
+
+msgid "search_orders_by_number_customer_name_or_email"
+msgstr "hae tilauksia numerolla, asiakkaan nimellä tai sähköpostilla..."
+
+msgid "last_updated"
+msgstr "Viimeksi päivitetty:"
+
+msgid "comprehensive_analytics"
+msgstr "kattava analytiikka ja oivallukset, jotka perustuvat edistyneeseen data-älyyn päätöksentekoa varten"
+
+msgid "ANALYTICS DASHBOARD"
+msgstr "ANALYYTTINEN HALLINTAPANEELI"
+
+msgid "Business Intelligence"
+msgstr "Liiketoimintatiedon hallinta"
+
+msgid "Analytics Hub"
+msgstr "Analytiikkakeskus"
+
+msgid "Comprehensive analytics and insights powered by advanced data intelligence for data-driven decision making"
+msgstr "Kattava analytiikka ja oivallukset edistyneen data-älyn avulla päätöksentekoa varten"
+
+msgid "Performance Overview"
+msgstr "Suorituskyvyn yleiskatsaus"
+
+msgid "Key performance indicators at a glance"
+msgstr "Keskeiset suorituskykymittarit yhdellä silmäyksellä"
+
+msgid "Analytics Insights"
+msgstr "Analytiikan oivallukset"
+
+msgid "Deep dive into performance metrics"
+msgstr "Syväsukellus suorituskykymittareihin"
+
+msgid "Customer Intelligence"
+msgstr "Asiakasymmärrys"
+
+msgid "Understand customer behavior and trends"
+msgstr "Ymmärrä asiakkaiden käyttäytymistä ja trendejä"
+
+msgid "Market Analysis"
+msgstr "Markkina-analyysi"
+
+msgid "Comprehensive market comparison and category insights"
+msgstr "Kattava markkinavertailu ja kategoriaoivallukset"
+
+msgid "Data Intelligence"
+msgstr "Data-äly"
+
+msgid "Detailed analytics tables and pricing insights"
+msgstr "Yksityiskohtaiset analytiikkataulukot ja hinnoittelun oivallukset"
+
+msgid "Product"
+msgstr "Tuote"
+
+msgid "Products"
+msgstr "Tuotteet"
+
+msgid "Average"
+msgstr "Keskiarvo"
+
+msgid "No products found"
+msgstr "Tuotteita ei löytynyt"
+
+msgid "Close"
+msgstr "Sulje"
+
+msgid "All KPI Products"
+msgstr "Kaikki KPI-tuotteet"
+
+msgid "Top KPI Products"
+msgstr "Parhaat KPI-tuotteet"
+
+msgid "Product ID"
+msgstr "Tuotetunnus"
+
+msgid "Product Title"
+msgstr "Tuotteen nimi"
+
+msgid "Base Price"
+msgstr "Perushinta"
+
+msgid "Low-Risk Price"
+msgstr "Matalan riskin hinta"
+
+msgid "Competitive Price"
+msgstr "Kilpailukykyinen hinta"
+
+msgid "High-Risk Price"
+msgstr "Korkean riskin hinta"
+
+msgid "Untitled Product"
+msgstr "Nimetön tuote"
+
+msgid "All Trend Index Products"
+msgstr "Kaikki Trend Index -tuotteet"
+
+msgid "Trend Index by Product"
+msgstr "Trend Index tuotteittain"
+
+msgid "Product Name"
+msgstr "Tuotteen nimi"
+
+msgid "Price vs Rating"
+msgstr "Hinta vs. arvostelu"
+
+msgid "Price"
+msgstr "Hinta"
+
+msgid "Rating"
+msgstr "Arvostelu"
+
+msgid "Reviews"
+msgstr "Arvostelut"
+
+msgid "CTR"
+msgstr "CTR"
+
+msgid "CVR"
+msgstr "CVR"
+
+msgid "Average Price"
+msgstr "Keskihinta"
+
+msgid "Average Rating"
+msgstr "Keskiarvostelu"
+
+msgid "Product Count"
+msgstr "Tuotteiden määrä"
+
+msgid "Avg Price"
+msgstr "Keskihinta"
+
+msgid "Avg Rating"
+msgstr "Keskiarvostelu"
+
+msgid "Failed to load"
+msgstr "Lataus epäonnistui"
+
+msgid "products"
+msgstr "tuotteet"
+
+msgid "product"
+msgstr "tuote"
+
+msgid "FPSI"
+msgstr "FPSI"
+
+msgid "Trend Index"
+msgstr "Trendi-indeksi"
+
+msgid "Profitability"
+msgstr "Kannattavuus"
+
+msgid "Competition"
+msgstr "Kilpailu"
+
+msgid "Demand Stability"
+msgstr "Kysynnän vakaus"
+
+msgid "View All"
+msgstr "Näytä kaikki"
+
+msgid "price rating data"
+msgstr "hinta- ja arvostelutiedot"
+
+msgid "Total Reviews"
+msgstr "Arvosteluja yhteensä"
+
+msgid "Avg Reviews"
+msgstr "Keskimääräiset arvostelut"
+
+msgid "Overall Sentiment"
+msgstr "Yleinen mielipide"
+
+msgid "Positive"
+msgstr "Positiivinen"
+
+msgid "Neutral"
+msgstr "Neutraali"
+
+msgid "Negative"
+msgstr "Negatiivinen"
+
+msgid "Trend Status Overview"
+msgstr "Trenditilan yleiskatsaus"
+
+msgid "Rising"
+msgstr "Nouseva"
+
+msgid "Stable"
+msgstr "Vakaa"
+
+msgid "Declining"
+msgstr "Laskeva"
+
+msgid "sentiment data"
+msgstr "mielipidetiedot"
+
+msgid "trend status data"
+msgstr "trenditilatiedot"
+
+msgid "Status"
+msgstr "Tila"
+
+msgid "Category"
+msgstr "Kategoria"
+
+msgid "All Categories"
+msgstr "Kaikki kategoriat"
+
+msgid "Count"
+msgstr "Määrä"
+
+msgid "Percentage"
+msgstr "Prosenttiosuus"
+
+msgid "Market Comparison (by Source)"
+msgstr "Markkinavertailu (lähteen mukaan)"
+
+msgid "Market"
+msgstr "Markkina"
+
+msgid "Best seller"
+msgstr "Best seller"
+
+msgid "Movers and shakers"
+msgstr "Nousijat ja laskijat"
+
+msgid "New releases"
+msgstr "Uudet julkaisut"
+
+msgid "market comparison data"
+msgstr "markkinavertailutiedot"
+
+msgid "Category Comparison"
+msgstr "Kategoriavertailu"
+
+msgid "Category Comparison - All Data"
+msgstr "Kategoriavertailu - Kaikki tiedot"
+
+msgid "Categories"
+msgstr "Kategoriat"
+
+msgid "Metrics"
+msgstr "Mittarit"
+
+msgid "Avg Sold"
+msgstr "Myyty keskimäärin"
+
+msgid "Avg FPSI"
+msgstr "Keskimääräinen FPSI"
+
+msgid "N/A"
+msgstr "I/T"
+
+msgid "value"
+msgstr "arvo"
+
+msgid "Unknown"
+msgstr "Tuntematon"
+
+msgid "category comparison data"
+msgstr "kategoriavertailutiedot"
+
+msgid "Amazon Device"
+msgstr "Amazon-laite"
+
+msgid "Appliances"
+msgstr "Kodinkoneet"
+
+msgid "Arts, Crafts & Sewing"
+msgstr "Käsityöt ja ompelu"
+
+msgid "Automotive"
+msgstr "Autotarvikkeet"
+
+msgid "Baby Products"
+msgstr "Vauvatuotteet"
+
+msgid "Baby"
+msgstr "Vauva"
+
+msgid "Beauty & Personal Care"
+msgstr "Kauneus ja henkilökohtainen hygienia"
+
+msgid "Cell Phones & Accessories"
+msgstr "Matkapuhelimet ja tarvikkeet"
+
+msgid "Clothing, Shoes & Jewelry"
+msgstr "Vaatteet, kengät ja korut"
+
+msgid "Collectibles & Fine Art"
+msgstr "Keräilykohteet ja taide"
+
+msgid "Electronics"
+msgstr "Elektroniikka"
+
+msgid "Health & Household"
+msgstr "Terveys ja koti"
+
+msgid "Home & Kitchen"
+msgstr "Koti ja keittiö"
+
+msgid "Industrial & Scientific"
+msgstr "Teollisuus ja tiede"
+
+msgid "Musical Instruments"
+msgstr "Musikkinstrumentit"
+
+msgid "No category found"
+msgstr "Kategoriaa ei löytynyt"
+
+msgid "Office Products"
+msgstr "Toimistotarvikkeet"
+
+msgid "Patio, Lawn & Garden"
+msgstr "Piha ja puutarha"
+
+msgid "Safety & Security"
+msgstr "Turvallisuus"
+
+msgid "Tools & Home Improvement"
+msgstr "Työkalut ja kodin kunnostus"
+
+msgid "Toys & Games"
+msgstr "Lelut ja pelit"
+
+msgid "Suggested Pricing"
+msgstr "Ehdotettu hinnoittelu"
+
+msgid "All Suggested Pricing"
+msgstr "Kaikki ehdotetut hinnat"
+
+msgid "suggested pricing data"
+msgstr "ehdotetun hinnoittelun tiedot"
+
+msgid "Search products..."
+msgstr "Hae tuotteita..."
+
+msgid "Search products or categories..."
+msgstr "Hae tuotteita tai kategoroita..."
+
+msgid "no_performance_analysis_data_is_available"
+msgstr "suorituskykyanalyysin tietoja ei ole saatavilla. tämä voi tarkoittaa, ettei analyysia ole vielä suoritettu, tai tietojen noudossa tapahtui virhe."
+
+msgid "Insights"
+msgstr "Oivallukset"
+
+msgid "Performance insights for"
+msgstr "Suorituskyvyn oivallukset kohteelle"
+
+msgid "your website"
+msgstr "verkkosivustosi"
+
+msgid "Desktop"
+msgstr "Työpöytä"
+
+msgid "Mobile"
+msgstr "Mobiili"
+
+msgid "Refresh"
+msgstr "Päivitä"
+
+msgid "Loading..."
+msgstr "Ladataan..."
+
+msgid "Core Web Vitals"
+msgstr "Core Web Vitals"
+
+msgid "Performance Audits"
+msgstr "Suorituskyvyn tarkastukset"
+
+msgid "View More"
+msgstr "Näytä lisää"
+
+msgid "Performance Insights"
+msgstr "Suorituskyvyn oivallukset"
+
+msgid "Analysis Configuration"
+msgstr "Analyysin määritykset"
+
+msgid "Device"
+msgstr "Laite"
+
+msgid "Locale"
+msgstr "Alueasetus"
+
+msgid "Channel"
+msgstr "Kanava"
+
+msgid "Loading Insights data..."
+msgstr "Ladataan oivallustietoja..."
+
+msgid "Error Loading Insights Data"
+msgstr "Virhe oivallustietojen lataamisessa"
+
+msgid "An error occurred while fetching Insights analysis data."
+msgstr "Virhe noudettaessa oivallusanalyysin tietoja."
+
+msgid "Retry"
+msgstr "Yritä uudelleen"
+
+msgid "No Insights Data Available"
+msgstr "Oivallustietoja ei ole saatavilla"
+
+msgid "No performance analysis data is available. This could mean the analysis has not been run yet, or there was an error fetching the data."
+msgstr "Suorituskykyanalyysin tietoja ei ole saatavilla. Tämä voi tarkoittaa, ettei analyysia ole vielä suoritettu tai tietojen noudossa tapahtui virhe."
+
+msgid "Last analyzed:"
+msgstr "Viimeksi analysoitu:"
+
+msgid "Performance"
+msgstr "Suorituskyky"
+
+msgid "Accessibility"
+msgstr "Saavutettavuus"
+
+msgid "Best Practices"
+msgstr "Parhaat käytännöt"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "No performance metrics available"
+msgstr "Suorituskykymittareita ei ole saatavilla"
+
+msgid "No audit data available"
+msgstr "Tarkastustietoja ei ole saatavilla"
+
+msgid "No audits available"
+msgstr "Tarkastuksia ei ole saatavilla"
+
+msgid "View Less"
+msgstr "Näytä vähemmän"
+
+msgid "more"
+msgstr "lisää"
+
+msgid "No insights available"
+msgstr "Oivalluksia ei ole saatavilla"
+
+msgid "No performance issues detected. Your site is performing well!"
+msgstr "Suorituskykyongelmia ei havaittu. Sivustosi toimii hyvin!"
+
+msgid "Wasted:"
+msgstr "Hukattu:"
+
+msgid "Initializing..."
+msgstr "Alustetaan..."
+
+msgid "Connecting to server..."
+msgstr "Yhdistetään palvelimeen..."
+
+msgid "Fetching insights data..."
+msgstr "Noudetaan oivallustietoja..."
+
+msgid "Analyzing performance metrics..."
+msgstr "Analysoidaan suorituskykymittareita..."
+
+msgid "Processing audits and insights..."
+msgstr "Käsitellään tarkastuksia ja oivalluksia..."
+
+msgid "Finalizing results..."
+msgstr "Viimeistellään tuloksia..."
+
+msgid "Complete!"
+msgstr "Valmis!"
+
+msgid "Failed to load Insights data"
+msgstr "Oivallustietojen lataaminen epäonnistui"
+
+msgid "Failed to load Insights data. Please check your connection and try again."
+msgstr "Oivallustietojen lataaminen epäonnistui. Tarkista yhteys ja yritä uudelleen."
+
+msgid "No data available"
+msgstr "Tietoja ei ole saatavilla"
+
+msgid "Excellent"
+msgstr "Erinomainen"
+
+msgid "Needs Improvement"
+msgstr "Tarvitsee parannusta"
+
+msgid "Poor"
+msgstr "Heikko"
+
+msgid "Unknown error"
+msgstr "Tuntematon virhe"
+
+msgid "Email Marketing"
+msgstr "Sähköpostimarkkinointi"
+
+msgid "Manage, send, and track your emails"
+msgstr "Hallitse, lähetä ja seuraa sähköpostejasi"
+
+msgid "Emails"
+msgstr "Sähköpostit"
+
+msgid "Lists"
+msgstr "Listat"
+
+msgid "Create Email"
+msgstr "Luo sähköposti"
+
+msgid "Search emails..."
+msgstr "Hae sähköposteja..."
+
+msgid "Cards"
+msgstr "Kortit"
+
+msgid "Table"
+msgstr "Taulukko"
+
+msgid "Select"
+msgstr "Valitse"
+
+msgid "Delete"
+msgstr "Poista"
+
+msgid "Recipient"
+msgstr "Vastaanottaja"
+
+msgid "Subject"
+msgstr "Aihe"
+
+msgid "Created"
+msgstr "Luotu"
+
+msgid "Actions"
+msgstr "Toiminnot"
+
+msgid "Email Lists"
+msgstr "Sähköpostilistat"
+
+msgid "Manage, send, and track your email lists"
+msgstr "Hallitse, lähetä ja seuraa sähköpostilistojasi"
+
+msgid "Create Email List"
+msgstr "Luo sähköpostilista"
+
+msgid "Search lists..."
+msgstr "Hae listoja..."
+
+msgid "Download Template"
+msgstr "Lataa mallipohja"
+
+msgid "Download email-recipient.xlsx template"
+msgstr "Lataa email-recipient.xlsx -malli"
+
+msgid "Upload Template"
+msgstr "Lataa mallipohja palvelimelle"
+
+msgid "Upload email-recipient.xlsx file"
+msgstr "Lataa email-recipient.xlsx -tiedosto"
+
+msgid "Recipients"
+msgstr "Vastaanottajat"
+
+msgid "Confirm Action"
+msgstr "Vahvista toiminto"
+
+msgid "Are you sure you want to proceed?"
+msgstr "Oletko varma, että haluat jatkaa?"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Confirm"
+msgstr "Vahvista"
+
+msgid "List Subject"
+msgstr "Listan aihe"
+
+msgid "Subject for all recipients"
+msgstr "Aihe kaikille vastaanottajille"
+
+msgid "Enter email address and press Enter or click Add"
+msgstr "Syötä sähköpostiosoite ja paina Enter tai klikkaa Lisää"
+
+msgid "Add"
+msgstr "Lisää"
+
+msgid "Enter email addresses one at a time. Click the X on a tag to remove it."
+msgstr "Syötä sähköpostiosoitteet yksi kerrallaan. Poista klikkaamalla tunnisteen X-merkkiä."
+
+msgid "Email Body (optional HTML)"
+msgstr "Sähköpostin viestiosa (valinnainen HTML)"
+
+msgid "You can use the visual editor or switch to text mode to paste HTML."
+msgstr "Voit käyttää visuaalista editoria tai vaihtaa tekstimuotoon liittääksesi HTML-koodia."
+
+msgid "Send"
+msgstr "Lähetä"
+
+msgid "Preview"
+msgstr "Esikatselu"
+
+msgid "Clear"
+msgstr "Tyhjennä"
+
+msgid "Create New Email"
+msgstr "Luo uusi sähköposti"
+
+msgid "Your subject"
+msgstr "Aiheesi"
+
+msgid "Email Body"
+msgstr "Viestiosa"
+
+msgid "Send Email"
+msgstr "Lähetä sähköposti"
+
+msgid "Email Sent"
+msgstr "Sähköposti lähetetty"
+
+msgid "Your email has been sent successfully."
+msgstr "Sähköpostisi on lähetetty onnistuneesti."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Total"
+msgstr "Yhteensä"
+
+msgid "Sent"
+msgstr "Lähetetty"
+
+msgid "Read"
+msgstr "Luettu"
+
+msgid "Revision"
+msgstr "Versio"
+
+msgid "Sent Emails"
+msgstr "Lähetetyt sähköpostit"
+
+msgid "Export Excel"
+msgstr "Vie Excel-muodossa"
+
+msgid "Updated"
+msgstr "Päivitetty"
+
+msgid "Failed"
+msgstr "Epäonnistui"
+
+msgid "Pending"
+msgstr "Odottaa"
+
+msgid "Show"
+msgstr "Näytä"
+
+msgid "Edit"
+msgstr "Muokkaa"
+
+msgid "Update & Send"
+msgstr "Päivitä ja lähetä"
+
+msgid "Sending..."
+msgstr "Lähetetään..."
+
+msgid "Edit Email"
+msgstr "Muokkaa sähköpostia"
+
+msgid "Exit Select"
+msgstr "Poistu valinnasta"
+
+msgid "To:"
+msgstr "Vastaanottaja:"
+
+msgid "Created:"
+msgstr "Luotu:"
+
+msgid "Error"
+msgstr "Virhe"
+
+msgid "Success"
+msgstr "Onnistui"
+
+msgid "Update Email List"
+msgstr "Päivitä sähköpostilista"
+
+msgid "status_sent"
+msgstr "lähetetty"
+
+msgid "status_failed"
+msgstr "epäonnistui"
+
+msgid "status_pending"
+msgstr "odottaa"
+
+msgid "SENT"
+msgstr "LÄHETETTY"
+
+msgid "Sent:"
+msgstr "Lähetetty:"
+
+msgid "Failed:"
+msgstr "Epäonnistui:"
+
+msgid "Pending:"
+msgstr "Odottaa:"
+
+msgid "Email sent"
+msgstr "Sähköposti lähetetty"
+
+msgid "Successfully sent"
+msgstr "Lähetetty onnistuneesti"
+
+msgid "email(s)"
+msgstr "sähköposti(a)"
+
+msgid "Your email list has been sent successfully."
+msgstr "Sähköpostilistasi on lähetetty onnistuneesti."
+
+msgid "FAILED"
+msgstr "EPÄONNISTUI"
+
+msgid "PENDING"
+msgstr "ODOTTAA"
+
+msgid "Total Lists"
+msgstr "Listoja yhteensä"
+
+msgid "Total Recipients"
+msgstr "Vastaanottajia yhteensä"
+
+msgid "manage_send_and_track_your_email_lists"
+msgstr "hallitse, lähetä ja seuraa sähköpostilistojasi"
+
+msgid "create_email_list"
+msgstr "luo sähköpostilista"
+
+msgid "add"
+msgstr "lisää"
+
+msgid "send"
+msgstr "lähetä"
+
+msgid "ok"
+msgstr "ok"
+
+msgid "security"
+msgstr "tietoturva"
+
+msgid "welcome"
+msgstr "tervetuloa"
+
+msgid "of"
+msgstr "/"
+
+msgid "thank_you_for_choosing"
+msgstr "Kiitos, että valitsit vortem.ai-lisäosan. Tämä velho auttaa sinua määrittämään kauppasi nopeasti ja helposti."
+
+msgid "we_collect_and_process"
+msgstr "Keräämme ja käsittelemme palvelun toiminnan kannalta tarpeellisia tietoja, mukaan lukien tuotetiedot, tilaustiedot ja asiakastiedot. Kaikkea tietoa käsitellään tietosuojaselosteemme mukaisesti."
+
+msgid "while_we_strive"
+msgstr "Vaikka pyrimme ylläpitämään palvelun korkeaa saatavuutta, emme voi taata keskeytymätöntä palvelua. Varaamme oikeuden suorittaa huoltotöitä ja päivityksiä tarpeen mukaan."
+
+msgid "previous"
+msgstr "Edellinen"
+
+msgid "next"
+msgstr "Seuraava"
+
+msgid "home"
+msgstr "Koti"
+
+msgid "terms"
+msgstr "Ehdot"
+
+msgid "Active"
+msgstr "Aktiivinen"
+
+msgid "Not Set"
+msgstr "Ei asetettu"
+
+msgid "Import"
+msgstr "Tuo"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Import"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M12 15V3M12 15L8 11M12 15L16 11M2 17L2 19C2 20.1046 2.89543 21 4 21L20 21C21.1046 21 22 20.1046 22 19V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Tuo"
+
+msgid "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Delete"
+msgstr "<svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" style=\"vertical-align: middle; margin-right: 4px;\"><path d=\"M3 6H5H21\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M8 6V4C8 3.46957 8.21071 2.96086 8.58579 2.58579C8.96086 2.21071 9.46957 2 10 2H14C14.5304 2 15.0391 2.21071 15.4142 2.58579C15.7893 2.96086 16 3.46957 16 4V6M19 6V20C19 20.5304 18.7893 21.0391 18.4142 21.4142C18.0391 21.7893 17.5304 22 17 22H7C6.46957 22 5.96086 21.7893 5.58579 21.4142C5.21071 21.0391 5 20.5304 5 20V6H19Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M10 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M14 11V17\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg> Poista"
+
+msgid "Importing..."
+msgstr "Tuodaan..."
+
+msgid "Deleting..."
+msgstr "Poistetaan..."
+
+msgid "Already Imported"
+msgstr "Jo tuotu"
+
+msgid "Product deleted successfully"
+msgstr "Tuote poistettu onnistuneesti"
+
+msgid "NEW"
+msgstr "UUSI"
+
+msgid "Added"
+msgstr "Lisätty"
+
+msgid "Exists"
+msgstr "On jo olemassa"
+
+msgid "Showing"
+msgstr "Näytetään"
+
+msgid "← Previous"
+msgstr "← Edellinen"
+
+msgid "Previous"
+msgstr "Edellinen"
+
+msgid "Next →"
+msgstr "Seuraava →"
+
+msgid "Next"
+msgstr "Seuraava"
+
+msgid "Processing..."
+msgstr "Käsitellään..."
+
+msgid "Please wait while we import your product"
+msgstr "Ole hyvä ja odota, kun tuomme tuotetta"
+
+msgid "Importing product as draft..."
+msgstr "Tuodaan tuotetta luonnoksena..."
+
+msgid "This will create the product in WooCommerce"
+msgstr "Tämä luo tuotteen WooCommerceen"
+
+msgid "Importing product with SEO optimization..."
+msgstr "Tuodaan tuotetta SEO-optimoinnilla..."
+
+msgid "Checking product status..."
+msgstr "Tarkistetaan tuotteen tilaa..."
+
+msgid "Please wait while we check if the product exists"
+msgstr "Ole hyvä ja odota, kun tarkistamme, onko tuote jo olemassa"
+
+msgid "Loading products..."
+msgstr "Ladataan tuotteita..."
+
+msgid "Overview"
+msgstr "Yleiskatsaus"
+
+msgid "Business Overview"
+msgstr "Liiketoiminnan yleiskatsaus"
+
+msgid "Monitor your plugin performance, track key metrics, and manage your operations from a single dashboard"
+msgstr "Seuraa lisäosan suorituskykyä, keskeisiä mittareita ja hallitse toimintoja yhdestä hallintapaneelista"
+
+msgid "Total Products"
+msgstr "Tuotteita yhteensä"
+
+msgid "Quick Actions"
+msgstr "Pikatoiminnot"
+
+msgid "Analytics Dashboard"
+msgstr "Analytiikan hallintapaneeli"
+
+msgid "Analytics Overview"
+msgstr "Analytiikan yleiskatsaus"
+
+msgid "Quick insights into your business performance"
+msgstr "Nopeat oivallukset liiketoimintasi suorituskyvystä"
+
+msgid "View Full Analytics"
+msgstr "Näytä täysi analytiikka"
+
+msgid "Overall Sentiment distribution"
+msgstr "Yleisen mielipiteen jakautuminen"
+
+msgid "Trend Status distribution"
+msgstr "Trenditilan jakautuminen"
+
+msgid "Analytics"
+msgstr "Analytiikka"
+
+msgid "BI Analytics Hub"
+msgstr "BI-analytiikkakeskus"
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "No orders found"
+msgstr "Tilauksia ei löytynyt"
+
+msgid "Total Orders"
+msgstr "Tilauksia yhteensä"
+
+msgid "Current Page"
+msgstr "Nykyinen sivu"
+
+msgid "Orders Per Page"
+msgstr "Tilauksia per sivu"
+
+msgid "Search orders by number, customer name, or email..."
+msgstr "Hae tilauksia numerolla, asiakkaan nimellä tai sähköpostilla..."
+
+msgid "Loading orders..."
+msgstr "Ladataan tilauksia..."
+
+msgid "Page"
+msgstr "Sivu"
+
+msgid "WooCommerce Analytics"
+msgstr "WooCommerce-analytiikka"
+
+msgid "WordPress Analytics"
+msgstr "WordPress-analytiikka"
+
+msgid "Clear Cache"
+msgstr "Tyhjennä välimuisti"
+
+msgid "Export CSV"
+msgstr "Vie CSV-muodossa"
+
+msgid "Last updated:"
+msgstr "Viimeksi päivitetty:"
+
+msgid "Failed to load analytics data. Please refresh the page."
+msgstr "Analytiikkatietojen lataaminen epäonnistui. Päivitä sivu."
+
+msgid "No data available to export"
+msgstr "Ei vietäviä tietoja"
+
+msgid "Orders Today"
+msgstr "Tilaukset tänään"
+
+msgid "Total Revenue"
+msgstr "Kokonaistulot"
+
+msgid "Revenue Today"
+msgstr "Tulot tänään"
+
+msgid "Revenue (30 Days)"
+msgstr "Tulot (30 päivää)"
+
+msgid "Avg Order Value"
+msgstr "Keskimääräinen tilauksen arvo"
+
+msgid "Pending Orders"
+msgstr "Odottaavat tilaukset"
+
+msgid "Failed Orders"
+msgstr "Epäonnistuneet tilaukset"
+
+msgid "Cart Abandonment"
+msgstr "Hylätyt ostoskorit"
+
+msgid "Customers (30 Days)"
+msgstr "Asiakkaat (30 päivää)"
+
+msgid "Top Seller (30 Days)"
+msgstr "Myydyin tuote (30 päivää)"
+
+msgid "Total Users"
+msgstr "Käyttäjiä yhteensä"
+
+msgid "Users Today"
+msgstr "Käyttäjiä tänään"
+
+msgid "Total Comments"
+msgstr "Kommentteja yhteensä"
+
+msgid "Total Views"
+msgstr "Näyttökertoja yhteensä"
+
+msgid "Refunded"
+msgstr "Hyvitetty"
+
+msgid "Pending payment"
+msgstr "Odottaa maksua"
+
+msgid "Processing"
+msgstr "Käsitellään"
+
+msgid "On hold"
+msgstr "Pidossa"
+
+msgid "Completed"
+msgstr "Valmis"
+
+msgid "Cancelled"
+msgstr "Peruutettu"
+
+msgid "Draft"
+msgstr "Luonnos"
+
+msgid "Revenue Overview"
+msgstr "Tulojen yleiskatsaus"
+
+msgid "Orders Status"
+msgstr "Tilausten tila"
+
+msgid "WordPress Activity"
+msgstr "WordPress-aktiviteetti"
+
+msgid "Revenue"
+msgstr "Tulot"
+
+msgid "WordPress Metrics"
+msgstr "WordPress-mittarit"
+
+msgid "Products per page cannot exceed 100. Please enter a value between 1 and 100."
+msgstr "Tuotteita per sivu ei voi olla yli 100. Syötä arvo väliltä 1-100."
+
+msgid "Products per page must be at least 1. Please enter a valid value."
+msgstr "Tuotteita per sivu on oltava vähintään 1. Syötä kelvollinen arvo."
+
+msgid "Settings saved successfully!"
+msgstr "Asetukset tallennettu onnistuneesti!"
+
+msgid "Please enter a authentication key before testing."
+msgstr "Syötä lisenssiavain ennen testausta."
+
+msgid "more..."
+msgstr "lisää..."
+
+msgid "Analytics cache cleared successfully!"
+msgstr "Analytiikan välimuisti tyhjennetty!"
+
+msgid "No products to import. Please sync products first."
+msgstr "Ei tuotavia tuotteita. Synkronoi tuotteet ensin."
+
+msgid "Import completed! %d products imported, %d failed."
+msgstr "Tuonti valmis! %d tuotetta tuotu, %d epäonnistui."
+
+msgid "Import failed: %s"
+msgstr "Tuonti epäonnistui: %s"
+
+msgid "API Test Completed! Check debug.log for detailed logs. All endpoints tested successfully."
+msgstr "API-testi suoritettu! Katso debug.log-tiedostosta lisätietoja. Kaikki päätepisteet testattu onnistuneesti."
+
+msgid "API Test Failed: %s"
+msgstr "API-testi epäonnistui: %s"
+
+msgid "Database structure validated and fixed:"
+msgstr "Tietokannan rakenne vahvistettu ja korjattu:"
+
+msgid "Database structure is valid. No fixes needed."
+msgstr "Tietokannan rakenne on kunnossa. Korjauksia ei tarvita."
+
+msgid "Database validation issues:"
+msgstr "Tietokannan vahvistusongelmat:"
+
+msgid "Database validation failed: %s"
+msgstr "Tietokannan vahvistus epäonnistui: %s"
+
+msgid "Your Vortem authentication is active with %s plan."
+msgstr "Vortem.ai-lisenssisi on aktiivinen (%s-tilaus)."
+
+msgid "Validated on: %s"
+msgstr "Vahvistettu: %s"
+
+msgid "Import failed. Please try again."
+msgstr "Tuonti epäonnistui. Yritä uudelleen."
+
+msgid "Please select a bulk action."
+msgstr "Valitse massatoiminto."
+
+msgid "Please select at least one product."
+msgstr "Valitse vähintään yksi tuote."
+
+msgid "Bulk action failed. Please try again."
+msgstr "Massatoiminto epäonnistui. Yritä uudelleen."
+
+msgid "Failed to trash product. Please try again."
+msgstr "Tuotteen siirtäminen roskakoriin epäonnistui. Yritä uudelleen."
+
+msgid "Failed to restore product. Please try again."
+msgstr "Tuotteen palauttaminen epäonnistui. Yritä uudelleen."
+
+msgid "Failed to import product as draft. Please try again."
+msgstr "Tuotteen tuominen luonnoksena epäonnistui. Yritä uudelleen."
+
+msgid "Failed to get product details."
+msgstr "Tuotetietojen haku epäonnistui."
+
+msgid "Delete failed. Please try again."
+msgstr "Poisto epäonnistui. Yritä uudelleen."
+
+msgid "FAQ Management"
+msgstr "UKK-hallinta"
+
+msgid "Manage your frequently asked questions"
+msgstr "Hallitse usein kysyttyjä kysymyksiäsi"
+
+msgid "Search FAQs..."
+msgstr "Hae UKK-kysymyksiä..."
+
+msgid "Card View"
+msgstr "Korttinäkymä"
+
+msgid "Table View"
+msgstr "Taulukkonäkymä"
+
+msgid "Refresh FAQs"
+msgstr "Päivitä UKK-kysymykset"
+
+msgid "Create New FAQ"
+msgstr "Luo uusi UKK"
+
+msgid "Total FAQs"
+msgstr "UKK-kysymyksiä yhteensä"
+
+msgid "Active FAQs"
+msgstr "Aktiiviset UKK-kysymykset"
+
+msgid "Page Status"
+msgstr "Sivun tila"
+
+msgid "Question"
+msgstr "Kysymys"
+
+msgid "No FAQs yet"
+msgstr "Ei vielä UKK-kysymyksiä"
+
+msgid "Start creating FAQs to build your knowledge base"
+msgstr "Aloita UKK-kysymysten luominen tietopankkisi rakentamiseksi"
+
+msgid "Create Your First FAQ"
+msgstr "Luo ensimmäinen UKK-kysymyksesi"
+
+msgid "Loading FAQs..."
+msgstr "Ladataan UKK-kysymyksiä..."
+
+msgid "Update FAQ"
+msgstr "Päivitä UKK"
+
+msgid "Question *"
+msgstr "Kysymys *"
+
+msgid "Enter your question here..."
+msgstr "Kirjoita kysymyksesi tähän..."
+
+msgid "Answer *"
+msgstr "Vastaus *"
+
+msgid "Enter the answer here..."
+msgstr "Kirjoita vastaus tähän..."
+
+msgid "Create FAQ"
+msgstr "Luo UKK"
+
+msgid "FAQ Details"
+msgstr "UKK:n tiedot"
+
+msgid "Answer"
+msgstr "Vastaus"
+
+msgid "Delete FAQ"
+msgstr "Poista UKK"
+
+msgid "ID:"
+msgstr "ID:"
+
+msgid "Answer:"
+msgstr "Vastaus:"
+
+msgid "View Details"
+msgstr "Näytä tiedot"
+
+msgid "Edit FAQ"
+msgstr "Muokkaa UKK:ta"
+
+msgid "Creating..."
+msgstr "Luodaan..."
+
+msgid "Updating..."
+msgstr "Päivitetään..."
+
+msgid "Question is required"
+msgstr "Kysymys on pakollinen"
+
+msgid "Answer is required"
+msgstr "Vastaus on pakollinen"
+
+msgid "Answer must be at least 10 characters long"
+msgstr "Vastauksen on oltava vähintään 10 merkkiä pitkä"
+
+msgid "FAQ \"%s\" has been created"
+msgstr "UKK \"%s\" on luotu"
+
+msgid "FAQ \"%s\" has been updated"
+msgstr "UKK \"%s\" on päivitetty"
+
+msgid "FAQ \"%s\" has been deleted"
+msgstr "UKK \"%s\" on poistettu"
+
+msgid "Are you sure you want to delete \"%s\"? This action cannot be undone."
+msgstr "Oletko varma, että haluat poistaa kohteen \"%s\"? Toimintoa ei voi peruuttaa."
+
+msgid "Failed to load FAQs. Please try again."
+msgstr "UKK-kysymysten lataus epäonnistui. Yritä uudelleen."
+
+msgid "Failed to save FAQ. Please try again."
+msgstr "UKK-kysymyksen tallennus epäonnistui. Yritä uudelleen."
+
+msgid "Failed to delete FAQ. Please try again."
+msgstr "UKK-kysymyksen poisto epäonnistui. Yritä uudelleen."
+
+msgid "Authentication required. Please check your authentication key."
+msgstr "Tunnistautuminen vaaditaan. Tarkista lisenssiavaimesi."
+
+msgid "authentication key is required. Please configure your authentication key in the Vortem settings."
+msgstr "Lisenssiavain vaaditaan. Määritä se Vortem.ai-asetuksissa."
+
+msgid "Security"
+msgstr "Tietoturva"
+
+msgid "Search plugins..."
+msgstr "Hae lisäosia..."
+
+msgid "Last Modified"
+msgstr "Viimeksi muokattu"
+
+msgid "Inactive"
+msgstr "Ei aktiivinen"
+
+msgid "WordPress Core"
+msgstr "WordPress-ydin"
+
+msgid "Themes"
+msgstr "Teemat"
+
+msgid "Plugins"
+msgstr "Lisäosat"
+
+msgid "Version"
+msgstr "Versio"
+
+msgid "Author"
+msgstr "Tekijä"
+
+msgid "Description"
+msgstr "Kuvaus"
+
+msgid "File"
+msgstr "Tiedosto"
+
+msgid "Plugin URI"
+msgstr "Lisäosan URI"
+
+msgid "Requires WP Version"
+msgstr "Vaatii WP-version"
+
+msgid "Requires PHP"
+msgstr "Vaatii PHP"
+
+msgid "Read more"
+msgstr "Lue lisää"
+
+msgid "Stylesheet"
+msgstr "Tyylitiedosto"
+
+msgid "Theme URI"
+msgstr "Teeman URI"
+
+msgid "Type"
+msgstr "Tyyppi"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "All"
+msgstr "Kaikki"
+
+msgid "Vulnerabilities"
+msgstr "Haavoittuvuudet"
+
+msgid "Checking..."
+msgstr "Tarkistetaan..."
+
+msgid "Save Changes"
+msgstr "Tallenna muutokset"
+
+msgid "Configure your plugin settings and preferences"
+msgstr "Määritä laajennuksen asetukset ja mieltymykset"
+
+msgid "Enter your Vortem.ai authentication key to activate the plugin features. Click \"authentication validation\" to validate your key."
+msgstr "Syötä Vortem.ai-lisenssiavaimesi aktivoidaksesi ominaisuudet. Klikkaa \"Lisenssin vahvistus\" vahvistaaksesi avaimesi."
+
+msgid "Products Per Page"
+msgstr "Tuotteita per Sivu"
+
+msgid "Language"
+msgstr "Kieli"
+
+msgid "Currency"
+msgstr "Valuutta"
+
+msgid "Update Currency"
+msgstr "Päivitä Valuutta"
+
+msgid "Number of products to display per page. Default: 16."
+msgstr "Sivulla näytettävien tuotteiden määrä. Oletus: 16."
+
+msgid "Products per page must be at least 1"
+msgstr "Tuotteita per sivu on oltava vähintään 1"
+
+msgid "Products per page cannot exceed 100"
+msgstr "Tuotteita per sivu ei voi olla yli 100"
+
+msgid "Loading currencies..."
+msgstr "Ladataan valuuttoja..."
+
+msgid "Select the currency type for the plugin and click \"Update Currency\" to save changes."
+msgstr "Valitse valuuttatyyppi ja klikkaa \"Päivitä valuutta\" tallentaaksesi muutokset."
+
+msgid "Currency updated successfully!"
+msgstr "Valuutta päivitetty onnistuneesti!"
+
+msgid "Video Settings"
+msgstr "Videoasetukset"
+
+msgid "Video Download for Excluded Themes"
+msgstr "Videoiden lataus poissuljetuille teemoille"
+
+msgid "AliExpress Integration"
+msgstr "AliExpress-integraatio"
+
+msgid "Add video to product description"
+msgstr "Lisää video tuotteen kuvaukseen"
+
+msgid "Download videos for Vortem Clothes, Vortem Cosmetic, and xstore themes"
+msgstr "Lataa videot Vortem Clothes-, Vortem Cosmetic- ja xstore-teemoille"
+
+msgid "You are approaching your daily email limit (%s). To increase the limit, purchase the Pro plan."
+msgstr "Olet lähestymässä päivittäistä sähköpostirajaa (%s). Raja nollataan huomenna."
+
+msgid "You have reached your daily email limit. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Email Use will be zero again."
+msgstr "Olet saavuttanut päivittäisen sähköpostirajan. Raja nollataan huomenna."
+
+msgid "You are approaching your daily product import quota (%s). To increase the limit, purchase the Pro plan."
+msgstr "Olet lähestymässä päivittäistä tuontikiintiota (%s). Kiintiö nollataan huomenna."
+
+msgid "You have reached your daily product import quota. Either purchase the Pro plan or wait a day. Tomorrow, the Daily Import Use will be zero again."
+msgstr "Olet saavuttanut päivittäisen tuontikiintiön. Kiintiö nollataan huomenna."
+
+msgid "Search plugins and themes..."
+msgstr "Hae lisäosia ja teemoja..."
+
+msgid "Loading security scan results..."
+msgstr "Ladataan tietoturvaskannauksen tuloksia..."
+
+msgid "published"
+msgstr "julkaistu"
+
+msgid "Published"
+msgstr "Julkaistu"
+
+msgid "references"
+msgstr "viitteet"
+
+msgid "References"
+msgstr "Viitteet"
+
+msgid "When enabled, product videos will be automatically added to the product description. Disable this if you prefer to handle videos manually."
+msgstr "Kun käytössä, tuotevideot lisätään automaattisesti tuotekuvaukseen. Poista käytöstä, jos haluat hallita videoita manuaalisesti."
+
+msgid "When disabled, videos will not be downloaded or added to media library for Vortem Clothes, Vortem Cosmetic, and xstore themes. This saves storage space."
+msgstr "Kun poissa käytöstä, videoita ei ladata tai lisätä mediakirjastoon Vortem-teemoille. Tämä säästää tallennustilaa."
+
+msgid "To use this page, you must enter the authentication in the settings in the authentication Key section and then click the \"authentication validation\" button."
+msgstr "Käyttääksesi tätä sivua, sinun on syötettävä lisenssiavain asetuksiin ja klikattava \"Lisenssin vahvistus\" -painiketta."
+
+msgid "To get a authentication, visit"
+msgstr "Saadaksesi lisenssin, vieraile osoitteessa"
+
+msgid "Products Pages"
+msgstr "Tuotesivut"
+
+msgid "Analytics Pages"
+msgstr "Analytiikkasivut"
+
+msgid "sales"
+msgstr "myyntiä"
+
+msgid "Loading trend products..."
+msgstr "Ladataan trendituotteita..."
+
+msgid "Loading TikTok products..."
+msgstr "Ladataan TikTok-tuotteita..."
+
+msgid "Error loading TikTok products:"
+msgstr "Virhe TikTok-tuotteiden latauksessa:"
+
+msgid "Failed to load TikTok products:"
+msgstr "TikTok-tuotteiden lataus epäonnistui:"
+
+msgid "Loading Kinguin products..."
+msgstr "Ladataan Kinguin-tuotteita..."
+
+msgid "No Kinguin products found."
+msgstr "Kinguin-tuotteita ei löytynyt."
+
+msgid "Failed to load Kinguin products:"
+msgstr "Kinguin-tuotteiden lataus epäonnistui:"
+
+msgid "Error loading Kinguin products:"
+msgstr "Virhe Kinguin-tuotteiden latauksessa:"
+
+msgid "View on Amazon"
+msgstr "Näytä Amazonissa"
+
+msgid "View on Kinguin"
+msgstr "Näytä Kinguinissa"
+
+msgid "Release:"
+msgstr "Julkaisu:"
+
+msgid "Price N/A"
+msgstr "Hinta ei saatavilla"
+
+msgid "In Stock"
+msgstr "Varastossa"
+
+msgid "Sentiment"
+msgstr "Mielipide"
+
+msgid "Low stock items less than 10 pieces"
+msgstr "Vähissä olevat tuotteet (alle 10 kpl)"
+
+msgid "Total Pages"
+msgstr "Sivuja yhteensä"
+
+msgid "Total Posts"
+msgstr "Artikkeleita yhteensä"
+
+msgid "Refetch"
+msgstr "Hae uudelleen"
+
+msgid "AliExpress"
+msgstr "AliExpress"
+
+msgid "Connect to AliExpress"
+msgstr "Yhdistä AliExpressiin"
+
+msgid "Disconnect AliExpress"
+msgstr "Katkaise yhteys AliExpressiin"
+
+msgid "Are you sure you want to disconnect your AliExpress account?"
+msgstr "Oletko varma, että haluat katkaista yhteyden AliExpress-tiliisi?"
+
+msgid "Connect your AliExpress account to enable order fulfillment and dropshipping features."
+msgstr "Yhdistä AliExpress-tilisi mahdollistaaksesi tilausten täyttämisen ja dropshipping-toiminnot."
+
+msgid "Checking connection status..."
+msgstr "Tarkistetaan yhteyden tilaa..."
+
+msgid "Connected"
+msgstr "Yhdistetty"
+
+msgid "Not connected"
+msgstr "Ei yhdistetty"
+
+msgid "Error checking status"
+msgstr "Virhe tilan tarkistuksessa"
+
+msgid "Connecting..."
+msgstr "Yhdistetään..."
+
+msgid "Disconnecting..."
+msgstr "Katkaistaan yhteys..."
+
+msgid "Error connecting to AliExpress"
+msgstr "Virhe yhdistettäessä AliExpressiin"
+
+msgid "Error disconnecting AliExpress account"
+msgstr "Virhe AliExpress-yhteyden katkaisussa"
+
+msgid "Failed to disconnect"
+msgstr "Katkaiseminen epäonnistui"
+
+msgid "Failed to connect to AliExpress"
+msgstr "Yhdistäminen AliExpressiin epäonnistui"
+
+msgid "Successfully connected to AliExpress!"
+msgstr "Yhteys AliExpressiin muodostettu onnistuneesti!"
+
+msgid "For Aliexpress order creation, phone number is required."
+msgstr "AliExpress-tilausten luomista varten puhelinnumero on pakollinen."
+
+msgid "Expires:"
+msgstr "Vanhenee:"
+
+msgid "Disconnect"
+msgstr "Katkaise yhteys"
+
+msgid "Select Import Method"
+msgstr "Valitse tuontitapa"
+
+msgid "Choose how you want to import this product:"
+msgstr "Valitse, miten haluat tuoda tämän tuotteen:"
+
+msgid "Normal Import"
+msgstr "Normaali tuonti"
+
+msgid "Import product with original title and description"
+msgstr "Tuo tuote alkuperäisellä otsikolla ja kuvauksella"
+
+msgid "SEO Import"
+msgstr "SEO-tuonti"
+
+msgid "Import with SEO-optimized title, description, and tags"
+msgstr "Tuo SEO-optimoidulla otsikolla, kuvauksella ja tageilla"
+
+msgid "SEO Import Completed"
+msgstr "SEO-tuonti Valmis"
+
+msgid "The following SEO optimizations have been applied:"
+msgstr "Seuraavat SEO-optimointi on sovellettu:"
+
+msgid "Keyphrase"
+msgstr "Avainsana"
+
+msgid "SEO Title"
+msgstr "SEO Otsikko"
+
+msgid "SEO Description"
+msgstr "SEO Kuvaus"
+
+msgid "Meta Description"
+msgstr "Meta Kuvaus"
+
+msgid "Tags"
+msgstr "Tagit"
+
+msgid "Yoast SEO Title"
+msgstr "Yoast SEO Otsikko"
+
+msgid "Headings"
+msgstr "Otsikot"
+
+msgid "Yoast SEO is not installed. To use the SEO import option, you must install and activate it."
+msgstr "Yoast SEO ei ole asennettu. Jos haluat käyttää SEO-tuontivaihtoehtoa, sinun on asennettava ja aktivoitava se."
+
+msgid "Email subject must be at least 16 characters"
+msgstr "Sähköpostin aiheessa on oltava vähintään 16 merkkiä"
+
+msgid "Email subject must not exceed 256 characters"
+msgstr "Sähköpostin aihe ei saa ylittää 256 merkkiä"
+
+msgid "Email body must be at least 128 characters"
+msgstr "Sähköpostin tekstissä on oltava vähintään 128 merkkiä"
+
+msgid "Email body must not exceed 8196 characters"
+msgstr "Sähköpostin teksti ei saa ylittää 8196 merkkiä"
+
+msgid "All Imported Products"
+msgstr "Kaikki tuodut tuotteet"
+
+msgid "Refresh Products"
+msgstr "Päivitä tuotteet"
+
+msgid "Show All Products"
+msgstr "Näytä kaikki tuotteet"
+
+msgid "Show All Added Products"
+msgstr "Näytä kaikki lisätyt tuotteet"
+
+msgid "Top Products Kinguin"
+msgstr "Parhaat tuotteet Kinguin"
+
+msgid "Trend Products Amazon"
+msgstr "Trendituotteet Amazon"
+
+msgid "Top Products AliExpress"
+msgstr "Parhaat tuotteet AliExpress"
+
+msgid "Manage and view your product inventory"
+msgstr "Hallitse ja tarkastele tuotevarastoasi"
+
+msgid "Security Overview"
+msgstr "Tietoturvan yleiskatsaus"
+
+msgid "Security Scan Results"
+msgstr "Tietoturvatarkistuksen tulokset"
+
+msgid "Monitor and inspect all installed WordPress plugins and themes"
+msgstr "Valvoa ja tarkastaa kaikkia asennettuja WordPress-lisäosia ja -teemoja"
+
+msgid "Total Plugins"
+msgstr "Lisäosia yhteensä"
+
+msgid "Active Plugins"
+msgstr "Aktiiviset lisäosat"
+
+msgid "Inactive Plugins"
+msgstr "Passiiviset lisäosat"
+
+msgid "Total Themes"
+msgstr "Teemoja yhteensä"
+
+msgid "Active Themes"
+msgstr "Aktiiviset teemat"
+
+msgid "Inactive Themes"
+msgstr "Passiiviset teemat"
+
+msgid "Sort by:"
+msgstr "Järjestä:"
+
+msgid "Filter by Status:"
+msgstr "Suodata tilan mukaan:"
+
+msgid "Sort by Date"
+msgstr "Järjestä päivämäärän mukaan"
+
+msgid "View and manage your store orders"
+msgstr "Tarkastele ja hallitse kaupan tilauksiasi"
+
+msgid "Start Date"
+msgstr "Aloituspäivä"
+
+msgid "End Date"
+msgstr "Päättymispäivä"
+
+msgid "All Statuses"
+msgstr "Kaikki tilat"
+
+msgid "Navigation"
+msgstr "Navigointi"
+
+msgid "Shop Analytics"
+msgstr "Kaupan analytiikka"
+
+msgid "Traffic Analytics"
+msgstr "Liikenneanalytiikka"
+
+msgid "Search currencies..."
+msgstr "Hae valuuttoja..."
+
+msgid "Search by country or currency code"
+msgstr "Hae maan tai valuuttakoodin mukaan"
+
+msgid "Popularity"
+msgstr "Suosio"
+
+msgid "Impressions"
+msgstr "Näyttökerrat"
+
+msgid "Engagement"
+msgstr "Vuorovaikutus"
+
+msgid "Videos"
+msgstr "Videot"
+
+msgid "# Hashtags"
+msgstr "# Hashtagit"
+
+msgid "View Rate (6s)"
+msgstr "Katselutaso (6s)"
+
+msgid "Cost"
+msgstr "Kustannus"
+
+msgid "Avg. Time on Site"
+msgstr "Keskimääräinen aika sivustolla"
+
+msgid "Unique Visitors"
+msgstr "Yksilölliset kävijät"
+
+msgid "Visits"
+msgstr "Käynnit"
+
+msgid "Top Pages"
+msgstr "Suosituimmat sivut"
+
+msgid "Top Page Titles"
+msgstr "Suosituimmat sivun otsikot"
+
+msgid "Cities"
+msgstr "Kaupungit"
+
+msgid "Countries"
+msgstr "Maat"
+
+msgid "Exit Pages"
+msgstr "Poistumissivut"
+
+msgid "Entry Pages"
+msgstr "Saapumissivut"
+
+msgid "Real-time Visits"
+msgstr "Reaaliaikaiset käynnit"
+
+msgid "Bounce Rate"
+msgstr "Lähtöaste"
+
+msgid "Today"
+msgstr "Tänään"
+
+msgid "Yesterday"
+msgstr "Eilen"
+
+msgid "Last 7 Days"
+msgstr "Viimeiset 7 päivää"
+
+msgid "Last 30 Days"
+msgstr "Viimeiset 30 päivää"
+
+msgid "First Contentful Paint"
+msgstr "Ensimmäinen Sisällön Piirto"
+
+msgid "Total Size"
+msgstr "Kokonaiskoko"
+
+msgid "Requests"
+msgstr "Pyynnöt"
+
+msgid "Page Load"
+msgstr "Sivun Lataus"
+
+msgid "Last updated: %s"
+msgstr "Viimeksi päivitetty: %s"
+
+msgid "Live"
+msgstr "Suora"
+
+msgid "Quick Insights"
+msgstr "Nopeat Oivallukset"
+
+msgid "Config"
+msgstr "Asetukset"
+
+msgid "Total Vulnerabilities"
+msgstr "Haavoittuvuudet yhteensä"
+
+msgid "CVSS Score:"
+msgstr "CVSS-pisteet:"
+
+msgid "Published:"
+msgstr "Julkaistu:"
+
+msgid "Last Modified:"
+msgstr "Viimeksi muokattu:"
+
+msgid "References:"
+msgstr "Viitteet:"
+
+msgid "CWE:"
+msgstr "CWE:"
+
+msgid "Your WordPress core is secure!"
+msgstr "WordPress-ydinkesi on turvallinen!"
+
+msgid "View All Vulnerabilities"
+msgstr "Näytä Kaikki Haavoittuvuudet"
+
+msgid "CRITICAL"
+msgstr "KRIITTINEN"
+
+msgid "HIGH"
+msgstr "KORKEA"
+
+msgid "MEDIUM"
+msgstr "KESKITASO"
+
+msgid "LOW"
+msgstr "MATALA"
+
+msgid "Action is recommended. Please review and update affected items."
+msgstr "Toimenpide on suositeltava. Tarkista ja päivitä vaikutetut kohteet."
+
+msgid "All your plugins, themes, and WordPress core are secure and up to date."
+msgstr "Kaikki laajennukset, teemat ja WordPress-ydin ovat turvallisia ja ajan tasalla."
+
+msgid "High severity vulnerabilities found"
+msgstr "Korkean vakavuuden haavoittuvuuksia löydetty"
+
+msgid "Last updated: Loading..."
+msgstr "Viimeksi päivitetty: Ladataan..."
+
+msgid "Review recommended. Monitor and update affected items when possible."
+msgstr "Tarkistus suositeltava. Seuraa ja päivitä vaikutetut kohteet kun mahdollista."
+
+msgid "Some vulnerabilities found"
+msgstr "Joitain haavoittuvuuksia löydetty"
+
+msgid "Trend Products TikTok"
+msgstr "Trendituotteet TikTok"
+
+msgid "Your site is secure!"
+msgstr "Sivustosi on turvallinen!"
+
+msgid "failed_to_load_insights_error"
+msgstr "Tietoanalyysin lataus epäonnistui"
+
+msgid "failed_to_refetch"
+msgstr "Uudelleenhaku epäonnistui"
+
+msgid "no_category"
+msgstr "Ei luokitusta"
+
+msgid "Processing SEO optimizations: Keyphrase, SEO Title, SEO Description, Meta Description, Tags, Yoast SEO Title, and Headings"
+msgstr "Käsitellään SEO-optimointeja: Avainsana, SEO-otsikko, SEO-kuvaus, Meta-kuvaus, Tagit, Yoast SEO-otsikko ja Otsikot"
+
+msgid "Search themes..."
+msgstr "Etsi teemoja..."
+
+msgid "AUTHOR"
+msgstr "KIRJOITTAJA"
+
+msgid "Across all plugins, themes & core"
+msgstr "Kaikissa lisäosissa, teemoissa ja ytimessä"
+
+msgid "Address as soon as possible"
+msgstr "Käsittele mahdollisimman pian"
+
+msgid "All Security Issues"
+msgstr "Kaikki Tietoturvaongelmat"
+
+msgid "Analyzing your WordPress installation for security vulnerabilities"
+msgstr "Analysoidaan WordPress-asennustasi tietoturvaheikkouksien varalta"
+
+msgid "Attention required"
+msgstr "Huomiota vaaditaan"
+
+msgid "Component Type"
+msgstr "Komponentin Tyyppi"
+
+msgid "Core"
+msgstr "Ydin"
+
+msgid "Core WordPress files"
+msgstr "WordPress-ydin tiedostot"
+
+msgid "Critical"
+msgstr "Kriittinen"
+
+msgid "Critical Severity"
+msgstr "Kriittinen Vakavuus"
+
+msgid "Critical vulnerabilities detected!"
+msgstr "Kriittisiä haavoittuvuuksia havaittu!"
+
+msgid "Date"
+msgstr "Päivämäärä"
+
+msgid "Filter by:"
+msgstr "Suodata:"
+
+msgid "High"
+msgstr "Korkea"
+
+msgid "High Severity"
+msgstr "Korkea Vakavuus"
+
+msgid "High severity vulnerabilities detected"
+msgstr "Korkean vakavuuden haavoittuvuuksia havaittu"
+
+msgid "Immediate action is required. Please update or remove affected items as soon as possible."
+msgstr "Välitöntä toimintaa vaaditaan. Päivitä tai poista vaikutetut kohteet mahdollisimman pian."
+
+msgid "Items Requiring Attention"
+msgstr "Huomiota Vaativat Kohteet"
+
+msgid "Items without vulnerabilities"
+msgstr "Kohteet ilman haavoittuvuuksia"
+
+msgid "Low"
+msgstr "Matala"
+
+msgid "Low Severity"
+msgstr "Matala Vakavuus"
+
+msgid "Low severity vulnerabilities detected"
+msgstr "Matalan vakavuuden haavoittuvuuksia havaittu"
+
+msgid "Medium"
+msgstr "Keskitaso"
+
+msgid "Medium Severity"
+msgstr "Keskitaso Vakavuus"
+
+msgid "Medium severity vulnerabilities detected"
+msgstr "Keskitasoisen vakavuuden haavoittuvuuksia havaittu"
+
+msgid "Monitor & track"
+msgstr "Seurata ja seurata"
+
+msgid "Monitor and plan fix"
+msgstr "Seurata ja suunnitella korjaus"
+
+msgid "Monitor these issues and plan fixes when convenient."
+msgstr "Seuraa näitä ongelmia ja suunnittele korjaukset, kun on sopivaa."
+
+msgid "No items at risk"
+msgstr "Ei kohteita riskissä"
+
+msgid "No known vulnerabilities detected"
+msgstr "Tunnetut haavoittuvuudet eivät havaittu"
+
+msgid "No plugins found"
+msgstr "Lisäosia ei löytynyt"
+
+msgid "No recent vulnerabilities"
+msgstr "Ei viimeaikaisia haavoittuvuuksia"
+
+msgid "No themes found"
+msgstr "Teemoja ei löytynyt"
+
+msgid "No vulnerabilities found"
+msgstr "Haavoittuvuuksia ei löytynyt"
+
+msgid "No vulnerabilities found in plugins"
+msgstr "Lisäosissa ei löytynyt haavoittuvuuksia"
+
+msgid "No vulnerabilities found in themes"
+msgstr "Teemoissa ei löytynyt haavoittuvuuksia"
+
+msgid "Number of Vulnerabilities"
+msgstr "Haavoittuvuuksien Määrä"
+
+msgid "Plan to address"
+msgstr "Suunnitelma käsittelyyn"
+
+msgid "Please review and address these issues soon."
+msgstr "Tarkista ja käsittele nämä ongelmat pian."
+
+msgid "REQUIRES PHP"
+msgstr "VAA TII PHP"
+
+msgid "REQUIRES WP"
+msgstr "VAA TII WP"
+
+msgid "Read less"
+msgstr "Lue vähemmän"
+
+msgid "Recent Vulnerabilities"
+msgstr "Viimeaikaiset Haavoittuvuudet"
+
+msgid "Requires immediate action"
+msgstr "Vaatii välitöntä toimintaa"
+
+msgid "Requires immediate attention"
+msgstr "Vaatii välitöntä huomiota"
+
+msgid "Scanning..."
+msgstr "Skannaus..."
+
+msgid "Schedule for review"
+msgstr "Ajoita tarkistukseen"
+
+msgid "Schedule time to review and fix these issues."
+msgstr "Ajoita aika tarkistaa ja korjata nämä ongelmat."
+
+msgid "Secure Items"
+msgstr "Turvalliset Kohteet"
+
+msgid "Security vulnerabilities detected in WordPress version. Update to latest version is recommended."
+msgstr "Tietoturvaheikkouksia havaittu WordPress-versiossa. Päivitys uusimpaan versioon on suositeltavaa."
+
+msgid "Should be fixed soon"
+msgstr "Pitäisi korjata pian"
+
+msgid "Third-party plugins installed"
+msgstr "Kolmannen osapuolen lisäosat asennettu"
+
+msgid "Try adjusting your filters or search terms"
+msgstr "Yritä säätää suodattimia tai hakusanoja"
+
+msgid "Unknown Plugin"
+msgstr "Tuntematon Lisäosa"
+
+msgid "Unknown Theme"
+msgstr "Tuntematon Teema"
+
+msgid "VERSION"
+msgstr "VERSIO"
+
+msgid "View Page"
+msgstr "Näytä Sivu"
+
+msgid "Vortem Logo"
+msgstr "Vortem Logo"
+
+msgid "Vulnerabilities by Type"
+msgstr "Haavoittuvuudet tyypin mukaan"
+
+msgid "Vulnerability"
+msgstr "Haavoittuvuus"
+
+msgid "Vulnerability Details"
+msgstr "Haavoittuvuuden yksityiskohdat"
+
+msgid "Vulnerability Distribution by Severity"
+msgstr "Haavoittuvuuksien jakautuminen vakavuuden mukaan"
+
+msgid "WordPress Vulnerability"
+msgstr "WordPress-haavoittuvuus"
+
+msgid "WordPress themes"
+msgstr "WordPress-teemat"
+
+msgid "Your WP Core is Secure"
+msgstr "WP-ydin on turvallinen"
+
+msgid "Your plugins are secure!"
+msgstr "Lisäosasi ovat turvallisia!"
+
+msgid "Your site is secure"
+msgstr "Sivustosi on turvallinen"
+
+msgid "Your themes are secure!"
+msgstr "Teemasi ovat turvallisia!"
+
+msgid "answer:"
+msgstr "Vastaus:"
+
+msgid "bulk_faqs_created"
+msgstr "%d UKK:ta luotiin onnistuneesti"
+
+msgid "failed_to_create_bulk_faqs"
+msgstr "UKK:iden luominen epäonnistui. Yritä uudelleen."
+
+msgid "faq"
+msgstr "UKK"
+
+msgid "no_faqs_to_create"
+msgstr "Lisää vähintään yksi UKK ennen luomista."
+
+msgid "of all vulnerabilities"
+msgstr "kaikista haavoittuvuuksista"
+
+msgid "of installed items affected"
+msgstr "asennetuista kohteista vaikutettu"
+
+msgid "of items are clean"
+msgstr "kohteista on puhtaita"
+
+msgid "of total"
+msgstr "yhteensä"
+
+msgid "question:"
+msgstr "Kysymys:"
+
+msgid "remove"
+msgstr "Poista"
+
+msgid "vulnerabilities"
+msgstr "haavoittuvuudet"
+
+msgid "vulnerabilities found"
+msgstr "haavoittuvuuksia löydetty"
+
+msgid "Filter by Severity:"
+msgstr "Suodata vakavuuden mukaan:"
+
+msgid "All Severities"
+msgstr "Kaikki vakavuustasot"
+
+msgid "Let's Get You Started"
+msgstr "Aloitetaan"
+
+msgid "Complete setup in about 2 minutes"
+msgstr "Viimeistele asennus noin 2 minuutissa"
+
+msgid "Quick Setup"
+msgstr "Nopea asennus"
+
+msgid "Get up and running in minutes with our guided installation process"
+msgstr "Aloita minuuteissa ohjatun asennusprosessimme avulla"
+
+msgid "Secure & Reliable"
+msgstr "Turvallinen ja luotettava"
+
+msgid "Enterprise-grade security built into every component"
+msgstr "Yritystason turvallisuus sisäänrakennettuna jokaiseen komponenttiin"
+
+msgid "Optimized Performance"
+msgstr "Optimoitu suorituskyky"
+
+msgid "Lightning-fast and optimized for WordPress environments"
+msgstr "Salamannopea ja optimoitu WordPress-ympäristöihin"
+
+msgid "Next Step"
+msgstr "Seuraava vaihe"
+
+msgid "Initial Configuration"
+msgstr "Alkuperäinen konfiguraatio"
+
+msgid "Set your default language and currency preferences"
+msgstr "Aseta oletuskieli- ja valuutta-asetukset"
+
+msgid "Please review and accept our terms to continue"
+msgstr "Tarkista ja hyväksy ehtomme jatkaaksesi"
+
+msgid "1. Service Availability"
+msgstr "1. Palvelun saatavuus"
+
+msgid "2. Support"
+msgstr "2. Tuki"
+
+msgid "3. Updates"
+msgstr "3. Päivitykset"
+
+msgid "I accept the Terms & Conditions"
+msgstr "Hyväksyn käyttöehdot"
+
+msgid "By checking this box, you acknowledge that you have read and agree to be bound by these terms and conditions."
+msgstr "Rastittamalla tämän ruudun vahvistat, että olet lukenut ja hyväksyt nämä ehdot."
+
+msgid "Installation Complete!"
+msgstr "Asennus valmis!"
+
+msgid "Your plugin has been successfully configured and is ready to use. You can now start using all the features."
+msgstr "Lisäosasi on määritetty onnistuneesti ja se on valmis käyttöön. Voit nyt alkaa käyttää kaikkia ominaisuuksia."
+
+msgid "Configuration Summary"
+msgstr "Konfiguraation yhteenveto"
+
+msgid "Language:"
+msgstr "Kieli:"
+
+msgid "Currency:"
+msgstr "Valuutta:"
+
+msgid "Terms Accepted:"
+msgstr "Ehdot hyväksytty:"
+
+msgid "Yes"
+msgstr "Kyllä"
+
+msgid "Go to Dashboard"
+msgstr "Siirry kojetauluun"
+
+msgid "Go to Analytics page"
+msgstr "Siirry analytiikkasivulle"
+
+msgid "Go to Products page"
+msgstr "Siirry tuotesivulle"
+
+msgid "Go to Matomo Analytics page"
+msgstr "Siirry Matomo Analytics -sivulle"
+
+msgid "Restart Wizard"
+msgstr "Käynnistä ohjelma uudelleen"
+
+msgid "Restart"
+msgstr "Käynnistä uudelleen"
+
+msgid "This will reset the setup process. Are you sure?"
+msgstr "Tämä nollaa asennusprosessin. Oletko varma?"
+
+msgid "Confirm Restart"
+msgstr "Vahvista uudelleenkäynnistys"
+
+msgid "Back"
+msgstr "Takaisin"
+
+msgid "Welcome"
+msgstr "Tervetuloa"
+
+msgid "Configuration"
+msgstr "Konfiguraatio"
+
+msgid "Complete"
+msgstr "Valmis"
+
+msgid "Insufficient permissions"
+msgstr "Riittämättömät oikeudet"
+
+msgid "Language parameter is required"
+msgstr "Kieliparametri vaaditaan"
+
+msgid "Translation manager not available"
+msgstr "Käännösmanageri ei ole käytettävissä"
+
+msgid "Unsupported language"
+msgstr "Ei tuettu kieli"
+
+msgid "Language changed successfully"
+msgstr "Kieli vaihdettiin onnistuneesti"
+
+msgid "Failed to change language"
+msgstr "Kielen vaihtaminen epäonnistui"
+
+msgid "Currency parameter is required"
+msgstr "Valuuttaparametri vaaditaan"
+
+msgid "Unsupported currency"
+msgstr "Ei tuettu valuutta"
+
+msgid "Currency changed successfully"
+msgstr "Valuutta vaihdettiin onnistuneesti"
+
+msgid "Loading"
+msgstr "Ladataan"
+
+msgid "Search..."
+msgstr "Etsi..."
+
+msgid "Search Language"
+msgstr "Etsi kieltä"
+
+msgid "No languages found"
+msgstr "Kieliä ei löytynyt"
+
+msgid "No currencies found"
+msgstr "Valuuttoja ei löytynyt"
+
+msgid "Failed to load currencies"
+msgstr "Valuuttojen lataaminen epäonnistui"
+
+msgid "Error loading currencies"
+msgstr "Virhe valuuttoja ladatessa"
+
+msgid "Failed to restart wizard"
+msgstr "Ohjatun toiminnon uudelleenkäynnistys epäonnistui"
+
+msgid "An error occurred while restarting the wizard. Please try again."
+msgstr "Ohjatun toiminnon uudelleenkäynnistyksessä tapahtui virhe. Yritä uudelleen."
+
+msgid "Please complete the current step before proceeding."
+msgstr "Ole hyvä ja suorita nykyinen vaihe ennen jatkamista."
+
+msgid "Please wait for authentication to complete."
+msgstr "Ole hyvä ja odota, kunnes todennus on valmis."
+
+msgid "Please accept the terms and conditions."
+msgstr "Ole hyvä ja hyväksy käyttöehdot."
+
+msgid "Please accept the terms and conditions before proceeding."
+msgstr "Ole hyvä ja hyväksy käyttöehdot ennen jatkamista."
+
+msgid "Please complete authentication first."
+msgstr "Ole hyvä ja suorita todennus ensin."
+
+msgid "Please accept the terms and conditions before completing setup."
+msgstr "Ole hyvä ja hyväksy käyttöehdot ennen asennuksen viimeistelemistä."
+
+msgid "Failed to complete setup"
+msgstr "Asennuksen viimeistely epäonnistui"
+
+msgid "An error occurred while completing setup. Please try again."
+msgstr "Asennusta viimeistellessä tapahtui virhe. Yritä uudelleen."
+
+msgid "Session token not found. Please complete authentication first."
+msgstr "Istuntotunnusta ei löytynyt. Ole hyvä ja suorita todennus ensin."
+
+msgid "An error occurred while switching language"
+msgstr "Kieltä vaihdettaessa tapahtui virhe"
+
+msgid "An error occurred while switching currency"
+msgstr "Valuuttaa vaihdettaessa tapahtui virhe"
+
+msgid "Last updated: %1$s • Live"
+msgstr "Viimeksi päivitetty: %1$s • Live"
+
+msgid "Last 30 days"
+msgstr "Viimeiset 30 päivää"
+
+msgid "Traffic Overview"
+msgstr "Liikenteen yleiskatsaus"
+
+msgid "Matomo analytics – last 30 days"
+msgstr "Matomo-analytiikka – viimeiset 30 päivää"
+
+msgid "Today's Focus"
+msgstr "Päivän fokus"
+
+msgid "Vortem.ai Plugin Overview"
+msgstr "Vortem.ai-lisäosan yleiskatsaus"
+
+msgid "Read More"
+msgstr "Lue lisää"
+
+msgid "Check your dashboard regularly"
+msgstr "Tarkista kojelautasi säännöllisesti"
+
+msgid "View Analytics"
+msgstr "Näytä analytiikka"
+
+msgid "Vortem recognized as Top AI Platform 2026"
+msgstr "Vortem tunnustettu huippu AI-alustaksi 2026"
+
+msgid "Order Statistics"
+msgstr "Tilaustilastot"
+
+msgid "Today's Orders Completed"
+msgstr "Tänään valmistuneet tilaukset"
+
+msgid "Total Orders Completed"
+msgstr "Yhteensä valmistuneet tilaukset"
+
+msgid "Imported Products"
+msgstr "Tuodut tuotteet"
+
+msgid "Recent Activity"
+msgstr "Viimeisin toiminta"
+
+msgid "Overview dashboard loaded"
+msgstr "Yleiskatsaus-kojelaudan lataus"
+
+msgid "Just now"
+msgstr "Juuri nyt"
+
+msgid "You can manage products, analytics, and email marketing from here"
+msgstr "Voit hallita tuotteita, analytiikkaa ja sähköpostimarkkinointia täältä"
+
+msgid "Ready"
+msgstr "Valmis"
+
+msgid "Configure plugin settings and API keys"
+msgstr "Määritä lisäosan asetukset ja API-avaimet"
+
+msgid "Vortem.ai plugin is ready. You can manage products, analytics, and email marketing from here."
+msgstr "Vortem.ai-lisäosa on valmis. Voit hallita tuotteita, analytiikkaa ja sähköpostimarkkinointia täältä."
+
+msgid "Vortem.ai official website"
+msgstr "Vortem.ai virallinen verkkosivusto"
+
+msgid "Navigate, learn, and manage your account"
+msgstr "Navigoi, opi ja hallitse tiliäsi"
+
+msgid "Quick Access"
+msgstr "Pikapääsy"
+
+msgid "Return to dashboard home"
+msgstr "Takaisin kojelautasivun etusivulle"
+
+msgid "Go to Home"
+msgstr "Etusivulle"
+
+msgid "Profile, settings, and preferences"
+msgstr "Profiili, asetukset ja preferenssit"
+
+msgid "Help & Learning"
+msgstr "Ohje ja oppiminen"
+
+msgid "Get help, submit tickets, or contact support"
+msgstr "Hae apua, lähetä tikettejä tai ota yhteyttä tukeen"
+
+msgid "Get Support"
+msgstr "Hae tukea"
+
+msgid "Developer & user guides"
+msgstr "Kehittäjä- ja käyttäjäoppaat"
+
+msgid "Read Docs"
+msgstr "Lue dokumentaatio"
+
+msgid "Legal & Policies"
+msgstr "Oikeudellinen ja käytännöt"
+
+msgid "Terms of Service"
+msgstr "Käyttöehdot"
+
+msgid "Usage terms and conditions"
+msgstr "Käyttöehdot"
+
+msgid "View"
+msgstr "Näytä"
+
+msgid "Privacy Policy"
+msgstr "Tietosuojakäytäntö"
+
+msgid "Data protection and privacy"
+msgstr "Tietosuoja ja yksityisyys"
+
+msgid "Navigation to vortem wordpress"
+msgstr "Navigointi Vortem WordPressiin"
+
+msgid "Access key features and settings"
+msgstr "Pääsy avainominaisuuksiin ja asetuksiin"
+
+msgid "Manage catalog and inventory"
+msgstr "Hallitse katalogia ja varastoa"
+
+msgid "Business insights and metrics"
+msgstr "Liiketoiminta-analytiikka ja mittarit"
+
+msgid "Growth & Intelligence"
+msgstr "Kasvu ja älykkyys"
+
+msgid "Campaigns and automation"
+msgstr "Kampanjat ja automatisointi"
+
+msgid "AI-powered recommendations"
+msgstr "TEKOÄLY-pohjaiset suositukset"
+
+msgid "Manage orders and shipments"
+msgstr "Hallitse tilauksia ja lähetyksiä"
+
+msgid "System"
+msgstr "Järjestelmä"
+
+msgid "Knowledge base editor"
+msgstr "Tietokanta-editori"
+
+msgid "Access control and monitoring"
+msgstr "Käyttöoikeudet ja seuranta"
+
+msgid "System configuration"
+msgstr "Järjestelmän kokoonpano"
+
+msgid "Emails Sent"
+msgstr "Lähetetyt sähköpostit"
+
+msgid "Orders"
+msgstr "Tilaukset"
+
+msgid "Total products"
+msgstr "Tuotteita yhteensä"
+
+msgid "Imported via plugin"
+msgstr "Tuotu lisäosalla"
+
+msgid "Other products"
+msgstr "Muut tuotteet"
+
+msgid "Manage"
+msgstr "Hallitse"
+
+msgid "bounce"
+msgstr "lähtö"
+
+
+msgid "Dashboard"
+msgstr "Hallintapaneeli"
+
+msgid "Plugin"
+msgstr "Lisäosa"
+
+msgid "External"
+msgstr "Ulkoinen"
+
+msgid "Navigation to vortem WordPress"
+msgstr "Navigointi vortem WordPressiin"
+
+msgid "Commerce"
+msgstr "Kauppa"
+
+msgid "Timeline"
+msgstr "Aikajana"
+
+msgid "Security Center"
+msgstr "Turvallisuuskeskus"
+
+msgid "Display"
+msgstr "Näyttö"
+
+msgid "How products and currency are presented in your store."
+msgstr "Miten tuotteet ja valuutta esitetään kaupassasi."
+
+msgid "Products per page"
+msgstr "Tuotteita per sivu"
+
+msgid "Default: 16. Range: 1–100."
+msgstr "Oletus: 16. Alue: 1–100."
+
+msgid "Currency used across plugin pricing. Click \"Update\" to save your selection."
+msgstr "Lisäosan hinnoittelussa käytetty valuutta. Tallenna valinta napsauttamalla \"Päivitä\"."
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Control how product videos are imported and attached."
+msgstr "Hallitse, miten tuotteiden videot tuodaan ja liitetään."
+
+msgid "When enabled, product videos are automatically added to the description. Disable to handle videos manually."
+msgstr "Kun käytössä, tuotevideot lisätään automaattisesti kuvaukseen. Poista käytöstä videoiden manuaalista käsittelyä varten."
+
+msgid "When disabled, videos are not downloaded for Vortem Clothes, Vortem Cosmetic, and xstore themes — saves storage space."
+msgstr "Kun poissa käytöstä, videoita ei ladata teemoille Vortem Clothes, Vortem Cosmetic ja xstore — säästää tallennustilaa."
+
+msgid "Download videos for Vortem & xstore themes"
+msgstr "Lataa videot Vortem- ja xstore-teemoille"
+
+msgid "Integrations"
+msgstr "Integraatiot"
+
+msgid "Connect external accounts to expand sourcing and fulfillment."
+msgstr "Yhdistä ulkoisia tilejä laajentaaksesi hankintaa ja toimitusta."
+
+msgid "Update"
+msgstr "Päivitä"
+
+msgid "Last updated"
+msgstr "Viimeksi päivitetty"
+
+msgid "Setup"
+msgstr "Asetukset"
+
+msgid "Let's get you started"
+msgstr "Aloitetaan"
+
+msgid "Complete setup in about 2 minutes."
+msgstr "Viimeistele asennus noin 2 minuutissa."
+
+msgid "Vortem's product import features need an AliExpress account."
+msgstr "Vortemin tuoteimportti vaatii AliExpress-tilin."
+
+msgid "You'll connect it later under Settings → Vortem → AliExpress Integration. No account yet? You can sign up from there too."
+msgstr "Yhdistät sen myöhemmin kohdassa Asetukset → Vortem → AliExpress-integraatio. Ei tiliä? Voit rekisteröityä myös sieltä."
+
+msgid "Up and running in minutes."
+msgstr "Käyttöön minuuteissa."
+
+msgid "Built with WordPress security best practices."
+msgstr "Rakennettu WordPressin tietoturvakäytäntöjen mukaisesti."
+
+msgid "Lightweight and tuned for WordPress."
+msgstr "Kevyt ja WordPressille optimoitu."
+
+msgid "Store basics"
+msgstr "Kaupan perusteet"
+
+msgid "Pick your store currency"
+msgstr "Valitse kaupan valuutta"
+
+msgid "This is what your customers see at checkout. You can change it later."
+msgstr "Tämän asiakkaat näkevät kassalla. Voit muuttaa myöhemmin."
+
+msgid "Used on product cards, cart, and checkout."
+msgstr "Käytössä tuotekorteilla, ostoskorissa ja kassalla."
+
+msgid "Almost there"
+msgstr "Melkein valmista"
+
+msgid "Review and accept"
+msgstr "Tarkista ja hyväksy"
+
+msgid "Read the full Terms"
+msgstr "Lue ehdot kokonaan"
+
+msgid "You agree to be bound by these terms."
+msgstr "Sitoudut näihin ehtoihin."
+
+msgid "I consent to data processing"
+msgstr "Annan suostumuksen tietojen käsittelyyn"
+
+msgid "I understand and agree that this plugin sends my site data (site URL, WordPress version, plugin version, currency preference, WooCommerce product data when importing products, order shipping information when processing orders, and plugin/theme metadata when using security features) to vortem.ai servers (https://c.vortem.ai) for processing, analytics, and service delivery. No data is sent before you provide explicit consent, and the plugin remains functional if you decline (features that depend on vortem.ai will simply be unavailable). Sending an inventory of installed plugins/themes for vulnerability lookup follows the same pattern used by Wordfence, Patchstack, WPScan, and Jetpack Protect."
+msgstr "Ymmärrän ja hyväksyn, että tämä lisäosa lähettää sivustoni tiedot (sivuston URL, WordPress-versio, lisäosan versio, valuutta-asetus, WooCommerce-tuotetiedot tuontia varten, toimitustiedot tilauksia käsiteltäessä sekä lisäosien/teemojen metatiedot suojausominaisuuksia käytettäessä) vortem.ai-palvelimille (https://c.vortem.ai) käsittelyä, analytiikkaa ja palvelun toteutusta varten. Tietoja ei lähetetä ennen nimenomaista suostumustasi, ja lisäosa toimii edelleen, jos kieltäydyt (vortem.ai:hin liittyvät ominaisuudet eivät ole käytettävissä). Asennettujen lisäosien/teemojen luettelon lähettäminen haavoittuvuuksien etsintään noudattaa samaa mallia kuin Wordfence, Patchstack, WPScan ja Jetpack Protect."
+
+msgid "All done"
+msgstr "Valmis"
+
+msgid "You're all set!"
+msgstr "Kaikki valmista!"
+
+msgid "Vortem is configured and ready. Connect AliExpress from Settings whenever you're ready."
+msgstr "Vortem on määritetty ja valmis. Yhdistä AliExpress asetuksista milloin tahansa."
+
+msgid "Accepted"
+msgstr "Hyväksytty"
+
+msgid "Consented"
+msgstr "Suostumus annettu"
+
+msgid "Data processing"
+msgstr "Tietojen käsittely"
+
+msgid "Meta Title"
+msgstr "Metaotsikko"
+
+msgid "Order"
+msgstr "Tilaus"
+
+msgid "Customer"
+msgstr "Asiakas"
+
+msgid "Items"
+msgstr "Tuotteet"
+
+msgid "Payment"
+msgstr "Maksu"
