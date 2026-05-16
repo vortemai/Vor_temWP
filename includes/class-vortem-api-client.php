@@ -928,10 +928,14 @@ class Vortem_Api_Client {
 	}
 
 	/**
-	 * Fetch TikTok products from API
-	 * Returns list of trending TikTok products
+	 * Fetch TikTok trending products from API.
 	 *
-	 * @param array $params Optional parameters: page, limit (page_size)
+	 * Backend endpoint: GET /api/v1/product/tiktok/top_products?page={n}&per_page={n}
+	 * Response shape mirrors the AliExpress top-products feed (product_id, title,
+	 * description, vortem_cat, price, images, salescount), so the existing import
+	 * pipeline handles these IDs unchanged.
+	 *
+	 * @param array $params Optional parameters: page, limit (becomes per_page).
 	 * @return array|WP_Error
 	 */
 	public function fetch_tiktok_products( $params = array() ) {
@@ -941,11 +945,10 @@ class Vortem_Api_Client {
 			return new WP_Error( 'no_api_url', 'No API server available. Please check your server configuration.' );
 		}
 
-		// Prepare request data — TikTok endpoint expects `page` and `limit` query params.
-		$default_limit = get_option( 'vortem_products_per_page', 12 );
+		$default_limit = get_option( 'vortem_products_per_page', 20 );
 		$request_data  = array(
-			'page'  => isset( $params['page'] ) ? intval( $params['page'] ) : 1,
-			'limit' => isset( $params['limit'] ) ? intval( $params['limit'] ) : $default_limit,
+			'page'     => isset( $params['page'] ) ? intval( $params['page'] ) : 1,
+			'per_page' => isset( $params['limit'] ) ? intval( $params['limit'] ) : $default_limit,
 		);
 
 		// Get endpoint URL and validate

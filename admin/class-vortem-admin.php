@@ -2788,6 +2788,11 @@ class Vortem_Admin {
 					
 					<!-- TikTok Products Tab Panel -->
 					<div id="tiktok-products-panel" class="product-tab-panel">
+						<div style="margin-bottom: 20px; display: flex; align-items: center; justify-content: flex-end;">
+							<button type="button" id="refresh-tiktok-products" class="button button-primary">
+								<?php esc_html_e( 'Refresh Products', 'vortem-ai' ); ?>
+							</button>
+						</div>
 						<div id="tiktok-products-container">
 							<!-- TikTok products will be loaded here -->
 						</div>
@@ -4282,16 +4287,19 @@ class Vortem_Admin {
 				container.html(html);
 			}
 			
-			// Function to load TikTok products from API
+			// Function to load TikTok trending products from API.
+			// New endpoint returns AliExpress-shaped product objects, so we render them
+			// with the same .vortem-product-card markup as the AliExpress Top Products tab
+			// — the shared .import-product-btn click handler in vortem-buttons.js opens
+			// the Normal / SEO Import method modal automatically.
 			function loadTikTokProducts(page) {
 				page = page || 1;
-				var limit = 12;
+				var limit = (typeof vortem_admin !== 'undefined' && parseInt(vortem_admin.products_per_page, 10)) ? parseInt(vortem_admin.products_per_page, 10) : 20;
 				var container = $('#tiktok-products-container');
-				
-				// Show loading state
+
 				var loadingText = (typeof vortem_admin !== 'undefined' && vortem_admin.strings && vortem_admin.strings['Loading TikTok products...']) ? vortem_admin.strings['Loading TikTok products...'] : 'Loading TikTok products...';
 				container.html('<div class="tiktok-products-loading" style="text-align: center; padding: 40px;"><div class="spinner" style="display: inline-block; width: 40px; height: 40px; border: 4px solid #f3f3f3; border-top: 4px solid #60a5fa; border-radius: 50%; animation: spin 1s linear infinite;"></div><p style="margin-top: 20px; color: #64748b;">' + loadingText + '</p></div>');
-				
+
 				$.ajax({
 					url: vortem_admin.ajax_url,
 					type: 'POST',
@@ -4304,18 +4312,8 @@ class Vortem_Admin {
 					},
 					success: function(response) {
 						if (response.success && response.data) {
-							var products = [];
 							var responseData = response.data;
-							
-							// Handle different response formats
-							if (Array.isArray(responseData)) {
-								products = responseData;
-							} else if (Array.isArray(responseData.products)) {
-								products = responseData.products;
-							} else if (Array.isArray(responseData.data)) {
-								products = responseData.data;
-							}
-							
+							var products = Array.isArray(responseData.products) ? responseData.products : [];
 							renderTikTokProducts(products, responseData);
 						} else {
 							var errorMsg = (response.data && response.data.message) ? response.data.message : 'Unknown error';
@@ -4329,67 +4327,117 @@ class Vortem_Admin {
 					}
 				});
 			}
-			
-			// Function to render TikTok products
+
+			// Render TikTok trending products using the shared AliExpress product-card markup.
 			function renderTikTokProducts(products, responseData) {
 				var container = $('#tiktok-products-container');
 
 				if (!products || products.length === 0) {
-					container.html('<div class="tiktok-products-empty" style="text-align: center; padding: 40px;"><p style="color: #64748b;">No TikTok products found.</p></div>');
+					container.html('<div class="tiktok-products-empty" style="text-align: center; padding: 40px;"><p style="color: #64748b;"><?php echo esc_js( __( 'No TikTok trending products found.', 'vortem-ai' ) ); ?></p></div>');
 					return;
+				}
+
+				function escapeHtml(value) {
+					return $('<div/>').text(value == null ? '' : String(value)).html();
+				}
+
+				function formatNumberWithCommas(num, decimals) {
+					if (num === null || num === undefined || isNaN(num)) return '0';
+					var parts = num.toFixed(decimals).split('.');
+					parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+					return parts.join('.');
 				}
 
 				var pageText = (typeof vortem_admin !== 'undefined' && vortem_admin.strings && vortem_admin.strings.Page) ? vortem_admin.strings.Page : 'Page';
 				var previousText = (typeof vortem_admin !== 'undefined' && vortem_admin.strings && vortem_admin.strings.Previous) ? vortem_admin.strings.Previous : 'Previous';
 				var nextText = (typeof vortem_admin !== 'undefined' && vortem_admin.strings && vortem_admin.strings.Next) ? vortem_admin.strings.Next : 'Next';
 				var ofText = (typeof vortem_admin !== 'undefined' && vortem_admin.strings && vortem_admin.strings.of) ? vortem_admin.strings.of : 'of';
+				var addedText = (typeof vortem_admin !== 'undefined' && vortem_admin.strings && vortem_admin.strings.added) ? vortem_admin.strings.added : 'Added';
+				var newText = (typeof vortem_admin !== 'undefined' && vortem_admin.strings && vortem_admin.strings.new) ? vortem_admin.strings.new : 'NEW';
+				var salesText = (typeof vortem_admin !== 'undefined' && vortem_admin.strings && vortem_admin.strings.sales) ? vortem_admin.strings.sales : 'sales';
 
-				function escapeHtml(value) {
-					return $('<div/>').text(value == null ? '' : String(value)).html();
-				}
-
-				function toHttps(url) {
-					if (!url) return '';
-					return url.replace(/^http:\/\//i, 'https://');
-				}
-
-				var html = '<div class="tiktok-products-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; margin-bottom: 24px;">';
+				var html = '<div class="products-grid">';
 
 				products.forEach(function(product) {
-					var streamUrl = toHttps(product.stream_url || '');
-					var category = product.category || '';
-					var hashtags = Array.isArray(product.hashtags) ? product.hashtags : (product.related_hashtags || []);
+					var imageUrl = (product.images && product.images.main) ? product.images.main : '';
+					var currency = (typeof vortem_admin !== 'undefined' && vortem_admin.currency_code) ? vortem_admin.currency_code : 'USD';
+					var priceLow = null, priceHigh = null;
 
-					html += '<div class="tiktok-product-card" style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.08); display: flex; flex-direction: column;">';
+					if (product.price) {
+						if (product.price.low_price) priceLow = parseFloat(product.price.low_price);
+						if (product.price.high_price) priceHigh = parseFloat(product.price.high_price);
+						if (product.price.currency) currency = product.price.currency;
+					}
 
-					// Thumbnail (video first frame; user can press play to preview)
-					html += '<div class="tiktok-product-thumb" style="position: relative; width: 100%; aspect-ratio: 9 / 16; background: #0f172a; overflow: hidden;">';
-					if (streamUrl) {
-						html += '<video src="' + escapeHtml(streamUrl) + '" preload="metadata" controls muted playsinline style="width: 100%; height: 100%; object-fit: cover; display: block; background: #0f172a;"></video>';
+					var productId = product.product_id || product.sku;
+					var productTitle = product.title || 'Untitled Product';
+					var category = product.vortem_cat || '';
+					var salescount = product.salescount || product.sales_count || '0';
+
+					var isImported = product.woo_product_id && product.woo_product_id !== '';
+					var statusBadgeText = isImported ? addedText : newText;
+					var statusBadgeClass = isImported ? 'status-added' : 'status-new';
+
+					html += '<div class="vortem-product-card" data-product-id="' + productId + '">';
+
+					// Image container with status badge + optional Preview link
+					html += '<div class="product-image-container">';
+					html += '<div class="product-status-badge ' + statusBadgeClass + '">' + statusBadgeText + '</div>';
+					if (isImported) {
+						var previewUrl = product.preview_url || (typeof vortem_admin !== 'undefined' && vortem_admin.site_url ? vortem_admin.site_url + '?p=' + product.woo_product_id + '&preview=true' : '#');
+						var previewText = (typeof vortem_admin !== 'undefined' && vortem_admin.strings && vortem_admin.strings.preview) ? vortem_admin.strings.preview : '<?php echo esc_js( __( 'Preview', 'vortem-ai' ) ); ?>';
+						html += '<a href="' + previewUrl + '" target="_blank" class="product-preview-button" data-woo-product-id="' + product.woo_product_id + '">' + previewText + '</a>';
+					}
+					if (imageUrl) {
+						html += '<img src="' + imageUrl + '" alt="' + escapeHtml(productTitle) + '" loading="lazy">';
 					} else {
-						html += '<div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; color: #64748b; font-size: 12px;">No preview</div>';
+						html += '<div class="no-image-placeholder"><span>No Image Available</span></div>';
 					}
 					html += '</div>';
 
-					// Body: hashtags then category
-					html += '<div class="tiktok-product-body" style="padding: 14px 14px 16px; display: flex; flex-direction: column; gap: 10px;">';
-
-					if (hashtags.length > 0) {
-						html += '<div class="tiktok-product-hashtags" style="display: flex; flex-wrap: wrap; gap: 6px;">';
-						hashtags.slice(0, 6).forEach(function(tag) {
-							html += '<span style="display: inline-block; padding: 3px 9px; background: #eff6ff; color: #2563eb; border-radius: 999px; font-size: 12px; font-weight: 500;">' + escapeHtml(tag) + '</span>';
-						});
-						if (hashtags.length > 6) {
-							html += '<span style="padding: 3px 4px; font-size: 12px; color: #6b7280;">+' + (hashtags.length - 6) + '</span>';
-						}
-						html += '</div>';
-					}
+					// Content
+					html += '<div class="product-content-section">';
 
 					if (category) {
-						html += '<div class="tiktok-product-category" style="font-size: 12px; color: #6b7280; text-transform: uppercase; letter-spacing: 0.4px; font-weight: 600;">' + escapeHtml(category) + '</div>';
+						var parts = category.split('/');
+						html += '<div class="product-category-badge">' + escapeHtml(parts[parts.length - 1] || category) + '</div>';
 					}
 
-					html += '</div>'; // body
+					html += '<div class="product-title-section"><h3>' + productTitle + '</h3></div>';
+
+					html += '<div class="product-price-container">';
+					html += '<div class="product-price-wrapper">';
+					if (priceLow !== null && priceHigh !== null) {
+						html += '<span class="product-price-value">' + formatNumberWithCommas(priceLow, 1) + ' - ' + formatNumberWithCommas(priceHigh, 1) + ' ' + currency + '</span>';
+					} else if (priceHigh !== null) {
+						html += '<span class="product-price-value">' + formatNumberWithCommas(priceHigh, 2) + ' ' + currency + '</span>';
+					} else if (priceLow !== null) {
+						html += '<span class="product-price-value">' + formatNumberWithCommas(priceLow, 2) + ' ' + currency + '</span>';
+					} else {
+						html += '<span class="product-price-value">N/A</span>';
+					}
+					html += '</div>';
+					if (salescount && salescount !== '0') {
+						html += '<div class="product-sales-badge">' + salescount + ' ' + salesText + '</div>';
+					}
+					html += '</div>';
+
+					// Action buttons — .import-product-btn delegates to the shared Normal/SEO modal.
+					html += '<div class="product-actions-section"><div class="product-actions-buttons">';
+					var productIdAttr = 'data-product-id="' + productId + '"';
+					if (product._id) {
+						productIdAttr += ' data-api-id="' + product._id + '"';
+					}
+					if (isImported) {
+						html += '<button type="button" class="button button-secondary delete-product-btn" ' + productIdAttr + '><?php echo esc_js( __( 'Delete', 'vortem-ai' ) ); ?></button>';
+						html += '<button type="button" class="button button-primary import-product-btn" data-product-id="' + productId + '" style="display: none;"><?php echo esc_js( __( 'Import', 'vortem-ai' ) ); ?></button>';
+					} else {
+						html += '<button type="button" class="button button-primary import-product-btn" data-product-id="' + productId + '"><?php echo esc_js( __( 'Import', 'vortem-ai' ) ); ?></button>';
+						html += '<button type="button" class="button button-secondary delete-product-btn" ' + productIdAttr + ' style="display: none;"><?php echo esc_js( __( 'Delete', 'vortem-ai' ) ); ?></button>';
+					}
+					html += '</div></div>';
+
+					html += '</div>'; // content section
 					html += '</div>'; // card
 				});
 
@@ -4411,47 +4459,29 @@ class Vortem_Admin {
 					var btnEnabled = btnBase + ' cursor: pointer;';
 					var btnDisabled = btnBase + ' cursor: not-allowed; opacity: 0.45;';
 
-					html += '<div class="tiktok-pagination" style="margin-top: 8px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px;">';
-
+					html += '<div class="tiktok-pagination" style="margin-top: 24px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px;">';
 					html += '<button type="button" class="tiktok-pagination-btn" data-page="1" ' + (atFirst ? 'disabled' : '') + ' style="' + (atFirst ? btnDisabled : btnEnabled) + '" title="' + escapeHtml(firstText) + '">&laquo;</button>';
 					html += '<button type="button" class="tiktok-pagination-btn" data-page="' + Math.max(1, currentPage - 1) + '" ' + (atFirst ? 'disabled' : '') + ' style="' + (atFirst ? btnDisabled : btnEnabled) + '" title="' + escapeHtml(previousText) + '">&lsaquo; ' + escapeHtml(previousText) + '</button>';
-
 					html += '<span style="padding: 8px 4px; font-size: 14px; color: #6b7280; display: inline-flex; align-items: center; gap: 6px;">';
 					html += escapeHtml(pageText);
 					html += '<input type="number" class="tiktok-pagination-input" min="1" max="' + totalPages + '" value="' + currentPage + '" style="width: 64px; padding: 6px 8px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 14px; text-align: center; color: #1f2937;" />';
 					html += escapeHtml(ofText) + ' <strong style="color: #1f2937;">' + totalPages + '</strong>';
 					html += '</span>';
-
 					html += '<button type="button" class="tiktok-pagination-go" style="' + btnEnabled + '">' + escapeHtml(goText) + '</button>';
-
 					html += '<button type="button" class="tiktok-pagination-btn" data-page="' + Math.min(totalPages, currentPage + 1) + '" ' + (atLast ? 'disabled' : '') + ' style="' + (atLast ? btnDisabled : btnEnabled) + '" title="' + escapeHtml(nextText) + '">' + escapeHtml(nextText) + ' &rsaquo;</button>';
 					html += '<button type="button" class="tiktok-pagination-btn" data-page="' + totalPages + '" ' + (atLast ? 'disabled' : '') + ' style="' + (atLast ? btnDisabled : btnEnabled) + '" title="' + escapeHtml(lastText) + '">&raquo;</button>';
-
 					html += '</div>';
 				}
 
 				container.html(html);
 
-				// Replace broken videos (e.g. corrupt source returning HTML instead of MP4)
-				// with a clean placeholder so the user doesn't see the browser's native error UI.
-				container.find('.tiktok-product-thumb video').each(function() {
-					var video = this;
-					var swap = function() {
-						var $thumb = $(video).closest('.tiktok-product-thumb');
-						if (!$thumb.length || $thumb.data('vortemFallbackApplied')) return;
-						$thumb.data('vortemFallbackApplied', true);
-						$thumb.html('<div style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;color:#94a3b8;font-size:12px;text-align:center;padding:12px;">Preview unavailable</div>');
-					};
-					video.addEventListener('error', swap, true);
-					// Some browsers fire `stalled`/`emptied` instead of `error` for malformed bytes.
-					video.addEventListener('abort', swap, true);
-				});
-
-				$('.tiktok-pagination-btn').on('click', function() {
+				// Pagination handlers (scoped to this container so they don't collide
+				// with other tabs).
+				container.find('.tiktok-pagination-btn').on('click', function() {
 					if ($(this).is(':disabled')) return;
-					var page = parseInt($(this).data('page'), 10);
-					if (!isNaN(page) && page >= 1) {
-						loadTikTokProducts(page);
+					var p = parseInt($(this).data('page'), 10);
+					if (!isNaN(p) && p >= 1) {
+						loadTikTokProducts(p);
 					}
 				});
 
@@ -4467,15 +4497,25 @@ class Vortem_Admin {
 						loadTikTokProducts(clamped);
 					}
 				}
-
-				$('.tiktok-pagination-go').on('click', gotoInputPage);
-				$('.tiktok-pagination-input').on('keydown', function(e) {
+				container.find('.tiktok-pagination-go').on('click', gotoInputPage);
+				container.find('.tiktok-pagination-input').on('keydown', function(e) {
 					if (e.key === 'Enter' || e.keyCode === 13) {
 						e.preventDefault();
 						gotoInputPage();
 					}
 				});
+
+				// Resolve "already imported / exists" state so the status badge and
+				// Import/Delete visibility match what's in WooCommerce.
+				if (typeof checkProductsImportStatusInAdmin === 'function') {
+					checkProductsImportStatusInAdmin(products);
+				}
 			}
+
+			// Refresh button — re-fetches page 1 of the TikTok trending feed.
+			$('#refresh-tiktok-products').on('click', function() {
+				loadTikTokProducts(1);
+			});
 
 			// Function to display products grid with new styling and pagination
 			function displayProductsGrid(products, paginationData) {
@@ -8750,7 +8790,10 @@ class Vortem_Admin {
 				)
 			);
 		} else {
-			// Handle TikTok API response structure
+			// Canonical TikTok top-products shape:
+			// { success, products: [...], total_found, page, limit, total_pages, ... }
+			// Identical to AliExpress top-products payloads, so cards render through the
+			// shared product grid renderer.
 			$products     = array();
 			$total        = 0;
 			$total_pages  = 1;
@@ -8758,36 +8801,25 @@ class Vortem_Admin {
 			$per_page     = $limit;
 
 			if ( is_array( $result ) ) {
-				if ( isset( $result['success'] ) && $result['success'] && isset( $result['data'] ) && is_array( $result['data'] ) && isset( $result['data'][0] ) ) {
-					// New shape: data is a flat array of items (id, category, hashtags, stream_url, ...).
-					$products     = $result['data'];
+				if ( isset( $result['products'] ) && is_array( $result['products'] ) ) {
+					$products     = $result['products'];
+					$total        = isset( $result['total_found'] ) ? intval( $result['total_found'] )
+						: ( isset( $result['total'] ) ? intval( $result['total'] ) : count( $products ) );
 					$current_page = isset( $result['page'] ) ? intval( $result['page'] ) : $page;
-					$per_page     = isset( $result['per_page'] ) ? intval( $result['per_page'] ) : $limit;
-					$total_pages  = isset( $result['total_pages'] ) ? intval( $result['total_pages'] ) : 1;
-					$total        = isset( $result['total'] ) ? intval( $result['total'] ) : ( $total_pages * $per_page );
-				} elseif ( isset( $result['success'] ) && $result['success'] && isset( $result['data']['products'] ) && is_array( $result['data']['products'] ) ) {
-					// Legacy shape: data.products array with metric fields.
+					$per_page     = isset( $result['limit'] ) ? intval( $result['limit'] ) : $limit;
+					$total_pages  = isset( $result['total_pages'] ) ? intval( $result['total_pages'] )
+						: ( ( $total > 0 && $per_page > 0 ) ? (int) ceil( $total / $per_page ) : 1 );
+				} elseif ( isset( $result['data']['products'] ) && is_array( $result['data']['products'] ) ) {
 					$data         = $result['data'];
 					$products     = $data['products'];
-					$total        = isset( $data['total'] ) ? intval( $data['total'] ) : count( $products );
-					$total_pages  = isset( $data['total_pages'] ) ? intval( $data['total_pages'] ) : ( ( $total > 0 && $limit > 0 ) ? ceil( $total / $limit ) : 1 );
+					$total        = isset( $data['total_found'] ) ? intval( $data['total_found'] )
+						: ( isset( $data['total'] ) ? intval( $data['total'] ) : count( $products ) );
+					$total_pages  = isset( $data['total_pages'] ) ? intval( $data['total_pages'] )
+						: ( ( $total > 0 && $limit > 0 ) ? (int) ceil( $total / $limit ) : 1 );
 					$current_page = isset( $data['page'] ) ? intval( $data['page'] ) : $page;
-				} elseif ( isset( $result['products'] ) && is_array( $result['products'] ) ) {
-					$products    = $result['products'];
-					$total       = isset( $result['total'] ) ? intval( $result['total'] ) : count( $products );
-					$total_pages = isset( $result['total_pages'] ) ? intval( $result['total_pages'] ) : ( ( $total > 0 && $limit > 0 ) ? ceil( $total / $limit ) : 1 );
 				}
 			}
 
-			// Force https on stream_url so videos don't get blocked as mixed content in the admin.
-			foreach ( $products as &$product ) {
-				if ( isset( $product['stream_url'] ) && is_string( $product['stream_url'] ) && 0 === strpos( $product['stream_url'], 'http://' ) ) {
-					$product['stream_url'] = 'https://' . substr( $product['stream_url'], 7 );
-				}
-			}
-			unset( $product );
-
-			// Return products in a consistent structure
 			wp_send_json_success(
 				array(
 					'products'    => $products,

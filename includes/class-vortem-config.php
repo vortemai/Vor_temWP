@@ -88,7 +88,7 @@ class Vortem_Config {
 		'bi_analytics_products_base'               => '/api/v1/customer/product/dashboard/products',
 		'bi_analytics_products_suggested_pricing'  => '/api/v1/customer/product/dashboard/products/suggested_pricing',
 		'bi_analytics_products_trend_products'     => '/api/v1/customer/product/dashboard/products/trend_products',
-		'bi_analytics_products_tiktok'             => '/api/v1/customer/product/dashboard/tiktok',
+		'bi_analytics_products_tiktok'             => '/api/v1/product/tiktok/top_products',
 		// Security endpoints
 		'security_wordpress'                       => '/api/v1/customer/security/wordpress/plugin',
 		'security_wordpress_match'                 => '/api/v1/customer/security/wordpress/plugin/match',
