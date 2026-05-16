@@ -3,7 +3,7 @@
  * Plugin Name: Vortem AI
  * Plugin URI: https://vortem.ai/
  * Description: Stop Managing Tools. Start Growing an Empire.The All-in-One Intelligent Ecosystem Where Every Store You Add Makes The Entire Network Smarter and More Profitable.
- * Version: 1.0.13
+ * Version: 1.0.14
  * Author: vortem.ai
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -27,7 +27,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 define( 'VORTEM_PLUGIN_FILE', __FILE__ );
 define( 'VORTEM_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'VORTEM_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
-define( 'VORTEM_VERSION', '1.0.13' );
+define( 'VORTEM_VERSION', '1.0.14' );
 define( 'VORTEM_MIN_PHP_VERSION', '7.4' );
 define( 'VORTEM_MIN_WP_VERSION', '6.0' );
 define( 'VORTEM_MIN_WC_VERSION', '8.0' );
@@ -167,6 +167,10 @@ class Vortem_AI {
 		// Initialize admin
 		if ( is_admin() ) {
 			$this->init_admin();
+
+			// Vortem SEO meta box on the product editor (admin + AJAX context).
+			$seo_meta_box = new Vortem_SEO_Meta_Box();
+			$seo_meta_box->init();
 		}
 
 		// Initialize AJAX handlers (always needed)
@@ -568,7 +572,8 @@ class Vortem_AI {
 	 * @param string $hook Current admin page hook (unused).
 	 * @return void
 	 */
-	public function enqueue_wpadmin_content_layout( $_hook ) {
+	public function enqueue_wpadmin_content_layout( $hook ) {
+		unset( $hook );
 		wp_enqueue_style(
 			'vortem-wpadmin-content',
 			VORTEM_PLUGIN_URL . 'assets/css/vortem-wpadmin-content.css',

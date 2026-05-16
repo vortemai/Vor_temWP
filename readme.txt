@@ -4,7 +4,7 @@ Donate link: https://vortem.ai/
 Tags: woocommerce, analytics, product-import, email-marketing, security
 Requires at least: 6.0
 Tested up to: 6.9
-Stable tag: 1.0.13
+Stable tag: 1.0.14
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -41,6 +41,19 @@ behind authentication — all features are fully available to all users. See
     RTL support
   - Setup & Configuration: Guided setup wizard with optional account connection
     (works without authentication)
+  - In-house Product SEO: Editable SEO panel on every WooCommerce product with
+    SEO title, meta description, focus keyphrase, social share image, and
+    canonical URL fields; live search snippet preview; one-click "Regenerate
+    from Vortem" for products imported from the vortem.ai catalog. Renders
+    meta description, Open Graph, Twitter Product card, and schema.org Product
+    JSON-LD on the frontend, and stays silent automatically when another SEO
+    plugin (Yoast, Rank Math, AIOSEO, SEOPress) is active so tags never
+    duplicate.
+  - Readability analysis: A Readability tab on the SEO panel scores the
+    product description (Flesch Reading Ease) and runs structural checks for
+    sentence length, paragraph length, subheading distribution, passive
+    voice, transition words, and consecutive-sentence repetition. Pure PHP,
+    no API call.
 
 = External Service Usage (Required Disclosure) =
 
@@ -456,6 +469,48 @@ patches, and new features.
 
 == Changelog ==
 
+= 1.0.14 =
+
+  - Added: In-house product SEO panel on the WooCommerce product editor.
+    Tabbed UI with an SEO tab (SEO title, meta description, focus keyphrase,
+    social share image URL, canonical URL, live search snippet preview, and
+    a "Regenerate from Vortem" button for products imported from the
+    vortem.ai catalog) and a Readability tab. Fields are stored as
+    plugin-owned post meta (`_vortem_seo_*`) so they never collide with
+    Yoast / Rank Math / AIOSEO / SEOPress storage.
+  - Added: Frontend SEO output for WooCommerce products now emits the full
+    set of Open Graph product extensions (`product:price:amount`,
+    `product:price:currency`, `product:availability`, `product:condition`,
+    `product:retailer_item_id`, `product:brand`), the Twitter Product card
+    with Price / Availability labels, and a schema.org `Product` JSON-LD
+    block (name, description, image, sku, brand, offers, aggregateRating
+    when reviews exist). All of this stays silent on sites where Yoast SEO,
+    Rank Math, All in One SEO, or SEOPress is active, so duplicate tags are
+    not emitted. JSON-LD is emitted via `wp_print_inline_script_tag()`.
+  - Added: Readability analysis for the product description. Computes a
+    Flesch Reading Ease score and runs six structural checks — sentence
+    length, paragraph length, subheading distribution, passive voice,
+    transition words, and consecutive-sentence repetition — with traffic-
+    light statuses and concrete remediation advice. Recalculate-from-editor
+    button reads the live editor content (block editor, classic / TinyMCE,
+    or plain textarea fallback) via an admin-AJAX endpoint.
+  - Hardened: The "Regenerate from Vortem" AJAX endpoint
+    (`wp_ajax_vortem_regenerate_seo`) is nonce-checked, `edit_post`
+    capability-checked, gated on the existing
+    `vortem_data_processing_consent` option, and bails for products that
+    were not imported from the vortem.ai catalog (no `_vortem_product_id`
+    post meta). Regenerate refreshes only the four Vortem SEO meta keys —
+    it never overwrites the product name, description, or tags.
+  - Hardened: The readability AJAX endpoint
+    (`wp_ajax_vortem_seo_readability`) is read-only — accepts editor
+    content, returns the analysis — nonce-checked, `edit_post`
+    capability-checked, and never persists or transmits the submitted
+    content. Posted content is `wp_kses_post`'d before analysis.
+  - No new external HTTP calls. The Regenerate button reuses the existing
+    consent-gated `Vortem_Api_Client::get_product_seo_content()` endpoint
+    on `c.vortem.ai`; readability analysis runs entirely in PHP on the
+    site itself.
+
 = 1.0.13 =
 
   - Hardened: `uninstall.php` now performs a complete `vortem_*` option,
@@ -725,6 +780,17 @@ patches, and new features.
   - Initial release
 
 == Upgrade Notice ==
+
+= 1.0.14 = Adds an in-house product SEO panel with SEO and Readability tabs
+to the WooCommerce product editor, plus structured frontend output
+(Open Graph product tags, Twitter Product card, schema.org Product JSON-LD).
+A live readability analyzer scores the product description and flags long
+sentences, long paragraphs, missing subheadings, passive voice, and weak
+transition-word coverage with concrete remediation advice. Stays silent
+automatically when another SEO plugin is active, so tags never duplicate.
+No new external HTTP calls; the Regenerate button reuses the existing
+consent-gated SEO endpoint and readability is computed entirely in PHP on
+your own site.
 
 = 1.0.13 = Compliance and cleanup pass aligned with the late-2025 / early-2026
 WordPress.org plugin review guidance. Complete uninstall sweep (every option

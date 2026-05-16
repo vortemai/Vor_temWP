@@ -163,7 +163,16 @@ class Vortem_SEO {
 			);
 		}
 
-		echo "<meta name=\"twitter:card\" content=\"summary_large_image\" />\n";
+		$wc_product = $this->get_wc_product( $post_id );
+		if ( $wc_product ) {
+			$this->render_product_og_tags( $wc_product );
+		}
+
+		$twitter_card = $wc_product ? 'product' : 'summary_large_image';
+		printf(
+			"<meta name=\"twitter:card\" content=\"%s\" />\n",
+			esc_attr( $twitter_card )
+		);
 		if ( '' !== $title ) {
 			printf(
 				"<meta name=\"twitter:title\" content=\"%s\" />\n",
@@ -182,8 +191,252 @@ class Vortem_SEO {
 				esc_url( $image_url )
 			);
 		}
+		if ( $wc_product ) {
+			$this->render_twitter_product_data( $wc_product );
+		}
+
+		if ( $wc_product ) {
+			$this->render_product_jsonld( $wc_product, $title, $description, $canonical );
+		}
 
 		echo "<!-- / Vortem AI SEO -->\n";
+	}
+
+	/**
+	 * Resolve a WooCommerce product object for the current post if applicable.
+	 *
+	 * @param int $post_id Post ID.
+	 * @return WC_Product|null
+	 */
+	private function get_wc_product( $post_id ) {
+		if ( 'product' !== get_post_type( $post_id ) ) {
+			return null;
+		}
+		if ( ! function_exists( 'wc_get_product' ) ) {
+			return null;
+		}
+		$product = wc_get_product( $post_id );
+		if ( ! $product || ! is_a( $product, 'WC_Product' ) ) {
+			return null;
+		}
+		return $product;
+	}
+
+	/**
+	 * Emit Open Graph product:* tags. Spec: https://ogp.me/#type_product
+	 *
+	 * @param WC_Product $product Product.
+	 */
+	private function render_product_og_tags( $product ) {
+		$price = $product->get_price();
+		if ( '' !== $price && null !== $price ) {
+			printf(
+				"<meta property=\"product:price:amount\" content=\"%s\" />\n",
+				esc_attr( wc_format_decimal( $price, wc_get_price_decimals() ) )
+			);
+			printf(
+				"<meta property=\"product:price:currency\" content=\"%s\" />\n",
+				esc_attr( get_woocommerce_currency() )
+			);
+		}
+
+		$availability_map = array(
+			'instock'     => 'in stock',
+			'outofstock'  => 'out of stock',
+			'onbackorder' => 'preorder',
+		);
+		$stock_status     = $product->get_stock_status();
+		$availability     = isset( $availability_map[ $stock_status ] ) ? $availability_map[ $stock_status ] : 'in stock';
+		printf(
+			"<meta property=\"product:availability\" content=\"%s\" />\n",
+			esc_attr( $availability )
+		);
+
+		printf(
+			"<meta property=\"product:condition\" content=\"%s\" />\n",
+			esc_attr( 'new' )
+		);
+
+		$sku = $product->get_sku();
+		if ( '' !== $sku ) {
+			printf(
+				"<meta property=\"product:retailer_item_id\" content=\"%s\" />\n",
+				esc_attr( $sku )
+			);
+		}
+
+		$brand = $this->get_product_brand( $product );
+		if ( '' !== $brand ) {
+			printf(
+				"<meta property=\"product:brand\" content=\"%s\" />\n",
+				esc_attr( $brand )
+			);
+		}
+	}
+
+	/**
+	 * Emit Twitter Product card data fields (label/data pairs).
+	 *
+	 * @param WC_Product $product Product.
+	 */
+	private function render_twitter_product_data( $product ) {
+		$price = $product->get_price();
+		if ( '' !== $price && null !== $price ) {
+			$formatted = html_entity_decode( wp_strip_all_tags( wc_price( $price ) ), ENT_QUOTES, 'UTF-8' );
+			printf(
+				"<meta name=\"twitter:label1\" content=\"%s\" />\n",
+				esc_attr__( 'Price', 'vortem-ai' )
+			);
+			printf(
+				"<meta name=\"twitter:data1\" content=\"%s\" />\n",
+				esc_attr( $formatted )
+			);
+		}
+
+		$availability_label_map = array(
+			'instock'     => __( 'In stock', 'vortem-ai' ),
+			'outofstock'  => __( 'Out of stock', 'vortem-ai' ),
+			'onbackorder' => __( 'On backorder', 'vortem-ai' ),
+		);
+		$stock_status           = $product->get_stock_status();
+		$availability_label     = isset( $availability_label_map[ $stock_status ] ) ? $availability_label_map[ $stock_status ] : __( 'In stock', 'vortem-ai' );
+		printf(
+			"<meta name=\"twitter:label2\" content=\"%s\" />\n",
+			esc_attr__( 'Availability', 'vortem-ai' )
+		);
+		printf(
+			"<meta name=\"twitter:data2\" content=\"%s\" />\n",
+			esc_attr( $availability_label )
+		);
+	}
+
+	/**
+	 * Emit schema.org Product JSON-LD.
+	 *
+	 * @param WC_Product $product     Product.
+	 * @param string     $title       Resolved title (custom or post title).
+	 * @param string     $description Resolved meta description.
+	 * @param string     $canonical   Canonical URL.
+	 */
+	private function render_product_jsonld( $product, $title, $description, $canonical ) {
+		$availability_schema_map = array(
+			'instock'     => 'https://schema.org/InStock',
+			'outofstock'  => 'https://schema.org/OutOfStock',
+			'onbackorder' => 'https://schema.org/PreOrder',
+		);
+
+		$images = $this->get_product_image_urls( $product );
+
+		$data = array(
+			'@context'    => 'https://schema.org',
+			'@type'       => 'Product',
+			'name'        => '' !== $title ? $title : wp_strip_all_tags( $product->get_name() ),
+			'description' => '' !== $description ? $description : wp_strip_all_tags( $product->get_short_description() ),
+			'url'         => '' !== $canonical ? $canonical : get_permalink( $product->get_id() ),
+		);
+
+		if ( ! empty( $images ) ) {
+			$data['image'] = 1 === count( $images ) ? $images[0] : $images;
+		}
+
+		$sku = $product->get_sku();
+		if ( '' !== $sku ) {
+			$data['sku'] = $sku;
+		}
+
+		$brand = $this->get_product_brand( $product );
+		if ( '' !== $brand ) {
+			$data['brand'] = array(
+				'@type' => 'Brand',
+				'name'  => $brand,
+			);
+		}
+
+		$price = $product->get_price();
+		if ( '' !== $price && null !== $price ) {
+			$stock_status        = $product->get_stock_status();
+			$availability_schema = isset( $availability_schema_map[ $stock_status ] ) ? $availability_schema_map[ $stock_status ] : 'https://schema.org/InStock';
+
+			$data['offers'] = array(
+				'@type'         => 'Offer',
+				'price'         => wc_format_decimal( $price, wc_get_price_decimals() ),
+				'priceCurrency' => get_woocommerce_currency(),
+				'availability'  => $availability_schema,
+				'url'           => get_permalink( $product->get_id() ),
+			);
+		}
+
+		if ( $product->get_rating_count() > 0 ) {
+			$data['aggregateRating'] = array(
+				'@type'       => 'AggregateRating',
+				'ratingValue' => (string) $product->get_average_rating(),
+				'reviewCount' => (int) $product->get_review_count(),
+			);
+		}
+
+		$json = wp_json_encode( $data, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE );
+		if ( false === $json ) {
+			return;
+		}
+
+		// JSON-LD inside <script type="application/ld+json"> is not HTML; the
+		// only character that could break out is '<', which we neutralize.
+		$safe_json = str_replace( '<', '<', $json );
+		wp_print_inline_script_tag( $safe_json, array( 'type' => 'application/ld+json' ) );
+		echo "\n";
+	}
+
+	/**
+	 * Resolve a brand label for a product.
+	 *
+	 * Checks the WooCommerce 6.4+ `product_brand` taxonomy first, then the
+	 * common `pa_brand` attribute, then the site name as a final fallback.
+	 *
+	 * @param WC_Product $product Product.
+	 * @return string
+	 */
+	private function get_product_brand( $product ) {
+		$taxonomies = array( 'product_brand', 'pa_brand' );
+		foreach ( $taxonomies as $taxonomy ) {
+			if ( ! taxonomy_exists( $taxonomy ) ) {
+				continue;
+			}
+			$terms = get_the_terms( $product->get_id(), $taxonomy );
+			if ( is_array( $terms ) && ! empty( $terms ) && ! is_wp_error( $terms ) ) {
+				return wp_strip_all_tags( $terms[0]->name );
+			}
+		}
+		return (string) get_bloginfo( 'name' );
+	}
+
+	/**
+	 * Collect featured + gallery image URLs for a product.
+	 *
+	 * @param WC_Product $product Product.
+	 * @return array
+	 */
+	private function get_product_image_urls( $product ) {
+		$urls = array();
+
+		$featured_id = $product->get_image_id();
+		if ( $featured_id ) {
+			$url = wp_get_attachment_image_url( $featured_id, 'full' );
+			if ( $url ) {
+				$urls[] = $url;
+			}
+		}
+
+		$gallery_ids = $product->get_gallery_image_ids();
+		if ( is_array( $gallery_ids ) ) {
+			foreach ( $gallery_ids as $gid ) {
+				$url = wp_get_attachment_image_url( $gid, 'full' );
+				if ( $url && ! in_array( $url, $urls, true ) ) {
+					$urls[] = $url;
+				}
+			}
+		}
+
+		return $urls;
 	}
 
 	/**
