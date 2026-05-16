@@ -782,23 +782,15 @@ patches, and new features.
 
 == Upgrade Notice ==
 
-= 1.0.14 = Adds an in-house product SEO panel with SEO and Readability tabs
-to the WooCommerce product editor, plus structured frontend output
-(Open Graph product tags, Twitter Product card, schema.org Product JSON-LD).
-A live readability analyzer scores the product description and flags long
-sentences, long paragraphs, missing subheadings, passive voice, and weak
-transition-word coverage with concrete remediation advice. Stays silent
-automatically when another SEO plugin is active, so tags never duplicate.
-No new external HTTP calls; the Regenerate button reuses the existing
-consent-gated SEO endpoint and readability is computed entirely in PHP on
-your own site.
+= 1.0.14 = Adds an in-house product SEO panel (SEO + Readability tabs) on
+the WooCommerce product editor, Open Graph product tags, Twitter Product
+card, and schema.org Product JSON-LD on the frontend. Stays silent when
+another SEO plugin is active. No new external HTTP calls.
 
-= 1.0.13 = Compliance and cleanup pass aligned with the late-2025 / early-2026
-WordPress.org plugin review guidance. Complete uninstall sweep (every option
-the plugin ever creates is removed). Removed `load_plugin_textdomain` (handled
-automatically by WP 6.7+). New top-level `== External services ==` section
-plus an AI-processing disclosure for the vortem.ai backend. Stripped 20 dev
-`console.log` statements from inline admin JS. No functional changes.
+= 1.0.13 = Compliance and cleanup pass. Complete uninstall sweep, removed
+`load_plugin_textdomain` (WP 6.7+ auto-loads), added AI-processing disclosure
+in External Services, stripped 20 dev `console.log` statements. No functional
+changes.
 
 = 1.0.12 = Defense-in-depth hardening pass. Removes the last `echo $variable`
 pattern in the setup wizard, adds strict comparison to every `in_array()`,
