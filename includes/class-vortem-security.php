@@ -469,4 +469,122 @@ class Vortem_Security {
 	public static function get_allowed_bulk_action_values() {
 		return self::$allowed_bulk_actions;
 	}
+
+	/**
+	 * Validate a remote URL before fetching, to defend against SSRF.
+	 *
+	 * Rejects URLs whose host resolves to a loopback, link-local, or
+	 * RFC1918 private address; rejects non-http(s) schemes; rejects
+	 * URLs containing userinfo or unusual ports. By default also
+	 * requires HTTPS. Site owners can override the HTTPS-only rule
+	 * with the `vortem_remote_url_require_https` filter.
+	 *
+	 * @param string $url           Candidate URL.
+	 * @param bool   $require_https Whether to require HTTPS scheme (default: true).
+	 * @return bool True if the URL is safe to fetch, false otherwise.
+	 */
+	public static function is_safe_remote_url( $url, $require_https = true ) {
+		if ( ! is_string( $url ) || '' === $url ) {
+			return false;
+		}
+
+		if ( ! filter_var( $url, FILTER_VALIDATE_URL ) ) {
+			return false;
+		}
+
+		$parts = wp_parse_url( $url );
+		if ( empty( $parts['scheme'] ) || empty( $parts['host'] ) ) {
+			return false;
+		}
+
+		$scheme = strtolower( $parts['scheme'] );
+		if ( ! in_array( $scheme, array( 'http', 'https' ), true ) ) {
+			return false;
+		}
+
+		$require_https = (bool) apply_filters( 'vortem_remote_url_require_https', $require_https, $url );
+		if ( $require_https && 'https' !== $scheme ) {
+			return false;
+		}
+
+		// Reject embedded credentials.
+		if ( ! empty( $parts['user'] ) || ! empty( $parts['pass'] ) ) {
+			return false;
+		}
+
+		// Only allow standard ports for the chosen scheme.
+		if ( isset( $parts['port'] ) ) {
+			$port          = (int) $parts['port'];
+			$allowed_ports = ( 'https' === $scheme ) ? array( 443 ) : array( 80, 443 );
+			$allowed_ports = (array) apply_filters( 'vortem_remote_url_allowed_ports', $allowed_ports, $scheme, $url );
+			if ( ! in_array( $port, $allowed_ports, true ) ) {
+				return false;
+			}
+		}
+
+		// WordPress's own validator rejects loopback, link-local, and RFC1918
+		// addresses when it sees a literal IP host. We still need to resolve
+		// hostnames ourselves and re-check each resolved address.
+		if ( ! wp_http_validate_url( $url ) ) {
+			return false;
+		}
+
+		$host = strtolower( $parts['host'] );
+
+		// Strip IPv6 brackets if present, then check literal IPs directly.
+		$literal_ip = $host;
+		if ( '[' === substr( $literal_ip, 0, 1 ) && ']' === substr( $literal_ip, -1 ) ) {
+			$literal_ip = substr( $literal_ip, 1, -1 );
+		}
+		if ( filter_var( $literal_ip, FILTER_VALIDATE_IP ) ) {
+			return self::is_public_ip( $literal_ip );
+		}
+
+		// Common hostnames that always point to local resources, regardless
+		// of DNS. Reject before resolution.
+		$blocked_hosts = array( 'localhost', 'ip6-localhost', 'ip6-loopback' );
+		if ( in_array( $host, $blocked_hosts, true ) ) {
+			return false;
+		}
+
+		// Resolve hostname to IPv4 addresses and ensure every result is public.
+		// (IPv6 resolution via dns_get_record is optional and would slow imports;
+		// we rely on wp_http_validate_url for any IPv6 literal already in the URL.)
+		$ipv4_records = function_exists( 'gethostbynamel' ) ? @gethostbynamel( $host ) : false; // phpcs:ignore WordPress.PHP.NoSilencedErrors.Discouraged
+		if ( ! empty( $ipv4_records ) ) {
+			foreach ( $ipv4_records as $ip ) {
+				if ( ! self::is_public_ip( $ip ) ) {
+					return false;
+				}
+			}
+			return true;
+		}
+
+		// If DNS lookup is unavailable, fall back to a single gethostbyname.
+		if ( function_exists( 'gethostbyname' ) ) {
+			$resolved = gethostbyname( $host );
+			// gethostbyname returns the input string on failure.
+			if ( $resolved && $resolved !== $host && filter_var( $resolved, FILTER_VALIDATE_IP ) ) {
+				return self::is_public_ip( $resolved );
+			}
+		}
+
+		// Could not verify — fail closed.
+		return false;
+	}
+
+	/**
+	 * Return true if an IP address is publicly routable (i.e. not
+	 * loopback, link-local, RFC1918 private, multicast, or reserved).
+	 *
+	 * @param string $ip IP address (v4 or v6).
+	 * @return bool
+	 */
+	public static function is_public_ip( $ip ) {
+		return (bool) filter_var(
+			$ip,
+			FILTER_VALIDATE_IP,
+			FILTER_FLAG_NO_PRIV_RANGE | FILTER_FLAG_NO_RES_RANGE
+		);
+	}
 }

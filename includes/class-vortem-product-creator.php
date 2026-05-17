@@ -1019,6 +1019,14 @@ class Vortem_Product_Creator {
 			return false;
 		}
 
+		// SSRF defense: reject loopback / private / non-HTTPS URLs before any fetch.
+		if ( ! Vortem_Security::is_safe_remote_url( $url ) ) {
+			if ( defined( 'WP_DEBUG' ) && WP_DEBUG ) {
+				vortem_log( 'Vortem AI: refused unsafe remote URL (upload_image_from_url).' );
+			}
+			return false;
+		}
+
 		// Add delay between downloads (except for first image)
 		if ( $retry_count === 0 ) {
 			usleep( 800000 ); // 0.8 seconds delay
@@ -1093,6 +1101,14 @@ class Vortem_Product_Creator {
 	private function download_and_attach_image( $image_url, $product_id, $product_name = '', $sku = '', $retry_count = 0 ) {
 		// Phone-home gate: do not fetch remote images until consent is granted.
 		if ( ! Vortem_Api_Client::has_consent() ) {
+			return false;
+		}
+
+		// SSRF defense: reject loopback / private / non-HTTPS URLs before any fetch.
+		if ( ! Vortem_Security::is_safe_remote_url( $image_url ) ) {
+			if ( defined( 'WP_DEBUG' ) && WP_DEBUG ) {
+				vortem_log( 'Vortem AI: refused unsafe remote URL (download_and_attach_image).' );
+			}
 			return false;
 		}
 
@@ -1254,6 +1270,14 @@ class Vortem_Product_Creator {
 	private function download_image_with_curl( $image_url, $retry_count = 0 ) {
 		// Phone-home gate.
 		if ( ! Vortem_Api_Client::has_consent() ) {
+			return false;
+		}
+
+		// SSRF defense: reject loopback / private / non-HTTPS URLs before any fetch.
+		if ( ! Vortem_Security::is_safe_remote_url( $image_url ) ) {
+			if ( defined( 'WP_DEBUG' ) && WP_DEBUG ) {
+				vortem_log( 'Vortem AI: refused unsafe remote URL (download_image_with_curl).' );
+			}
 			return false;
 		}
 
@@ -1774,6 +1798,14 @@ class Vortem_Product_Creator {
 			return false;
 		}
 
+		// SSRF defense: reject loopback / private / non-HTTPS URLs before any fetch.
+		if ( ! Vortem_Security::is_safe_remote_url( $media_url ) ) {
+			if ( defined( 'WP_DEBUG' ) && WP_DEBUG ) {
+				vortem_log( 'Vortem AI: refused unsafe remote URL (download_and_attach_media).' );
+			}
+			return false;
+		}
+
 		// Check if attachment already exists by URL
 		$existing_attachment = $this->get_attachment_by_url( $media_url );
 		if ( $existing_attachment ) {
@@ -2184,6 +2216,14 @@ class Vortem_Product_Creator {
 			return new WP_Error( 'invalid_url', 'Invalid video URL provided' );
 		}
 
+		// SSRF defense: reject loopback / private / non-HTTPS URLs before any fetch.
+		if ( ! Vortem_Security::is_safe_remote_url( $video_url ) ) {
+			if ( defined( 'WP_DEBUG' ) && WP_DEBUG ) {
+				vortem_log( 'Vortem AI: refused unsafe remote URL (download_and_attach_video).' );
+			}
+			return new WP_Error( 'unsafe_url', 'Refused to fetch video from a non-public or insecure URL.' );
+		}
+
 		// Check if video attachment already exists by URL
 		$existing_attachment = $this->get_attachment_by_url( $video_url );
 		if ( $existing_attachment ) {
@@ -2462,6 +2502,14 @@ class Vortem_Product_Creator {
 	 * @return int|WP_Error Attachment ID on success, WP_Error on failure
 	 */
 	private function sideload_image_to_media_library( $image_url, $post_id, $retry_count = 0 ) {
+		// SSRF defense: reject loopback / private / non-HTTPS URLs before any fetch.
+		if ( ! Vortem_Security::is_safe_remote_url( $image_url ) ) {
+			if ( defined( 'WP_DEBUG' ) && WP_DEBUG ) {
+				vortem_log( 'Vortem AI: refused unsafe remote URL (sideload_image_to_media_library).' );
+			}
+			return new WP_Error( 'unsafe_url', 'Refused to fetch image from a non-public or insecure URL.' );
+		}
+
 		$max_retries = 3;
 
 		// Add delay between downloads (except for first image)

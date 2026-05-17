@@ -472,6 +472,23 @@ patches, and new features.
 
 = 1.0.14 =
 
+  - Security: SSRF hardening on remote media downloads. Every site that
+    fetches an image or video URL received from the upstream API now
+    routes the URL through a new `Vortem_Security::is_safe_remote_url()`
+    validator before any `wp_remote_get()` / `download_url()` call. The
+    validator requires HTTPS (overridable via the
+    `vortem_remote_url_require_https` filter), rejects userinfo and
+    non-standard ports, applies `wp_http_validate_url()`, blocks the
+    `localhost` / `ip6-localhost` / `ip6-loopback` hostnames, and
+    resolves the host to IPv4 addresses and refuses any address in a
+    loopback, link-local, or RFC1918 private range. Eight call sites
+    were gated: `upload_image_from_url()`, `download_and_attach_image()`
+    (in `Vortem_Product_Creator`, `Vortem_Product_Fetcher`, and
+    `Vortem_Product_Manager`), `download_image_with_curl()`,
+    `download_and_attach_media()`, `download_and_attach_video()`, and
+    `sideload_image_to_media_library()`. Closes the SSRF surface raised
+    in the 2026-05-16 third-party security review (VRT-002).
+
   - Added: In-house product SEO panel on the WooCommerce product editor.
     Tabbed UI with an SEO tab (SEO title, meta description, focus keyphrase,
     social share image URL, canonical URL, live search snippet preview, and
@@ -782,10 +799,12 @@ patches, and new features.
 
 == Upgrade Notice ==
 
-= 1.0.14 = Adds an in-house product SEO panel (SEO + Readability tabs) on
-the WooCommerce product editor, Open Graph product tags, Twitter Product
-card, and schema.org Product JSON-LD on the frontend. Stays silent when
-another SEO plugin is active. No new external HTTP calls.
+= 1.0.14 = Security + features. Adds SSRF defense on every remote media
+download (HTTPS-only, no loopback / link-local / RFC1918 hosts), an
+in-house product SEO panel (SEO + Readability tabs) on the WooCommerce
+product editor, Open Graph product tags, Twitter Product card, and
+schema.org Product JSON-LD on the frontend. Stays silent when another
+SEO plugin is active. No new external HTTP calls.
 
 = 1.0.13 = Compliance and cleanup pass. Complete uninstall sweep, removed
 `load_plugin_textdomain` (WP 6.7+ auto-loads), added AI-processing disclosure

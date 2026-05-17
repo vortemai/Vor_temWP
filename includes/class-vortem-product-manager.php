@@ -710,6 +710,14 @@ class Vortem_Product_Manager {
 			return false;
 		}
 
+		// SSRF defense: reject loopback / private / non-HTTPS URLs before any fetch.
+		if ( ! Vortem_Security::is_safe_remote_url( $image_url ) ) {
+			if ( defined( 'WP_DEBUG' ) && WP_DEBUG ) {
+				vortem_log( 'Vortem AI: refused unsafe remote URL (product-manager download_and_attach_image).' );
+			}
+			return false;
+		}
+
 		// Check if image already exists
 		$existing_attachment = $this->get_attachment_by_url( $image_url );
 		if ( $existing_attachment ) {
