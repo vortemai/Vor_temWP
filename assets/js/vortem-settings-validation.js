@@ -75,14 +75,10 @@ jQuery(document).ready(function($) {
         window.history.pushState({}, '', url);
     });
 
-    // Track the original currency to detect changes
-    var originalCurrency = null;
-    var $updateButton = $('#vortem-update-currency');
-    var $updateButtonWrapper = $('.vortem-currency-button-wrapper');
-    var $currencySelect = $('#vortem_currency');
+    // Currency dropdown, list loading, and update button: see inline script on this handle (class-vortem-admin.php).
 
-    // Load currencies from API
-    function loadCurrenciesFromAPI() {
+    /* Legacy currency block removed — was using wrong AJAX action/selectors and conflicted with inline script.
+    function loadCurrenciesFromAPI_LEGACY() {
         var currentCurrency = null;
 
         // Check if vortem_admin is available
@@ -311,6 +307,7 @@ jQuery(document).ready(function($) {
             }
         });
     });
+    */
 
     // Connect to AliExpress button click handler
     $('#vortem-connect-aliexpress').on('click', function() {

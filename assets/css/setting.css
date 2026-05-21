@@ -1239,6 +1239,80 @@ select[name="vortem_currency"]:focus {
     justify-content: flex-end !important;
 }
 
+/* Currency dropdown must overlay the Display card (not clip under .settings-main) */
+.settings-main .vortem-settings-card[data-section="display"],
+.settings-main .vortem-settings-card[data-section="display"].currency-dropdown-open {
+    overflow: visible !important;
+}
+
+.settings-main .vortem-settings-card[data-section="display"] .vortem-settings-card-body {
+    overflow: visible !important;
+}
+
+.settings-main .vortem-settings-row-control--currency,
+#vortem-currency-wrapper,
+.settings-main .vortem-custom-currency-select {
+    position: relative !important;
+    z-index: 50 !important;
+}
+
+/* While open: lift Display card above Media / Integrations siblings */
+body.vortem-currency-dropdown-open .settings-main .vortem-settings-card[data-section="display"] {
+    position: relative !important;
+    z-index: 100 !important;
+}
+
+body.vortem-currency-dropdown-open .settings-main .vortem-settings-card:not([data-section="display"]) {
+    position: relative !important;
+    z-index: 1 !important;
+}
+
+body.vortem-currency-dropdown-open .settings-main .vortem-settings-card:not([data-section="display"]):hover {
+    transform: none !important;
+}
+
+.settings-main .vortem-custom-currency-select.is-open {
+    z-index: 100 !important;
+}
+
+/* Floating dropdown lives on body — must not rely on .settings-main ancestor */
+#vortem-currency-select-dropdown.vortem-currency-dropdown--floating,
+body > #vortem-currency-select-dropdown {
+    z-index: 100050 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    overflow: hidden !important;
+    box-shadow: 0 10px 40px rgba(15, 23, 42, 0.18) !important;
+    background: #ffffff !important;
+    border: 1px solid #8c8f94 !important;
+    border-radius: 4px !important;
+    /* Override vortem-nav-dropdown.css (max-height + overflow on outer box) */
+    max-height: none;
+}
+
+#vortem-currency-select-dropdown.vortem-currency-dropdown--floating:not(.show),
+body > #vortem-currency-select-dropdown:not(.show) {
+    display: none !important;
+}
+
+.settings-main .vortem-currency-select-dropdown,
+.settings-main .vortem-currency-select-dropdown.show {
+    display: flex !important;
+    flex-direction: column !important;
+    overflow: hidden !important;
+    box-shadow: 0 10px 40px rgba(15, 23, 42, 0.18) !important;
+}
+
+/* Single scrollbar: only the list scrolls, not the outer dropdown */
+.settings-main .vortem-currency-dropdown-list,
+#vortem-currency-select-dropdown .vortem-currency-dropdown-list {
+    flex: 1 1 auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    overflow-x: hidden !important;
+    overflow-y: auto !important;
+}
+
 /* Integration rows — top-aligned because content can wrap. */
 .settings-main .vortem-settings-row--integration {
     align-items: flex-start !important;

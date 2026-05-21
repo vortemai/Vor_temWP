@@ -11,7 +11,9 @@
    1. Design tokens (scoped to app root)
    ============================================================ */
 
-#vortem-email-marketing-app {
+#vortem-email-marketing-app,
+.vortem-products-wrap,
+.modal {
 	--em-primary: #0E626B;
 	--em-primary-hover: #0B4F55;
 	--em-secondary: #4D9E7B;

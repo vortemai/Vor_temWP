@@ -361,13 +361,21 @@ body.admin_page_vortem-orders .wrap {
    8. Buttons - Wizard-matched
    ============================================================ */
 
-.vortem-page-wrapper.products .product-dashboard > div[style*="display: flex"] {
+.vortem-page-wrapper.products .product-dashboard-toolbar {
 	margin-bottom: 20px !important;
 	display: flex !important;
 	align-items: center !important;
 	justify-content: space-between !important;
 	flex-wrap: wrap !important;
 	gap: 12px !important;
+}
+
+.vortem-page-wrapper.products .product-dashboard-toolbar-actions {
+	display: flex !important;
+	align-items: center !important;
+	flex-wrap: wrap !important;
+	gap: 10px !important;
+	margin: 0 !important;
 }
 
 .vortem-page-wrapper.products #refresh-products-grid,
@@ -1012,6 +1020,23 @@ body.admin_page_vortem-orders .wrap {
 		grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)) !important;
 		gap: 16px !important;
 	}
+
+	.vortem-page-wrapper.products .product-dashboard-toolbar {
+		flex-direction: column !important;
+		align-items: stretch !important;
+		gap: 14px !important;
+	}
+
+	.vortem-page-wrapper.products .product-dashboard-toolbar .category-filter-container,
+	.vortem-page-wrapper.products .product-dashboard-toolbar .vortem-category-dropdown {
+		width: 100% !important;
+		min-width: 0 !important;
+	}
+
+	.vortem-page-wrapper.products .product-dashboard-toolbar-actions {
+		width: 100% !important;
+		justify-content: flex-start !important;
+	}
 }
 
 @media (max-width: 768px) {
@@ -1039,9 +1064,19 @@ body.admin_page_vortem-orders .wrap {
 		border-radius: var(--vp-radius-lg) !important;
 	}
 
-	.vortem-page-wrapper.products .product-dashboard > div[style*="display: flex"] {
+	.vortem-page-wrapper.products .product-dashboard-toolbar-actions {
 		flex-direction: column !important;
 		align-items: stretch !important;
+		gap: 8px !important;
+	}
+
+	.vortem-page-wrapper.products .top-products-imported-label {
+		display: none !important;
+	}
+
+	.vortem-page-wrapper.products .top-products-imported-box {
+		justify-content: center !important;
+		width: 100% !important;
 	}
 
 	.vortem-page-wrapper.products #refresh-products-grid,
