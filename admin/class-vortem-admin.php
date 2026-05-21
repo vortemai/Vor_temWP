@@ -2718,7 +2718,7 @@ class Vortem_Admin {
 					<!-- Top Products Tab Panel -->
 					<div id="top-products-panel" class="product-tab-panel active">
 						<!-- Refresh Products Button -->
-						<div style="margin-bottom: 20px; display: flex;align-items: center;justify-content: space-between;">
+						<div class="product-dashboard-toolbar">
 							<div class="category-filter-container">
 								<div class="vortem-category-dropdown" id="category-filter-wrapper">
 									<button type="button" class="vortem-category-button" id="category-filter-button">
@@ -2734,7 +2734,7 @@ class Vortem_Admin {
 								</div>
 								<input type="hidden" id="category-filter" value="">
 							</div>
-							<div style="margin: 0 5px 0 5px; display: flex; align-items: center; gap: 10px;">
+							<div class="product-dashboard-toolbar-actions">
 							<div class="top-products-imported-box">
 								<span class="top-products-imported-label"><?php esc_html_e( 'All Imported Products', 'vortem-ai' ); ?></span>
 								<span class="top-products-imported-value" id="top-products-imported-count"><?php echo esc_html( $this->get_imported_products_count() ); ?></span>

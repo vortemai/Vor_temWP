@@ -458,11 +458,19 @@ body.vortem-rtl #wpcontent .overview-dashboard-container .icon {
 }
 
 /* Products page - Reverse buttons and category filter position in RTL */
-/* Target the div containing buttons (#refresh-products-grid) and category filter (.category-filter-container) */
-[dir="rtl"] .vortem-page-wrapper.products .product-dashboard > div:has(#refresh-products-grid):has(.category-filter-container),
-body.vortem-rtl .vortem-page-wrapper.products .product-dashboard > div:has(#refresh-products-grid):has(.category-filter-container),
-.vortem-rtl .vortem-page-wrapper.products .product-dashboard > div:has(#refresh-products-grid):has(.category-filter-container) {
+/* Products toolbar: category filter on the right in RTL (desktop row only) */
+[dir="rtl"] .vortem-page-wrapper.products .product-dashboard-toolbar,
+body.vortem-rtl .vortem-page-wrapper.products .product-dashboard-toolbar,
+.vortem-rtl .vortem-page-wrapper.products .product-dashboard-toolbar {
   flex-direction: row-reverse !important;
+}
+
+@media (max-width: 1024px) {
+  [dir="rtl"] .vortem-page-wrapper.products .product-dashboard-toolbar,
+  body.vortem-rtl .vortem-page-wrapper.products .product-dashboard-toolbar,
+  .vortem-rtl .vortem-page-wrapper.products .product-dashboard-toolbar {
+    flex-direction: column !important;
+  }
 }
 
 /* Fix button spacing in RTL - convert margin-left to margin-right */
