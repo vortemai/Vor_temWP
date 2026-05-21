@@ -5895,29 +5895,28 @@ class Vortem_Admin {
 								});
 							}
 
-							// Filter currencies to only include those starting with English letters (A-Z)
-							var filteredCurrencies = currencyArray.filter(function(currency) {
-								var firstChar = currency.name.charAt(0).toUpperCase();
-								return firstChar >= 'A' && firstChar <= 'Z';
+							// Sort all currencies from API alphabetically by name
+							currencyArray.sort(function(a, b) {
+								return a.name.localeCompare(b.name, undefined, { sensitivity: 'base' });
 							});
 
-							// Sort currencies alphabetically by name
-							filteredCurrencies.sort(function(a, b) {
-								return a.name.localeCompare(b.name);
-							});
-
-							// Group currencies by first letter
+							// Group currencies by first character of display name (or code fallback)
 							var groupedCurrencies = {};
-							filteredCurrencies.forEach(function(currency) {
-								var firstLetter = currency.name.charAt(0).toUpperCase();
-								if (!groupedCurrencies[firstLetter]) {
-									groupedCurrencies[firstLetter] = [];
+							currencyArray.forEach(function(currency) {
+								var groupKey = (currency.name || currency.code || '').charAt(0).toUpperCase();
+								if (!groupKey) {
+									groupKey = '#';
 								}
-								groupedCurrencies[firstLetter].push(currency);
+								if (!groupedCurrencies[groupKey]) {
+									groupedCurrencies[groupKey] = [];
+								}
+								groupedCurrencies[groupKey].push(currency);
 							});
 
-							// Create groups for each letter A-Z
-							for (var letter = 'A'; letter <= 'Z'; letter = String.fromCharCode(letter.charCodeAt(0) + 1)) {
+							// Create groups in sorted order (all endpoint currencies)
+							Object.keys(groupedCurrencies).sort(function(a, b) {
+								return a.localeCompare(b, undefined, { sensitivity: 'base' });
+							}).forEach(function(letter) {
 								if (groupedCurrencies[letter] && groupedCurrencies[letter].length > 0) {
 									var $group = $('<div></div>').addClass('vortem-currency-group').attr('data-letter', letter);
 									var $groupHeader = $('<div></div>').addClass('vortem-currency-group-header').text(letter);
@@ -5957,7 +5956,7 @@ class Vortem_Admin {
 
 									$dropdownList.append($group);
 								}
-							}
+							});
 
 							// Add search functionality
 							var $searchInput = $dropdownList.find('.vortem-currency-search-input');
@@ -6019,10 +6018,10 @@ class Vortem_Admin {
 								e.stopPropagation();
 							});
 
-							// Set initial display
+							// Set initial display from API / saved currency
 							if (currentCurrency) {
-								// Find the current currency and update display
-								var currentCurrencyData = filteredCurrencies.find(function(currency) {
+								$('#vortem_currency').val(currentCurrency);
+								var currentCurrencyData = currencyArray.find(function(currency) {
 									return currency.code === currentCurrency;
 								});
 								if (currentCurrencyData) {
@@ -6031,8 +6030,7 @@ class Vortem_Admin {
 							}
 
 							// Ensure dropdown is hidden after loading (should only open on user click)
-							$dropdown.hide();
-							$display.removeClass('active');
+							closeCurrencyDropdown();
 
 							// Update button state
 							toggleUpdateButton();
@@ -6080,31 +6078,117 @@ class Vortem_Admin {
 				$text.text(name ? name + ' (' + code + ')' : code);
 			}
 
-			// Function to close currency dropdown
+			// Keep dropdown on body so it never stacks under sibling settings cards (Media, etc.)
+			function ensureCurrencyDropdownPortaled() {
+				var $dropdown = $('#vortem-currency-select-dropdown');
+				if (!$dropdown.length) {
+					return $dropdown;
+				}
+				if (!$dropdown.data('portaled')) {
+					$('body').append($dropdown);
+					$dropdown.data('portaled', true);
+				}
+				$dropdown.addClass('vortem-currency-dropdown--floating');
+				return $dropdown;
+			}
+
+			// Position currency dropdown above all settings cards (fixed layer on body)
+			function positionCurrencyDropdown() {
+				var $display = $('#vortem-currency-select-display');
+				var $dropdown = $('#vortem-currency-select-dropdown');
+				if (!$display.length || !$dropdown.is(':visible')) {
+					return;
+				}
+				var rect = $display[0].getBoundingClientRect();
+				var width = Math.max(rect.width, 320);
+				var gap = 4;
+				var viewportPadding = 12;
+				var preferredMax = 320;
+				var spaceBelow = window.innerHeight - rect.bottom - gap - viewportPadding;
+				var spaceAbove = rect.top - gap - viewportPadding;
+				var openBelow = spaceBelow >= 160 || spaceBelow >= spaceAbove;
+				var maxHeight = Math.max(
+					Math.min(preferredMax, openBelow ? spaceBelow : spaceAbove),
+					160
+				);
+				var top = openBelow
+					? rect.bottom + gap
+					: Math.max(viewportPadding, rect.top - gap - maxHeight);
+
+				$dropdown.css({
+					position: 'fixed',
+					top: Math.round(top) + 'px',
+					left: Math.round(rect.left) + 'px',
+					width: Math.round(width) + 'px',
+					maxHeight: Math.round(maxHeight) + 'px',
+					zIndex: 100050
+				});
+			}
+
+			function bindCurrencyDropdownPositionEvents() {
+				$(window).on('resize.vortemCurrencyDropdown scroll.vortemCurrencyDropdown', positionCurrencyDropdown);
+				$('#wpcontent, .settings-main, .settings-workspace-wrap').on('scroll.vortemCurrencyDropdown', positionCurrencyDropdown);
+			}
+
+			function unbindCurrencyDropdownPositionEvents() {
+				$(window).off('.vortemCurrencyDropdown');
+				$('#wpcontent, .settings-main, .settings-workspace-wrap').off('.vortemCurrencyDropdown');
+			}
+
+			function openCurrencyDropdown() {
+				var $dropdown = ensureCurrencyDropdownPortaled();
+				var $display = $('#vortem-currency-select-display');
+				var $container = $('#vortem-custom-currency-select');
+				var $displayCard = $('.vortem-settings-card[data-section="display"]');
+
+				$('body').addClass('vortem-currency-dropdown-open');
+				$dropdown.show().addClass('show');
+				$display.addClass('active');
+				$container.addClass('is-open');
+				$displayCard.addClass('currency-dropdown-open');
+				positionCurrencyDropdown();
+				window.requestAnimationFrame(positionCurrencyDropdown);
+				bindCurrencyDropdownPositionEvents();
+			}
+
+			// Function to close currency dropdown (stays on body; only hidden)
 			function closeCurrencyDropdown() {
 				var $dropdown = $('#vortem-currency-select-dropdown');
 				var $display = $('#vortem-currency-select-display');
-				$dropdown.hide();
+				var $container = $('#vortem-custom-currency-select');
+				var $displayCard = $('.vortem-settings-card[data-section="display"]');
+
+				$dropdown.hide().removeClass('show');
 				$display.removeClass('active');
+				$container.removeClass('is-open');
+				$displayCard.removeClass('currency-dropdown-open');
+				$('body').removeClass('vortem-currency-dropdown-open');
+				unbindCurrencyDropdownPositionEvents();
 			}
 
+			ensureCurrencyDropdownPortaled();
+
 			// Handle custom dropdown toggle
-			$('#vortem-currency-select-display').on('click', function() {
+			$('#vortem-currency-select-display').on('click', function(e) {
+				e.preventDefault();
+				e.stopPropagation();
 				var $dropdown = $('#vortem-currency-select-dropdown');
-				var $display = $(this);
 
 				if ($dropdown.is(':visible')) {
 					closeCurrencyDropdown();
 				} else {
-					$dropdown.show();
-					$display.addClass('active');
+					openCurrencyDropdown();
 				}
+			});
+
+			// Prevent clicks inside dropdown from bubbling (avoids accidental close / repaint issues)
+			$('#vortem-currency-select-dropdown').on('click', function(e) {
+				e.stopPropagation();
 			});
 
 			// Close dropdown when clicking outside
 			$(document).on('click', function(e) {
-				var $customSelect = $('#vortem-custom-currency-select');
-				if (!$customSelect.is(e.target) && $customSelect.has(e.target).length === 0) {
+				if (!$(e.target).closest('#vortem-currency-select-display, #vortem-currency-select-dropdown').length) {
 					closeCurrencyDropdown();
 				}
 			});

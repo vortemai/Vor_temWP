@@ -817,23 +817,6 @@ class Vortem_Translation_Manager {
 	}
 
 	/**
-	 * Get SVG flag file path from country code
-	 *
-	 * @param string $country_code Two-letter country code (ISO 3166-1 alpha-2)
-	 * @return string SVG flag file path
-	 */
-	public static function get_flag_svg_path( $country_code ) {
-		if ( strlen( $country_code ) !== 2 ) {
-			return '';
-		}
-
-		$country_code = strtolower( $country_code );
-		$svg_file     = VORTEM_PLUGIN_URL . 'assets/flags/' . $country_code . '.svg';
-
-		return $svg_file;
-	}
-
-	/**
 	 * Check if current language is RTL
 	 *
 	 * Checks the plugin's current language setting to determine if RTL should be applied.

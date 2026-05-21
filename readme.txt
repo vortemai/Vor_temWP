@@ -800,11 +800,10 @@ patches, and new features.
 == Upgrade Notice ==
 
 = 1.0.14 = Security + features. Adds SSRF defense on every remote media
-download (HTTPS-only, no loopback / link-local / RFC1918 hosts), an
-in-house product SEO panel (SEO + Readability tabs) on the WooCommerce
-product editor, Open Graph product tags, Twitter Product card, and
-schema.org Product JSON-LD on the frontend. Stays silent when another
-SEO plugin is active. No new external HTTP calls.
+download (HTTPS-only, no loopback / link-local / RFC1918 hosts), a
+WooCommerce product SEO panel (SEO + Readability tabs), Open Graph
+product tags, Twitter Product card, and Product schema.org JSON-LD.
+Stays silent when another SEO plugin is active.
 
 = 1.0.13 = Compliance and cleanup pass. Complete uninstall sweep, removed
 `load_plugin_textdomain` (WP 6.7+ auto-loads), added AI-processing disclosure
